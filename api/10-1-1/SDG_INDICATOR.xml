@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 10-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu 10.1.1. Tốc độ tăng trưởng về thu nhập của hộ bình quân đầu người&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

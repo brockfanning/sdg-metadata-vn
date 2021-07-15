@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The FREQ_COLL field for indicator 3-1-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chu kỳ hàng năm, ngày 01 tháng 4 (trừ năm tiến hành Tổng điều tra dân số và nhà ở và Điều tra dân số và nhà ở giữa kỳ).&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

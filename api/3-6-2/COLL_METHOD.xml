@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 3-6-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ suất sinh trong độ tuổi từ 10-19 tuổi”được tổng hợp từ nguồn dữ liệu của Tổng điều tra dân số và nhà ở (chu kỳ 10 năm), điều tra dân số và nhà ở giữa kỳ (chu kỳ 5 năm) và suy rộng từ kết quả điều tra mẫu biến động dân số - kế hoạch hóa gia đình hàng năm. Các cuộc Tổng điều tra và điều tra này đều thuộc Chương trình điều tra thống kê quốc gia&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;- Số liệu có sẵn hàng năm từ 2016-2019&lt;/p&gt;
+&lt;p&gt;- Số liệu có cho 3 phân tổ: Giới tính; nhóm tuổi; thành thị/nông thôn&lt;/p&gt;
+&lt;p&gt;(Nguồn công bố: Niên giám Thống kê của Tổng cục Thống kê)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

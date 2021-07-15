@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:34:26.242Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="fe8a1e01-1579-49cc-80d3-cb8d512bc7e3">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRST</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 15: Bảo vệ và phát triển rừng bền vững, bảo tồn đa dạng sinh học, phát triển dịch vụ hệ sinh thái, chống sa mạc hóa, ngăn chặn suy thoái và phục hồi tài nguyên đất</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 15.2: Đến năm 2020, giảm cơ bản việc chuyển đổi mục đích sử dụng đất rừng sang mục đích khác; đến năm 2030, tăng cường thực hiện quản lý bền vững các loại rừng, ngăn chặn chặt phá rừng, phục hồi rừng đã suy thoái, đẩy mạnh trồng và tái sinh rừng, đưa độ che phủ rừng lên khoảng 44-45% trên toàn quốc (mục tiêu 15.2 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 15.2.2. Tỷ lệ che phủ rừng</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p> Forest area as a proportion of total land area [15.1.1] AG_LND_FRST</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 2, Ngọc Hà, Ba Đình, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>trangtin@mard.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tỷ lệ che phủ rừng là tỷ lệ phần trăm giữa diện tích rừng so với tổng diện tích đất tự nhiên trên một phạm vi địa lý nhất định.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Điều tra kiểm kê rừng;</p>
+<p>- Chế độ báo cáo thống kê cấp quốc gia</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p> Giống chỉ tiêu 15.2.1</p>
+<p>- Đối tượng, đơn vị điều tra:</p>
+<p>+ Các loại rừng.</p>
+<p>+ Tổ chức, hộ gia đình, cá nhân có quản lý, bảo vệ và sử dụng rừng. </p>
+<p>- Loại điều tra: Điều tra toàn bộ</p>
+<p>- Nội dung điều tra:</p>
+<p>+ Tổng diện tích rừng;</p>
+<p>+ Cơ cấu diện tích rừng được phân theo các loại hình rừng và nguồn vốn đầu tư;</p>
+<p>+ Trữ lượng rừng.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p> năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu phản ánh mức độ che phủ của rừng tại một thời điểm báo cáo. Chỉ tiêu là căn cứ để Nhà nước xây dựng, kiểm tra kế hoạch phát triển lâm nghiệp; chỉ đạo các ngành, địa phương triển khai các biện pháp bảo vệ, phát triển diện tích rừng hiện có, trồng mới rừng tập trung, trồng cây phân tán.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu có sẵn hàng năm từ 2010 -2019 (trừ năm 2017)</p>
+<p>Số liệu có sẵn hàng năm cho các phân tổ vùng và tỉnh thành phố</p>
+<p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 15.1.1: Forest area as a proportion of total land area</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 ban hành Chế độ báo cáo thống kê cấp quốc gia</p>
+<p>- Chương trình điều tra thống kê quốc gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17 tháng 10 năm 2016 của Thủ tướng Chính phủ</p>
+<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kêphát triển bền vững của Việt Nam;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

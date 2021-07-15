@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 3-5-1, translated into vi</message>
+	<data>&lt;p&gt;Chỉ tiêu tương ứng với chi tiêu toàn cầu SDG“3.6.1.Death rate due to road traffic injuries” (Tỷ lệ tử vong do tai nạn giao thông đường bộ).&lt;/p&gt;
+&lt;p&gt;So sánh chỉ tiêu quốc tế và Việt Nam&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu quốc tế&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu Việt Nam&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Tên chỉ tiêu&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Tỷ lệ tử vong do tai nạn giao thông đường bộ&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Số vụ tai nạn giao thông; số người chết, bị thương do tai nạn giao thông&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Phương pháp tính&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Tính số ca tử do tai nạn giao thông đường bộ gây chết người trên 100.000 dân&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Tính số lượng:&lt;/p&gt;
+        &lt;p&gt;- vụ tai nạn giao thông&lt;/p&gt;
+        &lt;p&gt;- Người chết, bị thương do tai nạn giao thông&lt;/p&gt;
+        &lt;p&gt;- Người bị thương do tai nạn giao thông&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Phân tổ&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td colspan=&quot;3&quot;&gt;
+        &lt;p&gt;Phân tổ theo người sử dụng đường bộ, tuổi, giới tính, nhóm thu nhập và khu vực của WHO&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Loại tai nạn (đường bộ/đường sắt/đường thuỷ);&lt;/p&gt;
+        &lt;p&gt;- Tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</data>
+</root>

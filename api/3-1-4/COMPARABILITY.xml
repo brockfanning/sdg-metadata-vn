@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 3-1-4, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh chỉ tiêu toàn cầu “3.2.2 Neonatal mortality rate” (Tỷ lệ tử vong trẻ sơ sinh).&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

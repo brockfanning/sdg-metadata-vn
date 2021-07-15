@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:35:06.173Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="61e82ccd-e391-4220-bac3-f7190782ccfa">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>EG_FEC_RNEW</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 7: Đảm bảo khả năng tiếp cận nguồn năng lượng bền vững, đáng tin cậy và có khả năng chi trả cho tất cả mọi người</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 7.2: Đến năm 2030, tăng đáng kể tỷ lệ năng lượng tái tạo trong tổng tiêu thụ năng lượng sơ cấp của quốc gia, cụ thể đạt 31% vào năm 2020 và đạt 32,3% vào năm 2030 (mục tiêu 7.2 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 7.2.1. Tỷ trọng năng lượng tái tạo trong tổng năng lượng tiêu thụ cuối cùng</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Renewable energy share in the total final energy consumption [7.2.1] EG_FEC_RNEW</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chủ trì: Tổng cục Thống kê;</p>
+<p>- Phối hợp: Bộ Công Thương</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>banbientap@gso.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tiêu thụ năng lượng tái tạo bao gồm tiêu thụ năng lượng từ: Thủy điện, nhiên liệu sinh học rắn, gió, mặt trời, nhiên liệu sinh học lỏng, khí sinh học, địa nhiệt, sóng biển và chất thải. Tổng tiêu thụ năng lượng cuối cùng được tính từ bảng cân đối và số liệu thống kê quốc gia là tổng tiêu dùng cuối cùng trừ sử dụng phi năng lượng. </p>
+<p>Các nguồn năng lượng tái tạo cụ thể: </p>
+<p>- Năng lượng mặt trời;</p>
+<p>- Năng lượng thủy điện;</p>
+<p>- Năng lượng gió;</p>
+<p>- Năng lượng nhiên liệu sinh học lỏng bao gồm xăng sinh học, diesel sinh học và nhiên liệu sinh học lỏng khác;</p>
+<p>- Nhiên liệu sinh học rắn bao gồm gỗ củi, chất thải động vật, chất thải thực vật, rượu đen, bã mía và than củi, …;</p>
+<p>- Năng lượng thải bao gồm năng lượng từ rác thải đô thị tái tạo.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Điều tra thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng cục Thống kê phối hợp với Bộ Công Thương tổ chức cuộc điều tra chuyên sâu năng lượng tái tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p> năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu mang ý nghĩa đẩy mạnh các hoạt động sử dụng hiệu quả năng lượng và khuyến khích phát triển các nguồn năng lượng tái tạo nhằm góp phần bảo đảm an ninh năng lượng, giảm sự phụ thuộc vào năng lượng nhập khẩu, giảm nhẹ biến đổi khí hậu, tăng cường bảo vệ môi trường và hoàn thành các mục tiêu phát triển năng lượng - kinh tế - xã hội bền vững.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Hiện tại, năng lượng tái tạo chủ yếu xuất phát từ thủy điện, trong khi năng lượng tái tạo không phải thủy điện mới chỉ chiếm tỷ lệ hạn chế trong tổng tiêu thụ năng lượng cuối cùng. Trong khi đó, Việt Nam là nước có tiềm năng lớn về phát triển năng lượng tái tạo không phải thủy điện, đặc biệt là điện gió và điện mặt trời.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu chung có sẵn hàng năm từ 2014-2018.</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Tổng cục Thống kê).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu “Tỷ trọng năng lượng tái tạo trong tổng năng lượng tiêu thụ cuối cùng” tương ứng với chỉ tiêu SDG toàn cầu “7.2.1.Renewable energy share in the total final energy consumption”.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kêphát triển bền vững của Việt Nam;</p>
+<p>- Thông tư số 40/2016/TT-BC ngày 30/12/2016 ban hành hệ thống chỉ tiêu thống kê ngành Công Thương.</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

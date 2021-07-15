@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:34:55.480Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="77c6077f-d7b8-4cf7-a234-18e15e034c16">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_PRE_PARTN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 4: Đảm bảo nền giáo dục có chất lượng, công bằng, toàn diện và thúc đẩy các cơ hội học tập suốt đời cho tất cả mọi người</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 4.2: Đến năm 2030, đảm bảo tất cả các trẻ em gái và trai được tiếp cận với phát triển, chăm sóc giai đoạn trẻ thơ và giáo dục mầm non có chất lượng để sẵn sàng bước vào cấp tiểu học (Mục tiêu 4.2 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 4.2.2. Tỷ lệ huy động trẻ em 5 tuổi đi học mẫu giáo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Giáo dục và Đào tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 35 Đại Cồ Việt, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>bogddt@moet.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tỷ lệ huy động trẻ em 5 tuổi đi học mẫu giáo là tỷ lệ phần trăm trẻ em 5 tuổi đang học tại trường mẫu giáo, trường mầm non và lớp mẫu giáo độc lập so với tổng dân số ở độ tuổi 5 tuổi.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số trẻ em 5 tuổi đang học mẫu giáo, mầm non năm học t: Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo ban hành;</p>
+<p>- Tổng số trẻ em 5 tuổi: Điều tra thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số trẻ em 5 tuổi đang học mẫu giáo, mầm non năm học t: Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương thu thập thông tin của biểu mẫu: 01-MN-ĐN </p>
+<p>- Tổng số trẻ em 5 tuổi: Thu thập qua các cuộc điều tra dân số của Tổng cục Thống kê</p>
+<p>- Bộ Giáo dục và Đào tạo tổng hợp số trẻ em 5 tuổi đang học mẫu giáo, mầm non năm học t và số trẻ em 5 tuổi từ Tổng cục Thống kê để tính toán chỉ tiêu này.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Giáo dục và Đào tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Giáo dục và Đào tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này đo lường sự tiếp xúc của trẻ với các hoạt động học tập được tổ chức trong năm trước khi bắt đầu tiểu học. Một giá trị cao của chỉ tiêu cho thấy mức độ tham gia cao trong việc học tập có tổ chức ngay trước khi chính thức vào học tiểu học.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số liệu chỉ tiêu có hàng năm từ 2016-2018</p>
+<p>- Số liệu phân tổ theo giới tính chỉ có năm 2018</p>
+<p>- Chưa có số liệu theo phân tổ Tỉnh/thành phố trực thuộc Trung ương.</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Giáo dục và Đào tạo)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này“4.2.2. Tỷ lệ huy động trẻ em 5 tuổi đi học mẫu giáo” phản ánh chỉ tiêu phát triển bền vũng toàn cầu “4.2.2. Participation rate in organized learning (one year before the official primary entry age), by sex”. Nội dung chỉ tiêu quốc tế và Việt Nam khá tương đồng.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- Thông tư số 24/2018/TT-BGDĐT ngày 28/9/2018 của Bộ Giáo dục và Đào tạo về việc ban hành chế độ báo cáo thống kê ngành Giáo dục và Đào tạo.</p>
+<p>- Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững.</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

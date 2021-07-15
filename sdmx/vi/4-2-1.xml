@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:34:54.177Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="611d8862-5440-454e-9405-577baee22db5">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SE_DEV_ONTRK</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 4: Đảm bảo nền giáo dục có chất lượng, công bằng, toàn diện và thúc đẩy các cơ hội học tập suốt đời cho tất cả mọi người</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 4.2: Đến năm 2030, đảm bảo tất cả các trẻ em gái và trai được tiếp cận với phát triển, chăm sóc giai đoạn trẻ thơ và giáo dục mầm non có chất lượng để sẵn sàng bước vào cấp tiểu học (Mục tiêu 4.2 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 4.2.1. Tỷ lệ trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Giáo dục và Đào tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 35 Đại Cồ Việt, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>bogddt@moet.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội: Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo ban hành;</p>
+<p>- Tổng số trẻ em dưới 5 tuổi trong dân số: Điều tra thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội: Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương thu thập thông tin của biểu mẫu: 01-MN-ĐN </p>
+<p>- Tổng số trẻ em dưới 5 tuổi trong dân số: Thu thập qua các cuộc điều tra dân số của Tổng cục Thống kê</p>
+<p>- Bộ Giáo dục và Đào tạo tổng hợp số liệu về số trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội và số trẻ em dưới 5 tuổi trong dân số từ Tổng cục Thống kê để tính toán chỉ tiêu này.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Giáo dục và Đào tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Giáo dục và Đào tạo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Phát triển của trẻ em dưới 5 tuổi là bước khởi đầu cho sự phát triển trong cả cuộc đời. Đầu tư cho phát triển của trẻ em dưới 5 tuổi là việc đầu tư quan trọng và hiệu quả nhất mà một quốc gia có thể thực hiện để cải thiện sức khoẻ, giáo dục và năng suất cho người trưởng thành nhằm xây dựng nguồn nhân lực và thúc đẩy phát triển bền vững. Đầu tư cho phát triển của trẻ em dưới 5 tuổi là chỉ tiêu tốt và hợp lý cho sự phát triển của đất nước.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Một công cụ khác để đo sự phát triển trẻ thơ là Chỉ tiêu phát triển trẻ thơ (ECDI), được tính bằng phần trăm trẻ em 36-59 tháng tuổi phát triển đúng hướng ít nhất 3 trong 4 lĩnh vực, gồm: đọc viết-tính toán, thể chất, cảm xúc xã hội và học tập. Hiện tại trong hệ thống chỉ tiêu thống kê quốc gia và bộ ngành của Việt Nam chưa có chỉ tiêu theo dõi phát triển trẻ thơ. Số liệu thống kê hiện có về chỉ số phát triển trẻ thơ Việt Nam được lấy từ Điều tra đánh giá các mục tiêu về trẻ em và phụ nữ do Tổng cục Thống kê và UNICEF thu thập số liệu qua cuộc Điều tra các mục tiêu phát triển bền vững về Trẻ em và Phụ nữ năm 2020, dự kiến sẽ công bố chỉ tiêu này năm 2021.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ có số liệu năm 2019 phân tổ theo giới tính</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Giáo dục và Đào tạo)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu “Tỷ lệ trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội” là một trong những chỉ tiêu của Việt Nam tương ứng với chỉ tiêu “4.2.1. Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex”.</p>
+<p>Quốc tế khuyến khích thu thập chỉ tiêu này qua Điều tra đánh giá các mục tiêu trẻ em và phụ nữ (MICS) được hỗ trợ bởi UNICEF. Tuy nhiên tại Việt Nam quy định thu thập qua chế độ báo cáo thống kê của Bộ Giáo dục và Đào tạo và điều tra dân số của Tổng cục Thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- Thông tư số 24/2018/TT-BGDĐT ngày 28/9/2018 của Bộ Giáo dục và Đào tạo về việc ban hành chế độ báo cáo thống kê ngành Giáo dục và Đào tạo.</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

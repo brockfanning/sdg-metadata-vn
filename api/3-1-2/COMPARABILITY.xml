@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 3-1-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu quốc tế“3.1.2 Proportion of births attended by skilled health personnel”. So sánh metada của 2 chỉ tiêu nhận thấy có một số khác biệt cụ thể:&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu quốc tế&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu Việt Nam&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Phương pháp tính&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Số phụ nữ trong độ tuổi từ 15-49&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Số phụ nữ đẻ&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Phân tổ&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Khi dữ liệu được thu thập từ các cuộc điều tra hộ gia đình. Phân tổ theo nơi cư trú (thành thị/nông thôn), sự giàu có của hộ gia đình và tuổi của bà mẹ, các vùng địa lý&lt;/p&gt;
+        &lt;p&gt;- Khi dữ liệu được báo cáo từ các nguồn hành chính, phân tổ theo nơi cư trú&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Nhóm tuổi của bàmẹ;&lt;/p&gt;
+        &lt;p&gt;- Dân tộc (Kinh và các dân tộc khác);&lt;/p&gt;
+        &lt;p&gt;- Thành thị/nông thôn;&lt;/p&gt;
+        &lt;p&gt;- Tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Kỳ công bố&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;3 đến 5 năm&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Năm&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Nguồn số liệu&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td colspan=&quot;3&quot;&gt;
+        &lt;p&gt;Các cuộc điều tra hộ gia đình cấp quốc gia bao gồm Khảo sát Nhân khẩu học và Sức khoẻ (DHS), Điều tra đánh giá các mục tiêu về phụ nữ và trẻ em (MICS), Điều tra sức khoẻ sinh sản (RHS) và điều tra quốc gia dựa trên các phương pháp tương tự&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Chế độ báo cáo thống kê do Bộ Y tế ban hành.&lt;/p&gt;
+        &lt;p&gt;- Điều tra dân số&lt;/p&gt;
+        &lt;p&gt;- Điều tra cơ sở y tế&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+			</language>
+</languages>
+</data>
+</root>

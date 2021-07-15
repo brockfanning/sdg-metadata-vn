@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 2-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm theo loại suy dinh dưỡng từ năm 2012-2019&lt;/p&gt;
+&lt;p&gt;Số liệu có sẵn cho các phân tổ theo giới tính, thành thị/nông thôn từ năm 2012-2019&lt;/p&gt;
+&lt;p&gt;Phân tổ vùng và tỉnh/thành phố chỉ có số liệu từ năm 2018&lt;/p&gt;
+&lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

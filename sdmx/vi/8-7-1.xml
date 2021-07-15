@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:35:13.940Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="ea6b0d0f-5cff-41b6-906e-45a979eb727a">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SL_TLF_CHLDEA</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 8: Đảm bảo tăng trưởng kinh tế bền vững, toàn diện, liên tục; tạo việc làm đầy đủ, năng suất và việc làm tốt cho tất cả mọi người</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 8.7: Thực hiện kịp thời và hiệu quả các biện pháp để xóa bỏ lao động ép buộc, chấm dứt nạn buôn người và nô lệ hiện đại; ngăn chặn và xóa bỏ lao động trẻ em dưới mọi hình thức (Mục tiêu 8.7 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 8.7.1. Tỷ lệ người từ 5-17 tuổi tham gia lao động trẻ em</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chủ trì: Bộ Lao động, Thương binh và Xã hội;</p>
+<p>- Phối hợp: Tổng cục Thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tỷ lệ người từ 5-17 tuổi tham gia lao động trẻ em là phần trăm của số người từ 5-17 tuổi tham gia lao động trẻ em trong tổng số người từ 5-17 tuổi trong dân số. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+<p>Bảng Danh mục nghề nghiệp Việt Nam ban hành theo Quyết định số 34/2020/QĐ-TTg ngày 26 tháng 11 năm 2020 của Thủ tướng Chính phủ.</p>
+<p>Hệ thống ngành kinh tế Việt Nam năm 2018 ban hành theo Quyết định số 27/2018/QĐ-TTg ngày 06/7/2018 của Thủ tướng Chính phủ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Điều tra thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>Cuộc điều tra quốc gia về lao động trẻ em 2018 được tiến hành kết hợp với cuộc điều tra Lao động-Việc làm 2018, do Tổng cục Thống kê tiến hành trong tháng 11 và 12 năm 2018 với quy mô mẫu là 38280 hộ gia đình trên toàn quốc thuộc 2552 địa bàn điều tra. Công tác thống kê lao động, việc làm trong cuộc điều tra này đang áp dụng các tiêu chuẩn thống kê dân số hoạt động kinh tế, việc làm, thất nghiệp và thiếu việc làm được ILO khuyến nghị tại Hội nghị quốc tế về thống kê lao động lần thứ 13 năm 1982 (ICLS 13).</p>
+<p>Kết quả cuộc điều tra đã thu thập thông tin của 29192 trẻ em trong độ tuổi từ 5-17 tuổi. Toàn bộ thông tin thu thập được từ cuộc điều tra về lao động trẻ em được GSO nghiệm thu, làm sạch, đánh mã và nhập tin. Phiếu điều tra của mỗi tỉnh được phân công cán bộ nhập tin lần 1 và lần 2 bởi hai người khác nhau. Dữ liệu nhập tin được đối chiếu chéo giữa 2 lần nhập tin để bảo đảm dữ liệu cuối cùng bảo đảm thống nhất giữa 2 lần nhập tin. Sau khi có dữ liệu cuối cùng, dữ liệu được làm sạch lần cuối trên máy tính để bảo đảm tính đầy đủ, tính chính xác và tính logic giữa các trường dữ liệu.</p>
+<p>Toàn bộ dữ liệu của cuộc điều tra được GSO bàn giao cho Bộ Lao động, Thương binh và Xã hội để Viện Khoa học Lao động và Xã hội (ILSSA), Bộ Lao động, Thương binh và Xã hội xử lý kỹ thuật, phân tích và xây dựng báo cáo.</p>
+<p>Thông tin chi tiết về điều tra lao động trẻ em truy cập tại đường link: https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-hanoi/documents/publication/wcms_764355.pdf</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p> 5 năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Lao động, Thương binh và Xã hội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Lao động, Thương binh và Xã hội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này là chỉ tiêu quan trọng, cần thiết để theo dõi tình hình lao động trẻ em trong nền kinh tế. Là cơ sở để xác định các ưu tiên đối với hành động toàn cầu cấp quốc gia chống lại lao động trẻ em. Thông tin thống kê về lao động trẻ em và rộng rãi hơn đối với tất cả trẻ em đang làm việc, cũng là cơ sở cho việc nâng cao nhận thức của công chúng về tình hình trẻ em đang làm việc cũng như việc xây dựng các khung pháp lý và chính sách phù hợp.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này chỉ được thực hiện khi có sự hỗ trợ về kỹ thuật và tài chính từ tổ chức quốc tế (ILO).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ có số liệu của năm 2012 và năm 2018</p>
+<p>(Nguồn công bố: Kêt quả Điều tra quốc gia về lao động trẻ em)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu “8.7.1: Proportion and number of children aged 5 17 years engaged in child labour, by sex and age”. Nội dung của chỉ tiêu Việt Nam và toàn cầu giống nhau, phương pháp thu thập theo chuẩn toàn cầu (do Tổ chức Lao động quốc tế-ILO hỗ trợ). Do vậy số liệu của Việt Nam bảo đảm so sánh quốc tế.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Chương trình điều tra thống kê quốc gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17 tháng 10 năm 2016 của Thủ tướng Chính phủ</p>
+<p>- Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 ban hành Chế độ báo cáo thống kê cấp quốc gia</p>
+<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- Kết quả điều tra quốc gia về lao động trẻ em: https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---ilo-hanoi/documents/publication/wcms_764355.pdf</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

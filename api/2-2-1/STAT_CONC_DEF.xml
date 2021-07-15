@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 2-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng là số trẻ em dưới 5 tuổi bị suy dinh dưỡng ít nhất một trong 3 loại: Cân nặng theo tuổi; chiều cao theo tuổi hoặc cân nặng theo chiều cao tính trên 100 trẻ được cân đo của khu vực trong thời điểm điều tra.&lt;/p&gt;
+&lt;p&gt;Trẻ em suy dinh dưỡng cân nặng theo tuổi là trẻ em dưới 5 tuổi có cân nặng theo tuổi thấp dưới trừ hai độ lệch chuẩn (-2SD) của cân nặng trung vị của quần thể tham khảo của Tổ chức Y tế Thế giới.&lt;/p&gt;
+&lt;p&gt;Trẻ em suy dinh dưỡng chiều cao theo tuổi là trẻ em dưới 5 tuổi có chiều cao theo tuổi thấp dưới trừ hai độ lệch chuẩn (-2SD) của chiều cao trung vị của quần thể tham khảo của Tổ chức Y tế Thế giới.&lt;/p&gt;
+&lt;p&gt;Trẻ em suy dinh dưỡng cân nặng theo chiều cao là trẻ em dưới 5 tuổi có cân nặng theo chiều cao thấp dưới trừ hai độ lệch chuẩn (-2SD) của cân nặng trung vị của quần thể tham khảo của Tổ chức Y tế Thế giới.&lt;/p&gt;
+&lt;p&gt;Tình trạng dinh dưỡng được phân loại theo các mức sau: &lt;/p&gt;
+&lt;p&gt;- Bình thường: - 2SD&lt;/p&gt;
+&lt;p&gt;- Suy dinh dưỡng: &lt;/p&gt;
+&lt;p&gt;Độ I (vừa): &lt; - 2SD và - 3SD&lt;/p&gt;
+    &lt;p&gt;Độ II (nặng): &lt; - 3SD và - 4SD&lt;/p&gt;
+        &lt;p&gt;Độ III (rất nặng): &lt; - 4SD&lt;/p&gt;
+            &lt;p&gt;Trong đó, SD là độ chênh lệch chuẩn.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 1-1-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Để bảo đảm chất lượng thông tin thu thập, điều tra viên không được gửi phiếu để chủ hộ hoặc các thành viên của hộ tự ghi chép hoặc sao chép các thông tin từ các nguồn dữ liệu có sẵn khác vào phiếu phỏng vấn.&lt;/p&gt;
+&lt;p&gt;Các biện pháp giám sát chất lượng: Do tính chất phức tạp của cuộc khảo sát nên một số biện pháp kỹ thuật được sử dụng nhằm bảo đảm chất lượng số liệu khảo sát gồm:&lt;/p&gt;
+&lt;p&gt;+ Gọi điện thoại đến hộ để kiểm tra điều tra viên có đến hộ và phỏng vấn hộ trong bao lâu.&lt;/p&gt;
+&lt;p&gt;+ Phiếu phỏng vấn được thiết kế với phần lớn mã số đánh sẵn nhằm giảm thời gian đánh mã lại sau khi thu thập số liệu và giảm sai sót.&lt;/p&gt;
+&lt;p&gt;+ Công việc của 3 điều tra viên được 1 đội tưởng và giám sát viên kiểm tra chặt chẽ.&lt;/p&gt;
+&lt;p&gt;+ Phúc tra 10% số hộ khảo sát sau mỗi kỳ khảo sát.&lt;/p&gt;
+&lt;p&gt;+ Phiếu phỏng vấn được thiết kế tương đối chi tiết để tránh khai thác sót thông tin. Phiếu phỏng vấn được thiết kế để điều tra viên có chỗ ghi thông tin ngay vào phiếu, không phải mở sổ ghi chép trung gian. Phiếu phỏng vấn hộ, phần ghi thông tin in cách 3 dòng lại có dòng kẻ đúp để giúp điểu tra viên tránh ghi nhầm dòng&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

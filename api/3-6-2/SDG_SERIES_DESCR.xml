@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 3-6-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2] SP_DYN_ADKL&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

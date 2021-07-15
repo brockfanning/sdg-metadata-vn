@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:34:47.657Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="4b036c6c-966c-4af6-9de5-485e5cca89bf">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_SCIDE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi người ở mọi lứa tuổi</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 3.3: Đến năm 2030, giảm 20 - 25 % tỷ lệ tử vong trước 70 tuổi do các bệnh không lây nhiễm (NCDs) thông qua dự phòng và điều trị, nâng cao sức khỏe tinh thần và thể chất (Mục tiêu 3.4 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 3.3.2. Số người tử vong do tự tử trên một trăm nghìn dân</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p> Suicide mortality rate [3.4.2] SH_STA_SCIDE</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Y tế</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 138A Giảng Võ - Ba Đình - Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>banbientap@moh.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số người tử vong do tự tử trên một trăm nghìn dân là số người tử vong do tự tử tính bình quân trên một trăm nghìn dân trong năm xác định.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>trên 100.000 dân</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Theo Quy định trong Thông tư số 03:</p>
+<p>6.1. Nguồn dữ liệu</p>
+<p>- Tổng điều tra dân số và nhà ở;</p>
+<p>- Điều tra dân số và nhà ở giữa kỳ.</p>
+<p>6.2. Phương pháp thu thập:</p>
+<p>Chỉ tiêu được quy định thu thập từ Tổng điều tra dân số và nhà ở (chu kỳ 10 năm), điều tra dân số và nhà ở giữa kỳ (chu kỳ 5 năm). Tổng điều tra và điều tra giữa kỹ đều thuộc Chương trình điều tra thống kê quốc gia do vậy có phương án điều tra rõ ràng. Khi thực hiện điều tra phải tuân thủ đúng quy định của phương án điều tra.</p>
+<p>* Nguồn số liệu hiện tại:</p>
+<p>Báo cáo định kỳ của cơ sở y tế - Cục Quản lý môi trường y tế, Bộ Y tế</p>
+<p>Điều tra sổ sách hồ sơ hành chính - Cục Quản lý môi trường y tế, Bộ Y tế</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>5 năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Y tế</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Y tế</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Rối loạn tâm thần xảy ra ở tất cả các vùng và văn hoá của thế giới. Phổ biến nhất của những rối loạn này là trầm cảm và lo lắng, ước tính trong số 10 người có 1 người ảnh hưởng. Khi tệ nhất, trầm cảm có thể dẫn đến tự tử. Năm 2012, ước tính đã có hơn 800.000 ca tử vong do tự tử trên toàn thế giới. Tự tử là nguyên nhân gây tử vong thứ hai của những người trẻ từ 15-29 tuổi, sau tai nạn giao thông đường bộ. vì vậy đây là chỉ tiêu quan trọng nhằm đánh giá tình trạng rối loạn tâm thần trong xã hội hiện đại.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Hiện tại mới chỉ có số liệu thông qua báo cáo của Bộ Y tế và phản ánh số tử vong tại cơ sở y tế, do đó phản ánh chưa đầy đủ tình hình tử vong do tự tử trong thực tế.</p>
+<p>- Nên có những điều tra cộng đồng về nguyên nhân tử vong nói chung và tử vong do tai nạn thương tích nói riêng (trong đó có tự tử).</p>
+<p>- Cần tham khảo nhiều nguồn số liệu khác nhau: bệnh viện, công an, Ủy ban An toàn giao thông quốc gia...</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu hàng năm từ 2014-2017, số liệu chung và số liệu phân tổ theo giới tính </p>
+<p>Không có số liệu theo phân tổ nhóm tuổi và tỉnh/thành phố trực thuộc Trung ương</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Y tế)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p><strong>- </strong>Chỉ tiêu này tương ứng với chỉ tiêu toàn cầu SDG<strong> “3.4.2:</strong>Suicide mortality rate”. Quốc tế khuyến khích sử dụng hệ thống đăng ký sinh tử để có số liệu về số người tử vong do tự tử trong năm. Việt Nam thu thập số liệu chỉ tiêu này qua điều tra thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban hành Chương trình điều tra thống kê quốc gia;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

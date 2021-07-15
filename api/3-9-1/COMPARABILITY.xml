@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 3-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Metadata của chỉ tiêu này tương đồng với chỉ tiêu toàn cầu “&lt;strong&gt;3.a.1. &lt;/strong&gt;Age-standardized prevalence of current tobacco use among persons aged 15 years and older”&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

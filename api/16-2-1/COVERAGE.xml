@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 16-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ có Số liệu cho đối tượng 1-14 tuổi thông qua điều tra MICS 2014&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

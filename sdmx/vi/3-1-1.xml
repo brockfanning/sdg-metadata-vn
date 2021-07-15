@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:34:38.254Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="0b69de16-b318-46b8-bda0-25892e458f38">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_STA_MORT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi người ở mọi lứa tuổi</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 3.1: Đến năm 2030, giảm tỷ số tử vong mẹ xuống dưới 45/100000 trẻ đẻ sống; giảm tỷ suất tử vong trẻ dưới 1 tuổi xuống dưới 10 ca trên 1000 trẻ đẻ sống và tỷ suất tử vong trẻ dưới 5 tuổi xuống dưới 15 ca trên 1000 trẻ đẻ sống (Mục tiêu 3.1 và Mục tiêu 3.2 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 3.1.1. Tỷ số tử vong mẹ trên một trăm nghìn trẻ đẻ sống</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Maternal mortality ratio [3.1.1] SH_STA_MORT</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>banbientap@gso.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số phụ nữ chết do những nguyên nhân liên quan đến mang thai và sinh đẻ (không do những nguyên nhân tình cờ như tai nạn, tự tử,...) đã xảy ra trong thời gian từ khi mang thai cho đến 42 ngày sau đẻ tính bình quân trên một trăm nghìn trẻ em đẻ ra sống trong kỳ nghiên cứu.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>trên 100.000 trẻ đẻ sống</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng điều tra dân số và nhà ở.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu “Tỷ số tử vong mẹ trên một trăm nghìn trẻ đẻ sống” được tổng hợp từ nguồn dữ liệu của Tổng điều tra dân số và nhà ở (chu kỳ 10 năm)</p>
+<p>- Loại điều tra: Điều tra toàn bộ kết hợp điều tra chọn mẫu</p>
+<p>- Nội dung điều tra: </p>
+<p>* Điều tra toàn bộ: Điều tra toàn bộ được thực hiện đối với đối tượng thuộc các đơn vị điều tra nhằm thu thập những thông tin cơ bản về dân số và nhà ở.</p>
+<p>* Điều tra chọn mẫu:</p>
+<p>+ Điều tra chọn mẫu được thực hiện đối với một bộ phận dân số Việt Nam nhằm mục đích mở rộng nội dung điều tra, đáp ứng yêu cầu thông tin phân tích chuyên sâu; giúp nâng cao chất lượng điều tra nhất là đối với những câu hỏi nhạy cảm và phức tạp; giúp tiết kiệm kinh phí Tổng điều tra.</p>
+<p>+ Điều tra chọn mẫu áp dụng phương pháp chọn mẫu phân tầng hai giai đoạn. Giai đoạn 1: Xác định số địa bàn được điều tra mẫu ở mỗi huyện theo phương pháp phân bổ tỷ lệ thuận với căn bậc hai của quy mô và chọn các địa bàn mẫu của từng huyện theo phương pháp xác suất tỷ lệ với quy mô; Giai đoạn 2: Chọn mẫu hộ từ danh sách hộ của địa bàn điều tra mẫu. Các hộ mẫu được chọn hệ thống theo khoảng cách. Số lượng địa bàn mẫu được chọn chiếm khoảng 40% tổng số địa bàn điều tra trên cả nước. Số hộ mẫu dược điều tra chiếm khoảng 10% tổng số hộ trên phạm vi cả nước.</p>
+<p>- Phương pháp thu thập thông tin: Tổng điều tra sử dụng hai phương pháp thu thập thông tin: phỏng vấn trực tiếp và hộ tự cung cấp thông tin trên Trang thông tin điện tử của Tổng điều tra.</p>
+<p>+ Phương pháp phỏng vấn trực tiếp: Điều tra viên đến từng hộ để hỏi người cung cấp thông tin và ghi đầy đủ các câu trả lời vào phiếu điều tra điện tử được thiết kế trên máy tính bảng hoặc điện thoại thông minh (viết gọn là phiếu điện tử); trường hợp bất khả kháng đối với số ít địa bàn điều tra không thể ứng dụng công nghệ thông tin trong thu thập số liệu thì điều tra viên sử dụng phiếu giấy để ghi chép thông tin. Đối với những người tạm vắng trong suốt thời gian điều tra, điều tra viên có thể hỏi những người khác trong hộ, hoặc dựa vào những tài liệu do người thân hoặc chính quyền cung cấp để ghi phiếu điều tra. </p>
+<p>Khi thu thập các thông tin về nhà ở, điều tra viên hỏi người cung cấp thông tin kết hợp với quan sát trực tiếp ngôi nhà hoặc căn hộ để ghi câu trả lời vào phiếu điều tra.</p>
+<p>+ Hộ tự cung cấp thông tin trên Trang thông tin điện tử của Tổng điều tra: Hộ được cấp tài khoản và mật khẩu để đăng nhập và tự cung cấp thông tin vào phiếu điều tra trên Trang thông tin điện tử của Tổng điều tra (viết gọn và phiếu trực tuyến). Phuonwg pháp tự cung cấp thông tin được áp dụng đối với phiếu ngắn.</p>
+<p>Thông tin chi tiết về phương án điều tra theo đường link sau: https://www.gso.gov.vn/wp-content/uploads/2021/03/2.Phuong-an-TDT-2019.pdf</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chu kỳ 10 năm, ngày 01 tháng 4 (tiến hành vào các năm có số tận cùng là 9).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>10 năm</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Tỷ số tử vong mẹ còn gọi là “Tỷ suất chết mẹ” là một trong những chỉ tiêu phản ánh mức độ tử vong khi mang thai và sinh đẻ. Chỉ tiêu này tiếp tục được thực hiện từ Mục tiêu Phát triển Thiên niên kỷ số 5 - Cải thiện sức khỏe bà mẹ. Nó đánh giá tính hiệu quả của hệ thống y tế trong việc cung cấp dịch vụ chăm sóc sức khỏe bà mẹ thông qua việc dự phòng và giải quyết các biến chứng xảy ra trong khi mang thai và sinh đẻ cho bà mẹ. Đây cũng là chỉ tiêu sử dụng để theo dõi, đánh giá các chương trình chăm sóc sức khỏe bà mẹ trước, trong và sau sinh ở các cấp và còn là chỉ tiêu đánh giá mức độ phát triển kinh tế- xã hội của một khu vực, quốc gia. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ có số liệu của chỉ tiêu năm 2019 thông qua Tổng điều tra dân số và nhà ở.</p>
+<p>Không có số liệu cho các phân tổ của chỉ tiêu này</p>
+<p>(Nguồn công bố: Kết quả Tổng điều tra dân số và nhà ở 2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này phản ánh chỉ tiêu “3.1.1 Maternal mortality ratio” (Tỷ suất tử vong mẹ) của bộ chỉ tiêu phát triển bền vững toàn cầu. Nội dung chỉ tiêu này giống metadata quốc tế do vậy bảo đảm tính so sánh với dữ liệu/tiêu chuẩn quốc tế.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban hành Chương trình điều tra thống kê quốc gia;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

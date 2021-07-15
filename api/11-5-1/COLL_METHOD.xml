@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 11-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Sở Nông nghiệp và Phát triển nông thôn các tỉnh/thành phố trực thuộc Trung ương báo cáo số liệu theo mẫu biểu số 005.H/BCB-NNPTNT và gửi về Bộ Nông nghiệp và Phát triển nông thôn. Bộ Nông nghiệp và Phát triển nông thôn tổng hợp và tính toán số liệu về “Số người chết, mất tích, bị thương do thiên tai trên một trăm nghìn dân” và gửi về Tổng cục Thống kê&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

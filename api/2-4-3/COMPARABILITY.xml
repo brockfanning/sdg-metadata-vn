@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 2-4-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu này được sử dụng để thay thế chỉ tiêu SDG toàn cầu “2.c.1. Indicator of food price anomalies&quot;.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;1.2.2 Proportion of households living in multidimensional poverty [1.2.2] (SD_MDP_MUHHC)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

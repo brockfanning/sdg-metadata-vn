@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:34:23.536Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="f332873d-f851-4a7e-88f0-a028ef9d3702">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_MMHN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 11: Phát triển đô thị, nông thôn bền vững, có khả năng chống chịu; đảm bảo môi trường sống và làm việc an toàn; phân bổ hợp lý dân cư và lao động theo vùng </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 11.5: Đến năm 2030, giảm đáng kể số người chết và bị ảnh hưởng và giảm đáng kể thiệt hại kinh tế trực tiếp do thiên tai, thảm họa gây ra so với GDP, chú trọng bảo vệ người nghèo và người dễ bị tổn thương (Mục tiêu 11.5 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 11.5.1. Số người chết, mất tích, bị thương do thiên tai trên một trăm nghìn dân</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1] VC_DSR_MMHN</p>
+<p>Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1] VC_DSR_IJILN</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 2, Ngọc Hà, Ba Đình, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>trangtin@mard.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Thiên tai là hiện tượng tự nhiên bất thường có thể gây thiệt hại về người, tài sản, môi trường, điều kiện sống và các hoạt động kinh tế - xã hội, bao gồm: Bão, áp thấp nhiệt đới, lốc, sét, mưa lớn, lũ, lũ quét, ngập lụt, sạt lở đất do mưa lũ hoặc dòng chảy, sụt lún đất do mưa lũ hoặc dòng chảy, nước dâng, xâm nhập mặn, nắng nóng, hạn hán, rét hại, mưa đá, sương muối, động đất, sóng thần và các loại thiên tai khác.</p>
+<p>Số người chết, mất tích, bị thương do thiên tai trên 100.000 dân là số người chết, mất tích, bị thương do thiên tai tính trên 100.000 dân trong năm xác định.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>trên 100.000 dân</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chế độ báo cáo thống kê ngành nông nghiệp và phát triển nông thôn.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>Sở Nông nghiệp và Phát triển nông thôn các tỉnh/thành phố trực thuộc Trung ương báo cáo số liệu theo mẫu biểu số 005.H/BCB-NNPTNT và gửi về Bộ Nông nghiệp và Phát triển nông thôn. Bộ Nông nghiệp và Phát triển nông thôn tổng hợp và tính toán số liệu về “Số người chết, mất tích, bị thương do thiên tai trên một trăm nghìn dân” và gửi về Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Năm.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu phản ảnh tác động của những thảm họa do thiên nhiên gây ra đối với đời sống con người, là căn cứ để cơ quan quản lý có biện pháp phòng ngừa và hạn chế thiệt hại do thiên nhiên gây ra.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu có sẵn hàng năm từ 2011-2019 cho số tuyệt đối: Số người chết, mất tích / và bị thương do thiên tai</p>
+<p>Chưa công bố số liệu tính trên 100.000 dân như tên chỉ tiêu.</p>
+<p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu cấp độ toàn cầu tương ứng “<strong>1.5.1:</strong> Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population”. </p>
+<p>Số liệu của Việt Nam về số người chết, mất tích, bị thương do thiên tai bảo đảm so sánh quốc tế.</p>
+<p>Việt Nam chưa thực hiện và tính toán được số liệu về số người bị ảnh hưởng do thiên tai vì nội hàm khái niệm bị ảnh hưởng rất rộng:</p>
+<p>Theo metadata toàn cầu: Bị ảnh hưởng trực tiếp: Số người bị thương tật, ốm đau hoặc các ảnh hưởng sức khỏe khác; những người đã được sơ tán, di dời, tái định cư hoặc bị thiệt hại trực tiếp về sinh kế, tài sản kinh tế, vật chất, xã hội, văn hóa và môi trường của họ. Bị ảnh hưởng gián tiếp là những người phải gánh chịu hậu quả, ngoài hoặc ngoài các ảnh hưởng trực tiếp, theo thời gian, do sự gián đoạn hoặc thay đổi trong nền kinh tế, cơ sở hạ tầng quan trọng, dịch vụ cơ bản, thương mại hoặc công việc, hoặc các hậu quả xã hội, sức khỏe và tâm lý.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 ban hành Chế độ báo cáo thống kê cấp quốc gia</p>
+<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+  <mes:MetadataSet structureRef="MDS1" setID="b9d78e8b-7251-49ce-8a2c-737da8cce848">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_DSR_IJILN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 11: Phát triển đô thị, nông thôn bền vững, có khả năng chống chịu; đảm bảo môi trường sống và làm việc an toàn; phân bổ hợp lý dân cư và lao động theo vùng </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 11.5: Đến năm 2030, giảm đáng kể số người chết và bị ảnh hưởng và giảm đáng kể thiệt hại kinh tế trực tiếp do thiên tai, thảm họa gây ra so với GDP, chú trọng bảo vệ người nghèo và người dễ bị tổn thương (Mục tiêu 11.5 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 11.5.1. Số người chết, mất tích, bị thương do thiên tai trên một trăm nghìn dân</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1] VC_DSR_MMHN</p>
+<p>Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1] VC_DSR_IJILN</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 2, Ngọc Hà, Ba Đình, Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>trangtin@mard.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Thiên tai là hiện tượng tự nhiên bất thường có thể gây thiệt hại về người, tài sản, môi trường, điều kiện sống và các hoạt động kinh tế - xã hội, bao gồm: Bão, áp thấp nhiệt đới, lốc, sét, mưa lớn, lũ, lũ quét, ngập lụt, sạt lở đất do mưa lũ hoặc dòng chảy, sụt lún đất do mưa lũ hoặc dòng chảy, nước dâng, xâm nhập mặn, nắng nóng, hạn hán, rét hại, mưa đá, sương muối, động đất, sóng thần và các loại thiên tai khác.</p>
+<p>Số người chết, mất tích, bị thương do thiên tai trên 100.000 dân là số người chết, mất tích, bị thương do thiên tai tính trên 100.000 dân trong năm xác định.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>trên 100.000 dân</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chế độ báo cáo thống kê ngành nông nghiệp và phát triển nông thôn.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>Sở Nông nghiệp và Phát triển nông thôn các tỉnh/thành phố trực thuộc Trung ương báo cáo số liệu theo mẫu biểu số 005.H/BCB-NNPTNT và gửi về Bộ Nông nghiệp và Phát triển nông thôn. Bộ Nông nghiệp và Phát triển nông thôn tổng hợp và tính toán số liệu về “Số người chết, mất tích, bị thương do thiên tai trên một trăm nghìn dân” và gửi về Tổng cục Thống kê</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Năm.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Nông nghiệp và Phát triển nông thôn;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu phản ảnh tác động của những thảm họa do thiên nhiên gây ra đối với đời sống con người, là căn cứ để cơ quan quản lý có biện pháp phòng ngừa và hạn chế thiệt hại do thiên nhiên gây ra.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu có sẵn hàng năm từ 2011-2019 cho số tuyệt đối: Số người chết, mất tích / và bị thương do thiên tai</p>
+<p>Chưa công bố số liệu tính trên 100.000 dân như tên chỉ tiêu.</p>
+<p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu cấp độ toàn cầu tương ứng “<strong>1.5.1:</strong> Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population”. </p>
+<p>Số liệu của Việt Nam về số người chết, mất tích, bị thương do thiên tai bảo đảm so sánh quốc tế.</p>
+<p>Việt Nam chưa thực hiện và tính toán được số liệu về số người bị ảnh hưởng do thiên tai vì nội hàm khái niệm bị ảnh hưởng rất rộng:</p>
+<p>Theo metadata toàn cầu: Bị ảnh hưởng trực tiếp: Số người bị thương tật, ốm đau hoặc các ảnh hưởng sức khỏe khác; những người đã được sơ tán, di dời, tái định cư hoặc bị thiệt hại trực tiếp về sinh kế, tài sản kinh tế, vật chất, xã hội, văn hóa và môi trường của họ. Bị ảnh hưởng gián tiếp là những người phải gánh chịu hậu quả, ngoài hoặc ngoài các ảnh hưởng trực tiếp, theo thời gian, do sự gián đoạn hoặc thay đổi trong nền kinh tế, cơ sở hạ tầng quan trọng, dịch vụ cơ bản, thương mại hoặc công việc, hoặc các hậu quả xã hội, sức khỏe và tâm lý.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 ban hành Chế độ báo cáo thống kê cấp quốc gia</p>
+<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

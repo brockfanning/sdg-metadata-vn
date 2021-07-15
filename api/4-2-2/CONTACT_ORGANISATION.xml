@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_ORGANISATION field for indicator 4-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Bộ Giáo dục và Đào tạo&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

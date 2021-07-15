@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 3-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.1.1. Tỷ số tử vong mẹ trên một trăm nghìn trẻ đẻ sống&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

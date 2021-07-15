@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 3-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tổng điều tra dân số và nhà ở.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

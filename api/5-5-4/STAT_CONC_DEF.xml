@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 5-5-4, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ nữ đại biểu Hội đồng nhân dân cấp tỉnh/thành phố, huyện/quận/thị xã/thành phố, xã/phường/thị trấn là tỷ lệ phần trăm nữ đại biểu Hội đồng nhân dân so với tổng số đại biểu Hội đồng nhân dân cùng khoá.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

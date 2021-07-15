@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 5-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Số liệu của chỉ tiêu được tính toán từ biểu số 001.K/BCB-VPQH thuộc Chế độ báo cáo thống kê cấp quốc gia.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

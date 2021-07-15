@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 5-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tổng điều tra dân số và nhà ở (chu kỳ 10 năm), điều tra dân số và nhà ở giữa kỳ (chu kỳ 5 năm) là 2 cuộc điều tra lớn của ngành Thống kê thuộc Chương trình điều tra thống kê quốc gia. Do vậy, Tổng cục Thống kê cài đặt câu hỏi để thu thập thông tin về “Tỷ lệ phụ nữ từ 20-24 tuổi đã kết hôn hoặc sống chung như vợ chồng lần đầu trước 15 tuổi, trước 18 tuổi”&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

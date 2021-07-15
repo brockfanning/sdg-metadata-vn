@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 2-4-3, translated into vi</message>
+	<data>&lt;p&gt;Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm là chỉ tiêu tương đối (tính bằng %) phản ánh xu hướng và mức độ biến động giá cả chung theo thời gian của các mặt hàng lương thực, thực phẩm tiêu dùng hàng ngày của người dân.&lt;/p&gt;
+&lt;p&gt;Danh mục hàng hoá đại diện gồm các mặt hàng lương thực, thực phẩm chủ yếu, đại diện cho tiêu dùng của dân cư trong một giai đoạn nhất định, được sử dụng để điều tra thu thập giá định kỳ, phục vụ tính chỉ số giá tiêu dùng.&lt;/p&gt;
+&lt;p&gt;Quyền số tính chỉ số giá tiêu dùng là tỷ trọng chi tiêu cho các nhóm hàng lương thực, thực phẩm trong tổng chi tiêu của dân cư của năm được chọn làm gốc so sánh. Quyền số này được sử dụng cố định trong 5 năm. &lt;/p&gt;
+&lt;p&gt;Sau mỗi chu kỳ 5 năm, danh mục mặt hàng đại diện, quyền số lại được cập nhật cho phù hợp với thị trường tiêu dùng và cơ cấu chi tiêu cho đời sống hàng ngày của người dân trong thời kỳ hiện tại.&lt;/p&gt;
+&lt;p&gt;Phương pháp tính chỉ số giá tiêu dùng nhóm lương thực, thực phẩm&lt;/p&gt;
+&lt;p&gt;Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm được tính từ kết quả điều tra giá tiêu dùng của từng tỉnh/thành phố trực thuộc Trung ương. Chỉ số giá tiêu dùng được tính bằng phương pháp bình quân nhân gia quyền giữa mức biến động giá của các nhóm mặt hàng với quyền số tương ứng. &lt;/p&gt;
+&lt;p&gt;Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm của các tỉnh/thành phố trực thuộc Trung ương được tính bằng phương pháp bình quân nhân gia quyền giữa chỉ số giá tiêu dùng của mỗi nhóm lương thực, thực phẩm được chọn điều tra với quyền số tương ứng.&lt;/p&gt;
+&lt;p&gt;Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm của 6 vùng kinh tế được tính bằng phương pháp bình quân nhân gia quyền giữa chỉ số giá nhóm lương thực, thực phẩm của mỗi tỉnh/thành phố trực thuộc Trung ương trong vùng với quyền số tương ứng.&lt;/p&gt;
+&lt;p&gt;Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm của cả nước được tính bằng phương pháp bình quân nhân gia quyền giữa chỉ số giá nhóm lương thực, thực phẩm của các vùng kinh tế với quyền số tương ứng.&lt;/p&gt;</data>
+</root>

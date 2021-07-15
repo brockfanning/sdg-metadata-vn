@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 1-1-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ trẻ em nghèo đa chiều là phần trăm trẻ em từ 0-15 tuổi không được bảo đảm ít nhất 2 trong 6 lĩnh vực: Giáo dục, y tế, nhà ở, nước sạch, điều kiện vệ sinh, không lao động sớm và bảo trợ xã hội trong tổng số trẻ em từ 0-15 tuổi.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

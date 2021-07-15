@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 3-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Bộ Y tế ban hành biểu mẫu báo cáo thống kê gửi các cơ sở y tế, Sở Y tế các tỉnh/thành phố trực thuộc Trung ương thu thập. Định kỳ, các cơ sở y tế, Sở Y tế gửi lại số liệu cho Bộ Y tế tổng hợp. Một đơn vị thuộc Bộ Y tếđược giao nhiệm tổng hợp số liệu từ cấp Sở gửi lên.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

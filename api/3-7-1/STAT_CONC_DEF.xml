@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 3-7-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ hộ có chi phí y tế lớn so với tổng chi tiêu hoặc tổng thu nhập là tỷ lệ hộ có chi tiêu về y tế chiếm tỷ lệ lớn trong tổng số chi tiêu hoặc thu nhập của hộ.&lt;/p&gt;
+&lt;p&gt;Có 2 ngưỡng được sử dụng để xác định chi tiêu về y tế của hộ là lớn, gồm: Lớn hơn 10% và lớn hơn 25% tổng số chi tiêu hoặc thu nhập của hộ.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

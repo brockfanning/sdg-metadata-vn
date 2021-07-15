@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_GOAL field for indicator 1-1-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Mục tiêu chung 1: Chấm dứt mọi hình thức nghèo ở mọi nơi&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

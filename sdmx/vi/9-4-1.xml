@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-15T20:35:21.743Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="82ad8c01-05eb-49d7-b0a0-d04d1b2679dc">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>GB_XPD_RSDV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 9: Xây dựng cơ sở hạ tầng có khả năng chống chịu cao, thúc đẩy công nghiệp hóa bao trùm và bền vững, tăng cường đổi mới</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 9.4: Tăng cường nghiên cứu khoa học, nâng cao năng lực công nghệ của các ngành công nghiệp; khuyến khích sáng chế phát minh; đến năm 2030 tăng đáng kể tỷ lệ người làm việc trong lĩnh vực nghiên cứu và triển khai; tăng đầu tư cho nghiên cứu và triển khai (mục tiêu 9.5 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 9.4.1. Tỷ lệ chi cho khoa học và công nghệ so với tổng sản phẩm trong nước</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Research and development expenditure as a proportion of GDP [9.5.1] GB_XPD_RSDV</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Khoa học và Công nghệ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chi cho khoa học và công nghệ là tổng chi tiêu nội bộ trên lãnh thổ Việt Nam trong một thời kỳ nhất định, bao gồm cả các chi tiêu cho khoa học và công nghệ (hoạt động nghiên cứu khoa học, nghiên cứu và triển khai thực nghiệm, phát triển công nghệ, ứng dụng công nghệ, dịch vụ khoa học và công nghệ, phát huy sáng kiến và hoạt động sáng tạo khác nhằm phát triển khoa học và công nghệ) trên lãnh thổ Việt Nam từ tất cả các nguồn nhưng loại trừ chi phí cho khoa học và công nghệ do tổ chức, cá nhân người Việt Nam đầu tư ở ngoài lãnh thổ Việt Nam (gọi là tổng chi quốc nội cho khoa học và công nghệ).</p>
+<p>Tổng chi quốc nội cho khoa học và công nghệ được đo lường bằng cách cộng tổng các chi tiêu nội bộ của các đối tượng thực hiện chi cho hoạt động khoa học và công nghệ (chi tiêu nội bộ của: Tổ chức nghiên cứu khoa học và phát triển công nghệ; cơ sở giáo dục đại học; tổ chức dịch vụ khoa học và công nghệ; cơ quan hành chính và đơn vị sự nghiệp khác; doanh nghiệp và khu vực phi lợi nhuận). </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Không áp dụng</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Chi cho khoa học và công nghệ: Chế độ báo cáo thống kê do Bộ Khoa học và Công nghệ ban hành; điều tra nghiên cứu khoa học và phát triển công nghệ; điều tra tiềm lực khoa học và công nghệ của các tổ chức khoa học và công nghệ;</p>
+<p>- Tổng sản phẩm trong nước: Như nguồn số liệu của chỉ tiêu 8.1.1.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Chi cho khoa học và công nghệ: Bộ Khoa học và Công nghệ tổng hợp số liệu từ Biểu 03/KHCN-CP, chế độ báo cáo thống kê ngành Khoa học và Công nghệ và gửi Tổng cục Thống kê</p>
+<p>- Tổng cục Thống kê tính tổng sản phẩm trong nước và kết hợp số liệu “Chi cho khoa học và công nghệ” để tính chỉ tiêu “Tỷ lệ chi cho khoa học và công nghệ so với tổng sản phẩm trong nước”.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Năm.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Khoa học và Công nghệ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Khoa học và Công nghệ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu thống kê giúp các cơ quan quản lý nhà nước nắm được số tiền mà nhà nước chi cho lĩnh vực khoa học, công nghệ từ đó có chính sách điều chỉnh nhằm đáp ứng yêu cầu phát triển của đất nước.</p>
+<p>Là chỉ tiêu phản ánh trong lĩnh vực khoa học, công nghệ từng loại hình kinh tế đã tham gia đóng góp là bao nhêu. Trên cơ sở đó nhà nước kịp thời đề ra các chính sách khuyến khích các thành phần kinh tế tham gia phát triển khoa học và công nghệ.</p>
+<p>Là chỉ tiêu quan trọng để tính một số chỉ tiêu kinh tế tổng hợp trong tài khoản quốc gia theo ngành, thành phần kinh tế.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu có 2 năm/lần các năm 2013; 2015 và 2017 phân tổ theo nguồn cấp kinh phí</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Khoa học Công nghệ và Tổng cục Thống kê)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này tương ứng chỉ tiêu phát triển bền vững toàn cầu 9.5.1: Research and development expenditure as a proportion of GDP</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kêphát triển bền vững của Việt Nam;</p>
+<p>- Thông tư số 15/2018/TT-BKHCN ngày 15/11/2018 của Bộ Khoa học và Công nghệ quy định chế độ báo cáo thống kê ngành Khoa học và Công nghệ;</p>
+<p>- Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>
