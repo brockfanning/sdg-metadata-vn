@@ -1,0 +1,70 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi
+  người ở mọi lứa tuổi</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 3.6: Đến năm 2030, đảm bảo tiếp cận toàn dân tới các dịch vụ chăm
+  sóc sức khỏe sinh sản và tình dục, bao gồm kế hoạch hóa gia đình, truyền thông
+  và giáo dục; lồng ghép sức khỏe sinh sản vào các chiến lược, chương trình quốc
+  gia có liên quan (Mục tiêu 3.7 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 3.6.2. Tỷ suất sinh trong độ tuổi từ 10-19 tuổi</p>
+SDG_SERIES_DESCR: >-
+  <p>Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]
+  SP_DYN_ADKL</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Tỷ suất sinh trong độ tuổi từ 10-19 tuổi là tổng số trẻ sinh ra sống của
+  phụ nữ từ 10-19 tuổi trên một nghìn phụ nữ ở cùng nhóm tuổi.</p>
+UNIT_MEASURE: <p>trên 1000 phụ nữ 10-19 tuổi</p>
+CLASS_SYSTEM: >-
+  <p> Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: |-
+  <p>- Tổng điều tra dân số và nhà ở;</p>
+  <p>- Điều tra dân số và nhà ở giữa kỳ;</p>
+  <p>- Điều tra biến động dân số và kế hoạch hóa gia đình;</p>
+  <p>- Dữ liệu hành chính.</p>
+COLL_METHOD: >-
+  <p>Chỉ tiêu “Tỷ suất sinh trong độ tuổi từ 10-19 tuổi”được tổng hợp từ nguồn
+  dữ liệu của Tổng điều tra dân số và nhà ở (chu kỳ 10 năm), điều tra dân số và
+  nhà ở giữa kỳ (chu kỳ 5 năm) và suy rộng từ kết quả điều tra mẫu biến
+  động dân số - kế hoạch hóa gia đình hàng năm. Các cuộc Tổng điều tra và
+  điều tra này đều thuộc Chương trình điều tra thống kê quốc gia</p>
+REL_CAL_POLICY: <p>Năm</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>- Chỉ tiêu là thước đo quan trọng đánh giá sức khỏe bà mẹ sau sinh và mức
+  giảm tỷ lệ tử vong ở trẻ sơ sinh. Chỉ tiêu này cũng cung cấp bằng chứng gián
+  tiếp về khả năng tiếp cận dịch vụ chăm sóc sức khỏe sinh sản của thanh niên và
+  đặc biệt là thanh niên chưa lập gia đình thường gặp nhiều khó khăn khi tiếp
+  cận các dịch vụ chăm sóc sức khỏe sinh sản.</p>
+
+  <p>- Cung cấp dữ liệu cơ sở cho việc thiết kế các hoạt động tuyên truyền giáo
+  dục về sức khỏe sinh sản và đánh giá nguy cơ liên quan đến sức khỏe sinh sản ở
+  nhóm nữ 10-19 tuổi.</p>
+COVERAGE: |-
+  <p>- Chỉ có số liệu cho nhóm 15-19 tuổi hàng năm từ 2016-2019</p>
+  <p>- Không có số liệu chung và số liệu cho nhóm 10-14 tuổi</p>
+  <p>(Nguồn công bố: Số liệu các chỉ tiêu SDG-ASEAN; Tổng cục Thống kê).</p>
+COMPARABILITY: >-
+  <p><strong>Chỉ tiêu quốc tế tương ứng “3.7.2:</strong> Adolescent birth rate
+  (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group”. Chỉ
+  tiêu quốc tế phân tổ theo: Tuổi, trình độ học vấn, số con còn sống, tình trạng
+  hôn nhân, tình trạng kinh tế xã hội, vị trí địa lý và các loại khác trong khi
+  chỉ tiêu của Việt Nam phân tổ theo: Trình độ học vấn của người mẹ; nhóm tuổi
+  (10-14 tuổi, 15-19 tuổi); thành thị/nông thôn và tỉnh/thành phố trực thuộc
+  Trung ương</p>
+OTHER_DOC: >-
+  <p>- Chương trình điều tra thống kê quốc gia ban hành theo Quyết định số
+  43/2016/QĐ-TTg ngày 17 tháng 10 năm 2016 của Thủ tướng Chính phủ</p>
+
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a>
+  </p>

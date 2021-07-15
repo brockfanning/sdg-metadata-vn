@@ -1,0 +1,135 @@
+SDG_GOAL: '<p>Mục tiêu chung 1: Chấm dứt mọi hình thức nghèo ở mọi nơi</p>'
+SDG_TARGET: >-
+  <p>Mục tiêu 1.1: Đến năm 2020, xóa bỏ tình trạng nghèo cùng cực cho tất cả mọi
+  người ở mọi nơi, sử dụng chuẩn nghèo với mức thu nhập bình quân đầu người thấp
+  hơn 1,25 đô la Mỹ sức mua tương đương (giá 2005)/ngày; đến năm 2030, giảm ít
+  nhất một nửa tỷ lệ nghèo theo tiêu chí nghèo đa chiều của quốc gia (Mục tiêu
+  1.1 và Mục tiêu 1.2 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 1.1.1. Tỷ lệ nghèo đa chiều</p>
+SDG_SERIES_DESCR: >-
+  <p>1.2.2 Proportion of households living in multidimensional poverty [1.2.2]
+  (SD_MDP_MUHHC)</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: "<p>Tỷ lệ nghèo đa chiều là tỷ lệ phần trăm số hộ hoặc số người nghèo tiếp cận đa chiều trên tổng số hộ hoặc số người được nghiên cứu.</p>\n<p>Quyết định số 59/2015/QĐ-TTg ngày 19/11/2015 của Thủ tướng Chính phủ ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 quy định các <a id=\"dieu_1\"></a>tiêu chí tiếp cận đo lường nghèo đa chiều gồm:</p>\n<p>a) Tiêu chí về thu nhập: 700.000 đồng/người/tháng ở khu vực nông thôn và 900.000\_đồng/người/tháng ở khu vực thành thị.</p>\n<p>b) Tiêu chí mức độ thiếu hụt tiếp cận 5 dịch vụ xã hội cơ bản, gồm: Y tế, giáo dục, nhà ở, nước sạch và vệ sinh, thông tin, được đo bằng 10 chỉ số, gồm: Tiếp cận các dịch vụ y tế; bảo hiểm y tế; trình độ giáo dục của người lớn; tình trạng đi học của trẻ em; chất lượng nhà ở; diện tích nhà ở bình quân đầu người; nguồn nước sinh hoạt; hố xí/nhà tiêu hợp vệ sinh; sử dụng dịch vụ viễn thông; tài sản phục vụ tiếp cận thông tin.</p>\n<p><a id=\"dieu_2\"></a>Chuẩn nghèo tiếp cận đa chiều được xác định như sau:</p>\n<p>- Khu vực nông thôn: Năm 2016 có thu nhập bình quân đầu người/tháng từ 700 nghìn đồng trở xuống hoặc có thu nhập bình quân đầu người/tháng trên 700 nghìn đồng đến 1 triệu đồng; tương tự năm 2017 có thu nhập bình quân đầu người/tháng từ 725 nghìn đồng trở xuống hoặc có thu nhập bình quân đầu người/tháng trên 725 nghìn đồng đến 1035 nghìn đồng; năm 2018 có thu nhập bình quân đầu người/tháng từ 755 nghìn đồng trở xuống hoặc có thu nhập bình quân đầu người/tháng trên 755 nghìn đồng đến 1080 nghìn đồng và thiếu hụt từ 3 chỉ số đo lường mức độ thiếu hụt tiếp cận các dịch vụ xã hội cơ bản trở lên</p>\n<p>- Khu vực thành thị: Năm 2016 có thu nhập bình quân đầu người/tháng từ 900 nghìn đồng trở xuống hoặc có thu nhập bình quân đầu người/tháng trên 900 nghìn đồng đến 1.3 triệu đồng; tương tự năm 2017 có thu nhập bình quân đầu người/tháng từ 935 nghìn đồng trở xuống hoặc có thu nhập bình quân đầu người/tháng trên 935 nghìn đồng đến 1350 nghìn đồng; năm 2018 có thu nhập bình quân đầu người/tháng từ 975 nghìn đồng trở xuống hoặc có thu nhập bình quân đầu người/tháng trên 975 nghìn đồng đến 1400 nghìn đồng và thiếu hụt từ 3 chỉ số đo lường mức độ thiếu hụt tiếp cận các dịch vụ xã hội cơ bản trở lên</p>"
+CLASS_SYSTEM: >-
+  <p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: <p>Khảo sát mức sống dân cư Việt Nam</p>
+COLL_METHOD: >-
+  <p>Khảo sát mức sống dân cư Việt Nam thuộc chương trình điều tra thống kê quốc
+  gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016. Đây là cuộc
+  điều tra chọn mẫu, trong đó:</p>
+
+  <p>- Mục đích điều tra: Thu thập thông tin làm căn cứ đánh giá mức sống, đánh
+  giá tình trạng nghèo đói và phân hóa giàu nghèo, giám sát và đánh giá một số
+  chương trình mục tiêu quốc gia, cung cấp số liệu để tính quyền số chỉ số giá
+  tiêu dùng và phục vụ tính toán Hệ thống tài khoản quốc gia.</p>
+
+  <p>- Đối tượng, đơn vị điều tra</p>
+
+  <p>+ Hộ dân cư;</p>
+
+  <p>+ Các thành viên trong hộ dân cư;</p>
+
+  <p>+ Các xã có hộ dân cư được khảo sát (chỉ điều tra vào các năm có tận cùng
+  số chẵn).</p>
+
+  <p>Hộ là một hoặc một nhóm người ăn chung, ở chung trong một chỗ từ 6 tháng
+  trở lên trong 12 tháng qua và có chung quỹ thu chi.</p>
+
+  <p><strong>- </strong>Nội dung điều tra</p>
+
+  <p>+ Đối với hộ</p>
+
+  <p>Thu thập thông tin về: Đặc trưng nhân khẩu học; giáo dục, tình trạng sức
+  khỏe và sử dụng các dịch vụ y tế (chỉ điều tra vào các năm có tận cùng số
+  chẵn); việc làm; thu nhập; chi tiêu (chỉ điều tra vào các năm có tận cùng số
+  chẵn); Tài sản; nhà ở; đồ dùng, điện, nước, công trình vệ sinh (chỉ điều tra
+  vào các năm có tận cùng số chẵn); Tham gia chương trình xóa đói giảm nghèo,
+  tình hình tín dụng (chỉ điều tra vào các năm có tận cùng số chẵn).</p>
+
+  <p>+ Đối với xã (chỉ điều tra vào các năm có tận cùng số chẵn)</p>
+
+  <p>Thu thập những thông tin sau: Thông tin chung về dân số và dân tộc cư trú
+  trên địa bàn xã điều tra; kết cấu hạ tầng: điện, đường, trường, trạm, chợ,
+  nguồn nước; tình trạng kinh tế; một số thông tin cơ bản về tình hình kinh tế
+  xã hội.</p>
+
+  <p>- Phương pháp thu thập thông tin: Cuộc KSMSDC áp dụng phương pháp phỏng vấn
+  trực tiếp. Điều tra viên có trách nhiệm đến gặp trực tiếp chủ hộ và những
+  thành viên trong hộ có liên quan để phỏng vấn và ghi thông tin vào phiếu phỏng
+  vấn hộ. </p>
+FREQ_COLL: >-
+  <p>Chu kỳ hàng năm (năm có tận cùng số lẻ điều tra 2 kỳ vào tháng 5 và 9; năm
+  có tận cùng số chẵn điều tra 4 kỳ vào tháng 3, 6, 9 và 12).</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>Đo lường nghèo đa chiều để dựng nên bức tranh đầy đủ và toàn diện về thực
+  trạng nghèo ở Việt Nam: Bao gồm thu nhập và mức độ thiếu hụt các dịch vụ xã hộ
+  cơ bản: Y tế; giáo dục; nhà ở; nước sạch và vệ sinh; thông tin. Làm căn cứ cho
+  hoạch định chính sách, lập kế hoạch phát triển kinh tế nhằm nâng cao mức sống
+  của nhân dân, xoá đói giảm nghèo và tăng khả năng tiếp cận các dịch vụ xã hội.
+  Ngoài ra, chỉ tiêu này được sử dụng để so sánh với tỷ lệ nghèo đa chiều của
+  các quốc gia trong khu vực và thế giới.</p>
+QUALITY_ASSURE: >-
+  <p>Để bảo đảm chất lượng thông tin thu thập, điều tra viên không được gửi
+  phiếu để chủ hộ hoặc các thành viên của hộ tự ghi chép hoặc sao chép các thông
+  tin từ các nguồn dữ liệu có sẵn khác vào phiếu phỏng vấn.</p>
+
+  <p>Các biện pháp giám sát chất lượng: Do tính chất phức tạp của cuộc khảo sát
+  nên một số biện pháp kỹ thuật được sử dụng nhằm bảo đảm chất lượng số liệu
+  khảo sát gồm:</p>
+
+  <p>+ Gọi điện thoại đến hộ để kiểm tra điều tra viên có đến hộ và phỏng vấn hộ
+  trong bao lâu.</p>
+
+  <p>+ Phiếu phỏng vấn được thiết kế với phần lớn mã số đánh sẵn nhằm giảm thời
+  gian đánh mã lại sau khi thu thập số liệu và giảm sai sót.</p>
+
+  <p>+ Công việc của 3 điều tra viên được 1 đội tưởng và giám sát viên kiểm tra
+  chặt chẽ.</p>
+
+  <p>+ Phúc tra 10% số hộ khảo sát sau mỗi kỳ khảo sát.</p>
+
+  <p>+ Phiếu phỏng vấn được thiết kế tương đối chi tiết để tránh khai thác sót
+  thông tin. Phiếu phỏng vấn được thiết kế để điều tra viên có chỗ ghi thông tin
+  ngay vào phiếu, không phải mở sổ ghi chép trung gian. Phiếu phỏng vấn hộ, phần
+  ghi thông tin in cách 3 dòng lại có dòng kẻ đúp để giúp điểu tra viên tránh
+  ghi nhầm dòng.</p>
+COVERAGE: |-
+  <p>- Số liệu có sẵn hàng năm từ 2016-2019</p>
+  <p>- Số liệu có cho 3 phân tổ: Giới tính; nhóm tuổi; thành thị/nông thôn</p>
+  <p>(Nguồn công bố: Niên giám Thống kê của Tổng cục Thống kê)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu “Tỷ lệ nghèo đa chiều” của Việt Nam tương ứng với chỉ tiêu “1.2.2.
+  Proportion of men, women and children of all ages living in poverty in all its
+  dimensions according to national definitions” (Tỷ lệ nam giới, phụ nữ và trẻ
+  em ở mọi lứa tuổi sống dưới mức nghèo đa chiều theo định nghĩa từng quốc gia)
+  của quốc tế.</p>
+
+  <p> Việt Nam chỉ tính toán và công bố số liệu cho tỷ lệ hộ, không tính toán và
+  công bố theo tỷ lệ dân số nghèo đa chiều.</p>
+
+  <p>Mặc dù chỉ tiêu này được xây dựng dựa trên chỉ tiêu SDG toàn cầu 1.2.2. Tuy
+  nhiên, theo khuyến nghị của UN, dữ liệu của chỉ tiêu này không nhằm mục đích
+  so sánh giữa các quốc gia do sự khác biệt về các chiều nghèo và từng ngưỡng
+  nghèo được quy định ở từng quốc gia là khác nhau.</p>
+OTHER_DOC: >-
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban
+  hành Chương trình điều tra thống kê quốc gia;</p>
+
+  <p>- Niên giám Thống kê của Tổng cục Thống kê;</p>
+
+  <p>- Tổng cục Thống kê, “Thông cáo báo chí tình hình kinh tế - xã hội” các năm
+  2016, 2017, 2018;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>

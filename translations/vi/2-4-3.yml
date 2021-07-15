@@ -1,0 +1,119 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 2: Xóa đói, bảo đảm an ninh lương thực, cải thiện dinh dưỡng và
+  thúc đẩy phát triển nông nghiệp bền vững</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 2.4: Đến năm 2030, bảo đảm sản xuất lương thực, thực phẩm bền vững
+  và áp dụng những phương thức sản xuất nông nghiệp có khả năng chống chịu giúp
+  tăng năng suất và sản lượng, duy trì hệ sinh thái, tăng cường khả năng thích
+  ứng với biến đổi khí hậu và các thảm họa khác và dần dần cải tạo chất lượng
+  đất đai (mục tiêu 2.4 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 2.4.3. Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm</p>
+SDG_SERIES_DESCR: <p>Consumer Food Price Index [2.c.1] AG_FPA_CFPI</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm là chỉ tiêu tương đối (tính
+  bằng %) phản ánh xu hướng và mức độ biến động giá cả chung theo thời gian của
+  các mặt hàng lương thực, thực phẩm tiêu dùng hàng ngày của người dân.</p>
+
+  <p>Danh mục hàng hoá đại diện gồm các mặt hàng lương thực, thực phẩm chủ yếu,
+  đại diện cho tiêu dùng của dân cư trong một giai đoạn nhất định, được sử dụng
+  để điều tra thu thập giá định kỳ, phục vụ tính chỉ số giá tiêu dùng.</p>
+
+  <p>Quyền số tính chỉ số giá tiêu dùng là tỷ trọng chi tiêu cho các nhóm hàng
+  lương thực, thực phẩm trong tổng chi tiêu của dân cư của năm được chọn làm gốc
+  so sánh. Quyền số này được sử dụng cố định trong 5 năm. </p>
+
+  <p>Sau mỗi chu kỳ 5 năm, danh mục mặt hàng đại diện, quyền số lại được cập
+  nhật cho phù hợp với thị trường tiêu dùng và cơ cấu chi tiêu cho đời sống hàng
+  ngày của người dân trong thời kỳ hiện tại.</p>
+
+  <p>Phương pháp tính chỉ số giá tiêu dùng nhóm lương thực, thực phẩm</p>
+
+  <p>Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm được tính từ kết quả điều
+  tra giá tiêu dùng của từng tỉnh/thành phố trực thuộc Trung ương. Chỉ số giá
+  tiêu dùng được tính bằng phương pháp bình quân nhân gia quyền giữa mức biến
+  động giá của các nhóm mặt hàng với quyền số tương ứng. </p>
+
+  <p>Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm của các tỉnh/thành phố trực
+  thuộc Trung ương được tính bằng phương pháp bình quân nhân gia quyền giữa chỉ
+  số giá tiêu dùng của mỗi nhóm lương thực, thực phẩm được chọn điều tra với
+  quyền số tương ứng.</p>
+
+  <p>Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm của 6 vùng kinh tế được
+  tính bằng phương pháp bình quân nhân gia quyền giữa chỉ số giá nhóm lương
+  thực, thực phẩm của mỗi tỉnh/thành phố trực thuộc Trung ương trong vùng với
+  quyền số tương ứng.</p>
+
+  <p>Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm của cả nước được tính bằng
+  phương pháp bình quân nhân gia quyền giữa chỉ số giá nhóm lương thực, thực
+  phẩm của các vùng kinh tế với quyền số tương ứng.</p>
+CLASS_SYSTEM: >-
+  <p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: |-
+  <p>- Điều tra giá tiêu dùng (CPI);</p>
+  <p>- Khảo sát mức sống dân cư Việt Nam.</p>
+COLL_METHOD: >-
+  <p>a) Điều tra giá tiêu dùng</p>
+
+  <p>Điều tra giá tiêu dùng là điều tra chọn mẫu (điều tra trực tiếp) thuộc
+  Chương trình điều tra thống kê quốc gia.</p>
+
+  <p>- Mục đích điều tra: Thu thập giá bán lẻ hàng hóa, dịch vụ tiêu dùng để có
+  số liệu phục vụ tính chỉ số giá tiêu dùng hàng tháng, nhằm cung cấp số liệu về
+  tỷ lệ tăng giá cho Chính phủ, các bộ, các ngành sử dụng trong công tác điều
+  hành quản lý, nghiên cứu chính sách, quản lý tài chính, tiền tệ. Làm cơ sở
+  tính toán một số chỉ tiêu thống kê tổng hợp theo giá so sánh.</p>
+
+  <p>- Đối tượng, đơn vị điều tra:</p>
+
+  <p>+ Các mặt hàng và dịch vụ đại diện cho tiêu dùng.</p>
+
+  <p>+ Sạp hàng, quầy hàng, điểm bán hàng (chuyên bán lẻ); cơ sở kinh doanh dịch
+  vụ; cơ quan; trường học; cơ sở khám chữa bệnh có địa điểm kinh doanh ổn định,
+  thuộc các thành phần kinh tế.</p>
+
+  <p>- Nội dung điều tra</p>
+
+  <p>+ Điều tra mức giá bán lẻ hàng hóa và dịch vụ tiêu dùng;</p>
+
+  <p>+ Thu thập phục vụ tính chỉ tiêu thống kê quốc gia mã số 1101, 1102,
+  1103.</p>
+
+  <p>b) Khảo sát mức sống dân cư Việt Nam: Giống chỉ tiêu 1.1.1</p>
+FREQ_COLL: <p>Chu kỳ hàng tháng, ngày 05, 15, 25 hàng tháng.</p>
+REL_CAL_POLICY: <p>Năm</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm được sử dụng cho những mục
+  đích chủ yếu sau:</p>
+
+  <p>- Đánh giá công tác kiểm soát lạm phát</p>
+
+  <p>- Sử dụng trong công tác điều hành, quản lý và xây dựng kế hoạch phát triển
+  sản xuất kinh doanh. </p>
+
+  <p>- Chỉ số giá tiêu dùng được dùng để loại trừ yếu tố biến động (tăng/giảm)
+  giá tiêu dùng trong việc tính toán một số chỉ tiêu thống kê theo giá so
+  sánh.</p>
+COVERAGE: |-
+  <p>- Số liệu có sẵn hàng năm từ năm 2013 đến 2019.</p>
+  <p>- Số liệu có theo phân tổ danh mục mặt hàng lương thực, thực phẩm.</p>
+  <p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu này được sử dụng để thay thế chỉ tiêu SDG toàn cầu “2.c.1.
+  Indicator of food price anomalies".</p>
+OTHER_DOC: >-
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban
+  hành Chương trình điều tra thống kê quốc gia;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/"><u>https://unstats.un.org/sdgs/metadata/</u></a></p>

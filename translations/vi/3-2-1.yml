@@ -1,0 +1,77 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi
+  người ở mọi lứa tuổi</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 3.2: Đến năm 2030, chấm dứt các bệnh dịch AIDS, lao, sốt rét và
+  các bệnh nhiệt đới bị lãng quên; phòng chống bệnh viêm gan, các dịch bệnh do
+  nguồn nước và các bệnh truyền nhiễm khác (Mục tiêu 3.3 toàn cầu)</p>
+SDG_INDICATOR: >-
+  <p>Chỉ tiêu 3.2.1. Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn
+  người không bị nhiễm HIV</p>
+SDG_SERIES_DESCR: >-
+  <p>Number of new HIV infections per 1,000 uninfected population [3.3.1]
+  SH_HIV_INCD</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Bộ Y tế</p>
+CONTACT_MAIL: <p>Số 138A Giảng Võ - Ba Đình - Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@moh.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Người nhiễm HIV là người được cơ quan y tế phát hiện bị nhiễm virus gây suy
+  giảm miễn dịch ở người.</p>
+
+  <p>Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn người không bị
+  nhiễm HIV là số đo mức độ nhiễm mới HIV của người dân, được định nghĩa là số
+  trường hợp mới phát hiện nhiễm HIV trên một nghìn không bị nhiễm trong thời
+  gian xác định.</p>
+UNIT_MEASURE: <p>trên 1000 người không bị nhiễm</p>
+SOURCE_TYPE: <p>Chế độ báo cáo thống kê do Bộ Y tế ban hành</p>
+COLL_METHOD: >-
+  <p>Bộ Y tế ban hành biểu mẫu báo cáo thống kê gửi các cơ sở y tế, Sở Y tế các
+  tỉnh/thành phố trực thuộc Trung ương thu thập. Định kỳ, các cơ sở y tế, Sở Y
+  tế gửi lại số liệu cho Bộ Y tế tổng hợp. Một đơn vị thuộc Bộ Y tếđược giao
+  nhiệm tổng hợp số liệu từ cấp Sở gửi lên.</p>
+REL_CAL_POLICY: <p>Năm</p>
+DATA_SOURCE: <p>Bộ Y tế</p>
+COMPILING_ORG: <p>Bộ Y tế</p>
+RATIONALE: >-
+  <p>- Đánh giá hiệu quả của các chương trình hoạt động, dự án can thiệp phòng
+  chống HIV/AIDS đặc biệt trong quản lý và chăm sóc bệnh nhân AIDS.</p>
+
+  <p>- Làm cơ sở cho việc tuyên truyền vận động cộng đồng tham gia phòng chống
+  HIV/AIDS</p>
+
+  <p>- Đánh giá mức độ nguy hiểm của HIV/AIDS.</p>
+REC_USE_LIM: >-
+  <p>Chỉ tiêu 3.2.1. Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn
+  người không bị nhiễm HIV là một chỉ tiêu mới được quy định tại Việt Nam trong
+  Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam (tính trên 100.000 người
+  không bị nhiễm).</p>
+
+  <p>Trong khi đó, Hệ thống chỉ tiêu thống kê quốc gia của Việt Nam có quy định
+  chỉ tiêu mã số 1607. Số ca hiện nhiễm HIV được phát hiện trên một trăm nghìn
+  dân (tính trên 100.000 dân).</p>
+
+  <p>Số liệu về số người nhiễm HIV/AIDS của Việt Nam (có phân theo số phát hiện
+  mới) được công bố hàng năm trong Niên Giám thống kê của Tổng cục Thống kê theo
+  vùng và tỉnh/thành phố trực thuộc Trung ương.</p>
+COVERAGE: >-
+  <p>Số liệu có sẵn hàng năm từ 2014-2019 </p>
+
+  <p>Không có số liệu theo từng phân tổ chi tiết cho chỉ tiêu này.</p>
+
+  <p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục
+  tiêu phát triển bền vững. Số liệu từ Bộ Y tế)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu này tương ứng với chỉ tiêu toàn cầu “3.3.1 Number of new HIV
+  infections per 1,000 uninfected population, by sex, age and key populations”.
+  Khái niệm của 2 chỉ tiêu giống nhau tuy nhiên chỉ tiêu toàn cầu có thêm phân
+  tổ theo phương thức lây truyền.</p>
+OTHER_DOC: >-
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển
+  bền vững</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>

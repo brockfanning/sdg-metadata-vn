@@ -1,0 +1,81 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi
+  người ở mọi lứa tuổi</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 3.1: Đến năm 2030, giảm tỷ số tử vong mẹ xuống dưới 45/100000 trẻ
+  đẻ sống; giảm tỷ suất tử vong trẻ dưới 1 tuổi xuống dưới 10 ca trên 1000 trẻ
+  đẻ sống và tỷ suất tử vong trẻ dưới 5 tuổi xuống dưới 15 ca trên 1000 trẻ đẻ
+  sống (Mục tiêu 3.1 và Mục tiêu 3.2 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 3.1.4. Tỷ suất chết sơ sinh</p>
+SDG_SERIES_DESCR: <p>Neonatal mortality rate [3.2.2] SH_DYN_NMRT</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Tỷ suất chết sơ sinh là số trẻ đẻ ra sống bị chết trước 28 ngày sau sinh
+  tính bình quân trên một nghìn trẻ đẻ ra sống trong năm. Trẻ sơ sinh là trẻ từ
+  khi sinh ra cho đến 28 ngày tuổi. </p>
+UNIT_MEASURE: <p>trên 1000 trẻ đẻ sống</p>
+SOURCE_TYPE: |-
+  <p>- Hệ thống đăng ký hộ tịch;</p>
+  <p>- Điều tra thống kê</p>
+COLL_METHOD: >-
+  <p>Tổng cục Thống kê phối hợp với Bộ Y tế thực hiện điều tra chọn mẫu để thu
+  thập thông tin; Bộ Tư pháp thu thập thông tin qua hệ thống đăng ký hộ tịch và
+  gửi về Tổng cục Thống kê. Tổng cục Thống kê tổng hợp số liệu từ 2 nguồn và
+  công bố chỉ tiêu.</p>
+
+  <p>* Nguồn số liệu hiện tại thu qua Kết quả điều tra đánh giá các mục tiêu trẻ
+  em và phụ nữ năm 2014 (MICS): </p>
+
+  <p>Điều tra MICS Việt Nam 2014 là một bộ phận của Chương trình MICS toàn cầu,
+  do Tổng cục Thống kê phối hợp với Quỹ Nhi đồng Liên hợp quốc thực hiện vào
+  cuối tháng 12 năm 2013 đến tháng 4 năm 2014. UNICEF cung cấp các hỗ trợ kỹ
+  thuật và tài chính cho cuộc điều tra này.</p>
+
+  <p>Mẫu của điều tra MICS Việt Nam 2014 được thiết kế nhằm cung cấp các ước
+  lượng tin cậy cho nhiều chỉ tiêu về trẻ em và phụ nữ ở cấp quốc gia, thành
+  thị/nông thôn và 6 vùng. Điều tra MICS Việt Nam 2014 có cỡ mẫu là 10018 hộ gia
+  đình được phỏng vấn, với 9827 phụ nữ và 3316 trẻ em được phỏng vấn.</p>
+REL_CAL_POLICY: <p>5 năm</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>- Chỉ tiêu này đánh giá khả năng cung cấp dịch vụ và chất lượng chăm sóc
+  sức khỏe trước sinh, trong sinh, sau sinh và chăm sóc sơ sinh của hệ thống y
+  tế. </p>
+
+  <p>- Chỉ tiêu này cung cấp dữ liệu cơ sở cho việc thiết kế các chương trình
+  can thiệp nhằm giảm tử vong ở trẻ sơ sinh. Đồng thời, cung cấp cơ sở cho nhà
+  quản lý tìm hiểu nguyên nhân và đảm bảo chất lượng cán bộ y tế và sự sẵn có
+  của các trang thiết bị và nguồn cung cấp.</p>
+REC_USE_LIM: >-
+  <p>Theo Thông tư 03 về Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam,
+  chỉ tiêu này có Lộ trình B (được thực hiện từ năm 2025). Hiện tại nguồn số
+  liệu duy nhất về chỉ tiêu này cho đến nay là điều tra MICS 2014.</p>
+
+  <p>Sắp tới, chỉ tiêu này cũng sẽ được tính toán và cung cấp từ kết quả Điều
+  tra các mục tiêu phát triển bền vững về phụ nữ và trẻ em năm 2020 do Tổng cục
+  Thống kê phối hợp với UNICEF thực hiện từ năm 2020.</p>
+COVERAGE: >-
+  <p>Chỉ có số liệu năm 2014 phân tổ theo thành thị/nông thôn; trình độ học vấn
+  của người mẹ; dân tộc của chủ hộ (Kinh/khác); nhóm mức sống (40% nghèo nhất;
+  60% giàu nhất)</p>
+
+  <p>Nguồn công bố: Kết quả điều tra đánh giá các mục tiêu trẻ em và phụ nữ năm
+  2014 (MICS)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu này phản ánh chỉ tiêu toàn cầu “3.2.2 Neonatal mortality rate” (Tỷ
+  lệ tử vong trẻ sơ sinh).</p>
+OTHER_DOC: >-
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban
+  hành Chương trình điều tra thống kê quốc gia;</p>
+
+  <p>- Kết quả điều tra đánh giá các mục tiêu trẻ em và phụ nữ (MICS) 2014.</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>

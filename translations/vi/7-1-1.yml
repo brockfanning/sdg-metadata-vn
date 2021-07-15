@@ -1,0 +1,124 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 7: Đảm bảo khả năng tiếp cận nguồn năng lượng bền vững, đáng tin
+  cậy và có khả năng chi trả cho tất cả mọi người</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 7.1: Đến năm 2020, cơ bản 100% hộ gia đình được tiếp cận với điện;
+  đến năm 2025 đạt 100%; đến năm 2030 đảm bảo tiếp cận toàn dân đối với các dịch
+  vụ năng lượng trong khả năng chi trả, đáng tin cậy và hiện đại (Mục tiêu 7.1
+  toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 7.1.1. Tỷ lệ hộ tiếp cận điện</p>
+SDG_SERIES_DESCR: <p>Proportion of population with access to electricity [7.1.1] EG_ACS_ELEC</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Tỷ lệ hộ tiếp cận điện là tỷ lệ phần trăm số hộ tiếp cận điện trong tổng số
+  hộ.</p>
+CLASS_SYSTEM: >-
+  <p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: <p>Khảo sát mức sống dân cư Việt Nam.</p>
+COLL_METHOD: >-
+  <p>Giống chỉ tiêu 6.2.1</p>
+
+  <p>Khảo sát mức sống dân cư Việt Nam thuộc chương trình điều tra thống kê quốc
+  gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016. Đây là cuộc
+  điều tra chọn mẫu, trong đó:</p>
+
+  <p>- Mục đích điều tra: Thu thập thông tin làm căn cứ đánh giá mức sống, đánh
+  giá tình trạng nghèo đói và phân hóa giàu nghèo, giám sát và đánh giá một số
+  chương trình mục tiêu quốc gia, cung cấp số liệu để tính quyền số chỉ số giá
+  tiêu dùng và phục vụ tính toán Hệ thống tài khoản quốc gia.</p>
+
+  <p>- Đối tượng, đơn vị điều tra</p>
+
+  <p>+ Hộ dân cư;</p>
+
+  <p>+ Các thành viên trong hộ dân cư;</p>
+
+  <p>+ Các xã có hộ dân cư được khảo sát (chỉ điều tra vào các năm có tận cùng
+  số chẵn).</p>
+
+  <p>Hộ là một hoặc một nhóm người ăn chung, ở chung trong một chỗ từ 6 tháng
+  trở lên trong 12 tháng qua và có chung quỹ thu chi.</p>
+
+  <p><strong>- </strong>Nội dung điều tra</p>
+
+  <p>+ Đối với hộ</p>
+
+  <p>Thu thập thông tin về: Đặc trưng nhân khẩu học; giáo dục, tình trạng sức
+  khỏe và sử dụng các dịch vụ y tế (chỉ điều tra vào các năm có tận cùng số
+  chẵn); việc làm; thu nhập; chi tiêu (chỉ điều tra vào các năm có tận cùng số
+  chẵn); Tài sản; nhà ở; đồ dùng, điện, nước, công trình vệ sinh (chỉ điều tra
+  vào các năm có tận cùng số chẵn); Tham gia chương trình xóa đói giảm nghèo,
+  tình hình tín dụng (chỉ điều tra vào các năm có tận cùng số chẵn).</p>
+
+  <p>+ Đối với xã (chỉ điều tra vào các năm có tận cùng số chẵn)</p>
+
+  <p>Thu thập những thông tin sau: Thông tin chung về dân số và dân tộc cư trú
+  trên địa bàn xã điều tra; kết cấu hạ tầng: điện, đường, trường, trạm, chợ,
+  nguồn nước; tình trạng kinh tế; một số thông tin cơ bản về tình hình kinh tế
+  xã hội.</p>
+
+  <p>- Phương pháp thu thập thông tin: Cuộc KSMSDC áp dụng phương pháp phỏng vấn
+  trực tiếp. Điều tra viên có trách nhiệm đến gặp trực tiếp chủ hộ và những
+  thành viên trong hộ có liên quan để phỏng vấn và ghi thông tin vào phiếu phỏng
+  vấn hộ. </p>
+
+  <p>- Để bảo đảm chất lượng thông tin thu thập, điều tra viên không được gửi
+  phiếu để chủ hộ hoặc các thành viên của hộ tự ghi chép hoặc sao chép các thông
+  tin từ các nguồn dữ liệu có sẵn khác vào phiếu phỏng vấn.</p>
+
+  <p>- Các biện pháp giám sát chất lượng: Do tính chất phức tạp của cuộc khảo
+  sát nên một số biện pháp kỹ thuật được sử dụng nhằm bảo đảm chất lượng số liệu
+  khảo sát gồm:</p>
+
+  <p>+ Gọi điện thoại đến hộ để kiểm tra điều tra viên có đến hộ và phỏng vấn hộ
+  trong bao lâu.</p>
+
+  <p>+ Phiếu phỏng vấn được thiết kế với phần lớn mã số đánh sẵn nhằm giảm thời
+  gian đánh mã lại sau khi thu thập số liệu và giảm sai sót.</p>
+
+  <p>+ Công việc của 3 điều tra viên được 1 đội tưởng và giám sát viên kiểm tra
+  chặt chẽ.</p>
+
+  <p>+ Phúc tra 10% số hộ khảo sát sau mỗi kỳ khảo sát.</p>
+
+  <p>+ Phiếu phỏng vấn được thiết kế tương đối chi tiết để tránh khai thác sót
+  thông tin. Phiếu phỏng vấn được thiết kế để điều tra viên có chỗ ghi thông tin
+  ngay vào phiếu, không phải mở sổ ghi chép trung gian. Phiếu phỏng vấn hộ, phần
+  ghi thông tin in cách 3 dòng lại có dòng kẻ đúp để giúp điểu tra viên tránh
+  ghi nhầm dòng.</p>
+FREQ_COLL: >-
+  <p>Thời kỳ, thời điểm điều tra: Năm có tận cùng số chẵn điều tra 4 kỳ vào
+  tháng 3, 6, 9 và 12</p>
+REL_CAL_POLICY: <p>2 năm</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>Chỉ tiêu phản ánh mức độ thoả mãn các điều kiện sinh hoạt thiết yếu của
+  người dân, đặc biệt đối với những người dân ở vùng sâu, vùng xa, khu vực kinh
+  tế kém phát triển; là cơ sở đề ra chính sách, kế hoạch phát triển và cải thiện
+  mức sống nhân dân.</p>
+REC_USE_LIM: <p>Số liệu của Việt Nam chỉ tính hộ sử dụng điện lưới quốc gia</p>
+COVERAGE: >-
+  <p><u> </u>Số liệu có sẵn 2 năm/lần từ 2010-2018</p>
+
+  <p>Số liệu có đầy đủ theo các phân tổ: thành thị/nông thôn; vùng; tỉnh/thành
+  phố trực thuộc Trung ương 2 năm/lần từ 2010-2018</p>
+
+  <p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu “Tỷ lệ hộ tiếp cận điện” tương ứng với chỉ tiêu SDG toàn cầu
+  7.1.1: Proportion of population with access to electricity</p>
+OTHER_DOC: >-
+  <p>- Chương trình điều tra thống kê quốc gia ban hành theo Quyết định số
+  43/2016/QĐ-TTg ngày 17 tháng 10 năm 2016 của Thủ tướng Chính phủ</p>
+
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>

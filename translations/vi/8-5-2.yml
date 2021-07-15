@@ -1,0 +1,103 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 8: Đảm bảo tăng trưởng kinh tế bền vững, toàn diện, liên tục; tạo
+  việc làm đầy đủ, năng suất và việc làm tốt cho tất cả mọi người</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 8.5: Đến năm 2030, tạo việc làm đầy đủ, năng suất và việc làm tốt
+  cho tất cả nam và nữ, bao gồm cả thanh niên, người khuyết tật và thù lao ngang
+  bằng đối với các loại công việc như nhau (Mục tiêu 8.5 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 8.5.2. Tỷ lệ thất nghiệp</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Người thất nghiệp là những người từ đủ 15 tuổi trở lên mà trong thời kỳ
+  tham chiếu hội đủ các yếu tố sau: Hiện không làm việc; đang tìm kiếm việc làm;
+  sẵn sàng làm việc.</p>
+
+  <p>Số người thất nghiệp còn gồm những người hiện không có việc làm và sẵn sàng
+  làm việc nhưng trong thời kỳ tham chiếu không tìm được việc do: </p>
+
+  <p>- Đã chắc chắn có một công việc hoặc một hoạt động sản xuất kinh doanh để
+  bắt đầu sau thời kỳ tham chiếu;</p>
+
+  <p>- Phải tạm nghỉ (không được nhận tiền lương, tiền công hoặc không chắc chắn
+  quay lại làm công việc cũ) do cơ sở bị thu hẹp hoặc ngừng sản xuất;</p>
+
+  <p>- Đang trong thời gian nghỉ thời vụ;</p>
+
+  <p>- Bận việc đột xuất của gia đình hoặc ốm đau tạm thời. </p>
+
+  <p>Tỷ lệ thất nghiệp là chỉ tiêu biểu hiện tỷ lệ so sánh số người thất nghiệp
+  với lực lượng lao động.</p>
+
+  <p>Người thất nghiệp gồm cả những trường hợp: Sinh viên/học sinh/người nghỉ
+  hưu nhưng đang tìm việc (toàn thời gian hoặc bán thời gian) và sẵn sàng làm
+  việc trong thời kỳ tham chiếu; người làm nội trợ (hoặc làm các công việc nhà)
+  cho gia đình mình nhưng đang tìm việc (toàn thời gian hoặc bán thời gian) và
+  sẵn sàng làm việc trong thời kỳ tham chiếu.</p>
+CLASS_SYSTEM: >-
+  <p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: <p>Điều tra lao động và việc làm.</p>
+COLL_METHOD: >-
+  <p>Đây là cuộc điều tra chọn mẫu được quy định trong Chương trình điều tra
+  thống kê quốc gia.</p>
+
+  <p>Điều tra Lao động việc làm là điều tra chọn mẫu với cỡ mẫu bảo đảm các ước
+  lượng thống kê cho cấp vùng, thành phố Hà Nội, thành phố Hồ Chí Minh theo quý
+  và cho cấp tỉnh theo năm.</p>
+
+  <p>- Điều tra chọn mẫu áp dụng phương pháp chọn mẫu phân tầng hai giai
+  đoạn:</p>
+
+  <p>+ Giai đoạn 1: Xã định số địa bàn mẫu; phân bổ địa bàn mẫu dựa trên danh
+  sách địa bàn mẫu chủ của Tổng điều tra dân số và nhà ở 2019 tại mỗi tỉnh theo
+  2 tầng cho khu vực thành thị và nông thôn; thực hiện chọn các địa bàn theo
+  phương pháp xác suất tỷ lệ thuận với quy mô hộ của địa bàn.</p>
+
+  <p>+ Giai đoạn 2: Chọn hộ mẫu tại mỗi địa bàn điều tra mẫu được chọn ở giai
+  đoạn 1 theo phương pháp ngẫu nhiên hệ thống.</p>
+
+  <p>- Phương pháp thu thập thông tin: Phương pháp phỏng vấn trực tiếp sử dụng
+  phiếu điện tử được cài đặt trên máy tính bảng hoặc điện thoại thông minh của
+  điều tra viên. Điều tra viên đến từng hộ để hỏi người cung cấp thông tin và
+  ghi đầy đủ các câu trả lời vào phiếu điện tử.</p>
+
+  <p>Mục đích: Thu thập thông tin phản ánh thực trạng nguồn lao động và việc làm
+  nhằm phục vụ yêu cầu quản lý, khai thác sử dụng có hiệu quả và phát triển hợp
+  lý nguồn lực thị trường lao động; phục vụ tính toán các chỉ tiêu thống kê lao
+  động, việc làm được quy định trong hệ thống chỉ tiêu thống kê quốc gia.</p>
+REL_CAL_POLICY: <p> năm</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>Tỷ lệ thất nghiệp là một thước đo hữu ích để đánh giá tình trạng cung lao
+  động không được sử dụng đầy đủ. Nó được coi là một chỉ số đánh giá hiệu quả và
+  hiệu lực của một nền kinh tế </p>
+
+  <p>Tỷ lệ thất nghiệp là chỉ tiêu phản ánh thực trạng tình hình kinh tế-xã hội
+  của đất nước, làm cơ sở để hoạch định chính sách phát triển kinh tế, bảo đảm
+  an sinh xã hội.</p>
+COVERAGE: >-
+  <p>- Số liệu có sẵn hàng năm từ 2010-2019 đối với số liệu chung và số liệu
+  theo giới tính</p>
+
+  <p>- Số liệu có sẵn hàng năm từ 2014-2019 đối với số liệu theo nhóm tuổi,
+  thành thị/nông thôn và vùng</p>
+
+  <p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu “8.5.2: Unemployment rate,
+  by sex, age and persons with disabilities”. Nội dung của chỉ tiêu Việt Nam và
+  toàn cầu giống nhau do vậy số liệu của Việt Nam bảo đảm so sánh quốc tế.</p>
+OTHER_DOC: >-
+  <p>- Chương trình điều tra thống kê quốc gia ban hành theo Quyết định số
+  43/2016/QĐ-TTg ngày 17 tháng 10 năm 2016 của Thủ tướng Chính phủ</p>
+
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>

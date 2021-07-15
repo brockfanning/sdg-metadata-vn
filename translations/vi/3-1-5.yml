@@ -1,0 +1,84 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi
+  người ở mọi lứa tuổi</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 3.1: Đến năm 2030, giảm tỷ số tử vong mẹ xuống dưới 45/100000 trẻ
+  đẻ sống; giảm tỷ suất tử vong trẻ dưới 1 tuổi xuống dưới 10 ca trên 1000 trẻ
+  đẻ sống và tỷ suất tử vong trẻ dưới 5 tuổi xuống dưới 15 ca trên 1000 trẻ đẻ
+  sống (Mục tiêu 3.1 và Mục tiêu 3.2 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 3.1.5. Tỷ suất chết của trẻ em dưới 1 tuổi</p>
+SDG_SERIES_DESCR: <p>Infant mortality rate [3.2.1] SH_DYN_IMRT</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Tỷ suất chết của trẻ em dưới 1 tuổi là số đo mức độ chết của trẻ em trong
+  năm đầu tiên của cuộc sống. Tỷ suất này được định nghĩa là số trẻ em dưới 1
+  tuổi chết tính bình quân trên một nghìn trẻ em sinh ra sống trong thời kỳ
+  nghiên cứu.</p>
+UNIT_MEASURE: <p>trên 1000 trẻ đẻ sống</p>
+CLASS_SYSTEM: >-
+  <p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: |-
+  <p>- Tổng điều tra dân số và nhàở;</p>
+  <p>- Điều tra dân số và nhàở giữa kỳ;</p>
+  <p>- Điều tra biến động dân số và kế hoạch hóa gia đình.</p>
+COLL_METHOD: >-
+  <p>- Loại điều tra: Điều tra Biến động dân số và kế hoạch hóa gia đình là điều
+  tra chọn mẫu. Quy mô mẫu được phân bổ bảo đảm mức độ đại diện của các chỉ tiêu
+  thống kê cho cấp tỉnh và phân tổ theo thành thị/nông thôn.</p>
+
+  <p>Mẫu điều tra Biến động dân số 2021 là mẫu phân tầng hai giai đoạn: Giai
+  đoạn 1 – chọn địa bàn mẫu; Giai đoạn 2 – chọn hộ.</p>
+
+  <p>- Phương pháp thu thập thông tin: Sử dụng phương pháp phỏng vấn trực tiếp
+  sử dụng phiếu điện tử được cài đặt trên máy tính bảng hoặc điện thoại thông
+  minh của điều tra viên. Điều tra viên đến từng hộ để hỏi người cung cấp thông
+  tin và nhập đầy đủ các câu trả lời vào phiếu điện tử.</p>
+
+  <p>Phương án điều tra biến động dân số và kế hoạch hóa gia đình 2021 chi tiết
+  theo đường link sau:
+  https://www.gso.gov.vn/wp-content/uploads/2021/03/01-04-2021-QD-1903-Dieu-tra-bien-dong-dan-so-2021.pdf</p>
+FREQ_COLL: >-
+  <p>Chu kỳ hàng năm, ngày 01 tháng 4 (trừ năm tiến hành Tổng điều tra dân số và
+  nhà ở và Điều tra dân số và nhà ở giữa kỳ).</p>
+REL_CAL_POLICY: <p>Năm</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>Tỷ suất chết của trẻ em dưới 1 tuổi (IMR) có ý nghĩa quan trọng đặc biệt,
+  vì:</p>
+
+  <p>- Chỉ tiêu này phản ánh tình hình cung cấp các dịch vụ và phương tiện chăm
+  sóc sức khoẻ cho trẻ em, đánh giá mức độ tử vong của nhóm dân số có mức độ
+  chết cao và tác động mạnh đến tuổi thọ bình quân tính từ lúc sinh. </p>
+
+  <p>- Mọi biểu hiện của sự giảm mức độ chết đều ảnh hưởng ngay đến IMR và thông
+  qua đó nó tác động đến phân bố dân số theo độ tuổi. </p>
+
+  <p>- Luôn có mối liên hệ thống kê chặt chẽ giữa IMR và mức độ sinh đẻ, nên
+  việc tăng/giảm IMR có tác động đến sự tăng/giảm của mức độ sinh.</p>
+COVERAGE: |-
+  <p>Số liệu có sẵn hàng năm từ năm 2010 đến 2019</p>
+  <p>Số liệu có sẵn cho 4 phân tổ: </p>
+  <p>+ Giới tính;</p>
+  <p>+ Thành thị/nông thôn;hành thị/nông thôn;</p>
+  <p>+ Vùng;</p>
+  <p>+ Tỉnh/thành phố trực thuộc Trung ương</p>
+  <p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu “Tỷ suất chết trẻ em dưới 1 tuổi” phản ánh mục tiêu phát triển bền
+  vững cấp quốc gia của Việt Nam, không có trong Bộ chỉ tiêu phát triển bền vững
+  toàn cầu.</p>
+OTHER_DOC: >-
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban
+  hành Chương trình điều tra thống kê quốc gia;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>

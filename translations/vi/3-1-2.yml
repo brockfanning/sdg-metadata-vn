@@ -1,0 +1,131 @@
+SDG_GOAL: >-
+  <p>Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi
+  người ở mọi lứa tuổi</p>
+SDG_TARGET: >-
+  <p>Mục tiêu 3.1: Đến năm 2030, giảm tỷ số tử vong mẹ xuống dưới 45/100.000 trẻ
+  đẻ sống; giảm tỷ suất tử vong trẻ dưới 1 tuổi xuống dưới 10 ca trên 1000 trẻ
+  đẻ sống và tỷ suất tử vong trẻ dưới 5 tuổi xuống dưới 15 ca trên 1000 trẻ đẻ
+  sống (Mục tiêu 3.1 và Mục tiêu 3.2 toàn cầu)</p>
+SDG_INDICATOR: <p>Chỉ tiêu 3.1.2. Tỷ lệ ca sinh được nhân viên y tế có kỹ năng đỡ</p>
+SDG_SERIES_DESCR: >-
+  <p>Proportion of births attended by skilled health personnel [3.1.2]
+  SH_STA_BRTC</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Bộ Y tế</p>
+CONTACT_MAIL: <p>Số 138A Giảng Võ - Ba Đình - Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@moh.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Tỷ lệ ca sinh được nhân viên y tế có kỹ năng đỡ là số phụ nữ đẻ trong kỳ
+  báo cáo được nhân viên y tế có kỹ năng đỡ tính trên 100 phụ nữ đẻ trong cùng
+  thời kỳ.</p>
+
+  <p>Nhân viên y tế có kỹ năng đỡ bao gồm bác sỹ chuyên khoa sản từ định hướng
+  trở lên, hộ sinh trung cấp trở lên, y sỹ sản nhi, những cán bộ y tế khác đã
+  được cấp chứng nhận đã được đào tạo liên tục về “người đỡ đẻ có kỹ năng” theo
+  chương trình của Bộ Y tế.</p>
+CLASS_SYSTEM: >-
+  <p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định
+  số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi
+  được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+SOURCE_TYPE: >-
+  <p>Báo cáo định kỳ hàng năm của cơ sở y tế - Vụ Sức khỏe Bà mẹ - Trẻ em, Bộ Y
+  tế </p>
+COLL_METHOD: >-
+  <p>Bộ Y tế ban hành biểu mẫu báo cáo thống kê gửi Sở Y tế các tỉnh/thành phố
+  trực thuộc Trung ương thu thập. Định kỳ, các Sở Y tế gửi lại số liệu cho Bộ Y
+  tế tổng hợp. Bộ Y tế rà soát, tổng hợp số liệu thu từ chế độ báo cáo và điều
+  tra trước khi công bố.</p>
+REL_CAL_POLICY: <p>Năm</p>
+DATA_SOURCE: <p>Bộ Y tế</p>
+COMPILING_ORG: <p>Bộ Y tế</p>
+RATIONALE: >-
+  <p>- Đánh giá mức độ tiếp cận dịch vụ và chất lượng chăm sóc thai sản của một
+  khu vực và quốc gia.</p>
+
+  <p>- Là cơ sở cho việc xây dựng kế hoạch và các hoạt động can thiệp y tế.</p>
+REC_USE_LIM: >-
+  <p>Nên phân tổ theo khu vực đồng bằng/ miền núi và dân tộc thiểu số vì khả
+  năng tiếp cận với các dịch vụ chăm sóc trong sinh của phụ nữ đẻ ở các khu vực
+  này là rất khác nhau.</p>
+
+  <p>Ngoài nguồn số liệu định kỳ là báo cáo hàng năm của Cơ sở y tế- Bộ Y tế,
+  chỉ tiêu còn được lồng ghép thu thập qua các cuộc điều tra thống kê như điều
+  tra dân số, điều tra cơ sở y tế phối hợp cùng Tổng cục Thống kê.</p>
+COVERAGE: "<p>Số liệu chỉ tiêu có sẵn hàng năm từ năm 2016-2019</p>\n<p>Không có số liệu được công bố theo từng phân tổ cho chỉ tiêu này</p>\n<p>(Nguồn công bố\_: Số liệu chỉ tiêu SDG – ASEAN\_; Niên giám thống kê y tế)</p>"
+COMPARABILITY: >-
+  <p>Chỉ tiêu này tương ứng với chỉ tiêu quốc tế“3.1.2 Proportion of births
+  attended by skilled health personnel”. So sánh metada của 2 chỉ tiêu nhận thấy
+  có một số khác biệt cụ thể:</p>
+
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+          <p><strong>Chỉ tiêu quốc tế</strong></p>
+        </td>
+        <td>
+          <p><strong>Chỉ tiêu Việt Nam</strong></p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Phương pháp tính</p>
+        </td>
+        <td>
+          <p>Số phụ nữ trong độ tuổi từ 15-49</p>
+        </td>
+        <td>
+          <p>Số phụ nữ đẻ</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Phân tổ</p>
+        </td>
+        <td>
+          <p>- Khi dữ liệu được thu thập từ các cuộc điều tra hộ gia đình. Phân tổ theo nơi cư trú (thành thị/nông thôn), sự giàu có của hộ gia đình và tuổi của bà mẹ, các vùng địa lý</p>
+          <p>- Khi dữ liệu được báo cáo từ các nguồn hành chính, phân tổ theo nơi cư trú</p>
+        </td>
+        <td>
+          <p>- Nhóm tuổi của bàmẹ;</p>
+          <p>- Dân tộc (Kinh và các dân tộc khác);</p>
+          <p>- Thành thị/nông thôn;</p>
+          <p>- Tỉnh/thành phố trực thuộc Trung ương.</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Kỳ công bố</p>
+        </td>
+        <td>
+          <p>3 đến 5 năm</p>
+        </td>
+        <td>
+          <p>Năm</p>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <p>Nguồn số liệu</p>
+        </td>
+        <td colspan="3">
+          <p>Các cuộc điều tra hộ gia đình cấp quốc gia bao gồm Khảo sát Nhân khẩu học và Sức khoẻ (DHS), Điều tra đánh giá các mục tiêu về phụ nữ và trẻ em (MICS), Điều tra sức khoẻ sinh sản (RHS) và điều tra quốc gia dựa trên các phương pháp tương tự</p>
+        </td>
+        <td>
+          <p>- Chế độ báo cáo thống kê do Bộ Y tế ban hành.</p>
+          <p>- Điều tra dân số</p>
+          <p>- Điều tra cơ sở y tế</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+OTHER_DOC: >-
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016 của Thủ tướng Chính phủ ban
+  hành Chương trình điều tra thống kê quốc gia;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>
