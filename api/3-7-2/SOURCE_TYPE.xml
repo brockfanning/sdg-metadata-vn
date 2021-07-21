@@ -4,7 +4,10 @@
 	<message>The SOURCE_TYPE field for indicator 3-7-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Periodic reports of medical facilities - Expanded Immunization Program, Department of Preventive Medicine -Ministry of Health; &lt;/p&gt;
+ &lt;p&gt; - Demographic and health census; &lt;/p&gt;
+ &lt;p&gt; - National level statistical reporting mode. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Báo cáo định kỳ của cơ sở y tế - Chương trình Tiêm chủng mở rộng, Cục Y tế dự phòng -Bộ Y tế;&lt;/p&gt;
 &lt;p&gt;- Điều tra nhân khẩu học và sức khỏe;&lt;/p&gt;
 &lt;p&gt;- Chế độ báo cáo thống kê cấp quốc gia.&lt;/p&gt;

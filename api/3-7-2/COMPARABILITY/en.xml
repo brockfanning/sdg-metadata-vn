@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 3-7-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Indicator “3.7.2. Percentage of children under 1 year of age who are fully immunized with vaccines” is one of the indicators reflecting the global indicator “3.b.1. Proportion of the target population covered by all vaccines included in their national program”. &lt;/p&gt;
+ &lt;p&gt; The target population group and the adequacy of vaccines vary from country to country, there is no global consensus, so this target, although specified in Vietnam and reflects part of the global indicator 3.b.1 but does not yet have a series in the global DSD. &lt;/p&gt;</data>
 </root>

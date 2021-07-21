@@ -4,7 +4,8 @@
 	<message>The CONTACT_MAIL field for indicator 1-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; No. 7 Trang Thi, Hoan Kiem District, Hanoi City &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số 7 Tràng Thi, Q.Hoàn Kiếm, TP.Hà Nội&lt;/p&gt;
 			</language>
 </languages>

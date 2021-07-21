@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 9.2.1. The proportion of added value of the processing and manufacturing industry in the total domestic product &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 9.2.1. Tỷ trọng giá trị tăng thêm ngành công nghiệp chế biến, chế tạo trong tổng sản phẩm trong nước&lt;/p&gt;
 			</language>
 </languages>

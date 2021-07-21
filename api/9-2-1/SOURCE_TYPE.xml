@@ -4,7 +4,9 @@
 	<message>The SOURCE_TYPE field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Enterprise survey; &lt;/p&gt;
+ &lt;p&gt; - Investigate individual business establishments. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Điều tra doanh nghiệp;&lt;/p&gt;
 &lt;p&gt;- Điều tra cơ sở sản xuất kinh doanh cá thể.&lt;/p&gt;
 			</language>

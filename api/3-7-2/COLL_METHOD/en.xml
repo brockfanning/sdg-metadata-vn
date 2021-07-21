@@ -2,5 +2,14 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 3-7-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; * The Ministry of Health issues a statistical report form to send to health facilities, the Departments of Health of the provinces/cities directly under the Central Government to collect. Periodically, medical facilities and Departments of Health send data back to the Ministry of Health for synthesis. A unit under the Ministry of Health is assigned to compile data submitted by the Department. &lt;/p&gt;
+ &lt;p&gt; * Alternatively, can be collected through the 5-year Demographic and Health Survey, October 1st (conducted in years ending in 0 and 5). &lt;/p&gt;
+ &lt;p&gt; Is a sampling survey in the National Statistical Survey Program, collecting information about the following: &lt;/p&gt;
+ &lt;p&gt; - Characteristics of survey subjects (residential households, medical facilities); &lt;/p&gt;
+ &lt;p&gt; - Birth history; &lt;/p&gt;
+ &lt;p&gt; - Knowledge and use of contraceptive methods; &lt;/p&gt;
+ &lt;p&gt; - Maternity care, delivery and infant feeding; &lt;/p&gt;
+ &lt;p&gt; - Desired fertility and family planning behaviors; &lt;/p&gt;
+ &lt;p&gt; - Understanding prenatal screening, newborn screening and ADDS; &lt;/p&gt;
+ &lt;p&gt; - Access to health and family planning services; &lt;/p&gt;</data>
 </root>

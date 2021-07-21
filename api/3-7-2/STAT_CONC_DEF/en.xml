@@ -2,5 +2,12 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 3-7-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Fully immunized is the number of children under 1 year of age who are vaccinated (orally) with a full dose of each type of preventive vaccine as prescribed by the Expanded Immunization Program, calculated per 100 children in the immunization coverage of an area or locality. side. &lt;/p&gt;
+ &lt;p&gt; - Specifically, the vaccines in the Expanded Immunization Program are as follows: &lt;/p&gt;
+ &lt;p&gt; + 1 dose of TB vaccine (BCG) &lt;/p&gt;
+ &lt;p&gt; + 3 doses of hepatitis B vaccine &lt;/p&gt;
+ &lt;p&gt; + 3 doses of a combination vaccine of diphtheria, pertussis, tetanus, hepatitis b and pneumonia, Hib meningitis (DPT-VGB-Hib) &lt;/p&gt;
+ &lt;p&gt; + 1 dose of polio vaccine (bOPV) or 3 doses of oral polio vaccine (bOPV) &lt;/p&gt;
+ &lt;p&gt; + 1 dose of measles vaccine. &lt;/p&gt;
+ &lt;p&gt; - These vaccines must be given at the right age, at the right time and in the right manner (injection, oral) &lt;/p&gt;</data>
 </root>

@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 4-1-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The indicator &quot;Percentage of students recognized to complete primary school&quot; is one of Vietnam&apos;s indicators to reflect the global sustainable development target &quot;&lt;strong&gt; 4.1.1: &lt;/strong&gt; Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex” &lt;/p&gt;
+ &lt;p&gt; However, the indicator does not guarantee global comparability because the content, scope and calculation method of Vietnam are not the same as the global standard. &lt;/p&gt;</data>
 </root>

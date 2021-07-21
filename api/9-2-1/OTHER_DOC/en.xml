@@ -2,5 +2,8 @@
 <root>
 	<status>success</status>
 	<message>The OTHER_DOC field for indicator 9-2-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - 2020 country report on 5-year progress towards implementation of sustainable development goals &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;</data>
 </root>

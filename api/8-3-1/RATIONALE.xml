@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 8-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Statistics on informality are key to assessing the quality of employment in the economy. In the context of limited social protection coverage, social security benefits (such as unemployment insurance) are insufficient or even absent, or when wages and pensions are low, individuals may have to do informal jobs to secure their livelihood. In these situations, indicators such as the unemployment rate will provide an incomplete picture of the labor market situation, revealing large deficits in the quality of employment. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Thống kê về tính phi chính thức là chìa khóa để đánh giá chất lượng việc làm trong nền kinh tế. Trong bối cảnh mức độ bao phủ bảo trợ xã hội bị hạn chế, các phúc lợi an sinh xã hội (như bảo hiểm thất nghiệp) không đủ hoặc thậm chí không có, hoặc khi lương và lương hưu thấp, các cá nhân có thể phải làm những công việc phi chính thức để đảm bảo sinh kế. Trong những tình huống này, các chỉ số như tỷ lệ thất nghiệp sẽ cung cấp một bức tranh không đầy đủ về tình hình thị trường lao động, cho thấy những thâm hụt lớn về chất lượng việc làm.&lt;/p&gt;
 			</language>
 </languages>

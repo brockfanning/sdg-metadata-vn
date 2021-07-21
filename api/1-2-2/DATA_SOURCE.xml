@@ -4,7 +4,8 @@
 	<message>The DATA_SOURCE field for indicator 1-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;
 			</language>
 </languages>
