@@ -4,7 +4,8 @@
 	<message>The SDG_GOAL field for indicator 12-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Objective 12: Ensure a sustainable production and consumption model &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 12: Đảm bảo mô hình sản xuất và tiêu dùng bền vững&lt;/p&gt;
 			</language>
 </languages>

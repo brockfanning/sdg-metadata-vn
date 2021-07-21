@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 12-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator serves the planning of geological baseline survey of minerals, land use planning, traffic planning, construction planning, socio-economic development planning of the country. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phục vụ cho việc quy hoạch điều tra cơ bản địa chất về khoáng sản, quy hoạch sử dụng đất, quy hoạch giao thông, quy hoạch xây dựng, quy hoạch phát triển kinh tế - xã hội của đất nước.&lt;/p&gt;
 			</language>
 </languages>
