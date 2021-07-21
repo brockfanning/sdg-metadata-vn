@@ -4,8 +4,7 @@
 	<message>The COVERAGE field for indicator 13-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Available figures for 2020 &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn cho năm 2020&lt;/p&gt;
 			</language>
 </languages>

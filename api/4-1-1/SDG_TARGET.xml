@@ -4,8 +4,7 @@
 	<message>The SDG_TARGET field for indicator 4-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and lower secondary education (Global Goal 4.1) &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 4.1: Đến năm 2030, đảm bảo tất cả các trẻ em gái và trai hoàn thành giáo dục tiểu học, giáo dục trung học cơ sở miễn phí, công bằng, có chất lượng (Mục tiêu 4.1 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

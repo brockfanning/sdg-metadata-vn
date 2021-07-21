@@ -4,12 +4,7 @@
 	<message>The COLL_METHOD field for indicator 3-4-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; The Ministry of Health conducted &lt;strong&gt; national survey on risk factors for non-communicable diseases (&lt;/strong&gt; STEPS) &lt;strong&gt; to &lt;/strong&gt; to collect information about the indicator. &lt;/p&gt;
- &lt;p&gt; &lt;strong&gt; The survey of risk factors for noncommunicable diseases in Vietnam was conducted in 2015. The survey conducted stratified sampling based on the national master sample framework of the General Statistics Office to collect representative data for gender. and 3 age groups: 18-29, 30-49, 50-69 nationwide. Data collection process includes 3 steps: &lt;/strong&gt; &lt;/p&gt;
- &lt;p&gt; &lt;strong&gt; - Step 1: Collect demographic data and behavioral risk factors. &lt;/strong&gt; &lt;/p&gt;
- &lt;p&gt; &lt;strong&gt; - Step 2: Measure height, weight and blood pressure. &lt;/strong&gt; &lt;/p&gt;
- &lt;p&gt; &lt;strong&gt; - Step 3: Test blood sugar, blood cholesterol, along with taking a urine sample to quantify salt consumption. This is a community survey for the 18-69 age group. &lt;/strong&gt; &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Y tế thực hiện &lt;strong&gt;điều tra quốc gia về Yếu tố nguy cơ bệnh không lây nhiễm (&lt;/strong&gt;STEPS)&lt;strong&gt; để &lt;/strong&gt;thu thập thông tin của chỉ tiêu.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Điều tra yếu tố nguy cơ bệnh không lây nhiễm tại Việt Nam được thực hiện năm 2015. Điều tra tiến hành chọn mẫu phân tầng dựa trên khung mẫu chủ quốc gia của Tổng cục Thống kê để thu thập số liệu đại diện cho giới và 3 nhóm tuổi: 18-29, 30-49, 50-69 trên toàn quốc. Quá trình thu thập số liệu gồm 3 bước: &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- Bước 1: Thu thập số liệu nhân khẩu học và các yếu tố nguy cơ hành vi.&lt;/strong&gt;&lt;/p&gt;

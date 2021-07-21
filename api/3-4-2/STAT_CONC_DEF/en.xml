@@ -2,10 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 3-4-2, translated into en</message>
-	<data> &lt;p&gt; - Percentage of people aged 15 years and older who use alcohol to a dangerous level is the percentage of people aged 15 years and older who use alcohol to a dangerous level compared to the total population aged 15 and over in the specified year. &lt;/p&gt;
- &lt;p&gt; - Level: &lt;/p&gt;
- &lt;p&gt; + Low risk: Drink ≤ 2 units of alcohol/day for men, ≤ 1 unit of alcohol/day for women and no more than five days a week; &lt;/p&gt;
- &lt;p&gt; + High-risk level:  Drink 2 - ≤ 5 alcohol units/day; &lt;/p&gt;
- &lt;p&gt; + Harmful Level:  Drink ≥ 6 units of alcohol/day or any 1 time in the last 30 days drinking ≥ 6 units of alcohol/time. &lt;/p&gt;
- &lt;p&gt; Convention: Having at least 1 drink of 6 or more alcohol units - equivalent to 06 cans of 330ml 5% beer or 06 cups of 330ml draft beer or 06 small glasses of 100ml of 13.5% wine or 06 cups of 30ml of spirits 40%-43%. &lt;/p&gt;</data>
+	<data/>
 </root>

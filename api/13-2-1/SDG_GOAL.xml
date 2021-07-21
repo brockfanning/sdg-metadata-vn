@@ -4,8 +4,7 @@
 	<message>The SDG_GOAL field for indicator 13-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Objective 13: Respond promptly and effectively to climate change and natural disasters &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 13: Ứng phó kịp thời, hiệu quả với biến đổi khí hậu và thiên tai&lt;/p&gt;
 			</language>
 </languages>

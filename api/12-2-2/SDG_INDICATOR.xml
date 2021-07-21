@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 12-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 12.2.2. The ratio of the land area of Vietnam is measured from the gamma spectrum 1:50,000 &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 12.2.2. Tỷ lệ diện tích phần đất liền Việt Nam được bay đo từ phổ gamma tỷ lệ 1:50.000&lt;/p&gt;
 			</language>
 </languages>
