@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 5-5-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the level of participation and role of women in the political system of the country. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mức độ tham gia, vai trò của phụ nữ vào hệ thống chính trị của đất nước.&lt;/p&gt;
 			</language>
 </languages>

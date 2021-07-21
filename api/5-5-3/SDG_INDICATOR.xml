@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 5-5-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 5.5.3. Percentage of women participating in the party committee &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 5.5.3. Tỷ lệ nữ tham gia cấp uỷ đảng&lt;/p&gt;
 			</language>
 </languages>

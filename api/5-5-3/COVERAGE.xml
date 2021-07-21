@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 5-5-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Available data for the division of the Party Committee of the XI and XII term &lt;/p&gt;
+ &lt;p&gt; (Published source: Report No. 474/BC-CP dated October 6, 2020 of the CP on the implementation of national goals on gender equality in 2019 and the period 2011-2020) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn cho phân tổ Cấp ủy của 2 nhiệm kỳ khóa XI và khóa XII&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo số 474/BC-CP ngày 06/10/2020 của CP về thực hiện các mục tiêu quốc gia về bình đẳng giới năm 2019 và giai đoạn 2011-2020)&lt;/p&gt;
 			</language>

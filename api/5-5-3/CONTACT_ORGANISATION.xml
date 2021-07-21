@@ -4,7 +4,8 @@
 	<message>The CONTACT_ORGANISATION field for indicator 5-5-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Organization Department of the Party Central Committee. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Ban Tổ chức Trung ương Đảng.&lt;/p&gt;
 			</language>
 </languages>

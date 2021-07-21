@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 5-5-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The percentage of women participating in party committees at all levels is the percentage of women holding positions in party committees compared to the total number of people participating in party committees. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ nữ tham gia các cấp ủy đảng là tỷ lệ phần trăm số phụ nữ giữ các chức vụ trong các cấp uỷ đảng so với tổng số người tham gia các cấp uỷ đảng.&lt;/p&gt;
 			</language>
 </languages>

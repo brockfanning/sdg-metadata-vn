@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 17-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; 2020 framework data only &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Finance) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu theo từng khuôn khổ của năm 2020&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Tài chính)&lt;/p&gt;
 			</language>
