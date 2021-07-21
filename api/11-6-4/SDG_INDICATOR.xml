@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 11-6-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 11.6.4. GHG emissions per capita &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 11.6.4. Lượng phát thải khí nhà kính bình quân đầu người&lt;/p&gt;
 			</language>
 </languages>

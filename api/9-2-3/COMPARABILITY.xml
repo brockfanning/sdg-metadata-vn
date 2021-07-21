@@ -4,8 +4,7 @@
 	<message>The COMPARABILITY field for indicator 9-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; This indicator corresponds to the global SDG target 9.2.2: Manufacturing employment as a proportion of total employment. The calculation method of the Vietnamese indicator is consistent with the global one, so Vietnam&apos;s data ensures international comparison. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 9.2.2: Manufacturing employment as a proportion of total employment. Phương pháp tính toán của chỉ tiêu Việt Nam phù hợp với chỉ tiêu toàn cầu, do đó số liệu của Việt Nam bảo đảm so sánh quốc tế.&lt;/p&gt;
 			</language>
 </languages>

@@ -2,10 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 6-2-1, translated into en</message>
-	<data> &lt;p&gt; The indicator “Proportion of households using hygienic latrines” corresponds to the global SDG target “6.2.1: Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap” and water”. However, the scope and content of Vietnam do not fully meet the requirements of the global norm: &lt;/p&gt;
- &lt;p&gt; - Vietnam indicator for the proportion of households, globally for the proportion of the population &lt;/p&gt;
- &lt;p&gt; - The global indicator consists of 2 parts: &lt;/p&gt;
- &lt;p&gt; + Proportion of the population using safely managed sanitation services, including handwashing facilities with soap and water currently measured by the proportion of the population using basic sanitation facilities that do not shared with other households and where feces are safely disposed of on site or treated off-site. &apos;improved&apos; sanitation facilities include: flushing or emptying toilets with flushing water, septic tanks or latrines, improved ventilation latrines, tiled latrines and composting latrines . &lt;/p&gt;
- &lt;p&gt; + Population with basic handwashing facilities: a device that holds, transports, or regulates the flow of water to facilitate hand washing with soap and water in the household. &lt;/p&gt;
- &lt;p&gt; - Vietnam only collected the percentage of households with hygienic latrines, not yet integrated collection of handwashing facilities with soap and water. &lt;/p&gt;</data>
+	<data/>
 </root>

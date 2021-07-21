@@ -4,9 +4,7 @@
 	<message>The CONTACT_ORGANISATION field for indicator 16-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Chairman: General Statistics Office; &lt;/p&gt;
- &lt;p&gt; - Coordination: Ministry of Labour, Invalids and Social Affairs. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chủ trì: Tổng cục Thống kê;&lt;/p&gt;
 &lt;p&gt;- Phối hợp: Bộ Lao động, Thương binh và Xã hội.&lt;/p&gt;
 			</language>

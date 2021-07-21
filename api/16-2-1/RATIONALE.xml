@@ -4,8 +4,7 @@
 	<message>The RATIONALE field for indicator 16-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; This indicator reflects the situation of people under 18 years old being punished for violence and spirit. The indicator reflects inequality in society, is the basis for formulating policies and laws to protect the disadvantaged. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh tình trạng người dưới 18 tuổi bị xử phạt về bạo lực và tinh thần. Chỉ tiêu phản ánh sự bất bình đẳng trong xã hội, là cơ sở xây dựng các chính sách và pháp luật bảo về những đối tượng yếu thế.&lt;/p&gt;
 			</language>
 </languages>

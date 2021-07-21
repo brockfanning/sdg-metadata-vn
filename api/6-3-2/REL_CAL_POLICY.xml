@@ -4,8 +4,7 @@
 	<message>The REL_CAL_POLICY field for indicator 6-3-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Year &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Năm&lt;/p&gt;
 			</language>
 </languages>

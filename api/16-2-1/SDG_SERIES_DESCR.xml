@@ -4,8 +4,7 @@
 	<message>The SDG_SERIES_DESCR field for indicator 16-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month [16.2.1] VC_VAW_PHYPYV &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Proportion of children aged 1-14 years who experienced physical punishment and/or psychological aggression by caregivers in last month [16.2.1] VC_VAW_PHYPYV&lt;/p&gt;
 			</language>
 </languages>
