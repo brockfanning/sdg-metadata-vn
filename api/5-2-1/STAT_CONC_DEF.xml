@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 5-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Percentage of women and girls aged 15 years and older who have experienced violence by their current or former husband or partner in the past 12 months is the percentage of women and girls aged 15 years and older who have experienced experienced physical, sexual or emotional violence by a current or former husband or partner in the past 12 months compared to the total number of women and girls aged 15 years and older. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ phụ nữ và trẻ em gái từ 15 tuổi trở lên đã từng bị bạo lực bởi chồng hoặc bạn tình hiện tại hoặc trước đây trong 12 tháng qua là tỷ lệ phần trăm phụ nữ và trẻ em gái từ 15 tuổi trở lên đã từng bị bạo lực về thể chất, tình dục hoặc tinh thần bởi chồng hoặc bạn tình hiện tại hoặc trước đây trong 12 tháng qua so với tổng số phụ nữ và trẻ em gái từ 15 tuổi trở lên.&lt;/p&gt;
 			</language>
 </languages>
