@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 1-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator reflects the results of the implementation of social welfare policies for those participating in social insurance, health insurance and unemployment insurance. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh kết quả việc thực hiện các chính sách san sinh xã hội đối với những người tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.&lt;/p&gt;
 			</language>
 </languages>

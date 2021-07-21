@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The RATIONALE field for indicator 4-8-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator measures access in schools to the basic services and facilities needed to ensure a safe, effective learning environment for all students. &lt;/p&gt;
+ &lt;p&gt; A high indicator value indicates that schools have good access to related services and facilities. An ideal school must have full, quality access to all these services and facilities. &lt;/p&gt;</data>
 </root>

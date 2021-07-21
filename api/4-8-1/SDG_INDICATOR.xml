@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 4-8-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 4.8.1. Percentage of schools with: (a) electricity; (b) internet for learning purposes; (c) computers for learning purposes; (d) appropriate infrastructure and materials for students with disabilities; (e) drinking water; (f) convenient and separate toilet system for each gender and (g) convenient hand washing station &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 4.8.1. Tỷ lệ các trường học có: (a) điện; (b) internet dùng cho mục đích học tập; (c) máy tính dùng cho mục đích học tập; (d) cơ sở hạ tầng và tài liệu phù hợp với học sinh, sinh viên khuyết tật; (e) nước uống; (f) hệ thống vệ sinh tiện lợi và riêng rẽ cho từng giới tính và (g) chỗ rửa tay thuận tiện&lt;/p&gt;
 			</language>
 </languages>

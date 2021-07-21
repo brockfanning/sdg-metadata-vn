@@ -4,7 +4,13 @@
 	<message>The STAT_CONC_DEF field for indicator 6-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The percentage of large reservoirs that are controlled and monitored to ensure that the minimum flow of a river basin is maintained is the percentage of large reservoirs that are controlled and monitored to ensure that the minimum flow of the river basin is maintained. river basins compared to the total number of large reservoirs. &lt;/p&gt;
+ &lt;p&gt; Large reservoir includes: &lt;/p&gt;
+ &lt;p&gt; a) Reservoir works to exploit surface water for power generation with an installed capacity of over 50kW, including irrigation works combined with hydroelectricity; &lt;/p&gt;
+ &lt;p&gt; b) Reservoir works for exploitation of surface water with a scale of over 0.1m &lt;sup&gt; 3 &lt;/sup&gt; /sec for water supply for agricultural and aquaculture production; over 100m &lt;sup&gt; 3 &lt;/sup&gt; /day and night for water supply for other purposes. &lt;/p&gt;
+ &lt;p&gt; Control and supervision are carried out in accordance with regulations of the Ministry of Natural Resources and Environment. &lt;/p&gt;
+ &lt;p&gt; Minimum flow is the flow at the lowest level necessary to maintain a river or river section in order to ensure the normal development of the aquatic ecosystem and ensure a minimum level for exploitation and use. water resources of water users. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ hồ chứa lớn được kiểm soát, giám sát để bảo đảm duy trì dòng chảy tối thiểu của lưu vực sông là tỷ lệ phần trăm số hồ chứa lớn được kiểm soát, giám sát để bảo đảm duy trì dòng chảy tối thiểu của lưu vực sông so với tổng số hồ chứa lớn.&lt;/p&gt;
 &lt;p&gt;Hồ chứa lớn bao gồm:&lt;/p&gt;
 &lt;p&gt;a) Công trình hồ chứa khai thác nước mặt để phát điện với công suất lắp máy trên 50kW, bao gồm cả công trình thủy lợi kết hợp với thủy điện;&lt;/p&gt;

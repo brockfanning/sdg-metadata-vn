@@ -4,7 +4,10 @@
 	<message>The FREQ_COLL field for indicator 4-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; + The time to determine the actual permanent resident of the household is 0:00 on the 1st day of the month of the survey and collection of information &lt;/p&gt;
+ &lt;p&gt; + The investigation period is 07 days before the time of the investigation, except for the case of job search, the investigation period is 30 days before the time of the investigation. &lt;/p&gt;
+ &lt;p&gt; + Time to collect information in the area is 07 days (including travel time), starting from the 1st day of the survey month &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;+ Thời điểm để xác định nhân khẩu thực tế thường trú của hộ là 0 giờ ngày 01 của tháng điều tra thu thập thông tin&lt;/p&gt;
 &lt;p&gt;+ Thời kỳ điều tra là 07 ngày trước thời điểm điều tra, ngoại trừ trường hợp tìm kiếm việc làm thì thời kỳ điều tra là 30 ngày trước thời điểm điều tra.&lt;/p&gt;
 &lt;p&gt;+ Thời gian thu thập thông tin tại địa bàn là 07 ngày (kể cả thời gian di chuyển), bắt đầu từ ngày 01 của tháng điều tra&lt;/p&gt;

@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 4-7-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Percentage of schools with basic education programs on sex, prevention of violence and abuse; provision of HIV knowledge is the percentage of schools that have basic education programs on sex, prevention of violence and abuse; provide HIV knowledge in the total number of schools of that grade. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ trường có chương trình giáo dục cơ bản về giới tính, phòng chống bạo lực, xâm hại; cung cấp kiến thức về HIV là tỷ lệ phần trăm số trường có chương trình giáo dục cơ bản về giới tính, phòng chống bạo lực, xâm hại; cung cấp kiến thức về HIV trong tổng số trường của cấp học đó.&lt;/p&gt;
 			</language>
 </languages>

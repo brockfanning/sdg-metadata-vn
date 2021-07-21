@@ -4,7 +4,8 @@
 	<message>The COLL_METHOD field for indicator 4-7-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The Departments of Education and Training of the provinces/cities directly under the Central Government report the data according to the form issued by the Ministry of Education and Training. Based on data from the Departments, the Ministry of Education and Training compiles data of the indicator. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương báo cáo số liệu theo biểu mẫu do Bộ Giáo dục và Đào tạo ban hành. Căn cứ số liệu từ các Sở, Bộ Giáo dục và Đào tạo tổng hợp số liệu của chỉ tiêu.&lt;/p&gt;
 			</language>
 </languages>

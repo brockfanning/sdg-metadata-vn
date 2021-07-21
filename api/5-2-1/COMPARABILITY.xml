@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 5-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Corresponding Global Level Indicator “5.2.1: Proportion of ever-partnered women and girls aged 15 years and older violence subjected to physical, sexual or psychological by a current or former intimate partner in the previous 12 months, by form of violence and by age”. The content of the Vietnamese and global indicators is the same, so the Vietnamese data warrant international comparison. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu cấp độ toàn cầu tương ứng “5.2.1: Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age”. Nội dung của chỉ tiêu Việt Nam và toàn cầu giống nhau do vậy số liệu của Việt Nam bảo đảm so sánh quốc tế.&lt;/p&gt;
 			</language>
 </languages>

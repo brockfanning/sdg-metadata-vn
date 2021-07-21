@@ -4,7 +4,11 @@
 	<message>The COMPARABILITY field for indicator 6-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator “Proportion of households using hygienic water sources” corresponds to the global SDG target “6.1.1.Proportion of population using safely managed drinking water services” &lt;/p&gt;
+ &lt;p&gt; According to the global concept: &apos;improved&apos; sources of drinking water include: tap water in houses, gardens; public faucet or standpipe; drilled wells; protected dug well; packaged water; rain water. &lt;/p&gt;
+ &lt;p&gt; Vietnam regulates: Sources of hygienic drinking water include: tap water, rain water, well water/construction/drilling pump with pump, filtered spring water and rain water &lt;/p&gt;
+ &lt;p&gt; However, the global indicator is required to calculate the population ratio, Vietnam&apos;s data are published according to the proportion of households &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ lệ hộ sử dụng nguồn nước hợp vệ sinh” tương ứng chỉ tiêu SDG toàn cầu “6.1.1.Proportion of population using safely managed drinking water services”&lt;/p&gt;
 &lt;p&gt;Theo khái niệm toàn cầu: Các nguồn nước uống ‘được cải thiện’ bao gồm: nước máy vào nhà ở, sân vườn; vòi công cộng hoặc ống đứng; giếng khoan; giếng đào được bảo vệ; nước đóng gói; nước mưa.&lt;/p&gt;
 &lt;p&gt;Việt Nam quy định: Nguồn nước dùng cho ăn uống hợp vệ sinh bao gồm: Nước máy, nước mưa, nước giếng khơi/xây/khoan có bơm, nước suối có lọc và nước mưa&lt;/p&gt;

@@ -4,7 +4,8 @@
 	<message>The SOURCE_TYPE field for indicator 5-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Statistical survey. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Điều tra thống kê.&lt;/p&gt;
 			</language>
 </languages>

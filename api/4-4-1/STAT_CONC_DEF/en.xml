@@ -2,5 +2,8 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 4-4-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The trained employment rate is the percentage of trained employed workers in the total number of employed workers in the economy. &lt;/p&gt;
+ &lt;p&gt; Number of trained employees including those who satisfy both of the following conditions: &lt;/p&gt;
+ &lt;p&gt; - Working in economy; &lt;/p&gt;
+ &lt;p&gt; - Having been trained at a school or a professional, technical and professional training institution under the National Education System for 3 months or more and graduated, having been granted a diploma/certificate of achieve a certain professional, technical, or professional level, including: elementary vocational, vocational intermediate, vocational college, professional intermediate, professional college, university and post-graduate (master, PhD, Doctor of Science). &lt;/p&gt;</data>
 </root>

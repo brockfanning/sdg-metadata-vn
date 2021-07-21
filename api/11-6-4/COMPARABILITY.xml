@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 11-6-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator reflects the sustainable development goals of Vietnam (target 11.6). The set of global sustainable development indicators does not have this indicator &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh các mục tiêu phát triển bền vững của Việt Nam (mục tiêu 11.6). Bộ chỉ tiêu phát triển bền vững toàn cầu không có chỉ tiêu này&lt;/p&gt;
 			</language>
 </languages>

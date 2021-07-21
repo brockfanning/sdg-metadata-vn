@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 4-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 4.6: By 2030, ensure that all young people and the majority of adults, both men and women, can read and write (Global Target 4.6) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 4.6: Đến năm 2030, đảm bảo tất cả thanh niên và phần lớn người trưởng thành, cả nam giới và nữ giới, biết đọc, viết (Mục tiêu 4.6 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

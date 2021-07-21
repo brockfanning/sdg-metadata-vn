@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 6-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 6.1: By 2030, ensure adequate and equitable access to safe, affordable drinking water for all (Global Goal 6.1) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 6.1: Đến năm 2030, đảm bảo khả năng tiếp cận đầy đủ và công bằng với nước uống và sinh hoạt an toàn, trong khả năng chi trả cho tất cả mọi người (Mục tiêu 6.1 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

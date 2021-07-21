@@ -2,5 +2,16 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 1-2-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; a) Number of people paying social insurance &lt;/p&gt;
+ &lt;p&gt; Number of people paying social insurance includes the number of people participating in compulsory social insurance premiums and the number of people paying voluntary social insurance premiums. &lt;/p&gt;
+ &lt;p&gt; Compulsory social insurance is a type of social insurance organized by the State that employees and employers must participate in. &lt;/p&gt;
+ &lt;p&gt; Voluntary social insurance is a type of social insurance organized by the State in which participants can choose a payment level and payment method suitable to their income and the State has a policy to support insurance premiums. social insurance for participants to enjoy retirement and survivorship benefits. &lt;/p&gt;
+ &lt;p&gt; The subjects participating in compulsory social insurance are prescribed by the Law on Social Insurance. &lt;/p&gt;
+ &lt;p&gt; Voluntary social insurance participants are Vietnamese citizens aged full 15 years and older and are not subject to compulsory social insurance payment. &lt;/p&gt;
+ &lt;p&gt; b) Number of people paying health insurance &lt;/p&gt;
+ &lt;p&gt; Health insurance is a form of compulsory insurance that is applied to subjects under the Law on Health Insurance for health care, not for profit and organized by the State. &lt;/p&gt;
+ &lt;p&gt; Participants in health insurance are regulated by the Law on Health Insurance. &lt;/p&gt;
+ &lt;p&gt; c) Number of people paying unemployment insurance &lt;/p&gt;
+ &lt;p&gt; Unemployment insurance is a regime aimed at compensating a part of an employee&apos;s income when he or she loses a job, supporting workers in vocational training, job maintenance, and job search on the basis of contributions to the Self-Insurance Fund. wish. &lt;/p&gt;
+ &lt;p&gt; The subjects participating in unemployment insurance are regulated under the Employment Law. &lt;/p&gt;</data>
 </root>

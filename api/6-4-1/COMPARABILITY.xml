@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 6-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects Vietnam&apos;s sustainable development goals (target 6.4), which is not included in the Global Sustainable Development Indicators Set. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh các mục tiêu phát triển bền vững của Việt Nam (mục tiêu 6.4), không có trong Bộ chỉ tiêu phát triển bền vững toàn cầu.&lt;/p&gt;
 			</language>
 </languages>

@@ -2,5 +2,11 @@
 <root>
 	<status>success</status>
 	<message>The SDG_SERIES_DESCR field for indicator 4-8-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Proportion of schools with access to electricity [4.a.1] SE_ACS_ELECT &lt;/p&gt;
+ &lt;p&gt; Proportion of schools with access to computers for pedagogical purposes [4.a.1] SE_ACS_CMPTR &lt;/p&gt;
+ &lt;p&gt; Proportion of schools with access to basic drinking water [4.a.1] SE_ACS_H2O &lt;/p&gt;
+ &lt;p&gt; Proportion of schools with basic handwashing facilities [4.a.1] SE_ACC_HNDWSH &lt;/p&gt;
+ &lt;p&gt; Proportion of schools with access to the internet for pedagogical purposes [4.a.1] SE_ACS_INTNT &lt;/p&gt;
+ &lt;p&gt; Proportion of schools with access to Âaccess to single-sex basic sanitation [4.a.1] SE_ACS_SANIT &lt;/p&gt;
+ &lt;p&gt; Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1] SE_INF_DSBL &lt;/p&gt;</data>
 </root>

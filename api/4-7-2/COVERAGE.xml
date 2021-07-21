@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 4-7-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - 2019 general figures only &lt;/p&gt;
+ &lt;p&gt; - No data by indicator subdivisions. &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals, data from the Ministry of Education and Training). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Chỉ có số liệu chung của năm 2019&lt;/p&gt;
 &lt;p&gt;- Không có số liệu theo các phân tổ của chỉ tiêu.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Giáo dục và Đào tạo).&lt;/p&gt;

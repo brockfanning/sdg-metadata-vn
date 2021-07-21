@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 8-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Objective 8.3: Strengthen policies to support high productivity production activities, create decent and sustainable jobs, support entrepreneurship, invention and innovation; formalization and growth of micro, small and medium enterprises, including through access to financial services (Global Target 8.3) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 8.3: Tăng cường các chính sách hỗ trợ các hoạt động sản xuất có năng suất cao, tạo việc làm tốt và bền vững, hỗ trợ làm chủ doanh nghiệp, phát minh và sáng tạo; chính thức hóa và tăng trưởng các doanh nghiệp vừa, nhỏ và siêu nhỏ, gồm cả thông qua việc tiếp cận với các dịch vụ tài chính (Mục tiêu 8.3 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

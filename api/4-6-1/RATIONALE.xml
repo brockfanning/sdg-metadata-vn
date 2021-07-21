@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 4-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator is a direct measure of the skills of adolescents and adults in two areas: literacy and numeracy. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này là thước đo trực tiếp về kỹ năng của thanh thiếu niên và người trưởng thành ở hai lĩnh vực: Biết đọc và biết viết.&lt;/p&gt;
 			</language>
 </languages>

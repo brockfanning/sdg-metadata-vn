@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The FREQ_COLL field for indicator 4-4-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; + The time to determine the actual permanent resident of the household is 0:00 on the 1st day of the month of the survey and collection of information &lt;/p&gt;
+ &lt;p&gt; + The investigation period is 07 days before the time of the investigation, except for the case of job search, the investigation period is 30 days before the time of the investigation. &lt;/p&gt;
+ &lt;p&gt; + Time to collect information in the area is 07 days (including travel time), starting from the 1st day of the survey month &lt;/p&gt;</data>
 </root>
