@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 4-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Annually available figures from 2010-2019 &lt;/p&gt;
+ &lt;p&gt; - Annual data are available by disaggregation: Gender; Technical qualification; Urban/rural; Provinces / cities under central. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook and Labor Employment Survey Results of the General Statistics Office). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Số liệu có sẵn hàng năm từ năm 2010-2019&lt;/p&gt;
 &lt;p&gt;- Số liệu có đầy đủ hàng năm theo các phân tổ: Giới tính; Trình độ chuyên môn kỹ thuật; Thành thị/nông thôn; Tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê và Kết quả điều tra Lao động việc làm của Tổng cục Thống kê).&lt;/p&gt;

@@ -1839,6 +1839,135 @@
 </fields>
 
 						</indicator>
+						<indicator id="3-5-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 3: Ensure healthy lives and enhance well-being for people of all ages &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 3.5: By 2030, annually continue to control and reduce traffic accidents on all three criteria, number of cases, number of deaths and number of injured people (Global target 3.6) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 3.5.1. Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Number of deaths rate due to road traffic injuries [3.6.1] SH_STA_TRAFN &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Public Security. &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 44 Yet Kieu - Hoan Kiem - Hanoi &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; A traffic accident is an unexpected event, beyond the subjective will of human beings, occurring when traffic participants are operating on public roads, special-use roads or at intersections. public transport (referred to as the traffic network: road, railway, waterway, air), but due to subjective reasons, violation of traffic safety rules or encountering unexpected situations and incidents. unpredictably, causing certain damage to life, human health or property. &lt;/p&gt;
+ &lt;p&gt; One or more consecutive collisions between traffic participants at a certain place is called a traffic accident. A traffic accident occurs to one or more objects in traffic. &lt;/p&gt;
+ &lt;p&gt; Traffic accidents cause damage to people and property. The number of people affected by traffic accidents includes those injured and killed by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Traffic accident deaths include all deaths caused by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Injured people are those who suffer physical and mental injuries due to the direct impact of traffic accidents, affecting their normal lives. Cases of shock or mental impact due to an event affecting the family and self are not counted as the number of people injured. &lt;/p&gt;
+ &lt;p&gt; Number of people injured in traffic accidents includes the total number of injured people requiring treatment due to traffic accidents. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; Number &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; National level statistical reporting mode. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; According to the provisions of Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the National Statistical Reporting Regulation, the Ministry of Public Security is responsible for collecting the form “002. H/BCB-CA-Traffic accident”. The reporting period is June, month and year. Periodically, the Ministry of Public Security collects data and sends it to the General Statistics Office. According to the provisions of the Law on Statistics, the General Statistics Office is responsible for appraising data on national statistical indicators implemented by the Ministry of Public Security and disclosing information. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Public Security. &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Public Security. &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the current situation, extent and consequences of traffic accidents, serving as a basis for management agencies to develop policies to enhance traffic order and safety and social order throughout the country. &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM"> &lt;p&gt; Data from the Ministry of Public Security only records on-site deaths due to traffic accidents, not fully reflecting all traffic deaths. &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; + Annual road traffic accident data from 2010-2019 &lt;/p&gt;
+ &lt;p&gt; + Annual railway traffic accident data from 2017-2019 &lt;/p&gt;
+ &lt;p&gt; + Annual water traffic accident data from 2016-2019 &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical yearbook publishes only general data on traffic accidents; Ministry of Public Works reports data disaggregated by road type and province/city directly under the Central Government). &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; SDG Global Spending Indicator“3.6.1.Death rate due to road traffic injuries”. &lt;/p&gt;
+ &lt;p&gt; Comparison of international and Vietnamese indicators &lt;/p&gt;
+ &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt; &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Target name &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Road traffic accident death rate &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Calculation method &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Calculate the number of deaths due to fatal road traffic accidents per 100,000 people &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Count: &lt;/p&gt;
+         &lt;p&gt; - traffic accident &lt;/p&gt;
+         &lt;p&gt; - Dead, injured in traffic accidents &lt;/p&gt;
+         &lt;p&gt; - People injured in traffic accidents &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Split &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;3&quot;&gt;
+         &lt;p&gt; WHO disaggregation by road user, age, sex, income group and region &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Type of accident (road/railway/waterway); &lt;/p&gt;
+         &lt;p&gt; - Province/city directly under the Central Government. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_EMAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="DATA_COMP"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="3-7-2">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Goal 3: Ensure healthy lives and enhance well-being for people of all ages &lt;/p&gt;
@@ -1919,6 +2048,84 @@
 									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="3-9-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 3: Ensure healthy lives and enhance well-being for people of all ages &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 3.9: Strengthen the implementation of the World Health Organization Framework Convention on Tobacco Control (Global Target 3.a) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 3.9.1. Percentage of population aged 15 and over using tobacco &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1] SH_PRV_SMOK &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Health &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 138A Giang Vo - Ba Dinh - Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; banbientap@moh.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Percentage of population aged 15 years and older who use tobacco is the percentage of the population aged 15 years and older who currently use any tobacco product. &lt;/p&gt;
+ &lt;p&gt; Tobacco products are products made from all or part of tobacco materials, used through smoking, chewing, smelling, snorting, sucking tobacco products. &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Statistical survey. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; This indicator was collected by the Ministry of Health through the Adult Tobacco Use Survey (GATS). &lt;/p&gt;
+ &lt;p&gt; The 2015 GATS in Viet Nam was designed to be nationally representative, for all males and females aged 15 years and older per household, not living in centralized facilities. The sample size was calculated to get accurate estimates of the important variables by gender and urban/rural area. This survey applied a stratified random sampling design, in two phases. In the first sampling stage, the basic sample unit (PSU) is an enumeration area (EA). On average, each enumeration area in urban areas has 133 households and each enumeration area in rural areas has 120 households. The sample frame is 15% of the master sample of Vietnam covering 170,000 enumeration areas. The samples of the GATS 2015 survey in Vietnam were randomly selected and stratified using the proportional probability sample size approach. &lt;/p&gt;
+ &lt;p&gt; The GATS 2015 Vietnam questionnaire includes basic and optional questions related to the situation in Vietnam. The questionnaire consists of 10 parts: including: General information; Smoke; Smoking e-cigarettes; Smokeless tobacco; Smoking cessation; Passive smoking; Economy; The media; Knowledge, attitude and awareness about tobacco harms; Observe health warnings on tobacco product packaging. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; 5 Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Health &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Health &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; - Tobacco is one of the leading causes of morbidity and mortality from non-communicable diseases (NCD). &lt;/p&gt;
+ &lt;p&gt; - Provide information for communication and health education programs on smoking prevention for health facilities for reasonable treatment and prevention, contributing to the reduction of premature mortality due to non-smoking diseases. infection. &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM"> &lt;p&gt; This indicator is not collected through the National Statistical Survey Program, but through the GATS survey. &lt;/p&gt;
+ &lt;p&gt; The Global Survey of Adult Tobacco Use (GATS for short) is a global benchmark survey aimed at systematically monitoring adult tobacco use (&lt;p&gt;). both smoked and smokeless tobacco) and monitor basic indicators of tobacco harm prevention and control activities in countries. Worldwide, the GATS investigation is financially supported by the Bloomberg Initiative to reduce tobacco use globally. Organizations participating in the GATS investigation include: World Health Organization (WHO), Centers for Disease Control and Prevention (CDC), CDC Foundation, Johns Hopkins Bloomberg School of Public Health and coordination with the focal point of each country. The first GATS survey was conducted in 15 countries, the second time the GATS survey was conducted in 6 countries. &lt;/p&gt;
+ &lt;p&gt; In Vietnam, the GATS survey was conducted for the first time in 2010. The results of the 2010 GATS survey provided important information for advocacy, development and implementation of drug harm control policies. leaves. To update information on the prevention and control of tobacco harms in Vietnam in 2015, the second GATS survey conducted in Vietnam was timely to assess the current status of tobacco use in humans. adults over the age of 15, support to assess progress and orientation for policy development and propose appropriate interventions in the near future on tobacco harms prevention and control. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Only data available every 5 years are 2010 and 2015 by sex disaggregation. &lt;/p&gt;
+ &lt;p&gt; (Published source: Survey data from the GATS 2015 Global Survey of Tobacco Use – Ministry of Health) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; Metadata of this indicator is similar to the global indicator “ &lt;strong&gt; 3.a.1. &lt;/strong&gt; Age-standardized prevalence of current tobacco use among persons aged 15 years and older” &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - GATS 2015 Global Survey of Tobacco Use Survey &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -2305,6 +2512,90 @@
 </fields>
 
 						</indicator>
+						<indicator id="4-4-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 4: Ensure quality, equitable, inclusive education and promote lifelong learning opportunities for all &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 4.4: By 2030, significantly increase the number of workers with skills relevant to labor market needs for good jobs and business ownership (Global target 4.4) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 4.4.1 Percentage of trained employees &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 54 Nguyen Chi Thanh, Dong Da, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; banbientap@gso.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; The trained employment rate is the percentage of trained employed workers in the total number of employed workers in the economy. &lt;/p&gt;
+ &lt;p&gt; Number of trained employees including those who satisfy both of the following conditions: &lt;/p&gt;
+ &lt;p&gt; - Working in economy; &lt;/p&gt;
+ &lt;p&gt; - Having been trained at a school or a professional, technical and professional training institution under the National Education System for 3 months or more and graduated, having been granted a diploma/certificate of achieve a certain professional, technical, or professional level, including: elementary vocational, vocational intermediate, vocational college, professional intermediate, professional college, university and post-graduate (master, PhD, Doctor of Science). &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Labor and employment survey. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; The Labor and Employment Survey is a sampling survey with a sample size that ensures statistical estimates for the region, Hanoi, and Ho Chi Minh City quarterly and for the province by year. &lt;/p&gt;
+ &lt;p&gt; - Sampling survey using two-stage stratified sampling method: &lt;/p&gt;
+ &lt;p&gt; + Phase 1: The commune determines the number of sample areas; distribution of sample EAs based on the list of master EAs of the 2019 Population and Housing Census in each province in 2 floors for urban and rural areas; select the EAs according to the probability method proportional to the household size of the area. &lt;/p&gt;
+ &lt;p&gt; + Stage 2: Select sample households in each enumeration area. The sample was selected in phase 1 by systematic random method. &lt;/p&gt;
+ &lt;p&gt; - Information collection method: Direct interview method using electronic questionnaire installed on the enumerator&apos;s tablet or smartphone. The enumerator went to each household to ask the information provider and recorded all the answers on the electronic form. &lt;/p&gt;
+ &lt;p&gt; Purpose: Collecting information reflecting the current situation of labor resources and employment in order to serve the requirements of management, effective exploitation and use, and rational development of labor market resources; serving the calculation of labor and employment statistical indicators specified in the national statistical indicator system &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL"> &lt;p&gt; + The time to determine the actual permanent resident of the household is 0:00 on the 1st day of the month of the survey and collection of information &lt;/p&gt;
+ &lt;p&gt; + The investigation period is 07 days before the time of the investigation, except for the case of job search, the investigation period is 30 days before the time of the investigation. &lt;/p&gt;
+ &lt;p&gt; + Time to collect information in the area is 07 days (including travel time), starting from the 1st day of the survey month &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the quality of human resources, creating a solid premise for the synchronous construction and development of labor market factors, contributing to the effective mobilization, allocation and use of resources to promote labor market development. promote socioeconomic development. At the same time, shift the labor structure towards modernity, ensuring the connection of the domestic labor market with the labor market of countries in the region and the world. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; - Annually available figures from 2010-2019 &lt;/p&gt;
+ &lt;p&gt; - Annual data are available by disaggregation: Gender; Technical qualification; Urban/rural; Provinces / cities under central. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook and Labor Employment Survey Results of the General Statistics Office). &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator only reflects Vietnam&apos;s sustainable development goals, not globally. &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - Labor and employment survey results of the General Statistics Office; &lt;/p&gt;
+ &lt;p&gt; - Statistical Yearbook. &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="4-5-1">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Goal 4: Ensure quality, equitable, inclusive education and promote lifelong learning opportunities for all &lt;/p&gt;
@@ -2365,6 +2656,143 @@
 									<field id="FREQ_COLL"/>
 									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="4-6-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 4: Ensure quality, equitable, inclusive education and promote lifelong learning opportunities for all &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 4.6: By 2030, ensure that all young people and the majority of adults, both men and women, can read and write (Global Target 4.6) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 4.6.1. Literacy rate of population aged 15 and over &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 54 Nguyen Chi Thanh, Dong Da, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; banbientap@gso.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Literacy rate of population aged 15 years and over is the percentage of population aged 15 years and over at time (t) who is literate (can read, write and understand a simple sentence in the national language script, ethnic or foreign characters) compared to the total population aged 15 years and over at that time. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; - Population and housing census; &lt;/p&gt;
+ &lt;p&gt; - Census midterm; &lt;/p&gt;
+ &lt;p&gt; - Population change and family planning survey. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; - Type of survey: The Population Change and Family Planning Survey is a sampling survey. The sample size is distributed to ensure representativeness of the statistical indicators for the province level and disaggregated by urban/rural area. &lt;/p&gt;
+ &lt;p&gt; The population change census sample 2021 is a stratified sample with two phases: Phase 1 – selecting sample locations; Stage 2 – household selection. &lt;/p&gt;
+ &lt;p&gt; - Method of collecting information: Using the direct interview method using an electronic questionnaire installed on the enumerator&apos;s tablet or smartphone. The enumerator went to each household to ask the information provider and enter all the answers on the electronic form. &lt;/p&gt;
+ &lt;p&gt; The detailed plan for the 2021 population change and family planning survey can be found at the following link: https://www.gso.gov.vn/wp-content/uploads/2021/03/01-04-2021 -QD-1903-Dieu-tra-bien-dong-dan-so-2021.pdf &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL"> &lt;p&gt; Annual cycle, April 1 (except for the year in which the Population and Housing Census and the Mid-term Population and Housing Census were conducted). &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; This indicator is a direct measure of the skills of adolescents and adults in two areas: literacy and numeracy. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAkAAAABrCAYAAACfbj3qAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABjfSURBVHhe7Z2/jtU4G8YP32WsEEIM10CxgikoGC6AAtAWVCtBvYIGabUSDYgapK2oGAouACgoFkTBNQAarRC3MV9+Ic/wjtfOv5MznHPy/CQrie3YjuMTP3nt+JxaLBaHFdXGGGOMMWYe/K/ZGmOMMcbMBgsgY4wxxswOCyBjjDHGzA4LIGOMMcbMDgsgY4wxxswOCyBjjDHGzA4LIGOMMcbMDgsgY4wxxswOCyBjjDHGzA4LIGOMMcbMDgsgY4wxxswOCyBjjDHGzA4LIGOMMcbMjkEC6MWLF4tTp04duTt37iy+fPlSbyP4EX716tXG5+SgLH3zPX/+fF3OqSH/IekSl7o1xhhjzMnQWwDRqd+4cWPx+fPnxeHhYe12d3cXOzs7TYwfPH78uI736dOnxfv37xvf1YP4efr0aXPUDiINuI4pId3Xr1/3TncVAswYY4wx7fQSQI8ePao7dUTNuXPnGt/F4vr164v9/f0jMQHsI4yIhwD68OFDE7IaKJtE1pMnTxa3b9+u97v4+PHj4s2bN83ReMibMgjSpZ76MrUAM8YYY0w3vQTQvXv3Fnt7e8fEj0AEpf74iWvXrjV704PYomxjuHDhQvZ6hnLr1q1m7zu5+jDGGGPMetEpgGRduXz5cr3NgeUlwrCO3MuXLxvfH3ODSFPzZHCRdJ6RXDqUxrGG3y5dulTP54kQrnNloVGebBEp+CsO+SoNlTOG5SAMaw8ijH1ZwtiPViGlwRAd+zFupBS+qrlKxhhjzJw5bGN/f58xmsOHDx82PmUqMVDHZQvv3r07OldhcoSBwkHxFYY/x0ovRWkqPty+fbv229vbq49JoxJK9T4QrjDQ9YHyimmqDCVIW+UH4uLkp2MceQHnUA6RC49pGmOMMWZaBn0F1gWTn5mDoyGgixcvLqqOvLaQ4FeJi9q/Ehd1GMiKA1+/fq23CtPw2bdv3+ptXxiue/XqVb1/5syZXnNysLBQdl2DynD37t1B83TSuDpmrpSGBlNrFaThBwcH9b4xxhhjpqdTADFXBvp0yLlhHQQI5MJSJAA05MSEYpAYWSUIFYby+pTTGGOMMZtNpwDCcoNFhM/LS+KAOTWi9GVV34nBWEL43B6LDFusRScJ5bQIMsYYY7abXkNgWEYYqsKlk5EZrrl//369z5bhprgw4rNnz+phsD4gPIiPNUaur/UnTjrugk/6hcquScY3b96sw2N6WKTS604hvCuOMcYYY9aHSmf0g4m7xI+OScMRJg/HcE3mTf2Z8BuPSTuNI8ek4BKEEYd8mNwcz8FPxzjKiot+ihNJy0HZSqhONLE6nnfv3r1jx+Sl8uJ2d3dbw5Wm/IwxxhgzDZg92Fabnw8WIOb9xHWEQJaVk5gLZIwxxpjtZ9KvwJblypUrzd5xHjx4YPFjjDHGmMlYOwvQTua/xZhX1HcStTHGGGNMF2slgIwxxhhjToK1GgIzxhhjjDkJLICMMcYYMzssgIwxxhgzOyyAjDHGGDM7LICMMcYYMzssgIwxxhgzOyyAjDHGGDM7LICMMcYYMzssgIwxxhgzOyyAjDHGGDM7LICMMcYYMzssgIwxxhgzOyyAjDHGGDM7LICMMcYYMzssgIwxxhgzOyyAjDHGGDM7LICMMcYYMzssgIwxZsN4//794tSpU7UzxozDAsgYs/HcuXOnFgMIgzlw8eLFxeHh4WJ/f7/xMW28ePGibh+PHj1qfIyxADLGbAkIAoTBXPjy5cvi33//bY5MG//880/dPu7evdv4GLNYYD+t2sXh9yNjjNkwEALnzp1rjubDSVw3eezs7NT7nz9/3th6nmsbMe3YAmSMaeXq1atH801yjs4lB/6Ec/4q0fBXqRxtaC7N0KER5VmCMLnz5883vtNBuREmlCOF+p6qzhENGmrrEhC63ww3RaZqB7m0I9xD4qTgT121nTsU7qmH0zYfCyBjTCuvXr1avHv3rt5nS4coB6WO+PHjx7XV4NOnTyubm0O6ly9fXjx8+LDObygMmXFNf//9d+PTDZ3s06dPm6P/QsfIdauOuP6pefDgQZ025UiFH/cLNyUMIbVBGWQpSpmiHeSETQrDW2qTkbdv39b3+P79+43PciB+uJ4uiBdFW+43Yn4uFkDGmNHQ4ezt7dUdcXzDpkPc3d2trQZ0fB8+fGhCpoV06fhw5JeKgQhhuU4IEYSgaDs3wjUjuEocHBwMGm4ZahlBRKgzpywvX76s9/tSqocSxH/y5ElzlIfrzYkCzp2iHeSETR8Qo4hB7vGbN2+OtdGxFimuoyT2BPfo2bNndZ3cuHGjFkI3b95sQs26YAFkjFkKdY488CPXr19v9haLa9euNXvTEtON+eVo6/Q5d4hoKUGHixiMb/5tjLEK/PLLL8cmew+t26F5LlsvJ9EOSsT8uI4LFy7U+9ynVVjmBPcHR56IN1y8Z2Y9sAAys4Y3VDorXF8LgDkOD3neiF+/ft34LBZXrlw5qldchGPEAR2xwtvqnjd14tBppZ13TIMhh1JnTRjlkziJ5wFv7DqmbGzHtAc6XDo7hlx48yffElwX5aFc5KfrVN6xbUYx9e3btyN/3MePH5uQ75BnSeSk9cB163qpX7bRMqI8FK4y9a2btKwRjoe0A8E15NIjnbS+GX5TXK6L9kG8e/fu1dYZ/LmuHLH+cfEeCNUZTsN7Ola6uq9sybt0b8zJYwFkjqEfdO7Hvo3oDa3PJE9TJnY8evDrzRdxpPk5tC1AHDA0koan0A6Z40M8YBhD0KEoTOFpByh422eo7vbt23VcrFZxDR3ezjWEc/r06TounfdQ1IZIj3xIs9TBMjRDeciLuHGuFahtRuhkL126VPvjuAbqUr9Xrj83FCXSevj69Wt9vlA5gHulOV+kiWhAbPWtG8qquUo4hg01dDS0HQji0wYUX/cbUYGoi+CntHFcO37ce5UF/9yn8YgfwnX9xI/1BNQHEE6dPH/+/OhY1wm6z8AwWF/xaFaPBZA5BvMX+AF3DSdsG12TPE07cTiBDkXHdHSxQ6ZtAR232lhJtAg6GjqNmC6dK5aM2HnRMZLXsuIdgUE+UwxZcJ1Mwp0KBEWcf0Qd0rlqThDljp1vF5wvIRjrEtFGp646QIxJbPWtGwSBrFs4CQbu3Zh2AMSXyNQcG9JD1EhkCAQR5VX+xI0Cug2EGOnpOqkblVlwH1RnlKlL2FAXtK1bt241PuZnYwFUgDcFfjSlt7dt5Y8//mj25gMPrq5JnqYM9UfnQocp1OnQaUT/odA50qHj4u8Ry0WKOsZlFwfkrV9Ca1k052QqcuU6e/bsMZE5BbwIpWAZg74ignaBYKENRDeFsATmQpWQGEnz7ntfu8TMGPgdUAYJPvPzmY0A4u1CD+Wci+PeQIdIYz1z5kzjk4cfCufn3jrx7/NWEyF+box4TFpDIV86Gt6oxpCrxy7o0Div9MBJ79vUkC/XnCs39bHqOt8G1F5lhaAuNcQyBXRapEUHghUh/tZybbXrN3uSMGTEMN2U5CxKQ6w+fcFikaPv0CCCdJWWVZUjJ6gkhsc+y/pYdMzmMxsBxBsSD1GcTL7yY5t7M+DB3vYGp84zBx07b5J0oH1N8sTNvcmNSWso+rFTN5jZx0Bd8tDs++DgemQWz8G1YubWfcNNDaZu3f/0YYkI7vvGOFcQpdxzhgNiRxTbQKkj7QNtQFYf5lLImiTLEEMKgrj4db1hU7b4O9J91/wT0hzbcUbIB1EYh5ba0HWCOnf5MZRDmfltUp8xLmsYjfnNpvUQkSU4vhgwpEX99rXgMN+FYaiYB/vL1G0UVAwlxeHAFER4bB+Qe7mMdSkoe1rPQ8suoUo9a7L70BdEs3qqfmX7qX4ozd7hYdXJ05MeVh1f43M8fAikQVqkGYnpDUm7esAcVj/c5ug7Y9MaQky3Elu1a6PqiJq941AfaV20kbsXIq2HLkplKpGWdVV1u+lQr9yjkkuh7cRw7iNb2nb0p76jX+7+cX90Pi5tE/F89tsgvzRePF/hXW0/noOLbSj6d5UH1P5xIta3yhTziOekYbFspd9PrAfty8XfoZ5tcm3Xk8ZVmdKyUqY0LmWI5W77Hcfz4nXHNhLLmbZd3dvYRuM1R3LtGFK/mIfyjteNn+KZ9aK6P/MQQBE1zlLDH4J+zPHHmKY7JB/9WMQyaQ1hSD5T/phL9yI+QHhAdqGH6BBOqm6NMcasH54EHcA8qbkmMpVi8hwz/0Tn4LrGzBUvZ57Fr5QWQ0iYaHEKbzPRKi22aV6Y/5UGTmPoKdSRzLnE++uvv47OUd46plxjh+0YeqzaZz08xTAZ6ZXgWohDXOLF+5grU0T+uHRFXdKxydoYY7YTC6AAcwwePvy+PoS+CmK8e6+Zvd8HxntZBI74uP39/XocGv8cdLzEIS5rVtCJC4QDQkNpUQ6N9Wu+kObQpOEpEgLKJ66ZITEU86FcObSmherkzz//PFZmwJ86hN9//33UVzkSYGyVXiraBPdK9424lLGtTMD94Jh4hL17966uSwkkhA91b4wxZjuxAEpgwiKdoqwWdJRDvuLAisD5sipo8ax0tVags0VIaNKmJnYKjumcAcETO2Qm5xKXjj+uRdEGogchFNPVBL34+TsCAlJryVAQFLgplr9nMnTfz2/7oHU+VGcIXepSgjJOuDXGGLN9WABloCPUJ70ImiEdOOtncD4CI7rclym5tTZSED4IKTp/OuyxyJKFNYr0ZE0pDc8hrvqUrw3VQ5cw60PfL0/6krPI6fPpkrXOGGPM9mABlCFagRABQzpwFiUbsvJr22fWiBQE0FQiAqsGaSGksPpEC0/OQsW1rAtYrhhanJKSRWmKujbGGLPeWAAVwHrB8BXzZYaAtYihqigu6LxzE4FZawKhpbjE4xhxIgtNFEjLDAGRttJkzoysSbIMca2yfKgcfdYvidf54cOHesu1cn6cU7MsWK40L6uLmKdWDE7LhIWP4ziviGE27rsxxphp4BlbmlNKX6PpIrm+oit8Cg7nxM7O8TU8KiHQhPwX4rZRdaDH0tKn8On6EZXAqP1zxM+9iUeeKlOaPv5sc9fAuTrOlZsy6XxcWqZ4Pq6NWGYR02afMlRiognNk+YZ46fX2EVuXY+uMqX3KYbFsqV1ZYwxppv4fE3R81fwnM09n0UaPgXIMrbVxkSwhjD/p+8qrsYYY4w5DpYbLO+pzuBLWz4wUh+LtQdLv+J1hU+Bh8AK8JXQMl8vIaAw28UhFmOMMWbTQMSkQ1AIkmXWSWOqyK+//toc/fjQhXShK3wKLIACzBPReCNzf5aZDMu5KNW+81bMPFF7K7lVjXsbY0xfZIXRCz19JWvOacmUoUjE5P7Rn3mbXeFTYQEU0Po4uNxn68ZMjdpbyfUZgs0JJzs7u/m6VcCzCMMA6fOntGPFzzphAWSOLF+2NmwmOeFkZ2c3X7cqtKr/tqyVZgFkajXPj6aPtcFMS3xryzmLUmPMOqBnEX0Fy4gsM/9H83niQrwSVadPn+4MnwoLoCXQRGfcJivi+DcY5mSJb205Z1FqjPnZaO6PnkcIFEQQC/WOZW9v72jtOEDs7OzsHImfrvCpqJ6zZhm0/k8bWtMnFxd/1qhZhnSNmxSt3aM1cgTnlMo1lq6yLAPlZE0fUNlz1wX4xTV8iL+qchljjPkvek6npOv80G/EfqgrfAqq9C2AlkUdcgmJH1x6A2kc3Gg66rE3l4ZB2mM6d/Ilf9KYgr5lUTxdc1cdAnEkaOKPg7xy5Y/iR8Q0jDHGrA495+XSPo5jheX6jK7wZanStQCKIFb6dMYiZ3nIIRGUNoB4U5e5wTS0oefH+JQvlm0ZkdBVFsQLLgpDjtugbLFMpC/RIzEU7wX3sHRvCFumro0xxmw+ngOUMHThwmXWCmLeUJzjsczCi2OI+XEdFy5cqPf5KoxFqFYFY7g4rZWE6xrX5b/K9A/9XbCGRNs6TqzNxMqkmzxvyxhjzHJYAAWY0EXHz5+RMrGZjhSnr3HYxklfmgCtcE2KHtKxxjTijHfyIU3li9PiUG0wM1/xYzmUToTVrhWX8xAMxENsAP4lQahrlUM0peTKrmPCQOVlS165/Eh7J5n8xgqhnz9/rveZKEe4BA8LdHWt47S3t1f/1YkxphstlbHMpFdj1pHaFGS+wzCLhsA0tIJLh8Xw07CNhnI0TJMbzolxdKwhHMCfcPmzj9NQDenGIaAUnaO8icsxkIbSE1xPHPLifF2jylJC16K8lL5QWWLZY/0RHoegCFO95a5R4Sn4kw+OMkGMp3KwTSH/XJrG9IG2E9vdXIjPDGM2HVuAWsDiUHXK9X78VBzrRfUAPLJIYHmoHgy15eTTp0+dwzmA9aF6eB5ZRGR1+fjxY51G1Wkvqk76aIisNJwTIb7y1l9w8OZGGoRFsHKRp/KnLG/evGlC28FyVImPo7xIv2pL9b5Iy95lFcPyxh/d3bp1q/H5Aefmrp9rJF8c4Vyrhsm4R7ytEsY2Z1mino0ZCu2RP2lUu5sLfSzQxmwSFkAjODg4aPZ+oMWZ+ooI0kAkqAOXm+ovONoezBIjad59BUGXmBkDgnKZ66dMLOgoUfb27dujOqCz6ntfjOlDnLs3F/hfplX/RZCmHOCMWTUWQCMpTRKO83jaOHv2bN1JrwqJFE1sjkgYjH2j4/xViKASffLDwjP0j2c9n2E94b6oE8y5Euo8S/PWpuLKlSut5WhDc2nYDoE5cqX2ym9DdYMj7tRQXqzSmrsXKVlYx8ALDC9CWNS70P1On2Mn1Q7M5mMBVICHSukhpeGw+KB5/vz5oFUq+QILERUfKPxwhz4YI1FQ8eNnmKpkCSKMIadI7oGRe+DdvHnzP2Wn3OmDqA2VlXpmOI70Sg9uvuhqs05RjlT8YPWRaCIvOq0IfsQx6wf3Wh0gQ7OyULIPdG65dsnkd+LRnroE81ho5+TD7ydXhi6woHBtz549a3zakbgpvXABQ9KqI9wq/qSS8lL/fD2Zwv0a+vLRBtes/5wqwbMmfX6Jk2gHZnuo2ooRD5sJvUycZcIf+3JxcnP1MDgWlptoK9K4pAukF/01KTf6MdFXEy5xbfkQpnhch9A1yYmYLk7XF8sbrzmSlp1yQuqXK3usV/wUrw3i5srCtcVrjSjvXJ3hz3Wa9URtJHeP1M5je2A/HpfaxLKkv6s2KE8pztDy8RvJtWPqZ0haxNdvtS/ci3gfhpa9rR5y9P1dku7PagdmO6jajwWQWX94CHeJpL7wUBzaCZiTpU0AqeOL9zCN17cTHcqQfBAsU3XAJQGEP3WBix1/CX5DQ9v+snU7ZT1E1A7idS9bVjMvPARmNgKGDhiyWnbeDsN8DH9NabI3J4uGmePE9qqTrYeK5DT0qyEkhkwYYlV4G5qDxHBXOiys+T840isNMRNedb71kBH7v/32W71V+yVtpaP9MTAcXz3H62E1hoTa5v+QN0NpWucsrQ/NncHF4Wy+TJU/Lp3niF9pOJCwWA/cD+Jq3hB+qmPdKzkNq7Pfl7Ssy7QDMw++SyFjNgDe9sZab3gLtUl8M2izAAFWBVlEaA/ROsh53GfOZV9OlgKF58CfvCFNl/wUBqTTZpVMLR/sq8wgCwblxL90rUBZ4rk5dL2xjCmpBUj1LJSG6orwmC/XEMPZx5XqE2I96HxcLKfyVR2obtiW6ibGAdKL16Y6U9pysext5Tbbjy1AZqPg7X+s9YZPl+f4+fI2UnVqzd739aCY+Ku3fMHbv+JVnd6R5ajqFOttCa3JpXQBawTEz8BJE4tKtJaMgfJgESlZk/rC+VWHXi8HMRWsq8WkYsHvpxJRR35VH1Jv+8L5lJFrjnWptcVUB9wr4mHV6ls3TNSWdQvHvu7/mHZgth8LIGPMRiHBoS/7JHw4pkNepmOTQFYnKuGT+yqJdXHg69ev9XYsdM5TfbnFX8RMSRSaAjEy9SKi3MOUM2fO1Nu+dUOZEDi0geiWFZZme7EAMsZsFFotXMtRIHywFkzVKavjREhhDZLgQgzkOmotgroO8L94LBsxJTmLkuYyTUlpsdJcneegTFy/MX2xADLGbASy9CBE9vf3j73Za3V24uSsFn1hgq6sPggqWZNkGYrrSfF3NgwHaUilBAIqJ6I0jEQefTv5NsiDCf59VmsmP10nKH+GooChJ9JDWDKUFONyrL+cGUKshxTSo27ipHOGtKjfvhYchDGTrWMe3M8p6tZsL9XLjjHGrAeVIDg2aTU6wlI0kVfhTPTVvvxxMR4uTpgVVYdf+ysOx5F4Pvm0oXRivHg+abOtOv4mNE88B6dJvJwX/bvKA8oz1mOsJ4UrD5CfXAyL/mldiVgPsW5xEdKNYW3Xk8ZVmdKycpzG7dMOzDxgxiDbamOMMcYYMw88BGaMMcaY2WEBZIwxxpjZYQFkjDHGmNlhAWSMMcaY2WEBZIwxxpjZYQFkjDHGmNlhAWSMMcaY2WEBZIwxxpjZYQFkjDHGmNlhAWSMMcaY2WEBZIwxxpiZsVj8H4RrXiiWpm8IAAAAAElFTkSuQmCC&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; &lt;u&gt; - Annually available figures from 2010-2020 &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; - Annual data available for subgroups: sex; urban/rural; regions and provinces/cities directly under the Central Government. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator reflects part of the global level indicator “Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex”. Comparing the content of Vietnam and global indicators, there are differences as follows: &lt;/p&gt;
+ &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt; &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Skill &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Can read, write and do math &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Can read and write &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td rowspan=&quot;2&quot;&gt;
+         &lt;p&gt; Split &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;2&quot;&gt;
+         &lt;p&gt; - Age group &lt;/p&gt;
+         &lt;p&gt; - Gender &lt;/p&gt;
+         &lt;p&gt; - Disability &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Location &lt;/p&gt;
+         &lt;p&gt; - Income &lt;/p&gt;
+         &lt;p&gt; - Skill Type &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Ethnic group ( Kinh and other ethnic groups); &lt;/p&gt;
+         &lt;p&gt; - Urban/rural; &lt;/p&gt;
+         &lt;p&gt; - Province/city directly under the Central Government. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Data source &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;3&quot;&gt;
+         &lt;p&gt; Adult skills assessment survey (eg PIAAC, STEP, LAMP, RAMAA) and adult literacy survey at the national level. &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Population and housing census; &lt;/p&gt;
+         &lt;p&gt; - Census midterm; &lt;/p&gt;
+         &lt;p&gt; - Population change and family planning survey. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - Statistical Yearbook; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -6454,54 +6882,6 @@
 </fields>
 
 						</indicator>
-						<indicator id="3-5-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="3-6-2">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -6646,151 +7026,7 @@
 </fields>
 
 						</indicator>
-						<indicator id="3-9-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="4-1-3">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="4-4-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="4-6-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>

@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 4-6-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Population and housing census; &lt;/p&gt;
+ &lt;p&gt; - Census midterm; &lt;/p&gt;
+ &lt;p&gt; - Population change and family planning survey. &lt;/p&gt;</data>
 </root>

@@ -4,7 +4,8 @@
 	<message>The COLL_METHOD field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; According to the provisions of Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the National Statistical Reporting Regulation, the Ministry of Public Security is responsible for collecting the form “002. H/BCB-CA-Traffic accident”. The reporting period is June, month and year. Periodically, the Ministry of Public Security collects data and sends it to the General Statistics Office. According to the provisions of the Law on Statistics, the General Statistics Office is responsible for appraising data on national statistical indicators implemented by the Ministry of Public Security and disclosing information. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Theo quy định tại Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 ban hành Chế độ báo cáo thống kê cấp quốc gia được ban hành theo, Bộ Công An chịu trách nhiệm thu thập biểu mẫu “002.H/BCB-CA-Tai nạn giao thông”. Kỳ báo cáo là tháng 6 tháng, năm. Định kỳ, Bộ Công An tổng hợp số liệu gửi về Tổng cục Thống kê. Theo quy định của Luật Thống kê, Tổng cục Thống kê có trách nhiệm thẩm định số liệu các chỉ tiêu thống kê quốc gia do Bộ Công An thực hiện và công bố thông tin.&lt;/p&gt;
 			</language>
 </languages>

@@ -2,5 +2,64 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 4-6-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator reflects part of the global level indicator “Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex”. Comparing the content of Vietnam and global indicators, there are differences as follows: &lt;/p&gt;
+ &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt; &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Skill &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Can read, write and do math &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Can read and write &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td rowspan=&quot;2&quot;&gt;
+         &lt;p&gt; Split &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;2&quot;&gt;
+         &lt;p&gt; - Age group &lt;/p&gt;
+         &lt;p&gt; - Gender &lt;/p&gt;
+         &lt;p&gt; - Disability &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Location &lt;/p&gt;
+         &lt;p&gt; - Income &lt;/p&gt;
+         &lt;p&gt; - Skill Type &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Ethnic group ( Kinh and other ethnic groups); &lt;/p&gt;
+         &lt;p&gt; - Urban/rural; &lt;/p&gt;
+         &lt;p&gt; - Province/city directly under the Central Government. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Data source &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;3&quot;&gt;
+         &lt;p&gt; Adult skills assessment survey (eg PIAAC, STEP, LAMP, RAMAA) and adult literacy survey at the national level. &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Population and housing census; &lt;/p&gt;
+         &lt;p&gt; - Census midterm; &lt;/p&gt;
+         &lt;p&gt; - Population change and family planning survey. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt;</data>
 </root>

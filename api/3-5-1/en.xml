@@ -2,5 +2,66 @@
 <root>
 	<status>success</status>
 	<message>All metadata fields for the indicator 3-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Goal 3: Ensure healthy lives and enhance well-being for people of all ages &lt;/p&gt; &lt;p&gt; Target 3.5: By 2030, annually continue to control and reduce traffic accidents on all three criteria, number of cases, number of deaths and number of injured people (Global target 3.6) &lt;/p&gt; &lt;p&gt; Indicator 3.5.1. Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt; &lt;p&gt; Number of deaths rate due to road traffic injuries [3.6.1] SH_STA_TRAFN &lt;/p&gt; &lt;p&gt; June 2021 &lt;/p&gt; &lt;p&gt; Ministry of Public Security. &lt;/p&gt; &lt;p&gt; 44 Yet Kieu - Hoan Kiem - Hanoi &lt;/p&gt; &lt;p&gt; A traffic accident is an unexpected event, beyond the subjective will of human beings, occurring when traffic participants are operating on public roads, special-use roads or at intersections. public transport (referred to as the traffic network: road, railway, waterway, air), but due to subjective reasons, violation of traffic safety rules or encountering unexpected situations and incidents. unpredictably, causing certain damage to life, human health or property. &lt;/p&gt;
+ &lt;p&gt; One or more consecutive collisions between traffic participants at a certain place is called a traffic accident. A traffic accident occurs to one or more objects in traffic. &lt;/p&gt;
+ &lt;p&gt; Traffic accidents cause damage to people and property. The number of people affected by traffic accidents includes those injured and killed by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Traffic accident deaths include all deaths caused by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Injured people are those who suffer physical and mental injuries due to the direct impact of traffic accidents, affecting their normal lives. Cases of shock or mental impact due to an event affecting the family and self are not counted as the number of people injured. &lt;/p&gt;
+ &lt;p&gt; Number of people injured in traffic accidents includes the total number of injured people requiring treatment due to traffic accidents. &lt;/p&gt; &lt;p&gt; Number &lt;/p&gt; &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt; &lt;p&gt; National level statistical reporting mode. &lt;/p&gt; &lt;p&gt; According to the provisions of Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the National Statistical Reporting Regulation, the Ministry of Public Security is responsible for collecting the form “002. H/BCB-CA-Traffic accident”. The reporting period is June, month and year. Periodically, the Ministry of Public Security collects data and sends it to the General Statistics Office. According to the provisions of the Law on Statistics, the General Statistics Office is responsible for appraising data on national statistical indicators implemented by the Ministry of Public Security and disclosing information. &lt;/p&gt; &lt;p&gt; Year &lt;/p&gt; &lt;p&gt; Ministry of Public Security. &lt;/p&gt; &lt;p&gt; Ministry of Public Security. &lt;/p&gt; &lt;p&gt; The indicator reflects the current situation, extent and consequences of traffic accidents, serving as a basis for management agencies to develop policies to enhance traffic order and safety and social order throughout the country. &lt;/p&gt; &lt;p&gt; Data from the Ministry of Public Security only records on-site deaths due to traffic accidents, not fully reflecting all traffic deaths. &lt;/p&gt; &lt;p&gt; + Annual road traffic accident data from 2010-2019 &lt;/p&gt;
+ &lt;p&gt; + Annual railway traffic accident data from 2017-2019 &lt;/p&gt;
+ &lt;p&gt; + Annual water traffic accident data from 2016-2019 &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical yearbook publishes only general data on traffic accidents; Ministry of Public Works reports data disaggregated by road type and province/city directly under the Central Government). &lt;/p&gt; &lt;p&gt; SDG Global Spending Indicator“3.6.1.Death rate due to road traffic injuries”. &lt;/p&gt;
+ &lt;p&gt; Comparison of international and Vietnamese indicators &lt;/p&gt;
+ &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt; &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Target name &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Road traffic accident death rate &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Calculation method &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Calculate the number of deaths due to fatal road traffic accidents per 100,000 people &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Count: &lt;/p&gt;
+         &lt;p&gt; - traffic accident &lt;/p&gt;
+         &lt;p&gt; - Dead, injured in traffic accidents &lt;/p&gt;
+         &lt;p&gt; - People injured in traffic accidents &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Split &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;3&quot;&gt;
+         &lt;p&gt; WHO disaggregation by road user, age, sex, income group and region &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Type of accident (road/railway/waterway); &lt;/p&gt;
+         &lt;p&gt; - Province/city directly under the Central Government. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt; &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;</data>
 </root>

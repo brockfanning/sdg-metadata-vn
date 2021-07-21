@@ -4,7 +4,8 @@
 	<message>The SOURCE_TYPE field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; National level statistical reporting mode. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chế độ báo cáo thống kê cấp quốc gia.&lt;/p&gt;
 			</language>
 </languages>

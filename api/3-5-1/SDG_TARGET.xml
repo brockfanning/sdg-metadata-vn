@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 3.5: By 2030, annually continue to control and reduce traffic accidents on all three criteria, number of cases, number of deaths and number of injured people (Global target 3.6) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 3.5: Đến năm 2030, hàng năm tiếp tục kiềm chế và giảm tai nạn giao thông trên cả ba tiêu chí, số vụ, số người chết và số người bị thương (Mục tiêu 3.6 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

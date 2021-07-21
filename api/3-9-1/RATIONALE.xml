@@ -4,7 +4,9 @@
 	<message>The RATIONALE field for indicator 3-9-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Tobacco is one of the leading causes of morbidity and mortality from non-communicable diseases (NCD). &lt;/p&gt;
+ &lt;p&gt; - Provide information for communication and health education programs on smoking prevention for health facilities for reasonable treatment and prevention, contributing to the reduction of premature mortality due to non-smoking diseases. infection. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Thuốc lá là một trong những nguyên nhân gâyra bệnh tật và tử vong do các bệnh không lây nhiễm (NCD). &lt;/p&gt;
 &lt;p&gt;- Cung cấp thông tin cho các chương trình truyền thông, giáo dục sức khoẻ về phòng chống hút thuốc lá cho các cơ sở y tế điều trị và dự phòng hợp lý góp phần vào việc giảm tỷ lệ tử vong sớm do các bệnh không lây nhiễm.&lt;/p&gt;
 			</language>

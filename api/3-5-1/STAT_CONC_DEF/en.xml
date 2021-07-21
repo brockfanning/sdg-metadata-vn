@@ -2,5 +2,10 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 3-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; A traffic accident is an unexpected event, beyond the subjective will of human beings, occurring when traffic participants are operating on public roads, special-use roads or at intersections. public transport (referred to as the traffic network: road, railway, waterway, air), but due to subjective reasons, violation of traffic safety rules or encountering unexpected situations and incidents. unpredictably, causing certain damage to life, human health or property. &lt;/p&gt;
+ &lt;p&gt; One or more consecutive collisions between traffic participants at a certain place is called a traffic accident. A traffic accident occurs to one or more objects in traffic. &lt;/p&gt;
+ &lt;p&gt; Traffic accidents cause damage to people and property. The number of people affected by traffic accidents includes those injured and killed by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Traffic accident deaths include all deaths caused by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Injured people are those who suffer physical and mental injuries due to the direct impact of traffic accidents, affecting their normal lives. Cases of shock or mental impact due to an event affecting the family and self are not counted as the number of people injured. &lt;/p&gt;
+ &lt;p&gt; Number of people injured in traffic accidents includes the total number of injured people requiring treatment due to traffic accidents. &lt;/p&gt;</data>
 </root>
