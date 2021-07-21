@@ -4,8 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; The proportion of value added by the processing and manufacturing industry in gross domestic product (GDP) is the percentage of added value created by the processing industry compared to GDP in a certain period. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ trọng giá trị tăng thêm ngành công nghiệp chế biến, chế tạo trong tổng sản phẩm trong nước (GDP) là tỷ lệ phần trăm của giá trị tăng thêm được tạo ra của ngành công nghiệp chế biến, chế tạo so với GDP trong một thời kỳ nhất định. &lt;/p&gt;
 			</language>
 </languages>

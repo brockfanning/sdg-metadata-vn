@@ -4,10 +4,7 @@
 	<message>The COVERAGE field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Annually available figures from 2010-2019 &lt;/p&gt;
- &lt;p&gt; Full data by economic type and province/city directly under the Central Government have not been released. &lt;/p&gt;
- &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from General Statistics Office) &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2010-2019&lt;/p&gt;
 &lt;p&gt;Chưa công bố số liệu đầy đủ theo các phân tổ loại hình kinh tế và tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Tổng cục Thống kê)&lt;/p&gt;

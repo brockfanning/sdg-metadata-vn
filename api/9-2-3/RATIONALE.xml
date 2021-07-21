@@ -4,8 +4,7 @@
 	<message>The RATIONALE field for indicator 9-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; This indicator reflects the proportion of employed workers in the processing and manufacturing industry in the total number of employees. It measures the ability of the manufacturing industry to absorb excess labor from other agricultural and traditional sectors. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh tỷ lệ lao động có việc làm trong ngành công nghiệp chế biến, chế tạo trong tổng số lao động. Nó đo lường khả năng của ngành công nghiệp chế biến, chế tạo trong việc tiếp nhận lao động dư thừa từ các khu vực nông nghiệp và truyền thống khác.&lt;/p&gt;
 			</language>
 </languages>
