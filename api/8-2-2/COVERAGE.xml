@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 8-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Figures are available annually from 2010-2019. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2010-2019.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;
 			</language>

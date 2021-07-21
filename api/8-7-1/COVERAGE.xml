@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 8-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; 2012 and 2018 data only &lt;/p&gt;
+ &lt;p&gt; (Published source: Results of the National Child Labor Survey) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu của năm 2012 và năm 2018&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Kêt quả Điều tra quốc gia về lao động trẻ em)&lt;/p&gt;
 			</language>

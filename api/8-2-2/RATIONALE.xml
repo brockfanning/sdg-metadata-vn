@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 8-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The growth rate of total factor productivity (TFP-Total Factor Productivity) is the most accurate and general indicator of the efficiency of using production resources, serving as an important basis for assessing the quality of economic growth. economy as well as the quality of sustainable development of the economy, is the basis for analyzing social production efficiency, assessing scientific and technological progress, assessing the level of production management organization... of each industry, each location country or region. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tốc độ tăng năng suất các nhân tố tổng hợp (TFP-Total Factor Productivity) là chỉ tiêu phản ánh đích thực và khái quát nhất hiệu quả sử dụng nguồn lực sản xuất, làm căn cứ quan trọng đểđánh giá chất lượng tăng trưởng kinh tế cũng như chất lượngphát triển bền vững của kinh tế, là cơ sởđể phân tích hiệu quả sản xuất xã hội, đánh giá tiến bộ khoa học công nghệ, đánh giá trình độ tổ chức quản lý sản xuất… của mỗi ngành, mỗi địa phương hay quốc gia.&lt;/p&gt;
 			</language>
 </languages>

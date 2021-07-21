@@ -4,7 +4,10 @@
 	<message>The SOURCE_TYPE field for indicator 8-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Data on value added or gross domestic product and data on labor can be used directly or exploited for calculation from data contained in the Statistical Yearbook, compiled by the General Statistics Office and publication; &lt;/p&gt;
+ &lt;p&gt; - Combined capital or fixed asset value calculated from various sources, compiled and announced by the General Statistics Office; &lt;/p&gt;
+ &lt;p&gt; - Coefficients &lt;sub&gt; K &lt;/sub&gt; and &lt;sub&gt; L &lt;/sub&gt; calculated from an I/O table created every 5 years and used for many years. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Số liệu về giá trị tăng thêm hoặc tổng sản phẩm trong nước và số liệu về lao động có thể sử dụng trực tiếp hoặc khai thác để tính toán từ số liệu có trong Niên giám Thống kê, do Tổng cục Thống kê tổng hợp và công bố;&lt;/p&gt;
 &lt;p&gt;- Số liệu vốn hoặc giá trị tài sản cố định được kết hợp tính từ nhiều nguồn khác nhau, do Tổng cục Thống kê tổng hợp và công bố;&lt;/p&gt;
 &lt;p&gt;- Hệ số &lt;sub&gt;K&lt;/sub&gt; và &lt;sub&gt;L&lt;/sub&gt; tính toán từ bảng I/O được lập 5 năm một lần và sử dụng cho nhiều năm.&lt;/p&gt;

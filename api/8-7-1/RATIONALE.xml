@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 8-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator is an important and necessary indicator to monitor the situation of child labor in the economy. As the basis for defining national priorities for global action against child labour. Statistical information on child labor, and more broadly on all working children, is also the basis for raising public awareness of the situation of children working as well as the development of appropriate legal and policy framework. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này là chỉ tiêu quan trọng, cần thiết để theo dõi tình hình lao động trẻ em trong nền kinh tế. Là cơ sở để xác định các ưu tiên đối với hành động toàn cầu cấp quốc gia chống lại lao động trẻ em. Thông tin thống kê về lao động trẻ em và rộng rãi hơn đối với tất cả trẻ em đang làm việc, cũng là cơ sở cho việc nâng cao nhận thức của công chúng về tình hình trẻ em đang làm việc cũng như việc xây dựng các khung pháp lý và chính sách phù hợp.&lt;/p&gt;
 			</language>
 </languages>

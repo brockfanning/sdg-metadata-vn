@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 8-2-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Data on value added or gross domestic product and data on labor can be used directly or exploited for calculation from data contained in the Statistical Yearbook, compiled by the General Statistics Office and publication; &lt;/p&gt;
+ &lt;p&gt; - Combined capital or fixed asset value calculated from various sources, compiled and announced by the General Statistics Office; &lt;/p&gt;
+ &lt;p&gt; - Coefficients &lt;sub&gt; K &lt;/sub&gt; and &lt;sub&gt; L &lt;/sub&gt; calculated from an I/O table created every 5 years and used for many years. &lt;/p&gt;</data>
 </root>

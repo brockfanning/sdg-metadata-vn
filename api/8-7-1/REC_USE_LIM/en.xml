@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The REC_USE_LIM field for indicator 8-7-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator can only be implemented with technical and financial support from the international organization (ILO). &lt;/p&gt;</data>
 </root>

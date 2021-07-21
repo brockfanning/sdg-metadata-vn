@@ -4,7 +4,8 @@
 	<message>The SDG_GOAL field for indicator 8-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Objective 8: Ensure sustainable, comprehensive and continuous economic growth; full employment, productivity and decent work for all &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 8: Đảm bảo tăng trưởng kinh tế bền vững, toàn diện, liên tục; tạo việc làm đầy đủ, năng suất và việc làm tốt cho tất cả mọi người&lt;/p&gt;
 			</language>
 </languages>

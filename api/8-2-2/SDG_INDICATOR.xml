@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 8-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 8.2.2. Growth rate of total factor yield (TFP) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 8.2.2. Tốc độ tăng năng suất các nhân tố tổng hợp (TFP)&lt;/p&gt;
 			</language>
 </languages>

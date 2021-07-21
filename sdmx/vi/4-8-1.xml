@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T21:47:39.706Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T21:50:19.659Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="1ff56ea7-02c0-4fe2-b24b-42c4cc1e14b7">
+  <mes:MetadataSet structureRef="MDS1" setID="31af08b8-d188-459e-8c48-47fa33ce2cc4">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -143,7 +143,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="20a8b568-c6ec-4a4e-a334-8e467daa69fb">
+  <mes:MetadataSet structureRef="MDS1" setID="2c001481-0d2e-44e6-913d-ba4ea4708b57">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -275,7 +275,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="bef4accf-0563-4515-a2a9-bed6f522e206">
+  <mes:MetadataSet structureRef="MDS1" setID="d93eaf7b-ccbb-4da6-9a60-f4168532b867">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -407,7 +407,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="66cad0be-3ae8-4383-95d8-9d4ed18b26ab">
+  <mes:MetadataSet structureRef="MDS1" setID="291ffedc-a12c-48c0-ab9c-9755e262a003">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -539,7 +539,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="8e756023-17d3-4ab8-999f-47ab9716f6db">
+  <mes:MetadataSet structureRef="MDS1" setID="97b9b66d-115e-43fa-a005-a86ed76e390d">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -671,7 +671,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="25ea2435-8edb-479f-b6b1-0baf9e4462d3">
+  <mes:MetadataSet structureRef="MDS1" setID="a9086b7e-ec5e-4208-b6b4-eb9e1269b503">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -803,7 +803,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="ca49ff24-a26b-42b3-901b-10277be6fdf0">
+  <mes:MetadataSet structureRef="MDS1" setID="69ae1b48-57c0-4f37-9d2b-d9dd510576ae">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">

@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 8-2-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Aggregate factor productivity is the production result brought about by the improvement of efficiency in the use of fixed assets and labor or tangible factors, thanks to the impact of intangible factors such as industrial innovation. technology, rationalizing production, improving management, raising the working level of workers, etc. (collectively referred to as synthetic factors). &lt;/p&gt;
+ &lt;p&gt; The rate of increase in productivity of composite factors is measured by the rate of increase in production output due to increased productivity of synthetic factors. &lt;/p&gt;</data>
 </root>
