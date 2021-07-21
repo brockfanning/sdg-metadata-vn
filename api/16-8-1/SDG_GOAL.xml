@@ -4,7 +4,8 @@
 	<message>The SDG_GOAL field for indicator 16-8-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Goal 16: Promote a peaceful, just and equal society for sustainable development, creating access to justice for all; building effective, accountable and participatory institutions at all levels &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 16: Thúc đẩy xã hội hòa bình, công bằng, bình đẳng vì phát triển bền vững, tạo khả năng tiếp cận công lý cho tất cả mọi người; xây dựng các thể chế hiệu quả, có trách nhiệm giải trình và có sự tham gia ở các cấp&lt;/p&gt;
 			</language>
 </languages>
