@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 5-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The data of the indicator is calculated from the table No. 001.K/BCB-VPQH under the National Statistical Reporting System. &lt;/p&gt;</data>
 </root>
