@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 3-4-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The international indicator is “3.5.2. Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in liters of pure alcohol”. &lt;/p&gt;
+ &lt;p&gt; Comment: International and Vietnamese indicators are different. Internationally calculates pure alcohol consumption per capita (aged 15 years and older) while Vietnam calculates the proportion of people aged 15 years and older who use alcohol to dangerous levels. &lt;/p&gt;</data>
 </root>

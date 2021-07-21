@@ -4,7 +4,10 @@
 	<message>The STAT_CONC_DEF field for indicator 4-1-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Middle school graduation rate is the percentage between the number of students graduating in the last grade of a grade compared to the number of students in the final grade that are eligible for graduation. &lt;/p&gt;
+ &lt;p&gt; - Middle school completion rate is the percentage between the number of students graduating from middle school in the school year (t + 3) to the number of students in the 6th grade at the beginning of the school year (t). &lt;/p&gt;
+ &lt;p&gt; - Primary to lower secondary school transition rate is the percentage of the number of students newly enrolled in grade 6 during the school year (t+1) to the number of students who are recognized to have completed elementary school. school year (t). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Tỷ lệ học sinh tốt nghiệp trung học cơ sở là tỷ lệ phần trăm giữa số học sinh tốt nghiệp ở lớp cuối cấp học so với số học sinh học ở lớp cuối cấp học đó đủ điều kiện xét tốt nghiệp.&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ học sinh hoàn thành cấp trung học cơ sở là tỷ lệ phần trăm giữa số học sinh tốt nghiệp trung học cơ sở năm học (t + 3) so với số học sinh lớp 6 đầu năm học (t).&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ chuyển cấp từ tiểu học lên trung học cơ sở là tỷ lệ phần trăm giữa số học sinh được tuyển mới vào lớp 6 trong năm học (t+1) so với số học sinh được công nhận hoàn thành chương trình tiểu học năm học (t).&lt;/p&gt;

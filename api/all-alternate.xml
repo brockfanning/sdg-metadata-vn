@@ -12372,19 +12372,19 @@
       </field>
       <field id="SDG_GOAL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Goal 3: Ensure healthy lives and enhance well-being for people of all ages &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu 3: Bảo đảm cuộc sống khỏe mạnh và tăng cường phúc lợi cho mọi người ở mọi lứa tuổi&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_TARGET">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Target 3.4: Enhance prevention and treatment of substance abuse, including drug abuse and harmful use of alcohol (global 3.5 target) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu 3.4: Tăng cường dự phòng và điều trị lạm dụng các chất gây nghiện, bao gồm lạm dụng ma túy và sử dụng các đồ uống có cồn ở mức gây hại (mục tiêu 3.5 toàn cầu)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_INDICATOR">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator 3.4.1 Coverage rate of treatment interventions for drug addicts &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu 3.4.1 Tỷ lệ bao phủ các can thiệp điều trị cho người nghiện các chất ma túy&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -12396,7 +12396,7 @@
       </field>
       <field id="META_LAST_UPDATE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; June 2021 &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;tháng 6/2021&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -12420,7 +12420,7 @@
       </field>
       <field id="CONTACT_ORGANISATION">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Ministry of Health &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Y tế&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -12450,13 +12450,13 @@
       </field>
       <field id="CONTACT_MAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; No. 138A Giang Vo - Ba Dinh - Hanoi &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số 138A Giảng Võ - Ba Đình - Hà Nội&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CONTACT_EMAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; banbientap@moh.gov.vn &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;banbientap@moh.gov.vn&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -12468,7 +12468,12 @@
       </field>
       <field id="STAT_CONC_DEF">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Percentage of people aged 15 years and older who use alcohol to a dangerous level is the percentage of people aged 15 years and older who use alcohol to a dangerous level compared to the total population aged 15 and over in the specified year. &lt;/p&gt;
+ &lt;p&gt; - Level: &lt;/p&gt;
+ &lt;p&gt; + Low risk: Drink ≤ 2 units of alcohol/day for men, ≤ 1 unit of alcohol/day for women and no more than five days a week; &lt;/p&gt;
+ &lt;p&gt; + High-risk level:  Drink 2 - ≤ 5 alcohol units/day; &lt;/p&gt;
+ &lt;p&gt; + Harmful Level:  Drink ≥ 6 units of alcohol/day or any 1 time in the last 30 days drinking ≥ 6 units of alcohol/time. &lt;/p&gt;
+ &lt;p&gt; Convention: Having at least 1 drink of 6 or more alcohol units - equivalent to 06 cans of 330ml 5% beer or 06 cups of 330ml draft beer or 06 small glasses of 100ml of 13.5% wine or 06 cups of 30ml of spirits 40%-43%. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Tỷ lệ người từ 15 tuổi trở lên sử dụng rượu, bia tới mức nguy hại là tỷ lệ phần trăm số người từ 15 tuổi trở lên sử dụng rượu, bia tới mức nguy hại so với tổng dân số từ 15 tuổi trở lên trong năm xác định.&lt;/p&gt;
 &lt;p&gt;- Mức độ:&lt;/p&gt;
 &lt;p&gt;+ Mức nguy cơ thấp: Uống ≤ 2 đơn vị cồn/ngày với nam giới, ≤ 1 đơn vị cồn/ngày đối với nữ giới và không uống quá năm ngày trong một tuần;&lt;/p&gt;
@@ -12497,13 +12502,17 @@
       </field>
       <field id="SOURCE_TYPE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Statistical survey. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Điều tra thống kê.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COLL_METHOD">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The Ministry of Health conducted &lt;strong&gt; national survey on risk factors for non-communicable diseases (&lt;/strong&gt; STEPS) &lt;strong&gt; to &lt;/strong&gt; to collect information about the indicator. &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; The survey of risk factors for noncommunicable diseases in Vietnam was conducted in 2015. The survey conducted stratified sampling based on the national master sample framework of the General Statistics Office to collect representative data for gender. and 3 age groups: 18-29, 30-49, 50-69 nationwide. Data collection process includes 3 steps: &lt;/strong&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; - Step 1: Collect demographic data and behavioral risk factors. &lt;/strong&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; - Step 2: Measure height, weight and blood pressure. &lt;/strong&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; - Step 3: Test blood sugar, blood cholesterol, along with taking a urine sample to quantify salt consumption. This is a community survey for the 18-69 age group. &lt;/strong&gt; &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Y tế thực hiện &lt;strong&gt;điều tra quốc gia về Yếu tố nguy cơ bệnh không lây nhiễm (&lt;/strong&gt;STEPS)&lt;strong&gt; để &lt;/strong&gt;thu thập thông tin của chỉ tiêu.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Điều tra yếu tố nguy cơ bệnh không lây nhiễm tại Việt Nam được thực hiện năm 2015. Điều tra tiến hành chọn mẫu phân tầng dựa trên khung mẫu chủ quốc gia của Tổng cục Thống kê để thu thập số liệu đại diện cho giới và 3 nhóm tuổi: 18-29, 30-49, 50-69 trên toàn quốc. Quá trình thu thập số liệu gồm 3 bước: &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- Bước 1: Thu thập số liệu nhân khẩu học và các yếu tố nguy cơ hành vi.&lt;/strong&gt;&lt;/p&gt;
@@ -12519,19 +12528,19 @@
       </field>
       <field id="REL_CAL_POLICY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; 5 years &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;5 năm&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="DATA_SOURCE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Ministry of Health &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Y tế&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPILING_ORG">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Ministry of Health &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Y tế&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -12549,7 +12558,8 @@
       </field>
       <field id="RATIONALE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - This is an important indicator to estimate the burden of disease and death due to alcohol and beer affecting health status. &lt;/p&gt;
+ &lt;p&gt; - Provide information for education and communication programs on prevention and control of harmful effects of alcohol and beer for reasonable treatment and prevention facilities. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Đây là chỉ tiêu quan trọng đểước lượng gánh nặng bệnh tật và tử vong do rượu, bia ảnh hưởng đến tình trạng sức khỏe.&lt;/p&gt;
 &lt;p&gt;- Cung cấp thông tin cho chương trình truyền thông giáo dục phòng chống chống tác hại của rượu, bia cho các cơ sở điều trị và dự phòng hợp lý.&lt;/p&gt;</translation>
         </translations>
@@ -12562,7 +12572,8 @@
       </field>
       <field id="DATA_COMP">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src="data:image/png;base64,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"&gt; &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Method of computation&lt;/p&gt;
 &lt;p&gt;&lt;img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjsAAAByCAYAAAC1HhDWAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB5YSURBVHhe7Z1PiB1V9sefP4jbbHo2EpxgshB61lkMmpkRopJZxoVxlZWMM2RwEXQTkICbSBZicBKycmU7oMuRxEDGSYuLrB0IkhYTJCDOJluzyK8+N/V9OX37VtWr96f7dfX3A7frz/137qnqd88797yqpx5VjIwxxhhjBsr/1VtjjDHGmEFiY8cYY4wxg8bGjjHGGGMGjY0dY4wxxgwaGzvGGGOMGTQ2dowxxhgzaGzsGGOMMWbQ2NgxxhhjzKCxsWOMMcaYQWNjxxhjjDGDxsaOMcYYYwaNjR1jjDHGDBobO8YYY4wZNDZ2jDFmB/nhhx9GTz31VErsG2Pmj40dY/YImlRfffXV+oxZBp577rnRo0ePRmtra2nfGDN/bOwYs0f4/PPPRxsbG6OrV6/WZ8wycfPmzXrPGDNvbOwYs0d47bXX7DlYUvC6/eMf/6iPFoeWy7755pv6zHKC9xE5P/jgg/qMMbNhY8eYXUyM9yBx/Ne//rXOfQKT26FDh4p5O8Hhw4eTvE0gJ2X6IF30HSPl22SRbkl9ZZoE5ObalJYXp9FDGyyXra+vj5555pn6TBnp8rPPPqvPPGFReojgfUTWZ599tj4zOci2LPe5WSKqG8oYs0vhX/j8+fP10aNH1aSZzuW88soraUvexsZG2t9pkKmaeOuj+cDY+nysUVapBLpdtL7eeuut1AfXbt76KEF/bUiHpLW1tfrsY9AHMnLt8rx50yVnCd3/09Q1w8aeHWN2KfrW/c4776Qt3LlzZ1RNRPXRY/DqnD17Nu1X//MpdmcZ4Nv7t99+Wx/1o8mDxTIdnotJl2nQRzWB10db+fHHH3st/fUN/mYcR48eTX1w7abRR98+z5w5U++VQZbK4KmPtvLCCy+ka3fv3r36zGLokrMEOsRLZkyOjR1jdikHDhxI2zyuIQ9AZsmCCUoQu7MsTCtL2zIFY43jnRb0eunSpcblnJxpl05ef/31eq+/Pqbpc9q4LQyzaFgv+j6aVk5jStjYMWaXwoSOF+fdd99NEzKTUYn79++nfKVbt27VOVvBI6K2iH1gP4/PwAiI7Sl99NFH433qk3SMscBWHhcmaY75Fq728VDIcGO/yWNB+WvXro0NkXPnzo376eq3D0zmeH7wFJ08eXKLHiLIijzIRX9RJvWt49w41XlS7nVr00PeJ2PV9dM1ijKzr35kJLHfRzeqT+K+ErRNn/HeaGtX15+tZGE8nNN4Y1uMrU3/Kqe2IL8PQDqI5ZQvmUjUFdJpntSm2SWwlmWM2b0QR8G/slKE+Ip4jjgLjkvxFiqrROyG4jdUXvU5D8RGcCzUhvJB9SmrbYypIP5DMSCcZ586bJsgL7YxSb9NSH9dUIayTUh2Id0hmyCmRG0oXzJrDMqfRA+xz3j9om6AfqMO1E+TbiSb8jimDcF58nVe/UbZm+RGTsmndkSuw5gfy0U4LzlVPo4/5gPtK588JZVhPMrP9aD24zU1uwN7dozZ5bC0UP0vj2N1+Napb6bvv//+ppgUlkyqD/JxDE8ET1H1IZ72qw/5tIyQLyUQp1FNBuPzb7zxRtrGb8Il8IzghThy5EjaxngMlt3wTlCG9jjWWGZF/calommpJrrRjRs36qPZuXDhQroW0iX651rhqYO+eojXL+pXHoioA8rRz6S60TOa5NVAr4CXUHEyyK5lrq4lKPrFY0Lf3Ltd0Ce6ysH7g440BrbIMinqm2urNqIHSd4r7ltQmZ9++iltze7Bxo4xuxQmi+hKZ3LUZKflECainIMHD7YGoLbB0g51tURBQG00fppgMmFiiUsfEU2W84i1iajfeaAJb16UDET91LrLeOxDKZBYPz3X/dIFgdpcH3QZkyb/Pmj59cUXX0xGTFxSaoK+Ss8hQq5Fgqzcm/p/0n0/73vBLB4bO8bsYvKn7moiiZNAyRvR59tvBKOGSU8TFd6Br776qs6dnFLc0KInrllB5pdeeqk+mg9NuusyHvuCgVoyoCb1UGAgz9OrhWGOAYO3Bi8PHpppKRn08+STTz4Zx8Vx32NAz/v6mMVjY8eYXUw+UfDNkyUhLS+xjMVxLHPlypV0fhpoH6MkfrsvffDLmFG/LHvghZIxxrEmX9pkMpbMfaCN6N1q6ndW6Ielv/hrpDaivmVQIAfjZOIkn/Y4jp4NJlaMyWmIfUYk88svv5y2IE/FpJ4ZPHr5fcR1m0a31NOY8dbky1P0I7TciqFRgnsGHUou3Uv8X0S9yrtFPu3n+W2cOnVq0/0+jTfLLAHVxTPG7ELW19dTqibHFDSpxLlI9U10Uz7HJUrl4jH95OeUKgOmbuVJYC1JsuV9xjKkKHPMi+1G1O6hEDQ7Sb851FedvHw8H/tpIupGVBP5+Bz7tINsgnErnxTzJtFD7DPuk/L7IOaRmqiMhU3lpJNcVskUzzHGKHdJb7QT9RLHlvet69hGHDdt0SftC7WhfBL5pb7i/UC5vExMZnfxFH+qC2eMMZ3wzRjy2Bq+4RPHYPe+GRp4jXKPHp4+vIj28uwevIxljJkYYhZKsPxiQ8csKxgsLIXJWJ+UpmccsQRmQ2d3Yc+OmYr//Oc/oz/+8Y9p/+uvvx794Q9/SPtm2DBZlAwef4yYoVKKF1pfX9/i3TTLjY0dMxN///vf05NzjTHGmGXFy1hmJub5c1RjjDFmESzc2MEFSGLZwwwLrul3331XHy0G+vA9ZIwxZhZ6GTs8E0ETT1NiWSPCKtnHH39cHzXz5z//OdXPoT3Ok7/TPP3000UZxe9+97tUpg+azKnbB8q3yUKeUl+ZJgG5idn5zW9+U595wjR6aIJYIO6h06dPd8YFSZf5PQiL0oMxxpjlp5exc/v27dHq6mqafEgrKysp6fj48ePpgU457733XutEhSHz5Zdf1kebWVtbSwGwTfnbya+//prGW3psOeDloEwf0Avj++9//1uf6YaJu608+qRNXZe+Mk3C3/72t9THgwcPtuhjGj100bVcJuOrBPrA4N6/f3/REDLGGDNsei9jtXlp/vWvf9V7m/nll1/qvTLUw1DKYWLiSZ/6dr8M3h3G0jTOLpiQSx4cxodem4yoHBmWTdy9e7fTCxIpeWfaYBw8Np8+MGr66qNJD01Qvmu5TEZjE/xUlGtXMsbN7oZr2/QTYeCZKHxBmMeTlHP4dRpt50/jRZ42mWaBvuiz78+ol5mua9gF+mh6grQxiWrinJqVlZWU5kE1eW95KmU1edV7j8mPd4pp5UBXq6ur9dFslPQFOk86ffp0fbYZ5Ol7DWe9LvPUQwQ58nHPKqtZbvQk3vgU3u2Ep+7Gpx5vBzzllyf7DoWdvoZmbzD3AGW+hWNlK8lboRiTPt/o9SAoEvEWTd4KxRLRN+VUPoJXSG3FxDtftE/9KL/ihfIxsFyi9vGKyOPEfpOXhPL/+9//0vITbfzpT38a99PVbx940md1XZOn6OLFi1v0EEFW5EEu+osyqW8d5141nSfl36j66IF+dP10jaLM6kP50hPbSYltxOU/jtG1riupT7tm5+HeqSbL+mgxcH+3eVEmfV/WPMBLxXvNhvQAx+24hsbM3djBIGGy3bdvX1pqkXuXyZd4n0l/vaPJlbZIxFuUJlD+UYgfAYyQ69evp+WMhw8fjuMz2BLzw3naQg5gn2WyuDQn+QVliVWSkZbLw4sGWTZin0m8CcX70B71//3vf0/Ub19kEKJ32kMPuaEiWNahH+SSTOgownmupcAYQM/SJWNAt+qjrx5A1w89ck7xPhgftM85+qOfL774ItVvi1kSyHrs2LFUn0SQM33JYAIMQpbkyGecksUYwLjgxZ1N8GVpu/GTe42ZgupDfmpYjiCVYCkhNs/ySjVh1UdbyZdlqoknHeepRDUhprzYPsdazqBt2hN5+ab6SpzP80H51Ic2fQB51SRfH3X320aurybQQZtMyBPzNVaNCdAd/QHl4xggl2UeeqDNvA3dU/FaRiR7vO4c50n5cR9yucwT9ELE+FJFJS3jsAzBsV60SIL8ZYq8uFEvlYx1ILY/KfRD/VhXL68E9cVWqJxSCdVTii+1lNwkyU6++s1fRplDHfLjSyzpL/ap+rlOYhnV17JWSa4S0llsS9dRxJdiKlFHfaj9XL5YT21KzqjDSJc8UU+kqFvdX9K9MSXm7tkRPFWXb8r6xt83aBaPRDV58d+zKU0DbmbawwsEBNQiW5c81USY+mzyItBGNaFuCU6cFfU7D06cOFHvzYeff/653ntC9QGWtvNcAuJ+yXn++efTFu/dJNAG1yfePyQ/8bkfeDd0jflVXNSlzsPVq1fHyxFvvPFGqqe61YSUyleTWfKGAufzJQz+V6tJqz6anGvXrqUtfVSTZOqDpafS6y34f60m1vEYoBTcyusAkBuQ+86dO2mfQFp5A0mcp80333xzdO/evdHhw4dbA+Gpj7yXLl0a3bx5M7WBPMjJEhXH6IB89JfrJMp14MCBVPf+/fupXZa3qE8+fZSCspGVtslXf+gserBoi3GQRwKuE9c4XmfI5UMf5COXlvjwRnEsHZbI5bly5UqdM0rXkz7Ii7qJ96YxbSzM2IG//OUvaemBDzQ+HPqAIcGSxTzAqGHSY4mC5QtkmnTCjJTkKU3KywQy8zbqefL999/Xe5vpY8xOQtNy2CRLWPDb3/42vZnYzAYTqCbXs2fPpm0bTFpM3KdOnRpduHAhTXyKMWGiZiIjn8l0XrEncWJlywT46aefpv4wVCJ8HjFhM1FqOXNSMJ4Yn/qCr776Kk2+GAssazGht03A9I286EVfwPh8pA55gBEzCehRBgRyqT0ZPaUlLxmYyKD+nn322bQVtBk/symPviblzJkzSR7FOrHlfmgjlycajBoLRqmMZYj3pjFtLNTYkXcHI6Pvt2liLYiniN6CPsHNEf65FQ+iVJqYZczIG0X/xPvwTWhlZWWTPLSJt2garw5tKJ4ImvqdFfq5fPnyxD8Nj7E9ihdCDsapuJxz586l43gt+KaFMdmXXA+Rj+t4phinhc65nybVORMSBlMcF23MQ7emGSYtTU6lCVITqya2RYAh1YSMnJdffjnJ2ccz8NNPP9V7T5DBxv/BvIy3SZHHqSTXLOClip4VDLo+X1jRAwYSnhrA8Jwl1kg/VoHceDVmEqYydpgwuPGYSEjsc64E3p2uiZDJiMkUdEMzQa+urqZgWM6RSv9sTFwKKqUsx2oDo4G2mbj165+YNJFGY0Z1geUkGWkE81JG8tAnE7ImXgXmkuIEHcHDghwYcrQ7Sb8l+LVS1FecvDlWop+uh/uhU11DdI4RiN4lE8sWWq4jH5kZd9Qn45JB1VcPEK+f7iPkYBlTspHwKDWNB8OJ+iBjkTaQFV2pDR5wydIe+yrLPRJ/JdYkt5kOJsoSfTwFfcEAOHr0aH20GYwcvEvyiEyDPBYRlrB2CnmC5qVTea70f4PxGL1Zk5B7d6aF+njN8OD0lcGYMdU3m4VSTZJbAnu3GwJgSTkEp+60bMbsBqqJJgWBVt+q6zOPOXTo0DhQVWVIOkd5jqtv+ekYyFM+kEc7gn21MwnUj2UrQ2ZTe5JBspMneSQzdUrEcauM5BNrWZAwxD5KMP6Y3ySz2lQfGoPGHM9RP7YBTTJwPl4DtS/IV7slyI99sS95IpKzrS1ok0e6UBvoimPpRteIOsY0sfnOXAD8wmUWMJa4kUvGyqQ01Z9VNmP2AppslOKkokmJxISXT1qQ18/zNVkpaTITOh+NiRxNqqTYft43x7nMlGefNkpoIo8GUZzcSVG2mFdqM+bTd5SdFOUjaZKP9aQj5YlcrhIaL4nyakuJscQyMenad10zobba6CtP1Nc///nP8T4p3pvGRJ7iT3WTzBUtZcACmu8NSyNaKoksg2zGmG60FELAsVk8xMiUloyazjfBdSOeaJZ4HWPmwUIClIlvwZBYFmOCOBPJE5MxZntQUPA07z+iHoGuNnS2B36uHoOTBefzX211wXWbl6GD4cS9UHpMgDFdLMSzY4wxZvfCF0R+Th95K/xUvg2MET2zZ3193UaqWQps7BhjjDFm0Cz0OTvGGGOMMTvNjhk7eh5O21u5jTHGGGNmZceMHR6axwoaDx3sCw+Bw1Aym+HBeuilbV2dJx8vysCk7bx/9rtkmhaN1w8BNMYY08aOLmNNMwHGpy2bJ8QnCLfx3XffdT5VeVp4wjFPPdZTpUG/hIvn5gWv2eBpz/z6zxhjzHTwpbHpdUz6Ektinsnpyl8WdtTYYaLq+84sXkswzXuYho5er7Bomrwo3OR46UrvHFsUGxsbyXgzxhjTn/h6pRIygPjCyvzCF+po0HTlLxM7auxs58RoZqfJ8hd9DddZ8XtyjDFmehROwvsPczBaeFcg7xcE5mscFHpAb1f+srEwY0exGiT2sSBlRcrdRdKx8pqWtqKrLIKngXPyOCieJ5ajLvlRJspFiGNRnlKTF0Ptqe+DBw+O63SNK45DsTO0E8+rrI5zWSdBdfP4HMktor7a+qION7ZezMm4QGPFotd56Rk0fsqVUFnydQ0kH1uOY30dIyf/XCrDFh2SIF5rknRqjDFDhM/P/HOWz0N9VveFMAGMoOiU4MXRhCtAV/7SUVl1C6FSQr1XmY1VN7x0E3hHFcfxBZzKr6zCcbkI5+N7rCgfRc/zaUP55Km8yuh9W4LzefvUKxHbi+/bmmRcbGO76ld51M3bRY/IOwmqTxLsa2xs43HeX66XHGRUXVB9jVk6YIvcJ06cSMexTETlY5l4TnLRVtRbrhPJRXlt1Z7y4/24SHTvtaWSLowxZlb4nNPnJp+FfB5NQv4ZC/nnPejzDbryl42FSVVSHuQTEWgSKCmJcnn5fFLOlZ4rvCu/afJsopTfNa7SOED51FcZ3ayQy9ZGqb7Gqn6RuzQ2xiRZmsjHzTEpomujcnn/OU16o56grdhP6XpRR/UoP6nOjDFmSPD5x2dhnAe62AvGzsKWsQhWZdlDywhdVEpCQ/XRE2hj0Rw7dmx0/fr1+ujxr4qOHDlSH82GxtU0juomSwHXi/i1Ejz//PP1Xhktn+F+RNY+/Pzzz/XeEw4dOpS22/0LqeqfLumZNegHDx7UZ40xZm+hz7/bt2+nrXnMwowdBT5V1mU6zmNH+rJIo4dfeIEMs/3794/PzRvWOXPu3r1b780fbngMqriuKljLRa8yEqahaX22KUZnO+D6LVKnbShGqS116aZUx8nJafem7YJ5li/ufKbfuHFj6ngd4Atw/sWRX8Ayn0BX/rKxMGNHxg0eCxk8EU36Coi9ePFi8cJQH+W9/fbb9ZnR2AsTb6Ko9MuXL6ftpDcZ3o0PP/ww3SCkWbwSTeNiHHgfONZkR9Dsw4cPt3h1ZJFTj3yeK9QUOFwiGmr01/XgRsnDP8ekIM+5c+eSfAoKhrW1tTTOknE1T27dupW2yI7BRuC0AptPnjyZzsX7CXm3wwCTkd+WunRTquPk5LR703bAfMfcqM8XHsvBZ3qfuSNy4sSJ9PkePzf5EslKCHTlLx3VhVgIit1QijEZrPPpvMqx1teGypMUoyEUq6KkNiH2VRlNRblimZhKMuXtRSYZV95Xvq4a40/Yl8ygNjnfRK6L2H7sm32gfZ2LfcfrJRiL8gXt6xxJ7UIsT8rbzPPzY8Yb5VPbsRz5yB37hVJbxhhjtqLP0RzO6bw+6yNd+cuE33pegeVbWrZqOr/TLKtcxhhjdg+sLuTPxclNAjzmeM6h+sK6xTPdlb8s7OhDBecJrjTceHFJZRJY6ojByYLzCradNwoK7vvsF4wc6k3rljTGGGMEIRQYNzHlENahvJIh05W/LNizU4HxkQdAr66u+lUExhhjzACwsWOMMcaYQTOYZSxjjDHGmBI2dowxxhgzaGzsGGOMMWbQ2NgxxhhjzKCxsWOMMcaYQWNjZyDw/J34eoQ+6Pk9xhhjzBCxsTMAZjVUeBqzn0BgjDFmqNjYGQA2VIwxxphmbOwYY4wxZtDY2JkSxcjoPVek+Kp73nul8zHxWnztK8bm6aefTse0lddTm7xsjeOu92I1yaP6SvG9XNRBBmOMMWaI2NiZAowFuHjx4uill15Ky0j79u0bvz0WI4P906dPpzy28PHHH4+++OKLLctOv/7662hlZSXt68VsQD29WO3cuXOj48ePt77tPJfngw8+SOcxqngrLedJ9PXee++lvNJ7wYwxuxv+9/mcevXVV+szxuxtbOxMQTRGPvroo7S/f//+tAUZD3hxQGVu376dtpOAYXP58uX66LGnqM3QgVyeu3fvpn3OSWY8OHodP/CyU156asyQOXz48PhLyl7gnXfeSf/zp06dqs8Ys7exsbMA8M5Ez4qWjGT8TAKGzcOHD6f+OXmOlsquX79u48bsKb755pvR+++/Pzb49wqfffbZ6MCBA/WRMXsbGzsL4sMPPxx9+eWXycDQkpaWpCZF3h0MHgyoaWGpCk8PH/Z9ZTBmt/PMM8+MXn/99fpo73DkyJHRCy+8UB8tBgwqPuPwnBmzzNjYWRBvv/12Mi6UtLwU2djYSFs8PywtsfyFYSLk3cHgmcXYgQcPHtR7o9H3339f7xkzO0x2TaltEtREKQ/oojh06NDUk7FiX/AO9YH+muJlaCvqaNb/7RLIzbjRcc48dY4RyecbnrMudL1/+OGH+sxjtus+MHuc6kY1Pfj666/xhY/T8ePHH+3bt298vLKysqVMTIJ6Okcd0urqap37BMqdPn26PtrKNPLQD1vKaV/HxkzD+fPn0z0UWV9fH99ba2tr9dknvPLKK48qg39LvXmCXMhBXyUZJoE23nrrrfqonThm+iwxaVuzQN/IUhk89ZnFQT9duiVfeuGaR7bjPjDGd9eCwOjIwehoM1xKlAwgY5aNkrEjSpMck188pv4iiO129YFMTZN2X/mYwEvGziSGQYTyffuO5dFxn/6gTQ8lcuOlCdrcqfvAGC9jLQCeaVPitddeKy5nNRGfkzMP9AyeebdrTBvVhJa2n3/+edoC8STPPfdcffT4f2PesFzCr5JEVx8nT56s97YS25kFlnvop7ScU2KaX1PFcaJjdN2HNj2UiNexL9txHxgDNnYWwC+//DIOTo6JZ+VMgn45dezYsfTT8HlBW5WB6yBls61osr1x40baMskTT6L/C+JbNOEpnoUynFd+G2qHujH+hTaVR7pw4UKdsxn6Ih9kiBBvoy0ododEjMm0MUDE5/E/eP78+aSDtngd+trY2Bi9++67m2RS34p1IUXDCaNS50kRjbUUy1PSAyAjfat/xdbksUcc99VNlJV6s9wHxrSS/DvGGDMDLD+0fZyQp2UdtopbYQmDPJYzYrwLibyYX4J2qAexXaCe8tROW7xM3g9l41IUeZQBbZugXqxbQuOVjCWIuYlLO+zHOBy1wfiA/NgvY1C+dEBq0ifEfNUnRTnVr5Bu1EeJWAaQNY5NOlPbSlH2NrmNacOeHWPMQoleB7h69WrycPDtHe+G4GfS1USX9qvJLX3Lj0scTWipR+0C3odq4hz/9Jp2qolydOnSpS3y9AUvQ2UE1EfTg2y08+2339ZnZgcv0NmzZ+ujx54kdIxXCx2g1z5QHxmjLoHluMpQqY8e/yqLcvQ1qW6uXLky9lqRrl27ltK094ExbdjYMcYslFu3bqUtrzIBLVHM40F/Z86cSROiJkzahh9//DFtI3rA3v3799N2WpBZRtWsHD16tN6bnSYjjuWfWQ28nDt37tR7Tzh48GAydibVDdeNhD5jMmYR2NgxxiwUBbwqyPfFF19MXhY8MbPCN/44SdK2Jna8BCV4yOCycPPmzdHvf//7+mg+lDxFi/CMKAYr0sdzhGEkQ9iYRWNjxxizEOTBAS1LiHv37qWtPDHTQvCs2oheATw+oABj+PTTT9MSS9fET5BtyWDS8pDGNCsKEo7LQ00wRo0zGhR6mJ+WAxkfS0MqyzgYg/TRh6iHHPql3fggQJalJl3CgjfffDMZwrGPRTxg0ZhE9QFhjDFTw8dIU4rBsoKg1JhfTdRpX1slBbQqxWBWwTnaiHVEZRRsql9NxHVOGbWjcnl9yd1GXofEOcgDb7vkAcpQNuoxtiGZ1AeojpLyctmagn2jHqJuuT6R/Pq0jScvK5lyWSmXl82PS/eBMV08xZ/qBjLGGGOMGSRexjLGGGPMoLGxY4wxxphBY2PHGGOMMYPGxo4xxhhjBo2NHWOMMcYMGhs7xhhjjBk0NnaMMcYYM2hs7BhjjDFm0NjYMcYYY8ygsbFjjDHGmEFjY8cYY4wxg8bGjjHGGGMGjY0dY4wxxgwaGzvGGGOMGTQ2dowxxhgzaGzsGGOMMWbQ2NgxxhhjzKCxsWOMMcaYQWNjxxhjjDEDZjT6f58C2e8ZL4WbAAAAAElFTkSuQmCC"&gt;&lt;/p&gt;</translation>
         </translations>
@@ -12617,21 +12628,26 @@
       </field>
       <field id="COVERAGE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Only data for 2015 of the indicator and sex disaggregation &lt;/p&gt;
+ &lt;p&gt; (Published source: STEPS 2015 health risk factors investigation report) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ có số liệu năm 2015 của chỉ tiêu và phân tổ theo giới tính&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo điều tra các yếu tố nguy cơ với sức khỏe STEPS 2015)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPARABILITY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The international indicator is “3.5.2. Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in liters of pure alcohol”. &lt;/p&gt;
+ &lt;p&gt; Comment: International and Vietnamese indicators are different. Internationally calculates pure alcohol consumption per capita (aged 15 years and older) while Vietnam calculates the proportion of people aged 15 years and older who use alcohol to dangerous levels. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu quốc tế là “3.5.2. Harmful use of alcohol, defined according to the national context as alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol”. &lt;/p&gt;
 &lt;p&gt;Nhậ xét: Chỉ tiêu quốc tế và Việt Nam khác nhau. Quốc tế tính mức tiêu thụ rượu nguyên chất tính trên đầu người (từ 15 tuổi trở lên) trong khi Việt Nam tính tỷ lệ người từ 15 tuổi trở lên sử dụng rượu, bia tới mức nguy hại.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="OTHER_DOC">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Law on Statistics No. 89/2015/QH13. &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href="https://unstats.un.org/sdgs/metadata/"&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+ &lt;p&gt; http://viendinhduong.vn/FileUpload/Documents/TLTT%20BKLN/Dieu%20tra%20quoc%20gia%20yeu%20to%20nguy%20co%20KLN%202015.pdf &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Luật Thống kê số 89/2015/QH13.&lt;/p&gt;
 &lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- &lt;a href="https://unstats.un.org/sdgs/metadata/"&gt;https://unstats.un.org/sdgs/metadata/&lt;/a&gt;&lt;/p&gt;
@@ -15197,19 +15213,19 @@
       </field>
       <field id="SDG_GOAL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Goal 4: Ensure quality, equitable, inclusive education and promote lifelong learning opportunities for all &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu 4: Đảm bảo nền giáo dục có chất lượng, công bằng, toàn diện và thúc đẩy các cơ hội học tập suốt đời cho tất cả mọi người&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_TARGET">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and lower secondary education (Global Goal 4.1) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu 4.1: Đến năm 2030, đảm bảo tất cả các trẻ em gái và trai hoàn thành giáo dục tiểu học, giáo dục trung học cơ sở miễn phí, công bằng, có chất lượng (Mục tiêu 4.1 toàn cầu)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_INDICATOR">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator 4.1.4. Percentage of students graduating from lower secondary school, percentage of students completing lower secondary level, rate of transition from primary to lower secondary &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu 4.1.4. Tỷ lệ học sinh tốt nghiệp trung học cơ sở, tỷ lệ học sinh hoàn thành cấp trung học cơ sở, tỷ lệ chuyển cấp từ tiểu học lên trung học cơ sở&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15221,7 +15237,7 @@
       </field>
       <field id="META_LAST_UPDATE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; June 2021 &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;tháng 6/2021&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15245,7 +15261,7 @@
       </field>
       <field id="CONTACT_ORGANISATION">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Ministry of Education and Training &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Giáo dục và Đào tạo&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15275,13 +15291,13 @@
       </field>
       <field id="CONTACT_MAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; No. 35 Dai Co Viet, Hanoi &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số 35 Đại Cồ Việt, Hà Nội&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CONTACT_EMAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; bogddt@moet.gov.vn &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;bogddt@moet.gov.vn&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15293,7 +15309,9 @@
       </field>
       <field id="STAT_CONC_DEF">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Middle school graduation rate is the percentage between the number of students graduating in the last grade of a grade compared to the number of students in the final grade that are eligible for graduation. &lt;/p&gt;
+ &lt;p&gt; - Middle school completion rate is the percentage between the number of students graduating from middle school in the school year (t + 3) to the number of students in the 6th grade at the beginning of the school year (t). &lt;/p&gt;
+ &lt;p&gt; - Primary to lower secondary school transition rate is the percentage of the number of students newly enrolled in grade 6 during the school year (t+1) to the number of students who are recognized to have completed elementary school. school year (t). &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Tỷ lệ học sinh tốt nghiệp trung học cơ sở là tỷ lệ phần trăm giữa số học sinh tốt nghiệp ở lớp cuối cấp học so với số học sinh học ở lớp cuối cấp học đó đủ điều kiện xét tốt nghiệp.&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ học sinh hoàn thành cấp trung học cơ sở là tỷ lệ phần trăm giữa số học sinh tốt nghiệp trung học cơ sở năm học (t + 3) so với số học sinh lớp 6 đầu năm học (t).&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ chuyển cấp từ tiểu học lên trung học cơ sở là tỷ lệ phần trăm giữa số học sinh được tuyển mới vào lớp 6 trong năm học (t+1) so với số học sinh được công nhận hoàn thành chương trình tiểu học năm học (t).&lt;/p&gt;</translation>
@@ -15307,7 +15325,7 @@
       </field>
       <field id="CLASS_SYSTEM">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister's Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15319,13 +15337,13 @@
       </field>
       <field id="SOURCE_TYPE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Statistical reporting mode issued by the Ministry of Education and Training. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo ban hành.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COLL_METHOD">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The Departments of Education and Training of the provinces/cities directly under the Central Government collect information on the forms: 02-TH-DN; 03-High School-DN; 02-TH-CN; 03-THCS-CN and send it to the Ministry of Education and Training to calculate the quota. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương tiến hành thu thập thông tin các biểu mẫu: 02-TH-ĐN; 03-THCS-ĐN; 02-TH-CN; 03-THCS-CN và gửi về Bộ Giáo dục và Đào tạo để tính toán chỉ tiêu.&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15337,19 +15355,19 @@
       </field>
       <field id="REL_CAL_POLICY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Year &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Năm&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="DATA_SOURCE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Ministry of Education and Training &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Giáo dục và Đào tạo&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPILING_ORG">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Ministry of Education and Training &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ Giáo dục và Đào tạo&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15367,7 +15385,7 @@
       </field>
       <field id="RATIONALE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The indicator reflects the graduation level of lower secondary students, which is the basis for assessing the teaching and learning quality of lower secondary education. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mức độ tốt nghiệp của học sinh trung học cơ sở, là căn cứ đánh giá chất lượng giảng dạy và học tập của giáo dục trung học cơ sở.&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -15433,21 +15451,25 @@
       </field>
       <field id="COVERAGE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Only figures for 2019 &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Education and Training) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ có số liệu của năm 2019&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Giáo dục và Đào tạo)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPARABILITY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator “Rate of students graduating from lower secondary school; the rate of students completing lower secondary school, the rate of transition from primary to lower secondary school” is one of Vietnam's indicators to represent the global sustainable development indicator “&lt;strong&gt; 4.1. 1: &lt;/strong&gt; Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex” &lt;/p&gt;
+ &lt;p&gt; However, the indicator does not guarantee global comparability because the content, scope and calculation method of Vietnam are not the same as the global standard. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ lệ học sinh tốt nghiệp trung học cơ sở; tỷ lệ học sinh hoàn thành cấp trung học cơ sở, tỷ lệ chuyển cấp từ tiểu học lên trung học cơ sở” là một trong những chỉ tiêu của Việt Nam để biểu hiện cho chỉ tiêu phát triển bền vũng toàn cầu “&lt;strong&gt;4.1.1:&lt;/strong&gt; Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex”&lt;/p&gt;
 &lt;p&gt;Tuy nhiên chỉ tiêu không bảo đảm tính so sánh toàn cầu do nội dung, phạm vi, phương pháp tính toán của Việt Nam không giống chuẩn toàn cầu.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="OTHER_DOC">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 24/2018/TT-BGDĐT dated September 28, 2018 of the Ministry of Education and Training on promulgating the reporting regime for statistics of the Education and Training sector. &lt;/p&gt;
+ &lt;p&gt; - &lt;a href="https://unstats.un.org/sdgs/metadat/"&gt; https://unstats.un.org/sdgs/metadat/ &lt;/a&gt; &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- Thông tư số 24/2018/TT-BGDĐT ngày 28/9/2018 của Bộ Giáo dục và Đào tạo về việc ban hành chế độ báo cáo thống kê ngành Giáo dục và Đào tạo.&lt;/p&gt;
 &lt;p&gt;- &lt;a href="https://unstats.un.org/sdgs/metadat/"&gt;https://unstats.un.org/sdgs/metadat/&lt;/a&gt;&lt;/p&gt;</translation>

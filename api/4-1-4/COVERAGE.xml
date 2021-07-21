@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 4-1-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Only figures for 2019 &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Education and Training) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu của năm 2019&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Giáo dục và Đào tạo)&lt;/p&gt;
 			</language>
