@@ -2,7 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 12-4-3, translated into en</message>
-	<data> &lt;p&gt; Residual contaminated land area is an area where one or more residual pollutants are detected in excess of environmental technical regulations, adversely affecting humans, the environment and the ecosystem. &lt;/p&gt;
- &lt;p&gt; Remaining contaminated soil areas identified in this regulation include areas contaminated by plant protection chemicals, toxic chemicals caused by war; unsanitary landfill has been shut down or closed. &lt;/p&gt;
- &lt;p&gt; &lt;strong&gt; Percentage of residual contaminated land areas treated and rehabilitated &lt;/strong&gt; is the percentage between residual contaminated land areas treated and rehabilitated over the total number of contaminated land areas residuals are detected. &lt;/p&gt;</data>
+	<data/>
 </root>

@@ -4,11 +4,7 @@
 	<message>The COVERAGE field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; + Annual road traffic accident data from 2010-2019 &lt;/p&gt;
- &lt;p&gt; + Annual railway traffic accident data from 2017-2019 &lt;/p&gt;
- &lt;p&gt; + Annual water traffic accident data from 2016-2019 &lt;/p&gt;
- &lt;p&gt; (Published source: Statistical yearbook publishes only general data on traffic accidents; Ministry of Public Works reports data disaggregated by road type and province/city directly under the Central Government). &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;+ Số liệu về tai nạn giao thông đường bộ có hàng năm từ 2010-2019&lt;/p&gt;
 &lt;p&gt;+ Số liệu về tai nạn giao thông đường sắt có hàng năm từ 2017- 2019&lt;/p&gt;
 &lt;p&gt;+ Số liệu về tai nạn giao thông đường thủy có hàng năm từ 2016-2019&lt;/p&gt;

@@ -4,59 +4,7 @@
 	<message>The COMPARABILITY field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; SDG Global Spending Indicator“3.6.1.Death rate due to road traffic injuries”. &lt;/p&gt;
- &lt;p&gt; Comparison of international and Vietnamese indicators &lt;/p&gt;
- &lt;table&gt;
-   &lt;tbody&gt;
-     &lt;tr&gt;
-       &lt;td&gt; &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
-       &lt;/td&gt;
-     &lt;/tr&gt;
-     &lt;tr&gt;
-       &lt;td&gt;
-         &lt;p&gt; Target name &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; Road traffic accident death rate &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt;
-       &lt;/td&gt;
-     &lt;/tr&gt;
-     &lt;tr&gt;
-       &lt;td&gt;
-         &lt;p&gt; Calculation method &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; Calculate the number of deaths due to fatal road traffic accidents per 100,000 people &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; Count: &lt;/p&gt;
-         &lt;p&gt; - traffic accident &lt;/p&gt;
-         &lt;p&gt; - Dead, injured in traffic accidents &lt;/p&gt;
-         &lt;p&gt; - People injured in traffic accidents &lt;/p&gt;
-       &lt;/td&gt;
-     &lt;/tr&gt;
-     &lt;tr&gt;
-       &lt;td&gt;
-         &lt;p&gt; Split &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td colspan=&quot;3&quot;&gt;
-         &lt;p&gt; WHO disaggregation by road user, age, sex, income group and region &lt;/p&gt;
-       &lt;/td&gt;
-       &lt;td&gt;
-         &lt;p&gt; - Type of accident (road/railway/waterway); &lt;/p&gt;
-         &lt;p&gt; - Province/city directly under the Central Government. &lt;/p&gt;
-       &lt;/td&gt;
-     &lt;/tr&gt;
-   &lt;/tbody&gt;
- &lt;/table&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu tương ứng với chi tiêu toàn cầu SDG“3.6.1.Death rate due to road traffic injuries” (Tỷ lệ tử vong do tai nạn giao thông đường bộ).&lt;/p&gt;
 &lt;p&gt;So sánh chỉ tiêu quốc tế và Việt Nam&lt;/p&gt;
 &lt;table&gt;

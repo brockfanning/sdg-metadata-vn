@@ -4,8 +4,7 @@
 	<message>The COMPARABILITY field for indicator 16-8-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; This indicator corresponds to the global SDG target 16.9.1: Proportion of children under 5 years of age whose births have been registered with a civil authority, by age &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt; Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 16.9.1: Proportion of children under 5 years of age whose births have been registered with a civil authority, by age&lt;/p&gt;
 			</language>
 </languages>

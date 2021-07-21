@@ -4,9 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 15-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Forest inventory survey; &lt;/p&gt;
- &lt;p&gt; - National level statistical reporting mode &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Điều tra kiểm kê rừng;&lt;/p&gt;
 &lt;p&gt;- Chế độ báo cáo thống kê cấp quốc gia&lt;/p&gt;
 			</language>

@@ -4,8 +4,7 @@
 	<message>The COLL_METHOD field for indicator 15-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Table No. 005.N/BCB-TNMT, national statistical reporting regime &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt; Biểu số 005.N/BCB-TNMT, chế độ báo cáo thống kê cấp quốc gia&lt;/p&gt;
 			</language>
 </languages>

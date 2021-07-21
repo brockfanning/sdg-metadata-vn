@@ -4,17 +4,7 @@
 	<message>The COLL_METHOD field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; a) Forest inventory survey &lt;/p&gt;
- &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
- &lt;p&gt; + Forest types. &lt;/p&gt;
- &lt;p&gt; + Organizations, households and individuals that manage, protect and use forests. &lt;/p&gt;
- &lt;p&gt; - Inquiry type: Full investigation &lt;/p&gt;
- &lt;p&gt; - Investigation content: &lt;/p&gt;
- &lt;p&gt; + Total forest area; &lt;/p&gt;
- &lt;p&gt; + Forest area structure is classified by forest types and investment capital; &lt;/p&gt;
- &lt;p&gt; + Forest reserve. &lt;/p&gt;
- &lt;p&gt; b) National statistical reporting regime: Table 001.N/BCB-NNPTNT &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt; a) Điều tra kiểm kê rừng&lt;/p&gt;
 &lt;p&gt;- Đối tượng, đơn vị điều tra:&lt;/p&gt;
 &lt;p&gt;+ Các loại rừng.&lt;/p&gt;

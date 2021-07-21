@@ -4,8 +4,7 @@
 	<message>The COMPILING_ORG field for indicator 15-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Nông nghiệp và Phát triển nông thôn&lt;/p&gt;
 			</language>
 </languages>

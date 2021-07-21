@@ -4,8 +4,7 @@
 	<message>The SDG_SERIES_DESCR field for indicator 16-8-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1] SG_REG_BRTH &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1] SG_REG_BRTH&lt;/p&gt;
 			</language>
 </languages>

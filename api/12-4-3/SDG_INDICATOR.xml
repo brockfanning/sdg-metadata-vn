@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 12-4-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 12.4.3. &lt;strong&gt; Percentage of residual contaminated land treated and improved &lt;/strong&gt; &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 12.4.3. &lt;strong&gt;Tỷ lệ khu vực đất bị ô nhiễm tồn lưu được xử lý, cải tạo&lt;/strong&gt;&lt;/p&gt;
 			</language>
 </languages>
