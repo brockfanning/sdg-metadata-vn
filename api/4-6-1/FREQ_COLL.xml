@@ -4,8 +4,7 @@
 	<message>The FREQ_COLL field for indicator 4-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Annual cycle, April 1 (except for the year in which the Population and Housing Census and the Mid-term Population and Housing Census were conducted). &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chu kỳ hàng năm, ngày 01 tháng 4 (trừ năm tiến hành Tổng điều tra dân số và nhà ở và Điều tra dân số và nhà ở giữa kỳ).&lt;/p&gt;
 			</language>
 </languages>

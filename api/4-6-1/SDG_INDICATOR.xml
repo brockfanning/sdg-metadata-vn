@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 4-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 4.6.1. Literacy rate of population aged 15 and over &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 4.6.1. Tỷ lệ dân số từ 15 tuổi trở lên biết chữ&lt;/p&gt;
 			</language>
 </languages>
