@@ -4,7 +4,13 @@
 	<message>The COMPARABILITY field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator corresponds to the global SDG target 8.5.1: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities &lt;/p&gt;
+ &lt;p&gt; There are some differences between the Vietnam indicator and the global indicator: &lt;/p&gt;
+ &lt;p&gt; + Global average hourly earnings; &lt;/p&gt;
+ &lt;p&gt; + Vietnam calculates average monthly income. &lt;/p&gt;
+ &lt;p&gt; Global disaggregated by people with disabilities; Vietnam has not calculated according to this sub-category. &lt;/p&gt;
+ &lt;p&gt; In addition, the diversity of data sources also greatly affects international comparability, as each source type has its own scope and characteristics. It is not entirely accurate to compare, for example, the hourly earnings from the labor census for one country with the hourly earnings from the enterprise census for another country. The use of non-standard definitions and heterogeneity of criteria leads to no guarantee of international comparison. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 8.5.1: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities&lt;/p&gt;
 &lt;p&gt;Có một số khác biệt giữa chỉ tiêu Việt Nam và chỉ tiêu toàn cầu:&lt;/p&gt;
 &lt;p&gt;+ Toàn cầu tính thu nhập trung bình theo giờ; &lt;/p&gt;

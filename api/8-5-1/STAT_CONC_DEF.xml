@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Employed employee&apos;s income is income from wages, salaries and other incomes of the same nature as salary including overtime pay, bonuses, allowances, etc. of salaried employees, etc. in economy. These incomes can be in cash or in kind. &lt;/p&gt;
+ &lt;p&gt; Average income per employed employee is the total actual income calculated on average per salaried employee. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Thu nhập của lao động có việc làmlà thu nhập từ tiền công, tiền lương và các khoản thu nhập khác có tính chất như lương gồm tiền làm thêm, tiền thưởng, tiền phụ cấp,… của những người lao động làm công ăn lương trong nền kinh tế. Các khoản thu nhập này có thể bằng tiền mặt hoặc hiện vật. &lt;/p&gt;
 &lt;p&gt;Thu nhập bình quân một lao động có việc làm là tổng số thu nhập thực tế tính bình quân một lao động làm công ăn lương.&lt;/p&gt;
 			</language>

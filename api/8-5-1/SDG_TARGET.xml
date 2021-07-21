@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 8.5: By 2030, create full and productive employment and decent work for all men and women, including youth and persons with disabilities, and equal pay for equal work (Global 8.5 target) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 8.5: Đến năm 2030, tạo việc làm đầy đủ, năng suất và việc làm tốt cho tất cả nam và nữ, bao gồm cả thanh niên, người khuyết tật và thù lao ngang bằng đối với các loại công việc như nhau (Mục tiêu 8.5 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

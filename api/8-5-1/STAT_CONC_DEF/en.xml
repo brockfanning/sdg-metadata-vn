@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 8-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Employed employee&apos;s income is income from wages, salaries and other incomes of the same nature as salary including overtime pay, bonuses, allowances, etc. of salaried employees, etc. in economy. These incomes can be in cash or in kind. &lt;/p&gt;
+ &lt;p&gt; Average income per employed employee is the total actual income calculated on average per salaried employee. &lt;/p&gt;</data>
 </root>

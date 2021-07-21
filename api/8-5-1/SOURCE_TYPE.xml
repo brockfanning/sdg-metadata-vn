@@ -4,7 +4,8 @@
 	<message>The SOURCE_TYPE field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Labor and employment survey. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Điều tra lao động và việc làm.&lt;/p&gt;
 			</language>
 </languages>
