@@ -4,7 +4,8 @@
 	<message>The REC_USE_LIM field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Data from the Ministry of Public Security only records on-site deaths due to traffic accidents, not fully reflecting all traffic deaths. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu từ Bộ Công an chỉ ghi nhận những ca tử vong tại chỗ do tai nạn giao thông, chưa phản ánh đầy đủ tất cả các trường hợp tử vong do tai nạn giao thông.&lt;/p&gt;
 			</language>
 </languages>

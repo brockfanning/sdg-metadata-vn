@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 16-8-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; a) Statistical Survey &lt;/p&gt;
+ &lt;p&gt; The indicator “Proportion of children under 5 years old with birth registration” is compiled from data of the Population and Housing Census (10-year cycle), the mid-term population and housing census (5-year cycle) and extrapolated from the results of the annual population change - family planning sample survey. These Census and Census are all part of the National Statistical Census Program. &lt;/p&gt;
+ &lt;p&gt; b) National statistical reporting mode: Table No. 002.N/BCB-TP &lt;/p&gt;</data>
 </root>

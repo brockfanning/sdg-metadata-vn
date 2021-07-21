@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 15-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Forest cover ratio is the percentage of forest area to total natural land area over a given geographical area. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ che phủ rừng là tỷ lệ phần trăm giữa diện tích rừng so với tổng diện tích đất tự nhiên trên một phạm vi địa lý nhất định.&lt;/p&gt;
 			</language>
 </languages>

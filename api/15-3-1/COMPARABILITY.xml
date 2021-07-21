@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 15-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The corresponding global SDG indicator “15.3.1. Proportion of land that is degraded over total land area”. International and Vietnamese indicators are similar in content and calculation method &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu SDG toàn cầu tương ứng “15.3.1. Proportion of land that is degraded over total land area”. Chỉ tiêu quốc tế và Việt Nam đều giống nhau về nội dung và phương pháp tính&lt;/p&gt;
 			</language>
 </languages>

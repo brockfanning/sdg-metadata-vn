@@ -1029,6 +1029,164 @@
 </fields>
 
 						</indicator>
+						<indicator id="15-2-2">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 15: Protect and sustainably develop forests, conserve biodiversity, develop ecosystem services, combat desertification, prevent degradation and restore land resources &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 15.2: By 2020, fundamentally reduce the conversion of forest land use purposes to other purposes; By 2030, strengthen the implementation of sustainable management of all types of forests, prevent deforestation, restore degraded forests, promote reforestation and regeneration, and increase forest cover to about 44-45% nationwide. country (global 15.2 target) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 15.2.2. Forest cover rate &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Forest area as a proportion of total land area [15.1.1] AG_LND_FRST &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 2, Ngoc Ha, Ba Dinh, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; trangtin@mard.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Forest cover ratio is the percentage of forest area to total natural land area over a given geographical area. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Forest inventory survey; &lt;/p&gt;
+ &lt;p&gt; - National level statistical reporting mode &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; Same as target 15.2.1 &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
+ &lt;p&gt; + Forest types. &lt;/p&gt;
+ &lt;p&gt; + Organizations, households and individuals that manage, protect and use forests. &lt;/p&gt;
+ &lt;p&gt; - Inquiry type: Full investigation &lt;/p&gt;
+ &lt;p&gt; - Investigation content: &lt;/p&gt;
+ &lt;p&gt; + Total forest area; &lt;/p&gt;
+ &lt;p&gt; + Forest area structure is classified by forest types and investment capital; &lt;/p&gt;
+ &lt;p&gt; + Forest reserve. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the level of forest cover at a reporting time. The targets are the basis for the State to formulate and inspect the forestry development plan; direct branches and localities to implement measures to protect and develop existing forest areas, plant new concentrated forests and plant scattered trees. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Figures available annually from 2010 -2019 (except 2017) &lt;/p&gt;
+ &lt;p&gt; Annual data available for city and regional subdivisions &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator corresponds to the global SDG target 15.1.1: Forest area as a proportion of total land area &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="15-3-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 15: Protect and sustainably develop forests, conserve biodiversity, develop ecosystem services, combat desertification, prevent degradation and restore land resources &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 15.3: By 2030, strengthen the prevention and control of desertification and restore degraded land, including land affected by desertification, drought, floods and other causes (item. pepper 15.3 worldwide) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 15.3.1. Rate of degraded land area &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Proportion of land that is degraded over total land area [15.3.1] AG_LND_DGRD &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 10 Ton That Thuyet - Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; portal@monre.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Degraded land is land that has changed its original characteristics and properties (in a bad direction) due to the impact of natural and human conditions. &lt;/p&gt;
+ &lt;p&gt; Soil degradation is likely to occur on all types of land: agricultural land, forestry land, aquaculture land, unused flat land, unused hilly land. &lt;/p&gt;
+ &lt;p&gt; Degraded land includes the following types: Dry land, desertification; fallow land; landslide; von, laterite; the soil is hard, cut squash; soil pollution; soil erosion; flooded land; salinized soil; acidified soil. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019 &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; National level statistical reporting mode &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; Table No. 005.N/BCB-TNMT, national statistical reporting regime &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; 5 years &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; An important criterion for assessing soil poverty, adversely affecting the productivity of crops and livestock; help management agencies know the seriousness of land degradation in order to have solutions to prevent and ensure soil fertility. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Data available for some years: 2013; 2016; 2017 &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Natural Resources and Environment) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; The corresponding global SDG indicator “15.3.1. Proportion of land that is degraded over total land area”. International and Vietnamese indicators are similar in content and calculation method &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - National report in 2020 on 5-year progress towards implementation of sustainable development goals; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="16-2-1">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Goal 16: Promote a peaceful, just and equal society for sustainable development, creating access to justice for all; building effective, accountable and participatory institutions at all levels &lt;/p&gt;
@@ -1470,6 +1628,86 @@
 </fields>
 
 						</indicator>
+						<indicator id="16-8-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 16: Promote a peaceful, just and equal society for sustainable development, creating access to justice for all; building effective, accountable and participatory institutions at all levels &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 16.8: By 2030, provide legal identification to all, including birth registration (Global target 16.9) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 16.8.1. Percentage of children under 5 years old with birth registration
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1] SG_REG_BRTH &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Chairman: General Statistics Office; &lt;/p&gt;
+ &lt;p&gt; - Coordination: Ministry of Justice. &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 54 Nguyen Chi Thanh, Dong Da, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; banbientap@gso.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Children under 5 years of age who are registered for birth is the number of children under 5 years of age from the date of birth and are granted a birth certificate in accordance with the law. &lt;/p&gt;
+ &lt;p&gt; Birth registration rate of children under 5 years old shows how many children under 5 years old have birth registration. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Population and housing census; &lt;/p&gt;
+ &lt;p&gt; - Census midterm; &lt;/p&gt;
+ &lt;p&gt; - Population change and family planning survey; &lt;/p&gt;
+ &lt;p&gt; - National level statistical reporting mode. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; a) Statistical Survey &lt;/p&gt;
+ &lt;p&gt; The indicator “Proportion of children under 5 years old with birth registration” is compiled from data of the Population and Housing Census (10-year cycle), the mid-term population and housing census (5-year cycle) and extrapolated from the results of the annual population change - family planning sample survey. These Census and Census are all part of the National Statistical Census Program. &lt;/p&gt;
+ &lt;p&gt; b) National statistical reporting mode: Table No. 002.N/BCB-TP &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; 5 years &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; Indicator reflecting the birth status of children under 5 years old. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Data available for 2011, 2014 and 2019 by region and urban/rural subdivision &lt;/p&gt;
+ &lt;p&gt; (Published source: 2011, 2014- MICS survey; 2019- Population and housing census results 2019) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator corresponds to the global SDG target 16.9.1: Proportion of children under 5 years of age whose births have been registered with a civil authority, by age &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 regulating the set of statistical standards for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="17-1-1">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Goal 17: Strengthen implementation and promote global partnerships for sustainable development &lt;/p&gt;
@@ -1828,6 +2066,135 @@
 									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
 									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="3-5-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 3: Ensure healthy lives and enhance well-being for people of all ages &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 3.5: By 2030, annually continue to control and reduce traffic accidents on all three criteria, number of cases, number of deaths and number of injured people (Global target 3.6) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 3.5.1. Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Number of deaths rate due to road traffic injuries [3.6.1] SH_STA_TRAFN &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Public Security. &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 44 Yet Kieu - Hoan Kiem - Hanoi &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; A traffic accident is an unexpected event, beyond the subjective will of human beings, occurring when traffic participants are operating on public roads, special-use roads or at intersections. public transport (referred to as the traffic network: road, railway, waterway, air), but due to subjective reasons, violation of traffic safety rules or encountering unexpected situations and incidents. unpredictably, causing certain damage to life, human health or property. &lt;/p&gt;
+ &lt;p&gt; One or more consecutive collisions between traffic participants at a certain place is called a traffic accident. A traffic accident occurs to one or more objects in traffic. &lt;/p&gt;
+ &lt;p&gt; Traffic accidents cause damage to people and property. The number of people affected by traffic accidents includes those injured and killed by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Traffic accident deaths include all deaths caused by traffic accidents. &lt;/p&gt;
+ &lt;p&gt; Injured people are those who suffer physical and mental injuries due to the direct impact of traffic accidents, affecting their normal lives. Cases of shock or mental impact due to an event affecting the family and self are not counted as the number of people injured. &lt;/p&gt;
+ &lt;p&gt; Number of people injured in traffic accidents includes the total number of injured people requiring treatment due to traffic accidents. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; Number &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; National level statistical reporting mode. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; According to the provisions of Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the National Statistical Reporting Regulation, the Ministry of Public Security is responsible for collecting the form “002. H/BCB-CA-Traffic accident”. The reporting period is June, month and year. Periodically, the Ministry of Public Security collects data and sends it to the General Statistics Office. According to the provisions of the Law on Statistics, the General Statistics Office is responsible for appraising data on national statistical indicators implemented by the Ministry of Public Security and disclosing information. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Public Security. &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Public Security. &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the current situation, extent and consequences of traffic accidents, serving as a basis for management agencies to develop policies to enhance traffic order and safety and social order throughout the country. &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM"> &lt;p&gt; Data from the Ministry of Public Security only records on-site deaths due to traffic accidents, not fully reflecting all traffic deaths. &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; + Annual road traffic accident data from 2010-2019 &lt;/p&gt;
+ &lt;p&gt; + Annual railway traffic accident data from 2017-2019 &lt;/p&gt;
+ &lt;p&gt; + Annual water traffic accident data from 2016-2019 &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical yearbook publishes only general data on traffic accidents; Ministry of Public Works reports data disaggregated by road type and province/city directly under the Central Government). &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; SDG Global Spending Indicator“3.6.1.Death rate due to road traffic injuries”. &lt;/p&gt;
+ &lt;p&gt; Comparison of international and Vietnamese indicators &lt;/p&gt;
+ &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt; &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Target name &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Road traffic accident death rate &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Number of traffic accidents; number of dead and injured traffic accidents &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Calculation method &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Calculate the number of deaths due to fatal road traffic accidents per 100,000 people &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Count: &lt;/p&gt;
+         &lt;p&gt; - traffic accident &lt;/p&gt;
+         &lt;p&gt; - Dead, injured in traffic accidents &lt;/p&gt;
+         &lt;p&gt; - People injured in traffic accidents &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; Split &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td colspan=&quot;3&quot;&gt;
+         &lt;p&gt; WHO disaggregation by road user, age, sex, income group and region &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Type of accident (road/railway/waterway); &lt;/p&gt;
+         &lt;p&gt; - Province/city directly under the Central Government. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="CONTACT_EMAIL"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="DATA_COMP"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -6081,150 +6448,6 @@
 </fields>
 
 						</indicator>
-						<indicator id="15-2-2">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="15-3-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="16-8-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="2-2-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
@@ -6706,54 +6929,6 @@
 
 						</indicator>
 						<indicator id="3-3-2">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="3-5-1">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>

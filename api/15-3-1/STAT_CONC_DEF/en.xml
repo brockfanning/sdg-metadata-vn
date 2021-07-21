@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 15-3-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Degraded land is land that has changed its original characteristics and properties (in a bad direction) due to the impact of natural and human conditions. &lt;/p&gt;
+ &lt;p&gt; Soil degradation is likely to occur on all types of land: agricultural land, forestry land, aquaculture land, unused flat land, unused hilly land. &lt;/p&gt;
+ &lt;p&gt; Degraded land includes the following types: Dry land, desertification; fallow land; landslide; von, laterite; the soil is hard, cut squash; soil pollution; soil erosion; flooded land; salinized soil; acidified soil. &lt;/p&gt;</data>
 </root>
