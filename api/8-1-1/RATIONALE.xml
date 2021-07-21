@@ -4,7 +4,10 @@
 	<message>The RATIONALE field for indicator 8-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Gross domestic product is an important aggregate economic indicator, reflecting the total end result of the productive activities of all permanent units in the economy of a country in a given period of time. determined; reflects the relationships in the process of production, income distribution, and final use of goods and services in the national economy. &lt;/p&gt;
+ &lt;p&gt; Gross domestic product (at actual prices) is used to study the structure and changes in economic structure by industries, groups of industries, by type of economy, the relationship between production results and mobilization to the state budget and social welfare. &lt;/p&gt;
+ &lt;p&gt; Gross domestic product (at constant prices) is used to assess the growth rate of the entire economy, industries, types, regions, study the change in the volume of goods and services. New services are created over time. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tổng sản phẩm trong nước là chỉ tiêu kinh tế tổng hợp quan trọng, phản ánh toàn bộ kết quả cuối cùng của các hoạt động sản xuất của tất cả các đơn vị thường trú trong nền kinh tế của một nước trong một thời kỳ nhất định; phản ánh các mối quan hệ trong quá trình sản xuất, phân phối thu nhập, sử dụng cuối cùng sản phẩm hàng hóa và dịch vụ trong nền kinh tế quốc dân.&lt;/p&gt;
 &lt;p&gt;Tổng sản phẩm trong nước (theo giá thực tế) dùng để nghiên cứu cơ cấu và sự biến động về cơ cấu kinh tế theo các ngành, các nhóm ngành, theo loại hình kinh tế, mối quan hệ giữa kết quả sản xuất với phần huy động vào ngân sách nhà nước và phúc lợi xã hội.&lt;/p&gt;
 &lt;p&gt;Tổng sản phẩm trong nước (theo giá so sánh) dùng đểđánh giá tốc độ tăng trưởng của toàn bộ nền kinh tế, của các ngành, các loại hình, các khu vực, nghiên cứu sự thay đổi về khối lượng hàng hóa và dịch vụ mới được tạo ra theo thời gian.&lt;/p&gt;

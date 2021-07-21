@@ -4,7 +4,8 @@
 	<message>The UNIT_MEASURE field for indicator 8-10-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; per 100,000 population aged 15 and over &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;trên 100.000 dân từ 15 tuổi trở lên&lt;/p&gt;
 			</language>
 </languages>

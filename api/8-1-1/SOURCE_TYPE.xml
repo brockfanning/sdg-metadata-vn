@@ -4,7 +4,14 @@
 	<message>The SOURCE_TYPE field for indicator 8-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Gross domestic product is aggregated and calculated from various data sources, specifically: &lt;/p&gt;
+ &lt;p&gt; - Enterprise survey; &lt;/p&gt;
+ &lt;p&gt; - Investigate individual production and business establishments; &lt;/p&gt;
+ &lt;p&gt; - Investigating, gathering information, preparing inter-sectoral balance sheets and calculating intermediate cost coefficients; &lt;/p&gt;
+ &lt;p&gt; - Investigate and collect information to calculate production value and value-added indicators of non-business units and non-profit organizations; &lt;/p&gt;
+ &lt;p&gt; - Administrative data; &lt;/p&gt;
+ &lt;p&gt; - National level statistical reporting mode. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu Tổng sản phẩm trong nước được tổng hợp và tính toán từ nhiều nguồn dữ liệu khác nhau, cụ thể:&lt;/p&gt;
 &lt;p&gt;- Điều tra doanh nghiệp;&lt;/p&gt;
 &lt;p&gt;- Điều tra cơ sở sản xuất kinh doanh cá thể;&lt;/p&gt;

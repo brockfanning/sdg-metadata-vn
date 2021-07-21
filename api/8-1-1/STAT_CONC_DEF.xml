@@ -4,7 +4,12 @@
 	<message>The STAT_CONC_DEF field for indicator 8-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Gross domestic product is the value of final physical products and services created by the economy in a certain period of time (quarter, year). GDP does not include the value of physical products and services used at intermediate stages in the production process to create products. GDP represents the output produced by resident units within the economic territory of a country. &lt;/p&gt;
+ &lt;p&gt; General content of GDP viewed from different angles: &lt;/p&gt;
+ &lt;p&gt; - From the perspective of use (expenditure): GDP is the total demand of the economy including final consumption of households, final consumption of the State, accumulation of assets and the difference between import and export of goods. goods and services. &lt;/p&gt;
+ &lt;p&gt; - From the perspective of income, GDP includes income of workers from production, production tax, depreciation of fixed assets used for production and production surplus value in the period. &lt;/p&gt;
+ &lt;p&gt; - From a production perspective: GDP is equal to production value minus intermediate costs. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tổng sản phẩm trong nước là giá trị sản phẩm vật chất và dịch vụ cuối cùng được tạo ra của nền kinh tế trong một khoảng thời gian nhất định (quý, năm). GDP không tính các giá trị sản phẩm vật chất và dịch vụ đã sử dụng ở các khâu trung gian trong quá trình sản xuất tạo ra sản phẩm. GDP biểu thị kết quả sản xuất do các đơn vị thường trú tạo ra trong lãnh thổ kinh tế của một quốc gia.&lt;/p&gt;
 &lt;p&gt;Nội dung tổng quát của GDP được xét dưới các góc độ khác nhau:&lt;/p&gt;
 &lt;p&gt;- Xét dưới góc độ sử dụng (chi tiêu): GDP là tổng cầu của nền kinh tế gồm tiêu dùng cuối cùng của hộ dân cư, tiêu dùng cuối cùng của Nhà nước, tích luỹ tài sản và chênh lệch xuất nhập khẩu hàng hoá và dịch vụ.&lt;/p&gt;

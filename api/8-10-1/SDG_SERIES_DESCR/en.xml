@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The SDG_SERIES_DESCR field for indicator 8-10-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Number of automated teller machines (ATMs) per 100,000 adults [8.10.1] FB_ATM_TOTL &lt;/p&gt;
+ &lt;p&gt; Number of commercial bank branches per 100,000 adults [8.10.1] FB_CBK_BRCH &lt;/p&gt;</data>
 </root>

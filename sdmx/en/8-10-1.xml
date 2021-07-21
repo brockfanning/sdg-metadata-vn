@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T21:56:55.367Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T21:57:20.969Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="1634726b-d908-4041-90eb-0e63c571aa53">
+  <mes:MetadataSet structureRef="MDS1" setID="ec06d0ca-dd5e-4f2a-aec4-291a0788dcc9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,66 +54,79 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Objective 8: Ensure sustainable, comprehensive and continuous economic growth; full employment, productivity and decent work for all </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 8.10: Strengthen the capacity of domestic financial institutions to encourage and expand access to financial, banking and insurance services for all (global 8.10 target) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 8.9.1. Contribution of tourism in gross domestic product </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Number of automated teller machines (ATMs) per 100,000 adults [8.10.1] FB_ATM_TOTL </p>
+ <p> Number of commercial bank branches per 100,000 adults [8.10.1] FB_CBK_BRCH </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Chairman: State Bank of Vietnam; </p>
+ <p> - Coordination: General Statistics Office. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Commercial bank branch is a dependent unit of a commercial bank, dependent on accounting, has a seal, and is responsible for performing one or several functions of a commercial bank as prescribed by law. </p>
+ <p> ATM is a banking device that automatically deals with customers, performing customer identification through ATM cards (debit cards, credit cards) or compatible devices, helping customers check their accounts. , withdraw cash, transfer money, pay for goods and services. </p>
+ <p> Although the indicator in the VSDGI is specified for the population aged 16 years and over, to ensure international comparability, the data of the indicator is calculated for the population aged 15 years and over. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> per 100,000 population aged 15 and over </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The list of administrative units in Vietnam issued together with the Prime Minister&#39;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Commercial bank branch number and ATM number: Administrative data; </p>
+ <p> - Population aged 16 years and over: Statistical survey. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> year </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> State Bank of Vietnam </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> State Bank of Vietnam </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Access to and use of formal financial services is essential. Services such as savings, insurance, payments, credit and remittances enable people to manage their lives, plan and pay their expenses, grow their businesses and improve their overall wellbeing. Banks are one of the key institutions for accessing formal financial services, so having an accessible bank branch is an important starting point for accessing and using financial services. main. Bank branches are complemented by other key access points such as automatic teller machines of all official financial institutions, which can extend financial services to remote locations. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> There are differences in youth and adult age regulations globally as well as by country. </p>
+ <p> Vietnam stipulates that young people are people aged 16 -30 years old. Meanwhile, the world as well as most other countries regulates the age of 15 years and older. </p>
+ <p> Therefore, the data for this indicator is calculated for the population aged 15 years and over to ensure international comparability. </p>
+ <p> - Although it has not reached the level as set out on the roadmap, thanks to the digitization of banking services in recent years, the system of financial institutions and commercial bank branches still meets the requirements of supporting support access to financial services of businesses and people more easily and conveniently </p>
+ <p> - With the trend of widely applying advanced technologies to develop non-cash payments, along with the rapid development of new electronic payment methods such as e-wallets, e-banking, internet-banking then the expansion of ATMs becomes unnecessary and even a waste of resources. Thus, the use of indicator 8.10.1 to evaluate the results of SDG 8.10 implementation in Vietnam may no longer be appropriate in the current context </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Method of computation </p>
+ <p> <img src="data:image/png;base64,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"> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Annual data available from 2016-2019 by Commercial Bank Branch and ATM </p>
+ <p> (Published source: 2020 national report on 5-year progress in implementing sustainable development goals, data from the State Bank of Vietnam and the General Statistics Office) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator corresponds to the global SDG target “<strong> 8.10.1: (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults </strong>”. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+ <p> - 2020 country report on 5-year progress towards implementation of sustainable development goals </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="32f42dcf-b4df-4cfc-bcf5-689755c96d56">
+  <mes:MetadataSet structureRef="MDS1" setID="a6661630-94a5-4974-a82a-791a8c0fe4bb">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -156,61 +169,74 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Objective 8: Ensure sustainable, comprehensive and continuous economic growth; full employment, productivity and decent work for all </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 8.10: Strengthen the capacity of domestic financial institutions to encourage and expand access to financial, banking and insurance services for all (global 8.10 target) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 8.9.1. Contribution of tourism in gross domestic product </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Number of automated teller machines (ATMs) per 100,000 adults [8.10.1] FB_ATM_TOTL </p>
+ <p> Number of commercial bank branches per 100,000 adults [8.10.1] FB_CBK_BRCH </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Chairman: State Bank of Vietnam; </p>
+ <p> - Coordination: General Statistics Office. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Commercial bank branch is a dependent unit of a commercial bank, dependent on accounting, has a seal, and is responsible for performing one or several functions of a commercial bank as prescribed by law. </p>
+ <p> ATM is a banking device that automatically deals with customers, performing customer identification through ATM cards (debit cards, credit cards) or compatible devices, helping customers check their accounts. , withdraw cash, transfer money, pay for goods and services. </p>
+ <p> Although the indicator in the VSDGI is specified for the population aged 16 years and over, to ensure international comparability, the data of the indicator is calculated for the population aged 15 years and over. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> per 100,000 population aged 15 and over </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The list of administrative units in Vietnam issued together with the Prime Minister&#39;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Commercial bank branch number and ATM number: Administrative data; </p>
+ <p> - Population aged 16 years and over: Statistical survey. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> year </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> State Bank of Vietnam </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> State Bank of Vietnam </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Access to and use of formal financial services is essential. Services such as savings, insurance, payments, credit and remittances enable people to manage their lives, plan and pay their expenses, grow their businesses and improve their overall wellbeing. Banks are one of the key institutions for accessing formal financial services, so having an accessible bank branch is an important starting point for accessing and using financial services. main. Bank branches are complemented by other key access points such as automatic teller machines of all official financial institutions, which can extend financial services to remote locations. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> There are differences in youth and adult age regulations globally as well as by country. </p>
+ <p> Vietnam stipulates that young people are people aged 16 -30 years old. Meanwhile, the world as well as most other countries regulates the age of 15 years and older. </p>
+ <p> Therefore, the data for this indicator is calculated for the population aged 15 years and over to ensure international comparability. </p>
+ <p> - Although it has not reached the level as set out on the roadmap, thanks to the digitization of banking services in recent years, the system of financial institutions and commercial bank branches still meets the requirements of supporting support access to financial services of businesses and people more easily and conveniently </p>
+ <p> - With the trend of widely applying advanced technologies to develop non-cash payments, along with the rapid development of new electronic payment methods such as e-wallets, e-banking, internet-banking then the expansion of ATMs becomes unnecessary and even a waste of resources. Thus, the use of indicator 8.10.1 to evaluate the results of SDG 8.10 implementation in Vietnam may no longer be appropriate in the current context </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Method of computation </p>
+ <p> <img src="data:image/png;base64,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"> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Annual data available from 2016-2019 by Commercial Bank Branch and ATM </p>
+ <p> (Published source: 2020 national report on 5-year progress in implementing sustainable development goals, data from the State Bank of Vietnam and the General Statistics Office) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator corresponds to the global SDG target “<strong> 8.10.1: (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults </strong>”. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+ <p> - 2020 country report on 5-year progress towards implementation of sustainable development goals </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

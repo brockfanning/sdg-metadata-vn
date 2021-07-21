@@ -4,7 +4,8 @@
 	<message>The COMPILING_ORG field for indicator 8-10-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; State Bank of Vietnam &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Ngân hàng Nhà nước Việt Nam&lt;/p&gt;
 			</language>
 </languages>
