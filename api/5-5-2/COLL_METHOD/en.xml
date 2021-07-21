@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 5-5-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator is synthesized from the following forms: 002.N/BCB-VPQH, 002.N/BCB-NV, 003.N/BCB-VKSNDTC, 002.N/BCB-TANDTC under Statistical Reporting Mode National level. &lt;/p&gt;</data>
 </root>

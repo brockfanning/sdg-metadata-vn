@@ -4,7 +4,8 @@
 	<message>The CLASS_SYSTEM field for indicator 17-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Vietnam product industry system promulgated under Decision No. 43/2018/QD-TTg dated November 1, 2018 of the Prime Minister &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Hệ thống ngành sản phẩm Việt Nam ban hành theo Quyết định số 43/2018/QĐ-TTg ngày 01/11/2018 của Thủ tướng Chính phủ&lt;/p&gt;
 			</language>
 </languages>

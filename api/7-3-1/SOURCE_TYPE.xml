@@ -4,7 +4,9 @@
 	<message>The SOURCE_TYPE field for indicator 7-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Statistical survey; &lt;/p&gt;
+ &lt;p&gt; - Administrative data. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Điều tra thống kê;&lt;/p&gt;
 &lt;p&gt;- Dữ liệu hành chính.&lt;/p&gt;
 			</language>
