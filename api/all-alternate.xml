@@ -593,19 +593,19 @@
       </field>
       <field id="SDG_GOAL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Common Goal 1: End all forms of poverty everywhere &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu chung 1: Chấm dứt mọi hình thức nghèo ở mọi nơi&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_TARGET">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Target 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage by 2030 for the poor and vulnerable (Global Target 1.3) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Mục tiêu 1.2: Triển khai trên toàn quốc các hệ thống và các biện pháp an sinh xã hội thích hợp cho mọi người, bao gồm cả các chính sách sàn an sinh xã hội và đến năm 2030 đạt được diện bao phủ đáng kể cho người nghèo và những người dễ bị tổn thương (Mục tiêu 1.3 toàn cầu)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_INDICATOR">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator 1.2.1. Number of people paying social insurance, health insurance and unemployment insurance &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu 1.2.1. Số người đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -617,7 +617,7 @@
       </field>
       <field id="META_LAST_UPDATE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; June 2021 &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Tháng 6/2021&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -641,7 +641,7 @@
       </field>
       <field id="CONTACT_ORGANISATION">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -671,13 +671,13 @@
       </field>
       <field id="CONTACT_MAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; No. 7 Trang Thi, Hoan Kiem District, Hanoi City &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số 7 Tràng Thi, Q.Hoàn Kiếm, TP.Hà Nội&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CONTACT_EMAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; bhxh@vss.gov.vn &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;bhxh@vss.gov.vn&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -689,7 +689,18 @@
       </field>
       <field id="STAT_CONC_DEF">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; a) Number of people paying social insurance &lt;/p&gt;
+ &lt;p&gt; Number of people paying social insurance includes the number of people participating in compulsory social insurance premiums and the number of people paying voluntary social insurance premiums. &lt;/p&gt;
+ &lt;p&gt; Compulsory social insurance is a type of social insurance organized by the State that employees and employers must participate in. &lt;/p&gt;
+ &lt;p&gt; Voluntary social insurance is a type of social insurance organized by the State in which participants can choose a payment level and payment method suitable to their income and the State has a policy to support insurance premiums. social insurance for participants to enjoy retirement and survivorship benefits. &lt;/p&gt;
+ &lt;p&gt; The subjects participating in compulsory social insurance are prescribed by the Law on Social Insurance. &lt;/p&gt;
+ &lt;p&gt; Voluntary social insurance participants are Vietnamese citizens aged full 15 years and older and are not subject to compulsory social insurance payment. &lt;/p&gt;
+ &lt;p&gt; b) Number of people paying health insurance &lt;/p&gt;
+ &lt;p&gt; Health insurance is a form of compulsory insurance that is applied to subjects under the Law on Health Insurance for health care, not for profit and organized by the State. &lt;/p&gt;
+ &lt;p&gt; Participants in health insurance are regulated by the Law on Health Insurance. &lt;/p&gt;
+ &lt;p&gt; c) Number of people paying unemployment insurance &lt;/p&gt;
+ &lt;p&gt; Unemployment insurance is a regime aimed at compensating a part of an employee's income when he or she loses a job, supporting workers in vocational training, job maintenance, and job search on the basis of contributions to the Self-Insurance Fund. wish. &lt;/p&gt;
+ &lt;p&gt; The subjects participating in unemployment insurance are regulated under the Employment Law. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;a) Số người đóng bảo hiểm xã hội&lt;/p&gt;
 &lt;p&gt;Số người đóng bảo hiểm xã hội gồm số người tham gia đóng bảo hiểm xã hội bắt buộc và số người tham gia đóng bảo hiểm xã hội tự nguyện.&lt;/p&gt;
 &lt;p&gt;Bảo hiểm xã hội bắt buộc là loại hình bảo hiểm xã hội do Nhà nước tổ chức mà người lao động và người sử dụng lao động phải tham gia.&lt;/p&gt;
@@ -706,13 +717,14 @@
       </field>
       <field id="UNIT_MEASURE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Person &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Người&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CLASS_SYSTEM">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - List of ethnic groups in Vietnam promulgated together with Decision No. 121-TCTK/PPCD dated March 2, 1979 by the Director General of the General Statistics Office); &lt;/p&gt;
+ &lt;p&gt; - The list of administrative units of Vietnam 2010 issued together with the Prime Minister's Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date. as of December 31, 2019. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Danh mục các dân tộc Việt Nam ban hành kèm theo Quyết định số 121-TCTK/PPCĐ ngày 02/3/1979 của Tổng cục trưởng Tổng cục Thống kê);&lt;/p&gt;
 &lt;p&gt;- Bảng danh mục các đơn vị hành chính Việt Nam 2010 ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019.&lt;/p&gt;</translation>
         </translations>
@@ -725,19 +737,19 @@
       </field>
       <field id="SOURCE_TYPE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; National level statistical reporting mode &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chế độ báo cáo thống kê cấp quốc gia&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COLL_METHOD">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The national statistical reporting regime was issued under Decree No. 60/2018/ND-CP dated April 20, 2018. According to regulations, Vietnam Social Insurance collects the form "00.1N/BCB-BHXH - Number of people paying social insurance, unemployment insurance, health insurance". The report is calculated starting from January 1 to the end of December 31. Periodically, Vietnam Social Insurance aggregates data from Social Security of provinces/cities directly under the Central Government and sends it to the General. Department of Statistic. Then, the General Statistics Office appraises the data according to the provisions of the Statistics Law and publishes the data on "Number of people paying social insurance, health insurance and unemployment insurance". &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chế độ báo cáo thống kê cấp quốc gia được ban hành theo Nghị định số 60/2018/NĐ-CP ngày 20/4/2018. Theo quy định, Bảo hiểm Xã hội Việt Nam thu thập biểu mẫu “00.1N/BCB-BHXH - Số người đóng bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế”. Báo cáo được tính bắt đầu từ ngày 01 tháng 01 cho đến hết ngày 31 tháng 12. Định kỳ, Bảo hiểm Xã hội Việt Nam tổng hợp số liệu từ Bảo hiểm xã hội cấp tỉnh/thành phố trực thuộc Trung ương và gửi về Tổng cục Thống kê. Sau đó, Tổng cục Thống kê thẩm định số liệu theo quy định của Luật Thống kê và công bố số liệu về “Số người đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp”.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="FREQ_COLL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Year &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Năm&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -749,13 +761,13 @@
       </field>
       <field id="DATA_SOURCE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPILING_ORG">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -773,7 +785,7 @@
       </field>
       <field id="RATIONALE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The indicator reflects the input scale of the subjects participating in insurance contributions including social insurance, health insurance and unemployment insurance (both compulsory and voluntary) as the basis for calculating the rate population and labor participating in the implementation of social insurance regimes and policies, serving social security. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu phản ánh quy mô đầu vào của các đối tượng tham gia đóng bảo hiểm bao gồm bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp (kể cả bắt buộc và tự nguyện) làm cơ sở để tính tỷ lệ dân số và lao động tham gia thực hiện chế độ chính sách bảo hiểm xã hội, phục vụ việc an sinh xã hội.&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -839,7 +851,9 @@
       </field>
       <field id="COVERAGE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Figures are published annually from 2010-2018. &lt;/p&gt;
+ &lt;p&gt; Detailed data for each subgroup has not been published. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office). &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số liệu được công bố hàng năm từ 2010-2018.&lt;/p&gt;
 &lt;p&gt;Chưa công bố số liệu chi tiết cho từng phân tổ.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê).&lt;/p&gt;</translation>
@@ -847,7 +861,11 @@
       </field>
       <field id="COMPARABILITY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The global set of sustainable development indicators uses the indicator “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable”. However, due to the characteristics of Vietnam, there is no clear concept of the term "social protection". Social protection is close to the concept of social assistance, which is one of the three basic pillars of the welfare system. With the purpose of overcoming risks, social assistance together with social insurance have the function of reducing risks, and proactive labor market policies to prevent risks for people. Therefore, to replace the global indicator 1.3.1, Vietnam uses the indicator "Number of people paying social insurance, health insurance, unemployment insurance" and some related indicators of Vietnam. like: &lt;/p&gt;
+ &lt;p&gt; 1.2.2. Number of people entitled to social insurance, health insurance and unemployment insurance &lt;/p&gt;
+ &lt;p&gt; 1.2.3. Number of people receiving monthly social support in the community. &lt;/p&gt;
+ &lt;p&gt; 1.2.4. Number of people receiving unexpected social support &lt;/p&gt;
+ &lt;p&gt; 1.2.5. The number of people being raised is concentrated in social protection establishments and social houses. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bộ chỉ tiêu phát triển bền vững toàn cầu sử dụng chỉ tiêu “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable” của quốc tế. Tuy nhiên, do đặc thù Việt Nam không có khái niệm rõ ràng về thuật ngữ “bảo trợ xã hội”. Bảo trợ xã hội gần với khái niệm trợ giúp xã hội, là một trong ba trụ cột cơ bản của hệ thống an sinh. Với mục đích khắc phục rủi ro, trợ giúp xã hội cùng với bảo hiểm xã hội có chức năng giảm thiểu rủi ro, và chính sách thị trường lao động chủ động nhằm phòng ngừa rủi ro cho người dân. Vì vậy, để thay thế cho chỉ tiêu 1.3.1 toàn cầu, Việt Nam sử dụng chỉ tiêu “Số người đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp” và một số chỉ tiêu liên quan của Việt Nam như:&lt;/p&gt;
 &lt;p&gt;1.2.2. Số người được hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp&lt;/p&gt;
 &lt;p&gt;1.2.3. Số người được hỗ trợ xã hội hàng tháng tại cộng đồng.&lt;/p&gt;
@@ -857,7 +875,9 @@
       </field>
       <field id="OTHER_DOC">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 stipulating the national statistical reporting regime; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - https://unstats.un.org/sdgs/metadata/ &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 quy định Chế độ báo cáo thống kê cấp quốc gia;&lt;/p&gt;
 &lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- https://unstats.un.org/sdgs/metadata/&lt;/p&gt;</translation>
@@ -875,19 +895,19 @@
       </field>
       <field id="SDG_GOAL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Common Goal 1: End all forms of poverty everywhere &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu chung 1: Chấm dứt mọi hình thức nghèo ở mọi nơi&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_TARGET">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Specific Objective 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage by 2030 tell the poor and vulnerable (Global Target 1.3) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu cụ thể 1.2: Triển khai trên toàn quốc các hệ thống và các biện pháp an sinh xã hội thích hợp cho mọi người, bao gồm cả các chính sách sàn an sinh xã hội và đến năm 2030 đạt được diện bao phủ đáng kể cho người nghèo và những người dễ bị tổn thương (Mục tiêu 1.3 toàn cầu)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_INDICATOR">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator 1.2.2. Number of people entitled to social insurance, health insurance and unemployment insurance &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu 1.2.2. Số người được hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -899,7 +919,7 @@
       </field>
       <field id="META_LAST_UPDATE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; June 2021 &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Tháng 6/2021&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -923,7 +943,7 @@
       </field>
       <field id="CONTACT_ORGANISATION">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -953,13 +973,13 @@
       </field>
       <field id="CONTACT_MAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; No. 7 Trang Thi, Hoan Kiem District, Hanoi City &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số 7 Tràng Thi, Q.Hoàn Kiếm, TP.Hà Nội&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CONTACT_EMAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; bhxh@vss.gov.vn &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;bhxh@vss.gov.vn&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -971,7 +991,13 @@
       </field>
       <field id="STAT_CONC_DEF">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; a) Number of people entitled to social insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to social insurance is the number of people who have participated in social insurance and receive social insurance money (calculated by number of people, regardless of whether a person receives different types of social insurance). &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to social insurance paid under the following regimes: Sickness, maternity; occupational accidents, occupational diseases; retire; death death. &lt;/p&gt;
+ &lt;p&gt; b) Number of people entitled to health insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to health insurance is the number of people who have joined health insurance when going for medical examination and treatment and are entitled to medical examination and treatment services (calculated according to the number of visits of medical examination and treatment covered by health insurance). &lt;/p&gt;
+ &lt;p&gt; c) Number of people entitled to unemployment insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to unemployment insurance is the number of people who have paid unemployment insurance premiums when they lose their jobs (unemployed) and are entitled to the unemployment insurance regime (calculated according to the number of people entitled to unemployment insurance). &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;a) Số người được hưởng bảo hiểm xã hội&lt;/p&gt;
 &lt;p&gt;Số người được hưởng bảo hiểm xã hội là số người đã tham gia bảo hiểm xã hội được nhận tiền bảo hiểm xã hội (tính theo số người, bất kể một người nhận được nhiều loại bảo hiểm xã hội khác nhau). &lt;/p&gt;
 &lt;p&gt;Số người được hưởng bảo hiểm xã hội được chi trả theo các chế độ: Ốm đau, thai sản; tai nạn lao động, bệnh nghề nghiệp; hưu trí; tử tuất.&lt;/p&gt;
@@ -983,13 +1009,14 @@
       </field>
       <field id="UNIT_MEASURE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Hits People &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Lượt Người&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CLASS_SYSTEM">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - List of ethnic groups in Vietnam promulgated together with Decision No. 121-TCTK/PPCD dated March 2, 1979 by the Director General of the General Statistics Office); &lt;/p&gt;
+ &lt;p&gt; - The list of administrative units of Vietnam 2010 issued together with the Prime Minister's Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date. as of December 31, 2019. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Danh mục các dân tộc Việt Nam ban hành kèm theo Quyết định số 121-TCTK/PPCĐ ngày 02/3/1979 của Tổng cục trưởng Tổng cục Thống kê);&lt;/p&gt;
 &lt;p&gt;- Bảng danh mục các đơn vị hành chính Việt Nam 2010 ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019.&lt;/p&gt;</translation>
         </translations>
@@ -1002,19 +1029,19 @@
       </field>
       <field id="SOURCE_TYPE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; National level statistical reporting mode. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chế độ báo cáo thống kê cấp quốc gia.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COLL_METHOD">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; The national statistical reporting regime was issued under Decree No. 60/2018/ND-CP dated April 20, 2018. According to regulations, Vietnam Social Insurance collects the form “00.3N/BCB-BHXH - Number of people entitled to social insurance, unemployment insurance, health insurance”. The report is calculated starting from January 1 to the end of December 31. Periodically, Vietnam Social Insurance aggregates data from Social Security of provinces/cities directly under the Central Government and sends it to the General. Department of Statistic. After that, the General Statistics Office appraises the data according to the provisions of the Statistics Law and publishes the data on "Number of people receiving social insurance, health insurance and unemployment insurance". &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chế độ báo cáo thống kê cấp quốc gia được ban hành theo Nghị định số 60/2018/NĐ-CP ngày 20/4/2018. Theo quy định, Bảo hiểm Xã hội Việt Nam thu thập biểu mẫu “00.3N/BCB-BHXH - Số người hưởng bảo hiểm xã hội, bảo hiểm thất nghiệp, bảo hiểm y tế”. Báo cáo được tính bắt đầu từ ngày 01 tháng 01 cho đến hết ngày 31 tháng 12. Định kỳ, Bảo hiểm Xã hội Việt Nam tổng hợp số liệu từ Bảo hiểm xã hội cấp tỉnh/thành phố trực thuộc Trung ương và gửi về Tổng cục Thống kê. Sau đó, Tổng cục Thống kê thẩm định số liệu theo quy định của Luật Thống kê và công bố số liệu về “Số người hưởng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp”.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="FREQ_COLL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Year &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Năm&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -1026,13 +1053,13 @@
       </field>
       <field id="DATA_SOURCE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPILING_ORG">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Bảo hiểm Xã hội Việt Nam&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -1050,7 +1077,7 @@
       </field>
       <field id="RATIONALE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; This indicator reflects the results of the implementation of social welfare policies for those participating in social insurance, health insurance and unemployment insurance. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu phản ánh kết quả việc thực hiện các chính sách san sinh xã hội đối với những người tham gia bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -1116,7 +1143,9 @@
       </field>
       <field id="COVERAGE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Figures are published annually from 2010-2018. &lt;/p&gt;
+ &lt;p&gt; Detailed data for each subgroup has not been published. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office). &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số liệu được công bố hàng năm từ 2010-2018.&lt;/p&gt;
 &lt;p&gt;Chưa công bố số liệu chi tiết cho từng phân tổ. &lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê).&lt;/p&gt;</translation>
@@ -1124,7 +1153,12 @@
       </field>
       <field id="COMPARABILITY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Similar to VSDGI 1.2.1, this indicator reflects part of the global SDG target “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable”. &lt;/p&gt;
+ &lt;p&gt; Due to the specificity of Vietnam, there is no clear concept of the term "social protection". Social protection is close to the concept of social assistance, which is one of the three basic pillars of the welfare system. With the purpose of overcoming risks, social assistance together with social insurance have the function of reducing risks, and proactive labor market policies to prevent risks for people. Therefore, to replace the global indicator 1.3.1, Vietnam uses this indicator along with some related indicators of Vietnam such as: &lt;/p&gt;
+ &lt;p&gt; 1.2.1. Number of people paying social insurance, health insurance and unemployment insurance &lt;/p&gt;
+ &lt;p&gt; 1.2.3. Number of people receiving monthly social support in the community. &lt;/p&gt;
+ &lt;p&gt; 1.2.4. Number of people receiving unexpected social support &lt;/p&gt;
+ &lt;p&gt; 1.2.5. Number of people being concentratedly raised in social protection establishments and social houses &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Tương tự chỉ tiêu VSDGI 1.2.1, chỉ tiêu này phản ánh 1 phần của chỉ tiêu SDG toàn cầu “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable” của quốc tế. &lt;/p&gt;
 &lt;p&gt;Do đặc thù Việt Nam không có khái niệm rõ ràng về thuật ngữ “bảo trợ xã hội”. Bảo trợ xã hội gần với khái niệm trợ giúp xã hội, là một trong ba trụ cột cơ bản của hệ thống an sinh. Với mục đích khắc phục rủi ro, trợ giúp xã hội cùng với bảo hiểm xã hội có chức năng giảm thiểu rủi ro, và chính sách thị trường lao động chủ động nhằm phòng ngừa rủi ro cho người dân. Vì vậy, để thay thế cho chỉ tiêu 1.3.1 toàn cầu, Việt Nam sử dụng chỉ tiêu này cùng một số chỉ tiêu liên quan của Việt Nam như:&lt;/p&gt;
 &lt;p&gt;1.2.1. Số người đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp&lt;/p&gt;
@@ -1135,7 +1169,9 @@
       </field>
       <field id="OTHER_DOC">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 stipulating the national statistical reporting regime; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - https://unstats.un.org/sdgs/metadata/ &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Nghị định số 60/2018/NĐ-CP ngày 20/4/2018 quy định Chế độ báo cáo thống kê cấp quốc gia;&lt;/p&gt;
 &lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- https://unstats.un.org/sdgs/metadata/&lt;/p&gt;</translation>

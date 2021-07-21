@@ -4,7 +4,14 @@
 	<message>The STAT_CONC_DEF field for indicator 1-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; a) Number of people entitled to social insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to social insurance is the number of people who have participated in social insurance and receive social insurance money (calculated by number of people, regardless of whether a person receives different types of social insurance). &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to social insurance paid under the following regimes: Sickness, maternity; occupational accidents, occupational diseases; retire; death death. &lt;/p&gt;
+ &lt;p&gt; b) Number of people entitled to health insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to health insurance is the number of people who have joined health insurance when going for medical examination and treatment and are entitled to medical examination and treatment services (calculated according to the number of visits of medical examination and treatment covered by health insurance). &lt;/p&gt;
+ &lt;p&gt; c) Number of people entitled to unemployment insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to unemployment insurance is the number of people who have paid unemployment insurance premiums when they lose their jobs (unemployed) and are entitled to the unemployment insurance regime (calculated according to the number of people entitled to unemployment insurance). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;a) Số người được hưởng bảo hiểm xã hội&lt;/p&gt;
 &lt;p&gt;Số người được hưởng bảo hiểm xã hội là số người đã tham gia bảo hiểm xã hội được nhận tiền bảo hiểm xã hội (tính theo số người, bất kể một người nhận được nhiều loại bảo hiểm xã hội khác nhau). &lt;/p&gt;
 &lt;p&gt;Số người được hưởng bảo hiểm xã hội được chi trả theo các chế độ: Ốm đau, thai sản; tai nạn lao động, bệnh nghề nghiệp; hưu trí; tử tuất.&lt;/p&gt;

@@ -6,6 +6,176 @@
 		<languages>
 			<language lang="en">
 					<indicators>
+						<indicator id="1-2-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Common Goal 1: End all forms of poverty everywhere &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; - Target 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage by 2030 for the poor and vulnerable (Global Target 1.3) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 1.2.1. Number of people paying social insurance, health insurance and unemployment insurance &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 7 Trang Thi, Hoan Kiem District, Hanoi City &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; bhxh@vss.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; a) Number of people paying social insurance &lt;/p&gt;
+ &lt;p&gt; Number of people paying social insurance includes the number of people participating in compulsory social insurance premiums and the number of people paying voluntary social insurance premiums. &lt;/p&gt;
+ &lt;p&gt; Compulsory social insurance is a type of social insurance organized by the State that employees and employers must participate in. &lt;/p&gt;
+ &lt;p&gt; Voluntary social insurance is a type of social insurance organized by the State in which participants can choose a payment level and payment method suitable to their income and the State has a policy to support insurance premiums. social insurance for participants to enjoy retirement and survivorship benefits. &lt;/p&gt;
+ &lt;p&gt; The subjects participating in compulsory social insurance are prescribed by the Law on Social Insurance. &lt;/p&gt;
+ &lt;p&gt; Voluntary social insurance participants are Vietnamese citizens aged full 15 years and older and are not subject to compulsory social insurance payment. &lt;/p&gt;
+ &lt;p&gt; b) Number of people paying health insurance &lt;/p&gt;
+ &lt;p&gt; Health insurance is a form of compulsory insurance that is applied to subjects under the Law on Health Insurance for health care, not for profit and organized by the State. &lt;/p&gt;
+ &lt;p&gt; Participants in health insurance are regulated by the Law on Health Insurance. &lt;/p&gt;
+ &lt;p&gt; c) Number of people paying unemployment insurance &lt;/p&gt;
+ &lt;p&gt; Unemployment insurance is a regime aimed at compensating a part of an employee&apos;s income when he or she loses a job, supporting workers in vocational training, job maintenance, and job search on the basis of contributions to the Self-Insurance Fund. wish. &lt;/p&gt;
+ &lt;p&gt; The subjects participating in unemployment insurance are regulated under the Employment Law. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; Person &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; - List of ethnic groups in Vietnam promulgated together with Decision No. 121-TCTK/PPCD dated March 2, 1979 by the Director General of the General Statistics Office); &lt;/p&gt;
+ &lt;p&gt; - The list of administrative units of Vietnam 2010 issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date. as of December 31, 2019. &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; National level statistical reporting mode &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; The national statistical reporting regime was issued under Decree No. 60/2018/ND-CP dated April 20, 2018. According to regulations, Vietnam Social Insurance collects the form &quot;00.1N/BCB-BHXH - Number of people paying social insurance, unemployment insurance, health insurance&quot;. The report is calculated starting from January 1 to the end of December 31. Periodically, Vietnam Social Insurance aggregates data from Social Security of provinces/cities directly under the Central Government and sends it to the General. Department of Statistic. Then, the General Statistics Office appraises the data according to the provisions of the Statistics Law and publishes the data on &quot;Number of people paying social insurance, health insurance and unemployment insurance&quot;. &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the input scale of the subjects participating in insurance contributions including social insurance, health insurance and unemployment insurance (both compulsory and voluntary) as the basis for calculating the rate population and labor participating in the implementation of social insurance regimes and policies, serving social security. &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Figures are published annually from 2010-2018. &lt;/p&gt;
+ &lt;p&gt; Detailed data for each subgroup has not been published. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office). &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; The global set of sustainable development indicators uses the indicator “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable”. However, due to the characteristics of Vietnam, there is no clear concept of the term &quot;social protection&quot;. Social protection is close to the concept of social assistance, which is one of the three basic pillars of the welfare system. With the purpose of overcoming risks, social assistance together with social insurance have the function of reducing risks, and proactive labor market policies to prevent risks for people. Therefore, to replace the global indicator 1.3.1, Vietnam uses the indicator &quot;Number of people paying social insurance, health insurance, unemployment insurance&quot; and some related indicators of Vietnam. like: &lt;/p&gt;
+ &lt;p&gt; 1.2.2. Number of people entitled to social insurance, health insurance and unemployment insurance &lt;/p&gt;
+ &lt;p&gt; 1.2.3. Number of people receiving monthly social support in the community. &lt;/p&gt;
+ &lt;p&gt; 1.2.4. Number of people receiving unexpected social support &lt;/p&gt;
+ &lt;p&gt; 1.2.5. The number of people being raised is concentrated in social protection establishments and social houses. &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 stipulating the national statistical reporting regime; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - https://unstats.un.org/sdgs/metadata/ &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="REL_CAL_POLICY"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_COMP"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="1-2-2">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Common Goal 1: End all forms of poverty everywhere &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Specific Objective 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage by 2030 tell the poor and vulnerable (Global Target 1.3) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 1.2.2. Number of people entitled to social insurance, health insurance and unemployment insurance &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 7 Trang Thi, Hoan Kiem District, Hanoi City &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; bhxh@vss.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; a) Number of people entitled to social insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to social insurance is the number of people who have participated in social insurance and receive social insurance money (calculated by number of people, regardless of whether a person receives different types of social insurance). &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to social insurance paid under the following regimes: Sickness, maternity; occupational accidents, occupational diseases; retire; death death. &lt;/p&gt;
+ &lt;p&gt; b) Number of people entitled to health insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to health insurance is the number of people who have joined health insurance when going for medical examination and treatment and are entitled to medical examination and treatment services (calculated according to the number of visits of medical examination and treatment covered by health insurance). &lt;/p&gt;
+ &lt;p&gt; c) Number of people entitled to unemployment insurance &lt;/p&gt;
+ &lt;p&gt; Number of people entitled to unemployment insurance is the number of people who have paid unemployment insurance premiums when they lose their jobs (unemployed) and are entitled to the unemployment insurance regime (calculated according to the number of people entitled to unemployment insurance). &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; Hits People &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; - List of ethnic groups in Vietnam promulgated together with Decision No. 121-TCTK/PPCD dated March 2, 1979 by the Director General of the General Statistics Office); &lt;/p&gt;
+ &lt;p&gt; - The list of administrative units of Vietnam 2010 issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date. as of December 31, 2019. &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; National level statistical reporting mode. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; The national statistical reporting regime was issued under Decree No. 60/2018/ND-CP dated April 20, 2018. According to regulations, Vietnam Social Insurance collects the form “00.3N/BCB-BHXH - Number of people entitled to social insurance, unemployment insurance, health insurance”. The report is calculated starting from January 1 to the end of December 31. Periodically, Vietnam Social Insurance aggregates data from Social Security of provinces/cities directly under the Central Government and sends it to the General. Department of Statistic. After that, the General Statistics Office appraises the data according to the provisions of the Statistics Law and publishes the data on &quot;Number of people receiving social insurance, health insurance and unemployment insurance&quot;. &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Vietnam Social Security &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; This indicator reflects the results of the implementation of social welfare policies for those participating in social insurance, health insurance and unemployment insurance. &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Figures are published annually from 2010-2018. &lt;/p&gt;
+ &lt;p&gt; Detailed data for each subgroup has not been published. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office). &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; Similar to VSDGI 1.2.1, this indicator reflects part of the global SDG target “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable”. &lt;/p&gt;
+ &lt;p&gt; Due to the specificity of Vietnam, there is no clear concept of the term &quot;social protection&quot;. Social protection is close to the concept of social assistance, which is one of the three basic pillars of the welfare system. With the purpose of overcoming risks, social assistance together with social insurance have the function of reducing risks, and proactive labor market policies to prevent risks for people. Therefore, to replace the global indicator 1.3.1, Vietnam uses this indicator along with some related indicators of Vietnam such as: &lt;/p&gt;
+ &lt;p&gt; 1.2.1. Number of people paying social insurance, health insurance and unemployment insurance &lt;/p&gt;
+ &lt;p&gt; 1.2.3. Number of people receiving monthly social support in the community. &lt;/p&gt;
+ &lt;p&gt; 1.2.4. Number of people receiving unexpected social support &lt;/p&gt;
+ &lt;p&gt; 1.2.5. Number of people being concentratedly raised in social protection establishments and social houses &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 stipulating the national statistical reporting regime; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - https://unstats.un.org/sdgs/metadata/ &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="REL_CAL_POLICY"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_COMP"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="1-2-3">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Common Goal 1: End all forms of poverty everywhere &lt;/p&gt;
@@ -4045,102 +4215,6 @@
 
 						</indicator>
 						<indicator id="1-1-3">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="1-2-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="1-2-2">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
