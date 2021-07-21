@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T21:39:21.685Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T21:39:56.967Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="8483ebc2-8bad-4499-b1b4-606e848c6ace">
+  <mes:MetadataSet structureRef="MDS1" setID="a1d575f1-8ed0-4d7f-81d6-04c0bc9c6d3a">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,52 +54,64 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Goal 17: Strengthen implementation and promote global partnerships for sustainable development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 17.5: Encourage and promote effective public, public-private partnerships, based on the experience and resource strategy of partnerships (global 17.17 target) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 17.5.1. Official development assistance and concessional loans from foreign donors </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Planning and Investment. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Official development assistance (ODA) and concessional loans from foreign donors are capital sources provided by foreign donors to the State or Government of the Socialist Republic of Vietnam. to support development, ensure welfare and social security. </p>
+ <p> - ODA and concessional loans from foreign donors include the following 3 types: </p>
+ <p> + Non-refundable ODA is the type of ODA that is not required to be returned to foreign donors; </p>
+ <p> + ODA loan is a foreign loan with a preferential component of at least 35%, for loans with binding conditions related to the procurement of goods and services as prescribed by foreign donors or achieving at least 25% for loans with no strings attached; </p>
+ <p> + Preferential loans are foreign loans with more preferential conditions than commercial loans, but the concessional component does not meet the standards of ODA loans. </p>
+ <p> - ODA and concessional loans of donors are classified according to the following criteria: </p>
+ <p> + ODA and concessional loans of signing donors by donors; </p>
+ <p> + ODA capital and concessional loans of the signing donors by sectors, priority areas for using ODA and concessional loans of donors; </p>
+ <p> + ODA and concessional loans of donors are divided by donors; </p>
+ <p> + ODA and concessional loans of donors shall be classified according to sectors, priority areas for using ODA and concessional loans of donors. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> million US dollars </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The list of administrative units in Vietnam issued together with the Prime Minister&#39;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) </p>
+ <p> Vietnam&#39;s economic system in 2018 promulgated under Decision No. 27/2018/QD-TTg dated July 6, 2018 of the Prime Minister </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistical reporting mode issued by the Ministry of Planning and Investment </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Quarter, year. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Planning and Investment. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Planning and Investment. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Official development assistance (ODA) capital is one of the important sources of capital for economic growth, social development, environmental protection and improvement, especially in infrastructure construction and eradication. poverty alleviation. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Annual figures from 2011-2019 </p>
+ <p> (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Planning and Investment) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator reflects Vietnam&#39;s sustainable development goals (target 17.5). The set of global sustainable development indicators does not have this indicator. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

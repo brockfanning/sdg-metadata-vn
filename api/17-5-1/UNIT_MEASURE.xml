@@ -4,7 +4,8 @@
 	<message>The UNIT_MEASURE field for indicator 17-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; million US dollars &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Triệu đô la Mỹ&lt;/p&gt;
 			</language>
 </languages>

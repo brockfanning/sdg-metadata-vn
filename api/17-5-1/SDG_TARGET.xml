@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 17-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 17.5: Encourage and promote effective public, public-private partnerships, based on the experience and resource strategy of partnerships (global 17.17 target) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 17.5: Khuyến khích và xúc tiến quan hệ đối tác công, công - tư một cách hiệu quả, dựa trên kinh nghiệm và chiến lược nguồn lực của quan hệ đối tác (mục tiêu 17.17 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

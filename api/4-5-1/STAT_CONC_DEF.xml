@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 4-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Equality index in education and training is the ratio between the value of an indicator of education and training of one population group compared to another population group. The group at greater risk of disadvantage is usually placed in the numerator. The closer the index value is to 1, the higher the equality between the two groups; The closer to 0 the greater the inequality. &lt;/p&gt;
+ &lt;p&gt; The equality index in education and training is approached according to the following factors: Gender, ethnicity. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ số bình đẳng trong giáo dục, đào tạo là tỷ số giữa giá trị của một chỉ tiêu giáo dục, đào tạo của một nhóm dân số này so với một nhóm dân số khác. Nhóm có nguy cơ thiệt thòi hơn thường được đặt ở tử số. Giá trị của chỉ số càng gần 1 cho thấy sự bình đẳng giữa hai nhóm càng cao; càng gần 0 cho thấy sự bất bình đẳng càng lớn.&lt;/p&gt;
 &lt;p&gt;Chỉ số bình đẳngtrong giáo dục, đào tạo được tiếp cận theo các yếu tố: Giới tính, dân tộc. &lt;/p&gt;
 			</language>

@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 17-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Official development assistance (ODA) capital is one of the important sources of capital for economic growth, social development, environmental protection and improvement, especially in infrastructure construction and eradication. poverty alleviation. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Vốn hỗ trợ phát triển chính thức (ODA) là một trong những nguồn vốn quan trọng đối với tăng trưởng kinh tế, phát triển xã hội, bảo vệ và cải thiện môi trường, đặc biệt là xây dựng kết cấu hạ tầng, xoá đói giảm nghèo.&lt;/p&gt;
 			</language>
 </languages>

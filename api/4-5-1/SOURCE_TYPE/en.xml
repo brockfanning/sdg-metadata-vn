@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 4-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Statistical reporting mode issued by the Ministry of Education and Training; &lt;/p&gt;
+ &lt;p&gt; - Statistical investigation. &lt;/p&gt;</data>
 </root>

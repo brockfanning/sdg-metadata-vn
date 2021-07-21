@@ -4,7 +4,17 @@
 	<message>The STAT_CONC_DEF field for indicator 17-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Official development assistance (ODA) and concessional loans from foreign donors are capital sources provided by foreign donors to the State or Government of the Socialist Republic of Vietnam. to support development, ensure welfare and social security. &lt;/p&gt;
+ &lt;p&gt; - ODA and concessional loans from foreign donors include the following 3 types: &lt;/p&gt;
+ &lt;p&gt; + Non-refundable ODA is the type of ODA that is not required to be returned to foreign donors; &lt;/p&gt;
+ &lt;p&gt; + ODA loan is a foreign loan with a preferential component of at least 35%, for loans with binding conditions related to the procurement of goods and services as prescribed by foreign donors or achieving at least 25% for loans with no strings attached; &lt;/p&gt;
+ &lt;p&gt; + Preferential loans are foreign loans with more preferential conditions than commercial loans, but the concessional component does not meet the standards of ODA loans. &lt;/p&gt;
+ &lt;p&gt; - ODA and concessional loans of donors are classified according to the following criteria: &lt;/p&gt;
+ &lt;p&gt; + ODA and concessional loans of signing donors by donors; &lt;/p&gt;
+ &lt;p&gt; + ODA capital and concessional loans of the signing donors by sectors, priority areas for using ODA and concessional loans of donors; &lt;/p&gt;
+ &lt;p&gt; + ODA and concessional loans of donors are divided by donors; &lt;/p&gt;
+ &lt;p&gt; + ODA and concessional loans of donors shall be classified according to sectors, priority areas for using ODA and concessional loans of donors. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi của các nhà tài trợ nước ngoài là nguồn vốn của các nhà tài trợ nước ngoài cung cấp cho Nhà nước hoặc Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam để hỗ trợ phát triển, bảo đảm phúc lợi và an sinh xã hội.&lt;/p&gt;
 &lt;p&gt;- Vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài gồm 3 loại sau:&lt;/p&gt;
 &lt;p&gt;+ Vốn ODA viện trợ không hoàn lại là loại vốn ODA không phải hoàn trả cho nhà tài trợ nước ngoài;&lt;/p&gt;
