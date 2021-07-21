@@ -4,7 +4,19 @@
 	<message>The STAT_CONC_DEF field for indicator 6-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Nature reserve includes: National park, nature reserve, species - habitat conservation area and landscape protection area. Based on the level of biodiversity, the size of the area, nature reserves are classified into national and provincial levels to have appropriate management and investment policies. &lt;/p&gt;
+ &lt;p&gt; National parks, nature reserves, species and habitat conservation areas and national landscape protection zones are nature reserves that satisfy the main criteria specified in Clause 2, Article 17, Clause 2 of this Article. 2 Article 18, Clause 2 Article 19, Article 20 of the Law on Biodiversity. &lt;/p&gt;
+ &lt;p&gt; Provincial nature reserve is an area under the biodiversity conservation planning of a province or centrally run city for the purpose of conserving natural ecosystems in the area and meeting the main criteria. the following: &lt;/p&gt;
+ &lt;p&gt; - Having a natural ecosystem important to the locality, a particular ecosystem or representative of the local ecosystem; &lt;/p&gt;
+ &lt;p&gt; - Having special ecological and environmental value for the purpose of scientific research, education, tourism and convalescence. &lt;/p&gt;
+ &lt;p&gt; Provincial-level species and habitat conservation area is an area under the biodiversity conservation planning of a province or centrally run city for the purpose of conserving wild species in the area and meeting the main criteria. the following: &lt;/p&gt;
+ &lt;p&gt; - It is a habitable or seasonal habitat of wild species on the List of banned exploitation in the wild, breeding and cold shelter of migratory species; &lt;/p&gt;
+ &lt;p&gt; - Having special ecological and environmental value for the purpose of scientific research, education, tourism and convalescence. &lt;/p&gt;
+ &lt;p&gt; Provincial landscape protection area is an area under the biodiversity conservation planning of a province or centrally run city for the purpose of landscape protection in the area and meets the following main criteria: &lt;/p&gt;
+ &lt;p&gt; - Having an environmental landscape, beautiful and unique features of nature but failing to meet the criteria for establishing a national landscape protection zone; &lt;/p&gt;
+ &lt;p&gt; - Having special ecological and environmental value for the purpose of scientific research, education, tourism and convalescence. &lt;/p&gt;
+ &lt;p&gt; The area ratio of nature reserves is calculated as a percentage of the total area of nature reserves including national and provincial levels that have been recognized to the total natural area. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Khu bảo tồn thiên nhiên bao gồm: Vườn quốc gia, khu dự trữ thiên nhiên, khu bảo tồn loài - sinh cảnh và khu bảo vệ cảnh quan. Căn cứ vào mức độ đa dạng sinh học, quy mô diện tích, khu bảo tồn thiên nhiên được phân thành cấp quốc gia và cấp tỉnh để có chính sách quản lý, đầu tư phù hợp.&lt;/p&gt;
 &lt;p&gt;Vườn quốc gia, khu dự trữ thiên nhiên, khu bảo tồn loài - sinh cảnh và khu bảo vệ cảnh quan cấp quốc gia là các khu bảo tồn thiên nhiên đáp ứng các tiêu chí chủ yếu quy định tại khoản 2 Điều 17, khoản 2 Điều 18, khoản 2 Điều 19, Điều 20 của Luật Đa dạng sinh học.&lt;/p&gt;
 &lt;p&gt;Khu dự trữ thiên nhiên cấp tỉnh là khu thuộc quy hoạch bảo tồn đa dạng sinh học của tỉnh, thành phố trực thuộc Trung ương nhằm mục đích bảo tồn các hệ sinh thái tự nhiên trên địa bàn và đáp ứng các tiêu chí chủ yếu sau đây:&lt;/p&gt;

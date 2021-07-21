@@ -4,7 +4,12 @@
 	<message>The REC_USE_LIM field for indicator 8-10-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; There are differences in youth and adult age regulations globally as well as by country. &lt;/p&gt;
+ &lt;p&gt; Vietnam stipulates that young people are people aged 16 -30 years old. Meanwhile, the world as well as most other countries regulates the age of 15 years and older. &lt;/p&gt;
+ &lt;p&gt; Therefore, the data for this indicator is calculated for the population aged 15 years and over to ensure international comparability. &lt;/p&gt;
+ &lt;p&gt; - Although it has not reached the level as set out on the roadmap, thanks to the digitization of banking services in recent years, the system of financial institutions and commercial bank branches still meets the requirements of supporting support access to financial services of businesses and people more easily and conveniently &lt;/p&gt;
+ &lt;p&gt; - With the trend of widely applying advanced technologies to develop non-cash payments, along with the rapid development of new electronic payment methods such as e-wallets, e-banking, internet-banking then the expansion of ATMs becomes unnecessary and even a waste of resources. Thus, the use of indicator 8.10.1 to evaluate the results of SDG 8.10 implementation in Vietnam may no longer be appropriate in the current context &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Có sự khác biệt về quy định độ tuổi thanh niên và người trưởng thành của toàn cầu cũng như từng quốc gia.&lt;/p&gt;
 &lt;p&gt;Việt Nam quy định thanh niên là người từ 16 tuổi -30 tuổi. Trong khi đó, toàn cầu cũng như hầu hết các quốc gia khác quy định độ tuổi từ 15 tuổi trở lên. &lt;/p&gt;
 &lt;p&gt;Do đó, số liệu của chỉ tiêu này tính toán cho dân số từ 15 tuổi trở lên để bảo đảm so sánh quốc tế.&lt;/p&gt;

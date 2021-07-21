@@ -4,7 +4,8 @@
 	<message>The COLL_METHOD field for indicator 5-5-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator is compiled from forms 001.K/BCB-NV under the national statistical reporting regime. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này được tổng hợp từ các biểu mẫu 001.K/BCB-NV thuộc Chế độ báo cáo thống kê cấp quốc gia.&lt;/p&gt;
 			</language>
 </languages>

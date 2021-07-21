@@ -4,7 +4,19 @@
 	<message>The OTHER_DOC field for indicator 6-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+         &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+         &lt;p&gt; - 2020 country report on 5-year progress towards implementation of sustainable development goals &lt;/p&gt;
+         &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; &lt;u&gt; https://unstats.un.org/sdgs/metadata/ &lt;/u&gt; &lt;/a&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt;
+			</language>
 			<language lang="vi">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;

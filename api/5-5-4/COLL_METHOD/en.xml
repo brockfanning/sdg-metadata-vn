@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 5-5-4, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator is compiled from forms 001.K/BCB-NV under the national statistical reporting regime. &lt;/p&gt;</data>
 </root>

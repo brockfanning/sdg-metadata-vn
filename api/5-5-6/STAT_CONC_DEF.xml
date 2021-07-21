@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 5-5-6, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The ratio of female farm owners is the percentage of female farm owners compared to the total number of farm owners. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ nữ chủ trang trại là tỷ lệ phần trăm nữ chủ trang trại so với tổng số chủ trang trại.&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,8 @@
 	<message>The COLL_METHOD field for indicator 6-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicators are compiled from the table No. 004.N/BCB-TNMT of the National Statistical Reporting Regime &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được tổng hợp từ biểu số 004.N/BCB-TNMT thuộc Chế độ báo cáo thống kê cấp quốc gia&lt;/p&gt;
 			</language>
 </languages>

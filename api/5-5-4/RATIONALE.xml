@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 5-5-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the role of women as well as gender equality in People&apos;s Councils at local levels. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh vai trò của phụ nữ cũng như sự bình đẳng giới trong Hội đồng nhân dân ở các cấp địa phương.&lt;/p&gt;
 			</language>
 </languages>

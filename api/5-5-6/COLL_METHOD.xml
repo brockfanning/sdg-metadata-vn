@@ -4,7 +4,36 @@
 	<message>The COLL_METHOD field for indicator 5-5-6, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicators were collected through the Rural and Agricultural Census (10-year cycle, July 1, conducted in years ending in 5) and the mid-term rural and agricultural census (cycle) 10-year period on July 1, conducted in years ending in 0). &lt;/p&gt;
+ &lt;p&gt; - Census type: The 2016 Rural, Agricultural and Fisheries Census was carried out according to the whole survey method combined with a sampling survey. &lt;/p&gt;
+ &lt;p&gt; + Full investigation: Complete investigation for all investigation units. &lt;/p&gt;
+ &lt;p&gt; + Sampling survey: Sampling survey conducted for households in rural areas to collect information for in-depth research: &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Sampling survey was carried out with a sample of over 75,000 households in &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; rural (0.5% of total rural households nationwide). Number of representative sample households &lt;/p&gt;
+ &lt;p&gt; to the province level. &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Using the rural area sample EAs list from the Census results and &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; mid-term housing in 2014 to conduct sample site selection. &lt;/p&gt;
+ &lt;p&gt; - Information collection method &lt;/p&gt;
+ &lt;p&gt; + Conduct direct interviews to collect information at the following survey units: &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; At the household: The enumerator came to the household, met directly with the head of the household to interview and record questionnaires. In case the head of household is not present at the household, other members of the household can be interviewed if that member can fully and accurately answer the information in the survey form; &lt;/li&gt;
+   &lt;li&gt; At the farm: The surveyor went to the farm to meet directly with the farm owner to interview and record questionnaires. In case the farm owner is not present at the farm, the person assigned to manage the farm can be interviewed; &lt;/li&gt;
+   &lt;li&gt; At the Commune People&apos;s Committee: The enumerator directly interviewed representatives of the commune People&apos;s Committee leaders and related civil servants (Office - Statistics, Cadastral - Construction, Finance - Accounting, Justice - Civil status, Literature - Socialization, Agricultural Extension, ...). &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; + Collecting indirect information for the following investigation units: &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Management board of housing for workers in rural areas; &lt;/li&gt;
+   &lt;li&gt; Coordination Office of the National Target Program on New Rural Development in the provinces and centrally-run cities; &lt;/li&gt;
+   &lt;li&gt; Department of Agriculture and Rural Development; &lt;/li&gt;
+   &lt;li&gt; VietGAP certification organization and equivalent designated by agencies of the Ministry of Agriculture and Rural Development; &lt;/li&gt;
+   &lt;li&gt; Units with agricultural, forestry and fishery production activities managed by the Ministry of National Defense. &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; For detailed information on the 2016 Rural, Agricultural and Fishery Census, please visit the following link: https://www.gso.gov.vn/thong-tin-dieu-tra/ &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được thu thập qua Tổng điều tra nông thôn, nông nghiệp (chu kỳ 10 năm, ngày 01 tháng 7, tiến hành vào các năm có số tận cùng là 5) và điều tra nông thôn, nông nghiệp giữa kỳ (chu kỳ 10 năm ngày 01 tháng 7, tiến hành vào các năm có số tận cùng là 0). &lt;/p&gt;
 &lt;p&gt;- Loại điều tra:Tổng điều tra nông thôn, nông nghiệp và thuỷ sản năm 2016 được thực hiện theo phương pháp điều tra toàn bộ kết hợp với điều tra chọn mẫu.&lt;/p&gt;
 &lt;p&gt;+ Điều tra toàn bộ: Điều tra toàn bộ đối với tất cả các đơn vị điều tra.&lt;/p&gt;
