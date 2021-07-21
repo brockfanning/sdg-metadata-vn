@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 4-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 4.7.1. Percentage of teachers with training qualifications and above &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 4.7.1. Tỷ lệ giáo viên đạt chuẩn trình độ đào tạo trở lên&lt;/p&gt;
 			</language>
 </languages>

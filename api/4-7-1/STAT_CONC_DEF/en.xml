@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 4-7-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Percentage of teachers meeting training standards or higher is the percentage of the number of teachers meeting training standards or higher by grade level (kindergarten, primary, middle and high school) compared to the total number of teachers of the respective grade level. &lt;/p&gt;
+ &lt;p&gt; A trained teacher means a teacher who has been trained and graduated from a pedagogical school with the corresponding qualifications as prescribed. &lt;/p&gt;</data>
 </root>
