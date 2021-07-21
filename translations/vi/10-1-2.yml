@@ -1,0 +1,51 @@
+SDG_GOAL: '<p>Mục tiêu 10: Giảm bất bình đẳng trong xã hội</p>'
+SDG_TARGET: >-
+  <p>Mục tiêu 10.1: Đến năm 2030, dần đạt được và duy trì tốc độ tăng thu nhập
+  của nhóm 40% dân số thu nhập thấp nhất cao hơn tốc độ tăng bình quân quốc gia
+  (Mục tiêu 10.1 toàn cầu)</p>
+SDG_INDICATOR: >-
+  <p>Chỉ tiêu 10.1.2. Tốc độ tăng trưởng về chi tiêu của hộ bình quân đầu
+  người</p>
+META_LAST_UPDATE: <p>tháng 6/2021</p>
+CONTACT_ORGANISATION: <p>Tổng cục Thống kê</p>
+CONTACT_MAIL: <p>54 Nguyễn Chí Thanh, Đống Đa, Hà Nội</p>
+CONTACT_EMAIL: <p>banbientap@gso.gov.vn</p>
+STAT_CONC_DEF: >-
+  <p>Tốc độ tăng trưởng về thu nhập của hộ là tốc độ tăng hàng năm của mức thu
+  nhập thực tế của hộ bình quân đầu người.</p>
+CLASS_SYSTEM: <p>Không áp dụng</p>
+SOURCE_TYPE: <p>Khảo sát mức sống dân cư Việt Nam.</p>
+REL_CAL_POLICY: <p>2 năm.</p>
+DATA_SOURCE: <p>Tổng cục Thống kê</p>
+COMPILING_ORG: <p>Tổng cục Thống kê</p>
+RATIONALE: >-
+  <p>Chỉ tiêu giúp phản ánh sự công bằng trong sự phát triển thịnh vượng chung
+  của 1 quốc gia, giúp xem xét, đề ra các chính sách phúc lợi cho nhóm đối tượng
+  yếu thế (nhóm nghèo) trong xã hội.</p>
+COVERAGE: >-
+  <p>Số liệu có sẵn 2 năm/lần từ 2010-2018 phân tổ theo thành thị/nông thôn.</p>
+
+  <p>Chưa công bố số liệu của tốc độ tăng chi tiêu của nhóm 40% dân số nghèo
+  nhất so với mức chung cả nước.</p>
+
+  <p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục
+  tiêu phát triển bền vững)</p>
+COMPARABILITY: >-
+  <p>Chỉ tiêu này tương ứng chỉ tiêu SDG toàn cầu 10.1.1: Growth rates of
+  household expenditure or income per capita among the bottom 40 per cent of the
+  population and the total population</p>
+
+  <p>Tên chỉ tiêu của Việt Nam không hoàn toàn giống tên chỉ tiêu toàn cầu mà
+  Chỉ tiêu của Việt Nam bao trùm rộng hơn so với chỉ tiêu toàn cầu. Trong đó đã
+  có quy định phân tổ cho nhóm 40% dân số nghèo nhất, do đó có thể tính toán ra
+  tỷ lệ giữa tốc độ tăng của nhóm 40% dân số nghèo nhất so với tốc độ tăng chung
+  cả nước, nên số liệu có bảo đảm so sánh quốc tế.</p>
+OTHER_DOC: >-
+  <p>- Chương trình điều tra thống kê quốc gia ban hành theo Quyết định số
+  43/2016/QĐ-TTg ngày 17 tháng 10 năm 2016 của Thủ tướng Chính phủ</p>
+
+  <p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống
+  kê phát triển bền vững của Việt Nam;</p>
+
+  <p>- <a
+  href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>
