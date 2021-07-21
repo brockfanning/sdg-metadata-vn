@@ -4,9 +4,7 @@
 	<message>The CONTACT_ORGANISATION field for indicator 7-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Chairman: General Statistics Office; &lt;/p&gt;
- &lt;p&gt; - Coordinate: Ministry of Industry and Trade &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chủ trì: Tổng cục Thống kê;&lt;/p&gt;
 &lt;p&gt;- Phối hợp: Bộ Công Thương&lt;/p&gt;
 			</language>

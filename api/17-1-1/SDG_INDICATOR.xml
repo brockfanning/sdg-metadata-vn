@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 17-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 17.1.1. Average import tax rate &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 17.1.1. Mức thuế nhập khẩu bình quân&lt;/p&gt;
 			</language>
 </languages>

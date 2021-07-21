@@ -2,6 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 7-3-1, translated into en</message>
-	<data> &lt;p&gt; Energy consumption includes energy consumption for production and energy consumption for daily life. &lt;/p&gt;
- &lt;p&gt; Energy used for production and daily life including: Gasoline, oil, gas, coal, electricity,... &lt;/p&gt;</data>
+	<data/>
 </root>

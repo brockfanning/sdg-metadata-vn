@@ -2,6 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 17-1-1, translated into en</message>
-	<data> &lt;p&gt; The average import tax rate is the average tax rate applied to goods imported into Vietnam according to the List of Vietnam&apos;s imports and exports. &lt;/p&gt;
- &lt;p&gt; The average import tax rate is calculated by the weighted average method, using the weighted method based on the value of imported goods. &lt;/p&gt;</data>
+	<data/>
 </root>

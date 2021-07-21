@@ -4,9 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 7-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Energy consumption includes energy consumption for production and energy consumption for daily life. &lt;/p&gt;
- &lt;p&gt; Energy used for production and daily life including: Gasoline, oil, gas, coal, electricity,... &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tiêu hao năng lượng bao gồm tiêu hao năng lượng dùng cho sản xuất và tiêu hao năng lượng dung cho sinh hoạt.&lt;/p&gt;
 &lt;p&gt;Năng lượng dùng cho sản xuất và sinh hoạt gồm: Xăng, dầu, khí, than, điện,...&lt;/p&gt;
 			</language>
