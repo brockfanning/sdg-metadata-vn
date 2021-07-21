@@ -4,8 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 4-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Statistical reporting mode issued by the Ministry of Education and Training. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo ban hành.&lt;/p&gt;
 			</language>
 </languages>

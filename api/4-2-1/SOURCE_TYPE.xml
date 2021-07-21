@@ -4,9 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 4-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; - Number of children under 5 years of age who are appropriately developed in terms of health, learning and psychosocial: Statistical reporting regime promulgated by the Ministry of Education and Training; &lt;/p&gt;
- &lt;p&gt; - Total number of children under 5 years old in the population: Statistical survey. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội: Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo ban hành;&lt;/p&gt;
 &lt;p&gt;- Tổng số trẻ em dưới 5 tuổi trong dân số: Điều tra thống kê.&lt;/p&gt;
 			</language>

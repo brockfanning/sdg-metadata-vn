@@ -4,9 +4,7 @@
 	<message>The OTHER_DOC field for indicator 4-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
- &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt;https://unstats.un.org/sdgs/metadata/&lt;/a&gt;&lt;/p&gt;
 			</language>

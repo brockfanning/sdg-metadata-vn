@@ -4,10 +4,7 @@
 	<message>The COLL_METHOD field for indicator 4-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; - Number of students recognized to complete the primary school program in school year t: Compiled from form 02-TH-CN, the Education and Training sector statistical reporting mode &lt;/p&gt;
- &lt;p&gt; &lt;strong&gt; - &lt;/strong&gt; Number of students in grade 5 at the end of the school year t: Compiled from the form 02-TH-DN, the Education and Training sector statistical reporting mode &lt;/p&gt;
- &lt;p&gt; - Periodically, the Departments of Education and Training of the provinces/cities directly under the Central Government collect information on each form and send it to the Ministry of Education and Training for calculation purposes. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số học sinh được công nhận hoàn thành chương trình tiểu học năm học t: Được tổng hợp từ biểu mẫu 02-TH-CN, chế độ báo cáo thống kê ngành Giáo dục và Đào tạo &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Số học sinh học lớp 5 cuối năm học t: Được tổng hợp từ biểu mẫu 02-TH-ĐN, chế độ báo cáo thống kê ngành Giáo dục và Đào tạo&lt;/p&gt;
 &lt;p&gt;- Định kỳ, Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương tiến hành thu thập thông tin từng biểu mẫu và gửi về Bộ Giáo dục và Đào tạo để tính toán chỉ tiêu.&lt;/p&gt;
