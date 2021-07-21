@@ -4,13 +4,7 @@
 	<message>The COLL_METHOD field for indicator 4-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; The Labor and Employment Survey is a sampling survey with a sample size that ensures statistical estimates for the region, Hanoi, and Ho Chi Minh City quarterly and for the province by year. &lt;/p&gt;
- &lt;p&gt; - Sampling survey using two-stage stratified sampling method: &lt;/p&gt;
- &lt;p&gt; + Phase 1: The commune determines the number of sample areas; distribution of sample EAs based on the list of master EAs of the 2019 Population and Housing Census in each province in 2 floors for urban and rural areas; select the EAs according to the probability method proportional to the household size of the area. &lt;/p&gt;
- &lt;p&gt; + Stage 2: Select sample households in each enumeration area. The sample was selected in phase 1 by systematic random method. &lt;/p&gt;
- &lt;p&gt; - Information collection method: Direct interview method using electronic questionnaire installed on the enumerator&apos;s tablet or smartphone. The enumerator went to each household to ask the information provider and recorded all the answers on the electronic form. &lt;/p&gt;
- &lt;p&gt; Purpose: Collecting information reflecting the current situation of labor resources and employment in order to serve the requirements of management, effective exploitation and use, and rational development of labor market resources; serving the calculation of labor and employment statistical indicators specified in the national statistical indicator system &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Điều tra Lao động việc làm là điều tra chọn mẫu với cỡ mẫu bảo đảm các ước lượng thống kê cho cấp vùng, thành phố Hà Nội, thành phố Hồ Chí Minh theo quý và cho cấp tỉnh theo năm.&lt;/p&gt;
 &lt;p&gt;- Điều tra chọn mẫu áp dụng phương pháp chọn mẫu phân tầng hai giai đoạn:&lt;/p&gt;
 &lt;p&gt;+ Giai đoạn 1: Xã định số địa bàn mẫu; phân bổ địa bàn mẫu dựa trên danh sách địa bàn mẫu chủ của Tổng điều tra dân số và nhà ở 2019 tại mỗi tỉnh theo 2 tầng cho khu vực thành thị và nông thôn; thực hiện chọn các địa bàn theo phương pháp xác suất tỷ lệ thuận với quy mô hộ của địa bàn.&lt;/p&gt;
