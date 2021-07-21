@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 8-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 8.7.1. Percentage of people aged 5-17 participating in child labor
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 8.7.1. Tỷ lệ người từ 5-17 tuổi tham gia lao động trẻ em&lt;/p&gt;
 			</language>
 </languages>

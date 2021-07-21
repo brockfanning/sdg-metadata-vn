@@ -4,8 +4,7 @@
 	<message>The DATA_SOURCE field for indicator 8-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Ministry of Labour, Invalids and Social Affairs &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Lao động, Thương binh và Xã hội&lt;/p&gt;
 			</language>
 </languages>
