@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 11-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 11.4: Strengthen the protection and security of the world&apos;s cultural and natural heritage and UNESCO intangible cultural heritage (global target 11.4) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 11.4: Tăng cường bảo vệ và bảo đảm an toàn các di sản văn hóa và thiên nhiên của thế giới và các di sản văn hóa phi vật thể được UNESCO công nhận (mục tiêu 11.4 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

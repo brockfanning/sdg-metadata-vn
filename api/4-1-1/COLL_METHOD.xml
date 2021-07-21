@@ -4,7 +4,10 @@
 	<message>The COLL_METHOD field for indicator 4-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Number of students studying at primary level in school year t; the number of students aged 6-10 years old who are in primary school year t: synthesized from form 02-TH-DN, the statistical reporting regime of the Education and Training sector promulgated in accordance with Circular No. 24/ 2018/TT-BGDDT dated September 28, 2018 of the Ministry of Education and Training. Periodically, the Departments of Education and Training of the provinces/cities directly under the Central Government collect information in the form 02-TH-DN and send it to the Ministry of Education and Training. &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; - &lt;/strong&gt; Population aged 6-10 years: Collected through censuses of the General Statistics Office. &lt;/p&gt;
+ &lt;p&gt; - The Ministry of Education and Training compiles data on the number of students studying at primary level in school year t; the number of students aged 6-10 years old who are in primary school in year t and population data between the ages of 6-10 from the General Statistics Office to calculate this indicator. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Số học sinh đang học cấp tiểu học năm học t; số học sinh trong độ tuổi từ 6-10 tuổi đang học tiểu học năm t: được tổng hợp từ biểu mẫu 02-TH-ĐN, chế độ báo cáo thống kê ngành Giáo dục và Đào tạo ban hành theo Thông tư số 24/2018/TT-BGDĐT ngày 28/9/2018 của Bộ Giáo dục và Đào tạo. Định kỳ, Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương tiến hành thu thập thông tin trong biểu mẫu 02-TH-ĐN và gửi về Bộ Giáo dục và Đào tạo.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Dân số trong độ tuổi từ 6-10 tuổi: Thu thập qua các cuộc điều tra dân số của Tổng cục Thống kê.&lt;/p&gt;
 &lt;p&gt;- Bộ Giáo dục và Đào tạo tổng hợp số liệu về số học sinh đang học cấp tiểu học năm học t; số học sinh trong độ tuổi từ 6-10 tuổi đang học tiểu học năm t và số liệu dân số trong độ tuổi từ 6-10 tuổi từ Tổng cục Thống kê để tính toán chỉ tiêu này.&lt;/p&gt;

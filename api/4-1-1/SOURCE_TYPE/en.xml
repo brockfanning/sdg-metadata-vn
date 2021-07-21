@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 4-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Number of students studying at primary level in school year t; the number of students aged 6-10 years old who are in primary school in year t: Statistical reporting regime issued by the Ministry of Education and Training &lt;br&gt;; &lt;/p&gt;
+ &lt;p&gt; - Population aged 6-10 years: Statistical survey. &lt;/p&gt;</data>
 </root>

@@ -4,7 +4,10 @@
 	<message>The STAT_CONC_DEF field for indicator 11-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; World cultural heritage is a typical historical - cultural relic, a typical scenic spot of Vietnam with outstanding global cultural value recognized by the United Nations Educational, Scientific and Cultural Organization (UNESCO) inscribed on the list of World Heritage Sites. &lt;/p&gt;
+ &lt;p&gt; The World Natural Heritage is a typical historical-cultural relic, a typical scenic spot of Vietnam with outstanding global value in nature, inscribed in the List of World Heritage by UNESCO. &lt;/p&gt;
+ &lt;p&gt; Mixed World Cultural and Natural Heritage is a typical historical - cultural relic, a typical scenic spot of Vietnam that meets the criteria of both World Cultural Heritage and World Natural Heritage , inscribed on the UNESCO World Heritage List. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Di sản văn hóa thế giới là di tích lịch sử - văn hóa, danh lam thắng cảnh tiêu biểu của Việt Nam có giá trị nổi bật toàn cầu về văn hóa được Tổ chức Giáo dục, Khoa học và Văn hóa của Liên hợp quốc (UNESCO) ghi vào danh mục Di sản thế giới.&lt;/p&gt;
 &lt;p&gt;Di sản thiên nhiên thế giới là di tích lịch sử - văn hóa, danh lam thắng cảnh tiêu biểu của Việt Nam có giá trị nổi bật toàn cầu về thiên nhiên được UNESCO ghi vào Danh mục Di sản thế giới.&lt;/p&gt;
 &lt;p&gt;Di sản văn hóa và thiên nhiên thế giới hỗn hợp là di tích lịch sử - văn hóa, danh lam thắng cảnh tiêu biểu của Việt Nam đáp ứng được tiêu chí của cả Di sản văn hóa thế giới và Di sản thiên nhiên thế giới, được UNESCO ghi vào danh mục Di sản thế giới.&lt;/p&gt;
