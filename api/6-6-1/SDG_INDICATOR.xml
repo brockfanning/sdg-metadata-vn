@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 6-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 6.6.1. Area ratio of nature reserves &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 6.6.1. Tỷ lệ diện tích các khu bảo tồn thiên nhiên&lt;/p&gt;
 			</language>
 </languages>

@@ -2,7 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 8-10-1, translated into en</message>
-	<data> &lt;p&gt; Commercial bank branch is a dependent unit of a commercial bank, dependent on accounting, has a seal, and is responsible for performing one or several functions of a commercial bank as prescribed by law. &lt;/p&gt;
- &lt;p&gt; ATM is a banking device that automatically deals with customers, performing customer identification through ATM cards (debit cards, credit cards) or compatible devices, helping customers check their accounts. , withdraw cash, transfer money, pay for goods and services. &lt;/p&gt;
- &lt;p&gt; Although the indicator in the VSDGI is specified for the population aged 16 years and over, to ensure international comparability, the data of the indicator is calculated for the population aged 15 years and over. &lt;/p&gt;</data>
+	<data/>
 </root>

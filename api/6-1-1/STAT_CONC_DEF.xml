@@ -4,8 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 6-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Percentage of urban population supplied with clean water through a centralized water supply system is the percentage of the population living in an urban area supplied with clean water through a centralized water supply system out of the total population living in the area urban. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ dân số đô thị được cung cấp nước sạch qua hệ thống cấp nước tập trung là phần trăm dân số sống ở khu vực đô thị được cung cấp nước sạch qua hệ thống cấp nước tập trung trong tổng số dân sống ở khu vực đô thị.&lt;/p&gt;
 			</language>
 </languages>

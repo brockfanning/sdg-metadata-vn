@@ -4,9 +4,7 @@
 	<message>The COVERAGE field for indicator 6-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; General figures for 2020 only &lt;/p&gt;
- &lt;p&gt; (Published source: Department of Technical Infrastructure, Ministry of Construction) &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu chung của năm 2020&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Cục Hạ tầng kỹ thuật, Bộ Xây dựng)&lt;/p&gt;
 			</language>

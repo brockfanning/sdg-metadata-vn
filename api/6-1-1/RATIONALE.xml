@@ -4,8 +4,7 @@
 	<message>The RATIONALE field for indicator 6-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; The indicator reflects the level of access to clean water of the urban population as well as the results of providing clean water for the urban population; evaluate the effectiveness of national clean water supply programs; reflects the standard of living of people in urban areas. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mức độ tiếp cận nước sạch của dân số đô thị cũng như kết quả cung cấp nước sạch cho dân số đô thị; đánh giá hiệu quả của các chương trình cung cấp nước sạch quốc gia; phản ánh mức sống của người dân ở khu vực thành thị.&lt;/p&gt;
 			</language>
 </languages>

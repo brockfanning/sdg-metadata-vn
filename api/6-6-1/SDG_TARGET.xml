@@ -4,8 +4,7 @@
 	<message>The SDG_TARGET field for indicator 6-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Target 6.6: By 2030, protect and restore water-related ecosystems (global 6.6 target) &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 6.6: Đến năm 2030, bảo vệ và phục hồi các hệ sinh thái liên quan đến nước (mục tiêu 6.6 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

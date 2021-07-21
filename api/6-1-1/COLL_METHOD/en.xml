@@ -2,11 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 6-1-1, translated into en</message>
-	<data> &lt;p&gt; a) Survey on indicators of urban technical infrastructure: It is a survey under the National Statistical Program and conducted by the Ministry of Construction. &lt;/p&gt;
- &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
- &lt;p&gt; + Water supply system; Drainage; collect and treat domestic solid waste in urban centers and rural residential areas; cemeteries and cremation facilities; lighting and urban traffic. &lt;/p&gt;
- &lt;p&gt; + Regulatory Authority; management and operation unit. &lt;/p&gt;
- &lt;p&gt; - Survey type: Comprehensive survey combined with sample survey &lt;/p&gt;
- &lt;p&gt; - Survey content: Investigation of service capacity (scale, capacity, scope, consumable costs, service rate,...); &lt;/p&gt;
- &lt;p&gt; b) National statistical reporting regime: Table 002.N/BCB-XD &lt;/p&gt;</data>
+	<data/>
 </root>
