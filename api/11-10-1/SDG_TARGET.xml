@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 11-10-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 11.7: By 2030, ensure universal access to green, safe and friendly public spaces for the entire population, especially for women, children, the elderly and people with disabilities (Section pepper 11.7 worldwide) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 11.7: Đến năm 2030, bảo đảm tiếp cận phổ cập với không gian công cộng xanh, an toàn và thân thiện cho toàn dân, đặc biệt đối với phụ nữ, trẻ em, người cao tuổi và người khuyết tật (Mục tiêu 11.7 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

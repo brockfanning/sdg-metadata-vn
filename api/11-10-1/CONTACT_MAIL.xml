@@ -4,7 +4,8 @@
 	<message>The CONTACT_MAIL field for indicator 11-10-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; No. 2, Ngoc Ha, Ba Dinh, Hanoi &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số 2, Ngọc Hà, Ba Đình, Hà Nội&lt;/p&gt;
 			</language>
 </languages>

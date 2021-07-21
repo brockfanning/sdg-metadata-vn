@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 4-1-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - The percentage of students attending lower secondary school is the percentage of students attending lower secondary school compared to the total population aged 11-14 years old. &lt;/p&gt;
+ &lt;p&gt; - The percentage of students attending lower secondary school at the correct age is the percentage of students aged 11-14 years who are attending lower secondary school compared to the total population aged 11-14. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Tỷ lệ học sinh đi học chung cấp trung học cơ sở là tỷ lệ phần trăm số học sinh đang học cấp trung học cơ sở so với tổng dân số ở độ tuổi từ 11-14 tuổi.&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ học sinh đi học đúng tuổi cấp trung học cơ sở là tỷ lệ phần trăm số học sinh tuổi từ 11-14 tuổi đang học cấp trung học cơ sở so với tổng dân số trong độ tuổi từ 11-14 tuổi.&lt;/p&gt;
 			</language>
