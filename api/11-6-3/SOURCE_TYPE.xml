@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 11-6-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Chế độ báo cáo thống kê do Bộ Tài nguyên và Môi trường ban hành;&lt;/p&gt;
 &lt;p&gt;- Dữ liệu quan trắc tại các trạm quan trắc của các Bộ, ngành và địa phương.&lt;/p&gt;
 			</language>

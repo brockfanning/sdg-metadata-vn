@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 8-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu Tổng sản phẩm trong nước được tổng hợp và tính toán từ nhiều nguồn dữ liệu khác nhau, cụ thể:&lt;/p&gt;
 &lt;p&gt;- Điều tra doanh nghiệp;&lt;/p&gt;
 &lt;p&gt;- Điều tra cơ sở sản xuất kinh doanh cá thể;&lt;/p&gt;

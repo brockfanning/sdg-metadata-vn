@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 3-2-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Phản ánh chỉ tiêu toàn cầu “3.3.3 Malaria incidence per 1,000 population”.&lt;/p&gt;
 &lt;p&gt;Tuy nhiên Việt Nam tính trên 100.000 dân số; còn toàn cầu tính trên 1000 dân số. Do đó, chỉ tiêu này không có series trong DSD toàn cầu.&lt;/p&gt;
 			</language>

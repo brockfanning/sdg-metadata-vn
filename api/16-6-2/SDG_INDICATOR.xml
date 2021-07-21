@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 16-6-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 16.6.2. Tỷ lệ chi ngân sách nhà nước so với dự toán chi ngân sách nhà nước đã được phê duyệt&lt;/p&gt;
 			</language>
 </languages>

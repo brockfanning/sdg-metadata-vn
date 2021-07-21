@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 4-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số liệu chỉ tiêu có hàng năm từ 2016-2018&lt;/p&gt;
 &lt;p&gt;- Số liệu phân tổ theo giới tính chỉ có năm 2018&lt;/p&gt;
 &lt;p&gt;- Chưa có số liệu theo phân tổ Tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;

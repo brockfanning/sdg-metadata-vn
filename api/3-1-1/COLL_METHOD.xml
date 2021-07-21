@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 3-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ số tử vong mẹ trên một trăm nghìn trẻ đẻ sống” được tổng hợp từ nguồn dữ liệu của Tổng điều tra dân số và nhà ở (chu kỳ 10 năm)&lt;/p&gt;
 &lt;p&gt;- Loại điều tra: Điều tra toàn bộ kết hợp điều tra chọn mẫu&lt;/p&gt;
 &lt;p&gt;- Nội dung điều tra: &lt;/p&gt;

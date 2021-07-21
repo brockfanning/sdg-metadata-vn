@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 4-4-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Điều tra Lao động việc làm là điều tra chọn mẫu với cỡ mẫu bảo đảm các ước lượng thống kê cho cấp vùng, thành phố Hà Nội, thành phố Hồ Chí Minh theo quý và cho cấp tỉnh theo năm.&lt;/p&gt;
 &lt;p&gt;- Điều tra chọn mẫu áp dụng phương pháp chọn mẫu phân tầng hai giai đoạn:&lt;/p&gt;
 &lt;p&gt;+ Giai đoạn 1: Xã định số địa bàn mẫu; phân bổ địa bàn mẫu dựa trên danh sách địa bàn mẫu chủ của Tổng điều tra dân số và nhà ở 2019 tại mỗi tỉnh theo 2 tầng cho khu vực thành thị và nông thôn; thực hiện chọn các địa bàn theo phương pháp xác suất tỷ lệ thuận với quy mô hộ của địa bàn.&lt;/p&gt;

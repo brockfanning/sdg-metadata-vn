@@ -4,6 +4,7 @@
 	<message>The CONTACT_MAIL field for indicator 9-4-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;113 Trần Duy Hưng, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội.&lt;/p&gt;
 			</language>
 </languages>

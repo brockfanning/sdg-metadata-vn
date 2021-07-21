@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 8-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tốc độ tăng tổng sản phẩm trong nước quý, 6 tháng, 9 tháng, năm (kỳ) là tỷ lệ phần trăm tăng lên của tổng sản phẩm trong nước (GDP) của kỳ này so với của cùng kỳ năm trước.&lt;/p&gt;
 			</language>
 </languages>

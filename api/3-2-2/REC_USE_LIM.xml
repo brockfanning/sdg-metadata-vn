@@ -4,6 +4,7 @@
 	<message>The REC_USE_LIM field for indicator 3-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Chỉ có thể tính toán chính xác tỷ lệ mắc lao phổi AFB(+) mới phát hiện trong địa phương khi hệ thống y tế hoạt động tốt và báo cáo đầy đủ.&lt;/p&gt;
 &lt;p&gt;- Số liệu ước tính mới mắc lao thường thấp hơn thực tế trừ những nước có hệ thống giám sát tốt và đa số các trường hợp bệnh đều được thông báo cho chương trình phòng chống lao hay WHO.&lt;/p&gt;
 			</language>

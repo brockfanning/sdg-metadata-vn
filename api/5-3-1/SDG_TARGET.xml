@@ -4,6 +4,7 @@
 	<message>The SDG_TARGET field for indicator 5-3-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 5.3: Hạn chế tiến tới xóa bỏ các hủ tục như tảo hôn, kết hôn sớm và hôn nhân ép buộc (Mục tiêu 5.3 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

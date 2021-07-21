@@ -4,6 +4,7 @@
 	<message>All metadata fields for indicator 2-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 2: Xóa đói, bảo đảm an ninh lương thực, cải thiện dinh dưỡng và thúc đẩy phát triển nông nghiệp bền vững&lt;/p&gt;&lt;p&gt;Mục tiêu 2.2: Đến năm 2030 giảm tất cả các hình thức suy dinh dưỡng, đáp ứng nhu cầu dinh dưỡng cho các đối tượng là trẻ em, trẻ em gái vị thành niên, phụ nữ mang thai và đang cho con bú, người cao tuổi (Mục tiêu 2.2 toàn cầu)&lt;/p&gt;&lt;p&gt;Chỉ tiêu 2.2.1. Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng&lt;/p&gt;&lt;p&gt;Proportion of children moderately or severely stunted [2.2.1] SH_STA_STNT&lt;/p&gt;
 &lt;p&gt;Proportion of children moderately or severely wasted [2.2.2] SH_STA_WAST&lt;/p&gt;&lt;p&gt;tháng 6/2021&lt;/p&gt;&lt;p&gt;Bộ Y tế&lt;/p&gt;&lt;p&gt;Số 138A Giảng Võ - Ba Đình - Hà Nội&lt;/p&gt;&lt;p&gt;banbientap@moh.gov.vn&lt;/p&gt;&lt;p&gt;Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng là số trẻ em dưới 5 tuổi bị suy dinh dưỡng ít nhất một trong 3 loại: Cân nặng theo tuổi; chiều cao theo tuổi hoặc cân nặng theo chiều cao tính trên 100 trẻ được cân đo của khu vực trong thời điểm điều tra.&lt;/p&gt;
 &lt;p&gt;Trẻ em suy dinh dưỡng cân nặng theo tuổi là trẻ em dưới 5 tuổi có cân nặng theo tuổi thấp dưới trừ hai độ lệch chuẩn (-2SD) của cân nặng trung vị của quần thể tham khảo của Tổ chức Y tế Thế giới.&lt;/p&gt;

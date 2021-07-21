@@ -4,6 +4,7 @@
 	<message>The SDG_GOAL field for indicator 9-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 9: Xây dựng cơ sở hạ tầng có khả năng chống chịu cao, thúc đẩy công nghiệp hóa bao trùm và bền vững, tăng cường đổi mới&lt;/p&gt;
 			</language>
 </languages>

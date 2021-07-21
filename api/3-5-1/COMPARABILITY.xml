@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu tương ứng với chi tiêu toàn cầu SDG“3.6.1.Death rate due to road traffic injuries” (Tỷ lệ tử vong do tai nạn giao thông đường bộ).&lt;/p&gt;
 &lt;p&gt;So sánh chỉ tiêu quốc tế và Việt Nam&lt;/p&gt;
 &lt;table&gt;

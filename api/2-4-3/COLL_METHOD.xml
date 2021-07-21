@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 2-4-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;a) Điều tra giá tiêu dùng&lt;/p&gt;
 &lt;p&gt;Điều tra giá tiêu dùng là điều tra chọn mẫu (điều tra trực tiếp) thuộc Chương trình điều tra thống kê quốc gia.&lt;/p&gt;
 &lt;p&gt;- Mục đích điều tra: Thu thập giá bán lẻ hàng hóa, dịch vụ tiêu dùng để có số liệu phục vụ tính chỉ số giá tiêu dùng hàng tháng, nhằm cung cấp số liệu về tỷ lệ tăng giá cho Chính phủ, các bộ, các ngành sử dụng trong công tác điều hành quản lý, nghiên cứu chính sách, quản lý tài chính, tiền tệ. Làm cơ sở tính toán một số chỉ tiêu thống kê tổng hợp theo giá so sánh.&lt;/p&gt;

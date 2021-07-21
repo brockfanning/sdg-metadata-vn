@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 3-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ ca sinh được nhân viên y tế có kỹ năng đỡ là số phụ nữ đẻ trong kỳ báo cáo được nhân viên y tế có kỹ năng đỡ tính trên 100 phụ nữ đẻ trong cùng thời kỳ.&lt;/p&gt;
 &lt;p&gt;Nhân viên y tế có kỹ năng đỡ bao gồm bác sỹ chuyên khoa sản từ định hướng trở lên, hộ sinh trung cấp trở lên, y sỹ sản nhi, những cán bộ y tế khác đã được cấp chứng nhận đã được đào tạo liên tục về “người đỡ đẻ có kỹ năng” theo chương trình của Bộ Y tế.&lt;/p&gt;
 			</language>

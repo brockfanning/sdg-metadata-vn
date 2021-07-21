@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.2.1. Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn người không bị nhiễm HIV&lt;/p&gt;
 			</language>
 </languages>

@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 11-6-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Nồng độ các chất trong môi trường không khí xung quanh là các thông số kỹ thuật đo đạc, quan trắc được của một số chất tồn tại trong không khí. Các chất đặc trưng cho chất lượng môi trường không khí bao gồm: Tổng bụi lơ lửng (TSP), bụi PM&lt;sub&gt;10&lt;/sub&gt;, bụi PM&lt;sub&gt;2,5&lt;/sub&gt;, cacbon monoxit (CO), lưu huỳnh đioxit (SO&lt;sub&gt;2&lt;/sub&gt;), nitơ oxit (NO&lt;sub&gt;2&lt;/sub&gt;), ôzôn (O&lt;sub&gt;3&lt;/sub&gt;) và bụi chì (Pb) trong không khí xung quanh.&lt;/p&gt;
 &lt;p&gt;- TSP: Là các hạt lơ lửng trong môi trường không khí có đường kính khí động học nhỏ hơn hoặc bằng 100μm. Ở nồng độ cao, TSP có thể gây ra những tác động tới sức khỏe con người như bệnh về đường hô hấp, bụi phổi, lao phổi,...;&lt;/p&gt;
 &lt;p&gt;- PM&lt;sub&gt;10&lt;/sub&gt;: Là loại bụi có đường kính khí động học nhỏ hơn hoặc bằng 10μm tồn tại trong môi trường không khí xung quanh. Loại bụi này có khả năng xâm nhập sâu vào cơ thể con người thông qua đường hô hấp, gây ra các bệnh có liên quan đến đường hô hấp;&lt;/p&gt;

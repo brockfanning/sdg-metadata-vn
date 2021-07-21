@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 15-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mức độ che phủ của rừng tại một thời điểm báo cáo. Chỉ tiêu là căn cứ để Nhà nước xây dựng, kiểm tra kế hoạch phát triển lâm nghiệp; chỉ đạo các ngành, địa phương triển khai các biện pháp bảo vệ, phát triển diện tích rừng hiện có, trồng mới rừng tập trung, trồng cây phân tán.&lt;/p&gt;
 			</language>
 </languages>

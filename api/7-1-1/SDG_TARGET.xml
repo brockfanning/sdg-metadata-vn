@@ -4,6 +4,7 @@
 	<message>The SDG_TARGET field for indicator 7-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 7.1: Đến năm 2020, cơ bản 100% hộ gia đình được tiếp cận với điện; đến năm 2025 đạt 100%; đến năm 2030 đảm bảo tiếp cận toàn dân đối với các dịch vụ năng lượng trong khả năng chi trả, đáng tin cậy và hiện đại (Mục tiêu 7.1 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

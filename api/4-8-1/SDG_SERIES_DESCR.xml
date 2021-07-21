@@ -4,6 +4,7 @@
 	<message>The SDG_SERIES_DESCR field for indicator 4-8-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Proportion of schools with access to electricity [4.a.1] SE_ACS_ELECT&lt;/p&gt;
 &lt;p&gt;Proportion of schools with access to computers for pedagogical purposes [4.a.1] SE_ACS_CMPTR&lt;/p&gt;
 &lt;p&gt;Proportion of schools with access to basic drinking water [4.a.1] SE_ACS_H2O&lt;/p&gt;

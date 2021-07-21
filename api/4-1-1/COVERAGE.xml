@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 4-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Hiện tại, Bộ Giáo dục và đào tạo chưa báo cáo chỉ tiêu này.&lt;/p&gt;
 			</language>
 </languages>

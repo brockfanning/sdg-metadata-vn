@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 3-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh thực trạng, mức độ và hậu quả của tai nạn giao thông, làm căn cứ để cơ quan quản lý xây dựng chính sách tăng cường trật tự, an toàn giao thông và trật tự xã hội trong cả nước.&lt;/p&gt;
 			</language>
 </languages>

@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 8-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được tính toán từ báo cáo số liệu GDP và giá trị tăng thêm (VA) các ngành, nhóm ngành, thuế sản phẩm, loại hình kinh tế,… hàng quý và hàng năm theo giá so sánh của Tổng cục Thống kê.&lt;/p&gt;
 			</language>
 </languages>

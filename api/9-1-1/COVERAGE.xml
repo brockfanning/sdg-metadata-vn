@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 9-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số liệu có sẵn hàng năm từ 2010-2019&lt;/p&gt;
 &lt;p&gt;- Số liệu có sẵn, đầy đủ hàng năm cho các phân tổ: Ngành vận tải, loại hình kinh tế; vùng; tỉnh/thành phố.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

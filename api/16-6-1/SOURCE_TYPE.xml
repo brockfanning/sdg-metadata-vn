@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 16-6-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Điều tra Chỉ số hiệu quả quản trị và hành chính công cấp tỉnh&lt;/p&gt;
 			</language>
 </languages>

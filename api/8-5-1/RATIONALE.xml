@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Thu nhập là một khía cạnh quan trọng của chất lượng việc làm và điều kiện sống. Thông tin về thu nhập được phân tổ theo nhiều phân loại khác nhau (giới tính, nhóm tuổi, nghề nghiệp, ..) cung cấp thông tin đánh giá mức độ bình đẳng trong thu nhập.&lt;/p&gt;
 			</language>
 </languages>

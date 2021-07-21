@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 3-7-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Tiêm chủng đầy đủ là số trẻ em dưới 1 tuổi được tiêm (uống) đủ liều từng loại vắc xin phòng bệnh theo qui định của Chương trình Tiêm chủng mở rộng tính trên 100 trẻ trong diện tiêm chủng của một vùng, một địa phương.&lt;/p&gt;
 &lt;p&gt;- Cụ thể là các loại vắc xin phòng bệnh trong chương trình Tiêm chủng mở rộng như sau:&lt;/p&gt;
 &lt;p&gt;+ 1 liều vắc xin phòng bệnh Lao (BCG)&lt;/p&gt;

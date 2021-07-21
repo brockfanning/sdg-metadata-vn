@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 4-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ học sinh được công nhận hoàn thành chương trình tiểu học là tỷ lệ phần trăm giữa số học sinh được công nhận hoàn thành chương trình tiểu học so với số học sinh học lớp 5 cuối năm học đó.&lt;/p&gt;
 			</language>
 </languages>

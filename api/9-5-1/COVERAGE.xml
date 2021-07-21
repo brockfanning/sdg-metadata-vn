@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 9-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu hàng năm từ 2016-2019&lt;/p&gt;
 &lt;p&gt;Chưa có số liệu công bố theo phân tổ công nghệ và tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Chỉ tiêu SDG của ASEAN. Số liệu từ Bộ Thông tin và Truyền thông)&lt;/p&gt;

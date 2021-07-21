@@ -4,6 +4,7 @@
 	<message>The SDG_TARGET field for indicator 14-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 14.5: Đến năm 2030, diện tích các khu bảo tồn biển và ven biển đạt 3-5% diện tích tự nhiên, dựa trên cơ sở khoa học và phù hợp với luật pháp quốc gia và quốc tế (mục tiêu 14.5 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

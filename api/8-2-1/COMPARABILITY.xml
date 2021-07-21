@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 8-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mục tiêu phát triển bền vững của Việt Nam (mục tiêu 8.2), không có trong Bộ chỉ tiêu phát triển bền vững toàn cầu&lt;/p&gt;
 			</language>
 </languages>

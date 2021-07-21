@@ -4,6 +4,7 @@
 	<message>The DATA_SOURCE field for indicator 16-6-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Tài chính&lt;/p&gt;
 			</language>
 </languages>

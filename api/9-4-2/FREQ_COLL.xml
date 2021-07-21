@@ -4,6 +4,7 @@
 	<message>The FREQ_COLL field for indicator 9-4-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Thời kỳ, thời điểm điều tra: Chu kỳ 2 năm, ngày 01 tháng 7 (tiến hành vào các năm có số tận cùng là 0, 2, 4, 6, 8).&lt;/p&gt;
 			</language>
 </languages>

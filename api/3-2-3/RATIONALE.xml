@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 3-2-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Đánh giá thực trạng mắc sốt rét để từ đó có các giải pháp khống chế và phòng ngừa nguy cơ mắc, chết do sốt rét.&lt;/p&gt;
 &lt;p&gt;- Cung cấp dữ liệu cơ sở để xây dựng kế hoạch cung cấp các dịch vụ dự phòng và chăm sóc điều trị bệnh nhân sốt rét&lt;/p&gt;
 &lt;p&gt;- Đánh giá hiệu quả của chương trình quốc gia phòng chống sốt rét.&lt;/p&gt;

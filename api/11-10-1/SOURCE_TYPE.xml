@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 11-10-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chế độ báo cáo thống kê ngành nông nghiệp và phát triển nông thôn.&lt;/p&gt;
 			</language>
 </languages>

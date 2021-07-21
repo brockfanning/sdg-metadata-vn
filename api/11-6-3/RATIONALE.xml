@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 11-6-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ảnh mức độ ô nhiễm không khí gây ra những tác động không tốt đến sức khoẻ con người; trong trường hợp nếu hàm lượng chất độc vượt quá mức độ cho phép. Ngoài ra, chỉ tiêu được sử dụng để phục vụ xây dựng các chính sách và biện pháp kiểm soát ô nhiễm không khí.&lt;/p&gt;
 			</language>
 </languages>

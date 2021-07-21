@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 6-3-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Nước thải là nước đã qua sử dụng và được xả thải ra môi trường xung quanh. Xử lý nước thải là quá trình sử dụng các giải pháp công nghệ, kỹ thuật làm giảm, loại bỏ, tiêu hủy các thành phần có hại trong nước thải, đảm bảo nước thải ra môi trường đạt tiêu chuẩn, quy chuẩn theo quy định.&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ nước thải đô thị được thu gom, xử lý đạt tiêu chuẩn, quy chuẩn theo quy định là tỷ lệ phần trăm nước thải đô thị được thu gom, xử lý đạt tiêu chuẩn, quy chuẩn theo quy định trên 80% tổng công suất cấp nước sạch tại địa phương.&lt;/p&gt;
 			</language>

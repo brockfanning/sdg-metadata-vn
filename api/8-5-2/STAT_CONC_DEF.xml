@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 8-5-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Người thất nghiệp là những người từ đủ 15 tuổi trở lên mà trong thời kỳ tham chiếu hội đủ các yếu tố sau: Hiện không làm việc; đang tìm kiếm việc làm; sẵn sàng làm việc.&lt;/p&gt;
 &lt;p&gt;Số người thất nghiệp còn gồm những người hiện không có việc làm và sẵn sàng làm việc nhưng trong thời kỳ tham chiếu không tìm được việc do: &lt;/p&gt;
 &lt;p&gt;- Đã chắc chắn có một công việc hoặc một hoạt động sản xuất kinh doanh để bắt đầu sau thời kỳ tham chiếu;&lt;/p&gt;

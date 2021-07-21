@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 4-8-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Là tỷ lệ phần trăm các trường học theo cấp học có các cơ sở hoặc dịch vụ có sẵn, gồm: &lt;/p&gt;
 &lt;p&gt;- Điện: Các nguồn năng lượng thường xuyên và sẵn có cho phép sử dụng đầy đủ và bền vững cơ sở hạ tầng công nghệ thông tin và truyền thông cho mục đích &lt;br&gt;giảng dạy, học tập.&lt;/p&gt;
 &lt;p&gt;- Internet dùng cho mục đích học tập: Internet có sẵn để tăng cường việc giảng dạy, học tập và học sinh có thể truy cập được. Truy cập có thể thông qua băng thông cố định, băng rộng cố định hoặc qua mạng di động.&lt;/p&gt;

@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 3-1-5, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ năm 2010 đến 2019&lt;/p&gt;
 &lt;p&gt;Số liệu có sẵn cho 4 phân tổ: &lt;/p&gt;
 &lt;p&gt;+ Giới tính;&lt;/p&gt;

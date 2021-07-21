@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 8-5-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Đây là cuộc điều tra chọn mẫu được quy định trong Chương trình điều tra thống kê quốc gia.&lt;/p&gt;
 &lt;p&gt;Điều tra Lao động việc làm là điều tra chọn mẫu với cỡ mẫu bảo đảm các ước lượng thống kê cho cấp vùng, thành phố Hà Nội, thành phố Hồ Chí Minh theo quý và cho cấp tỉnh theo năm.&lt;/p&gt;
 &lt;p&gt;- Điều tra chọn mẫu áp dụng phương pháp chọn mẫu phân tầng hai giai đoạn:&lt;/p&gt;

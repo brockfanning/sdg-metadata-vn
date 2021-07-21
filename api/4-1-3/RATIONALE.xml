@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 4-1-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ học sinh đi học cấp trung học cơ sở là chỉ tiêu phản ánh mức độ đi học chung của học sinh đối với cấp trung học cơ sở. Đây là một chỉ tiêu quan trọng phản ảnh mức độ phổ cập giáo dục hoặc năng lực huy động học sinh của cấp trung học cơ sở, cho biết mức độ đi học dưới hoặc trên độ tuổi quy định của cấp trung học cơ sở.&lt;/p&gt;
 			</language>
 </languages>

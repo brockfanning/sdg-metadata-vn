@@ -4,6 +4,7 @@
 	<message>The CONTACT_EMAIL field for indicator 11-10-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;trangtin@mard.gov.vn&lt;/p&gt;
 			</language>
 </languages>

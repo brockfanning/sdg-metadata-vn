@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 4-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 4.2.1. Tỷ lệ trẻ em dưới 5 tuổi được phát triển phù hợp về sức khỏe, học tập và tâm lý xã hội&lt;/p&gt;
 			</language>
 </languages>

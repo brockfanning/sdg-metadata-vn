@@ -4,6 +4,7 @@
 	<message>The SDG_GOAL field for indicator 2-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 2: Xóa đói, bảo đảm an ninh lương thực, cải thiện dinh dưỡng và thúc đẩy phát triển nông nghiệp bền vững&lt;/p&gt;
 			</language>
 </languages>

@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;a) Khái niệm&lt;/p&gt;
 &lt;p&gt; Hàng hóa xuất khẩu gồm toàn bộ hàng hóa có xuất xứ trong nước và hàng hóa nước ngoài tái xuất khẩu, được đưa ra nước ngoài, làm giảm nguồn của cải, vật chất của đất nước. Trị giá xuất khẩu hàng hóa được tính theo điều kiện giao hàng FOB hoặc tương đương, là giá của hàng hóa tính đến cửa khẩu xuất (không gồm phí bảo hiểm quốc tế và phí vận tải quốc tế), được tính cho một thời kỳ nhất định và tính theo một loại tiền thống nhất là Đô la Mỹ. Trong đó:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;-&lt;/strong&gt; Hàng hóa có xuất xứ trong nước là hàng hoá được khai thác, sản xuất, chế biến trong nước theo các quy định về xuất xứ hàng hóa của Việt Nam; &lt;/p&gt;

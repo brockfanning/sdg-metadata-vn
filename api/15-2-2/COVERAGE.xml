@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 15-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2010 -2019 (trừ năm 2017)&lt;/p&gt;
 &lt;p&gt;Số liệu có sẵn hàng năm cho các phân tổ vùng và tỉnh thành phố&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

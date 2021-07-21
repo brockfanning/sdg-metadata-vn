@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 9-2-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ lao động có việc làm trong ngành công nghiệp chế biến, chế tạo là tỷ lệ phần trăm giữa số lao động có việc làm trong ngành công nghiệp chế biến, chế tạo so với tổng số lao động có việc làm.&lt;/p&gt;
 			</language>
 </languages>

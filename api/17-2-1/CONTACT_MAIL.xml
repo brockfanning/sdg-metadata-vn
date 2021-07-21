@@ -4,6 +4,7 @@
 	<message>The CONTACT_MAIL field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số 28 Trần Hưng Đạo - Quận Hoàn Kiếm - Hà Nội&lt;/p&gt;
 			</language>
 </languages>

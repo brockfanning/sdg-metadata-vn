@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 5-5-6, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được thu thập qua Tổng điều tra nông thôn, nông nghiệp (chu kỳ 10 năm, ngày 01 tháng 7, tiến hành vào các năm có số tận cùng là 5) và điều tra nông thôn, nông nghiệp giữa kỳ (chu kỳ 10 năm ngày 01 tháng 7, tiến hành vào các năm có số tận cùng là 0). &lt;/p&gt;
 &lt;p&gt;- Loại điều tra:Tổng điều tra nông thôn, nông nghiệp và thuỷ sản năm 2016 được thực hiện theo phương pháp điều tra toàn bộ kết hợp với điều tra chọn mẫu.&lt;/p&gt;
 &lt;p&gt;+ Điều tra toàn bộ: Điều tra toàn bộ đối với tất cả các đơn vị điều tra.&lt;/p&gt;

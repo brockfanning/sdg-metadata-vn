@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 15-3-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có của một số năm: 2013; 2016; 2017&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Tài nguyên và Môi trường)&lt;/p&gt;
 			</language>

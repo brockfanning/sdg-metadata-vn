@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 4-8-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này đo lường sự tiếp cận trong các trường học đối với các dịch vụ và cơ sở cơ bản cần thiết để bảo đảmmôi trường học tập an toàn, hiệu quả cho tất cả học sinh.&lt;/p&gt;
 &lt;p&gt;Giá trị chỉ tiêu cao cho thấy các trường học có được sự tiếp cận tốt đối với các dịch vụ và các cơ sở có liên quan. Một trường học lý tưởng phải được tiếp cận đầy đủ, chất lượng với tất cả các dịch vụ và các cơ sở này.&lt;/p&gt;
 			</language>

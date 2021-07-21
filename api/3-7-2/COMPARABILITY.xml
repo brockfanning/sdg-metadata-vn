@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 3-7-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “3.7.2. Tỷ lệ trẻ em dưới 1 tuổi được tiêm chủng đầy đủ các loại vắc xin” là một trong những chỉ tiêu phản ánh cho chỉ tiêu toàn cầu “3.b.1. Proportion of the target population covered by all vaccines included in their national programme”.&lt;/p&gt;
 &lt;p&gt;Nhóm dân số mục tiêu và mức độ đầy đủ của các loại vắc xin tùy thuộc vào từng quốc gia khác nhau, toàn cầu chưa có thống nhất chung, do đó chỉ tiêu này mặc dù đã được quy định cụ thể tại Việt Nam và phản ánh 1 phần của chỉ tiêu toàn cầu 3.b.1 nhưng chưa có series trong DSD toàn cầu.&lt;/p&gt;
 			</language>

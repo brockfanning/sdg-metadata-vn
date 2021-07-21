@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 3-1-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ suất chết của trẻ em dưới 5 tuổi là số trẻ em dưới 5 tuổi chết tính bình quân trên một nghìn trẻ em sinh ra sống trong thời kỳ nghiên cứu.&lt;/p&gt;
 			</language>
 </languages>

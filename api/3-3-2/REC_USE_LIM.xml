@@ -4,6 +4,7 @@
 	<message>The REC_USE_LIM field for indicator 3-3-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Hiện tại mới chỉ có số liệu thông qua báo cáo của Bộ Y tế và phản ánh số tử vong tại cơ sở y tế, do đó phản ánh chưa đầy đủ tình hình tử vong do tự tử trong thực tế.&lt;/p&gt;
 &lt;p&gt;- Nên có những điều tra cộng đồng về nguyên nhân tử vong nói chung và tử vong do tai nạn thương tích nói riêng (trong đó có tự tử).&lt;/p&gt;
 &lt;p&gt;- Cần tham khảo nhiều nguồn số liệu khác nhau: bệnh viện, công an, Ủy ban An toàn giao thông quốc gia...&lt;/p&gt;

@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 5-5-6, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Tổng điều tra nông thôn, nông nghiệp;&lt;/p&gt;
 &lt;p&gt;- Điều tra nông thôn, nông nghiệp giữa kỳ;&lt;/p&gt;
 &lt;p&gt;- Điều tra thống kê khác.&lt;/p&gt;

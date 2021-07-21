@@ -4,6 +4,7 @@
 	<message>The COMPILING_ORG field for indicator 3-7-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Y tế&lt;/p&gt;
 			</language>
 </languages>

@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 1-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;a) Số người đóng bảo hiểm xã hội&lt;/p&gt;
 &lt;p&gt;Số người đóng bảo hiểm xã hội gồm số người tham gia đóng bảo hiểm xã hội bắt buộc và số người tham gia đóng bảo hiểm xã hội tự nguyện.&lt;/p&gt;
 &lt;p&gt;Bảo hiểm xã hội bắt buộc là loại hình bảo hiểm xã hội do Nhà nước tổ chức mà người lao động và người sử dụng lao động phải tham gia.&lt;/p&gt;

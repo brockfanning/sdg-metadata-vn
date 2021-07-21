@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 3-3-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Theo Quy định trong Thông tư số 03:&lt;/p&gt;
 &lt;p&gt;6.1. Nguồn dữ liệu&lt;/p&gt;
 &lt;p&gt;- Tổng điều tra dân số và nhà ở;&lt;/p&gt;

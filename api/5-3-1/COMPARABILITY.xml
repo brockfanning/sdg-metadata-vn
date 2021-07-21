@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 5-3-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Ở cấp độ toàn cầu, chỉ tiêu tương ứng là “5.3.1: Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18”. Chỉ tiêu toàn cầu và Việt Nam có nội dung giống nhau. Về nguồn số liệu: Chỉ tiêu này được khuyến khích thu thập qua các cuộc tổng điều tra quốc gia hoặc các cuộc điều tra hộ gia đình như MICS và DHS.&lt;/p&gt;
 			</language>
 </languages>

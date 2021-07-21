@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Thu nhập của lao động có việc làmlà thu nhập từ tiền công, tiền lương và các khoản thu nhập khác có tính chất như lương gồm tiền làm thêm, tiền thưởng, tiền phụ cấp,… của những người lao động làm công ăn lương trong nền kinh tế. Các khoản thu nhập này có thể bằng tiền mặt hoặc hiện vật. &lt;/p&gt;
 &lt;p&gt;Thu nhập bình quân một lao động có việc làm là tổng số thu nhập thực tế tính bình quân một lao động làm công ăn lương.&lt;/p&gt;
 			</language>

@@ -4,6 +4,7 @@
 	<message>The SDG_TARGET field for indicator 3-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 3.1: Đến năm 2030, giảm tỷ số tử vong mẹ xuống dưới 45/100.000 trẻ đẻ sống; giảm tỷ suất tử vong trẻ dưới 1 tuổi xuống dưới 10 ca trên 1000 trẻ đẻ sống và tỷ suất tử vong trẻ dưới 5 tuổi xuống dưới 15 ca trên 1000 trẻ đẻ sống (Mục tiêu 3.1 và Mục tiêu 3.2 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

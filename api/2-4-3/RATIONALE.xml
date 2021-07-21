@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 2-4-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ số giá tiêu dùng nhóm lương thực, thực phẩm được sử dụng cho những mục đích chủ yếu sau:&lt;/p&gt;
 &lt;p&gt;- Đánh giá công tác kiểm soát lạm phát&lt;/p&gt;
 &lt;p&gt;- Sử dụng trong công tác điều hành, quản lý và xây dựng kế hoạch phát triển sản xuất kinh doanh. &lt;/p&gt;

@@ -4,6 +4,7 @@
 	<message>The REC_USE_LIM field for indicator 3-7-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt; - Dữ liệu cần phân tổ để xác định nhân viên y tế trong khu vực tư nhân hay không (tránh việc tính toán trùng lắp các nhân viên y tế thực hiện hai hay nhiều công việc như cán bộ y tế làm trong khu vực y tế công nhưng ngoài giờ lại làm tư).&lt;/p&gt;
 &lt;p&gt;- Khó thu thập số liệu của các cơ sở y tế của các ngành khác trên địa bàn.&lt;/p&gt;
 &lt;p&gt;- Một số ngành nghề khác nhưng là nhân viên thuộc cơ sở y tế vẫn được tính là nhân lực của ngành y tế.&lt;/p&gt;

@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 11-10-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Xã đạt tiêu chuẩn nông thôn mới là xã đạt các tiêu chí nông thôn mới và được công nhận bằng văn bản của Ban chỉ đạo Chương trình mục tiêu quốc gia về xây dựng nông thôn mới của tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
 			</language>
 </languages>

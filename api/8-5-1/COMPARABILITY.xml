@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 8.5.1: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities&lt;/p&gt;
 &lt;p&gt;Có một số khác biệt giữa chỉ tiêu Việt Nam và chỉ tiêu toàn cầu:&lt;/p&gt;
 &lt;p&gt;+ Toàn cầu tính thu nhập trung bình theo giờ; &lt;/p&gt;

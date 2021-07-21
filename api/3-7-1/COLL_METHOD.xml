@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 3-7-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Khảo sát mức sống dân cư Việt Nam thuộc chương trình điều tra thống kê quốc gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016. Đây là cuộc điều tra chọn mẫu, trong đó:&lt;/p&gt;
 &lt;p&gt;- Mục đích điều tra: Thu thập thông tin làm căn cứ đánh giá mức sống, đánh giá tình trạng nghèo đói và phân hóa giàu nghèo, giám sát và đánh giá một số chương trình mục tiêu quốc gia, cung cấp số liệu để tính quyền số chỉ số giá tiêu dùng và phục vụ tính toán Hệ thống tài khoản quốc gia.&lt;/p&gt;
 &lt;p&gt;- Đối tượng, đơn vị điều tra&lt;/p&gt;

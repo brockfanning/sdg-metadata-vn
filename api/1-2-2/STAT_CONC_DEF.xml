@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 1-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;a) Số người được hưởng bảo hiểm xã hội&lt;/p&gt;
 &lt;p&gt;Số người được hưởng bảo hiểm xã hội là số người đã tham gia bảo hiểm xã hội được nhận tiền bảo hiểm xã hội (tính theo số người, bất kể một người nhận được nhiều loại bảo hiểm xã hội khác nhau). &lt;/p&gt;
 &lt;p&gt;Số người được hưởng bảo hiểm xã hội được chi trả theo các chế độ: Ốm đau, thai sản; tai nạn lao động, bệnh nghề nghiệp; hưu trí; tử tuất.&lt;/p&gt;

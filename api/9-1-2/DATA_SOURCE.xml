@@ -4,6 +4,7 @@
 	<message>The DATA_SOURCE field for indicator 9-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tổng cục Thống kê&lt;/p&gt;
 			</language>
 </languages>

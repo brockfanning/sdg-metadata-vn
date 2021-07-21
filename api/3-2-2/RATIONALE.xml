@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 3-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Phản ánh xu hướng dịch tễ của các vùng, địa phương và quốc gia&lt;/p&gt;
 &lt;p&gt;- Xây dựng kế hoạch chăm sóc, điều trị và quản lý bệnh nhân lao nhằm hạn chế sự lây lan và giảm tử vong do mắc lao&lt;/p&gt;
 			</language>

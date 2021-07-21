@@ -4,6 +4,7 @@
 	<message>All metadata fields for indicator 4-8-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 4: Đảm bảo nền giáo dục có chất lượng, công bằng, toàn diện và thúc đẩy các cơ hội học tập suốt đời cho tất cả mọi người&lt;/p&gt;&lt;p&gt;Mục tiêu 4.8: Xây dựng và nâng cấp các cơ sở giáo dục thân thiện với trẻ em, người khuyết tật và bình đẳng giới và cung cấp môi trường học tập an toàn, không bạo lực, toàn diện và hiệu quả cho tất cả mọi người (Mục tiêu 4.a toàn cầu)&lt;/p&gt;&lt;p&gt;Chỉ tiêu 4.8.1. Tỷ lệ các trường học có: (a) điện; (b) internet dùng cho mục đích học tập; (c) máy tính dùng cho mục đích học tập; (d) cơ sở hạ tầng và tài liệu phù hợp với học sinh, sinh viên khuyết tật; (e) nước uống; (f) hệ thống vệ sinh tiện lợi và riêng rẽ cho từng giới tính và (g) chỗ rửa tay thuận tiện&lt;/p&gt;&lt;p&gt;Proportion of schools with access to electricity [4.a.1] SE_ACS_ELECT&lt;/p&gt;
 &lt;p&gt;Proportion of schools with access to computers for pedagogical purposes [4.a.1] SE_ACS_CMPTR&lt;/p&gt;
 &lt;p&gt;Proportion of schools with access to basic drinking water [4.a.1] SE_ACS_H2O&lt;/p&gt;

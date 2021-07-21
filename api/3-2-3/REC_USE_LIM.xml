@@ -4,6 +4,7 @@
 	<message>The REC_USE_LIM field for indicator 3-2-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Tính chính xác của chỉ tiêu này phụ thuộc rất nhiều vào báo cáo của y tế cơ sở (trạm y tế và bệnh viện). Ở Việt Nam chưa thu thập được số liệu từ y tế tư nhân vì thế số liệu báo cáo là chưa đầy đủ. Vì vậy WHO đã đưa ra một mô hình ước tính tỷ lệ mắc sốt rét hàng năm dựa trên số liệu được báo cáo, tỷ lệ đơn vị báo cáo, tỷ lệ đơn vị báo cáo chính xác và qua điều tra cộng đồng, điều tra y tế tư nhân.&lt;/p&gt;
 &lt;p&gt;- Ước tính số liệu về sốt rét phụ thuộc rất nhiều vào sự chính xác của các báo cáo, nếu thông tin không chính xác và cập nhật thì số liệu thường bị ước tính thấp hơn so với thực tế.&lt;/p&gt;
 &lt;p&gt;- Bệnh nhân sốt rét bao gồm bệnh nhân sốt rét lâm sàng và bệnh nhân sốt rét có ký sinh trùng. Vì vậy để xác định nguy cơ bệnh chính xác hơn nên xác định thêm tỷ lệ ký sinh trùng sốt rét/ 100.000 dân.&lt;/p&gt;

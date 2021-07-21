@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 11-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2011-2019 cho số tuyệt đối: Số người chết, mất tích / và bị thương do thiên tai&lt;/p&gt;
 &lt;p&gt;Chưa công bố số liệu tính trên 100.000 dân như tên chỉ tiêu.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

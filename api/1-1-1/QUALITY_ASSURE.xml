@@ -4,6 +4,7 @@
 	<message>The QUALITY_ASSURE field for indicator 1-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Để bảo đảm chất lượng thông tin thu thập, điều tra viên không được gửi phiếu để chủ hộ hoặc các thành viên của hộ tự ghi chép hoặc sao chép các thông tin từ các nguồn dữ liệu có sẵn khác vào phiếu phỏng vấn.&lt;/p&gt;
 &lt;p&gt;Các biện pháp giám sát chất lượng: Do tính chất phức tạp của cuộc khảo sát nên một số biện pháp kỹ thuật được sử dụng nhằm bảo đảm chất lượng số liệu khảo sát gồm:&lt;/p&gt;
 &lt;p&gt;+ Gọi điện thoại đến hộ để kiểm tra điều tra viên có đến hộ và phỏng vấn hộ trong bao lâu.&lt;/p&gt;

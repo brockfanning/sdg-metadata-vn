@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 6-4-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ hồ chứa lớn được kiểm soát, giám sát để bảo đảm duy trì dòng chảy tối thiểu của lưu vực sông là tỷ lệ phần trăm số hồ chứa lớn được kiểm soát, giám sát để bảo đảm duy trì dòng chảy tối thiểu của lưu vực sông so với tổng số hồ chứa lớn.&lt;/p&gt;
 &lt;p&gt;Hồ chứa lớn bao gồm:&lt;/p&gt;
 &lt;p&gt;a) Công trình hồ chứa khai thác nước mặt để phát điện với công suất lắp máy trên 50kW, bao gồm cả công trình thủy lợi kết hợp với thủy điện;&lt;/p&gt;

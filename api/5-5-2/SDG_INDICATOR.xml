@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 5-5-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 5.5.2. Tỷ lệ nữ đảm nhiệm chức vụ lãnh đạo chính quyền&lt;/p&gt;
 			</language>
 </languages>

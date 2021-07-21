@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 16-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Dịch vụ công là những hoạt động phục vụ các lợi ích chung, thiết yếu, các quyền và nghĩa vụ cơ bản của tổ chức và công dân do Nhà nước trực tiếp thực hiện hoặc chuyển giao cho các cơ sở ngoài Nhà nước thực hiện nhằm mục tiêu hiệu quả và công bằng. Dịch vụ công là những hoạt động của cơ quan nhà nước trong việc thực thi chức năng quản lý hành chính nhà nước và bảo đảm cung ứng các hàng hóa công cộng phục vụ nhu cầu chung, thiết yếu của xã hội. Việc tiến hành hoạt động ấy có thể do nhà nước hoặc tư nhân đảm nhiệm.&lt;/p&gt;
 &lt;p&gt;Tỷlệ người phải trả chi phí không chính thức khi sử dụng dịch vụ công là tỷ lệ phần trăm số người được xác định trả chi phí không chính thức khi sử dụng dịch vụ công trong tổng số người sử dụng dịch vụ công được khảo sát.&lt;/p&gt;
 			</language>

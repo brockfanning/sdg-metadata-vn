@@ -4,6 +4,7 @@
 	<message>The SDG_TARGET field for indicator 11-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 11.5: Đến năm 2030, giảm đáng kể số người chết và bị ảnh hưởng và giảm đáng kể thiệt hại kinh tế trực tiếp do thiên tai, thảm họa gây ra so với GDP, chú trọng bảo vệ người nghèo và người dễ bị tổn thương (Mục tiêu 11.5 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

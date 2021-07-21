@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số liệu có hàng năm từ 2014-2019&lt;/p&gt;
 &lt;p&gt;- Số liệu có cho các phân tổ: ngành kinh tế; bảng phân loại tiêu chuẩn ngoại thương; khu vực kinh tế; nhóm hàng; khối nước/vùng lãnh thổ&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

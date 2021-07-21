@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 7-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 7.2.1. Tỷ trọng năng lượng tái tạo trong tổng năng lượng tiêu thụ cuối cùng&lt;/p&gt;
 			</language>
 </languages>

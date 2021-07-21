@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 9-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh kết quả hoạt động kinh doanh vận chuyển và luân chuyển hành khách của các loại hình kinh tế trong một thời gian nhất định, là cơ sở đánh giá tình hình vận chuyển, luân chuyển hành khách trong kỳ, đồng thời là một trong những nguồn thông tin quan trọng cho công tác quản lý, lập kế hoạch vận chuyển, luân chuyển hành khách đáp ứng nhu cầu đi lại của dân cư.&lt;/p&gt;
 			</language>
 </languages>

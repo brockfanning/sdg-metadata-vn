@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 4-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu chung và số liệu phân tổ theo vùng của năm 2019.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Giáo dục và Đào tạo)&lt;/p&gt;
 			</language>

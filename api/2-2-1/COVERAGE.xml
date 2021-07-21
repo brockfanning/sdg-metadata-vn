@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 2-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm theo loại suy dinh dưỡng từ năm 2012-2019&lt;/p&gt;
 &lt;p&gt;Số liệu có sẵn cho các phân tổ theo giới tính, thành thị/nông thôn từ năm 2012-2019&lt;/p&gt;
 &lt;p&gt;Phân tổ vùng và tỉnh/thành phố chỉ có số liệu từ năm 2018&lt;/p&gt;

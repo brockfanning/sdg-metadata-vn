@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 3-7-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Metadata của chỉ tiêu “3.7.1. Tỷ lệ hộ có chi phí y tế lớn so với tổng chi tiêu hoặc tổng thu nhập”khá tương đồng với metadata của chỉ tiêu toàn cầu“&lt;strong&gt;3.8.2:&lt;/strong&gt; Proportion of population with large household expenditures on health as a share of total household expenditure or income”.&lt;/p&gt;
 			</language>
 </languages>

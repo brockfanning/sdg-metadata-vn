@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 7-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tiêu thụ năng lượng tái tạo bao gồm tiêu thụ năng lượng từ: Thủy điện, nhiên liệu sinh học rắn, gió, mặt trời, nhiên liệu sinh học lỏng, khí sinh học, địa nhiệt, sóng biển và chất thải. Tổng tiêu thụ năng lượng cuối cùng được tính từ bảng cân đối và số liệu thống kê quốc gia là tổng tiêu dùng cuối cùng trừ sử dụng phi năng lượng. &lt;/p&gt;
 &lt;p&gt;Các nguồn năng lượng tái tạo cụ thể: &lt;/p&gt;
 &lt;p&gt;- Năng lượng mặt trời;&lt;/p&gt;

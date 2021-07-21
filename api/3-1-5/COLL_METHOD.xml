@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 3-1-5, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Loại điều tra: Điều tra Biến động dân số và kế hoạch hóa gia đình là điều tra chọn mẫu. Quy mô mẫu được phân bổ bảo đảm mức độ đại diện của các chỉ tiêu thống kê cho cấp tỉnh và phân tổ theo thành thị/nông thôn.&lt;/p&gt;
 &lt;p&gt;Mẫu điều tra Biến động dân số 2021 là mẫu phân tầng hai giai đoạn: Giai đoạn 1 – chọn địa bàn mẫu; Giai đoạn 2 – chọn hộ.&lt;/p&gt;
 &lt;p&gt;- Phương pháp thu thập thông tin: Sử dụng phương pháp phỏng vấn trực tiếp sử dụng phiếu điện tử được cài đặt trên máy tính bảng hoặc điện thoại thông minh của điều tra viên. Điều tra viên đến từng hộ để hỏi người cung cấp thông tin và nhập đầy đủ các câu trả lời vào phiếu điện tử.&lt;/p&gt;

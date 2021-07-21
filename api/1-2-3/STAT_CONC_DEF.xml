@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 1-2-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Đối tượng hưởng trợ cấp xã hội hàng tháng gồm:&lt;/p&gt;
 &lt;p&gt;(1) Trẻ em dưới 16 tuổi không có nguồn nuôi dưỡng thuộc một trong các trường hợp quy định sau đây:&lt;/p&gt;
 &lt;p&gt;a) Bị bỏ rơi chưa có người nhận làm con nuôi;&lt;/p&gt;

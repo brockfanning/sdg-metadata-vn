@@ -4,6 +4,7 @@
 	<message>The OTHER_DOC field for indicator 5-3-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- Điều tra các mục tiêu về trẻ em và phụ nữ (MICS 2014);&lt;/p&gt;
 &lt;p&gt;- &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt;&lt;u&gt;https://unstats.un.org/sdgs/metadata/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;

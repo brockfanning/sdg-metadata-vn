@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 4-8-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có hàng năm đối với một số loại cơ sở vật chất của trường học như sau:&lt;/p&gt;
 &lt;p&gt;+ Điện: 2016-2019&lt;/p&gt;
 &lt;p&gt;+ Internet: 2018-2019&lt;/p&gt;

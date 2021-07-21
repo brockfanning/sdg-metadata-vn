@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 1-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tỷ lệ nghèo đa chiều là tỷ lệ phần trăm số hộ hoặc số người nghèo tiếp cận đa chiều trên tổng số hộ hoặc số người được nghiên cứu.&lt;/p&gt;
 &lt;p&gt;Quyết định số 59/2015/QĐ-TTg ngày 19/11/2015 của Thủ tướng Chính phủ ban hành chuẩn nghèo tiếp cận đa chiều áp dụng cho giai đoạn 2016-2020 quy định các &lt;a id=&quot;dieu_1&quot;&gt;&lt;/a&gt;tiêu chí tiếp cận đo lường nghèo đa chiều gồm:&lt;/p&gt;
 &lt;p&gt;a) Tiêu chí về thu nhập: 700.000 đồng/người/tháng ở khu vực nông thôn và 900.000 đồng/người/tháng ở khu vực thành thị.&lt;/p&gt;

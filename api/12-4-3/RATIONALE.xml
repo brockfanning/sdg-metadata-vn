@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 12-4-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh tình hình xử lý &lt;strong&gt;khu vực đất bị ô nhiễm&lt;/strong&gt;, là cơ sở để đánh giá công tác bảo vệ môi trường.&lt;/p&gt;
 			</language>
 </languages>

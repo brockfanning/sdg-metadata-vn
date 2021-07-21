@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 10-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 10.1.2. Tốc độ tăng trưởng về chi tiêu của hộ bình quân đầu người&lt;/p&gt;
 			</language>
 </languages>

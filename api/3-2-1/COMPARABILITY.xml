@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu toàn cầu “3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations”. Khái niệm của 2 chỉ tiêu giống nhau tuy nhiên chỉ tiêu toàn cầu có thêm phân tổ theo phương thức lây truyền.&lt;/p&gt;
 			</language>
 </languages>

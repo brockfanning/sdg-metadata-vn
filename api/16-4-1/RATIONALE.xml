@@ -4,6 +4,8 @@
 	<message>The RATIONALE field for indicator 16-4-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"> &lt;p&gt; Indicator reflecting the illegal possession of weapons, explosives and combat gears among the population. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh tình hình tàng trữ vũ khí, vật liệu nổ và công cụ hỗ trợ trái phép trong dân.&lt;/p&gt;
 			</language>
 </languages>

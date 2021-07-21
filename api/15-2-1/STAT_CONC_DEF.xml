@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Rừng là một hệ sinh thái gồm quần thể thực vật rừng, động vật rừng, vi sinh vật rừng, đất rừng và các yếu tố môi trường khác, trong đó thành phần chính là một hoặc một số loài cây thân gỗ, tre, nứa, cây họ cau có chiều cao được xác định theo hệ thực vật trên núi đất, núi đá, đất ngập nước, đất cát hoặc hệ thực vật đặc trưng khác; diện tích liền vùng từ 0,3 ha trở lên; độ tàn che từ 0,1 trở lên. &lt;/p&gt;
 &lt;p&gt;Diện tích rừng hiện có là diện tích đất tại thời điểm quan sát đạt các tiêu chuẩn về rừng.&lt;/p&gt;
 &lt;p&gt;Diện tích rừng hiện có chia theo mục đích sử dụng chủ yếu gồm rừng đặc dụng, rừng phòng hộ và rừng sản xuất; chia theo nguồn gốc hình thành gồm rừng tự nhiên và rừng trồng.&lt;/p&gt;

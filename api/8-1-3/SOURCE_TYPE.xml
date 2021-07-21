@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 8-1-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu Tổng sản phẩm trong nước bình quân đầu người được tính toán từ nhiều nguồn khác nhau, cụ thể:&lt;/p&gt;
 &lt;p&gt;- Tổng sản phẩm trong nước: Nguồn số liệu như nguồn số liệu của chỉ tiêu 8.1.1;&lt;/p&gt;
 &lt;p&gt;- Tổng điều tra dân số và nhà ở;&lt;/p&gt;

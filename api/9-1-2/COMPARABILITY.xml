@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 9-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Khối lượng hàng hóa vận chuyển và luân chuyển” là một trong những chỉ tiêu tương ứng với chỉ tiêu SDG toàn cầu “9.1.2. Passenger and freight volumes, by mode of transport”. Nội dung của chỉ tiêu Việt Nam và toàn cầu giống nhau do vậy số liệu của Việt Nam bảo đảm so sánh quốc tế.&lt;/p&gt;
 &lt;p&gt;Phạm vi chỉ tiêu Việt Nam bao trùm chỉ tiêu toàn cầu. Chỉ tiêu toàn cầu chỉ tính khối lượng hàng hóa luân chuyển. Việt Nam tính cả khối lượng hàng hóa vận chuyển và luân chuyển.&lt;/p&gt;
 			</language>

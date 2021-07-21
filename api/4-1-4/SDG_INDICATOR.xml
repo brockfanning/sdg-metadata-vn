@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 4-1-4, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 4.1.4. Tỷ lệ học sinh tốt nghiệp trung học cơ sở, tỷ lệ học sinh hoàn thành cấp trung học cơ sở, tỷ lệ chuyển cấp từ tiểu học lên trung học cơ sở&lt;/p&gt;
 			</language>
 </languages>

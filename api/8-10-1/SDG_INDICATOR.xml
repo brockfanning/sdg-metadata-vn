@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 8-10-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 8.9.1. Tỷ trọng đóng góp của hoạt động du lịch trong tổng sản phẩm trong nước&lt;/p&gt;
 			</language>
 </languages>

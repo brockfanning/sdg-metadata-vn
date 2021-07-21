@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 11-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu cấp độ toàn cầu tương ứng “&lt;strong&gt;1.5.1:&lt;/strong&gt; Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population”. &lt;/p&gt;
 &lt;p&gt;Số liệu của Việt Nam về số người chết, mất tích, bị thương do thiên tai bảo đảm so sánh quốc tế.&lt;/p&gt;
 &lt;p&gt;Việt Nam chưa thực hiện và tính toán được số liệu về số người bị ảnh hưởng do thiên tai vì nội hàm khái niệm bị ảnh hưởng rất rộng:&lt;/p&gt;

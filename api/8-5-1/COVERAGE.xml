@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 8-5-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2012-2019&lt;/p&gt;
 &lt;p&gt;Số liệu có sẵn cho các phân tổ: giới tính, nghề nghiệp, ngành kinh tế, tỉnh/thành phố trực thuộc Trung ương hàng năm từ 2012-2019&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Kết quả điều tra lao động và việc làm hàng năm của Tổng cục Thống kê)&lt;/p&gt;

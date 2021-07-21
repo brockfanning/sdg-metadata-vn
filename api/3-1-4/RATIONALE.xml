@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 3-1-4, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Chỉ tiêu này đánh giá khả năng cung cấp dịch vụ và chất lượng chăm sóc sức khỏe trước sinh, trong sinh, sau sinh và chăm sóc sơ sinh của hệ thống y tế. &lt;/p&gt;
 &lt;p&gt;- Chỉ tiêu này cung cấp dữ liệu cơ sở cho việc thiết kế các chương trình can thiệp nhằm giảm tử vong ở trẻ sơ sinh. Đồng thời, cung cấp cơ sở cho nhà quản lý tìm hiểu nguyên nhân và đảm bảo chất lượng cán bộ y tế và sự sẵn có của các trang thiết bị và nguồn cung cấp.&lt;/p&gt;
 			</language>

@@ -4,6 +4,7 @@
 	<message>The DATA_COMP field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Phương pháp tính&lt;/p&gt;
 &lt;p&gt;Thời điểm thống kê: Là thời điểm cơ quan Hải quan chấp nhận đăng ký tờ khai hải quan.&lt;/p&gt;
 &lt;p&gt;Những thay đổi trên tờ khai hải quan trong quá trình thực hiện thủ tục hải quan sẽ được cập nhật vào hệ thống thông tin hải quan và được điều chỉnh trong các báo cáo thống kê.&lt;/p&gt;

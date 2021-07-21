@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 11-6-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số liệu nồng độ PM2,5 có hàng năm (không đầy đủ hoàn toàn) từ 2013-2018 theo trạm/điểm quan trắc&lt;/p&gt;
 &lt;p&gt;- Số liệu nồng độ TSP có hàng năm từ 2016-2018 theo trạm/điểm quan trắc&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Tài nguyên và Môi trường)&lt;/p&gt;

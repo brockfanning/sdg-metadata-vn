@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 6-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ lệ dân số đô thị được cung cấp nước sạch qua hệ thống cấp nước tập trung” là một trong những chỉ tiêu phản ánh 1 phần chỉ tiêu SDG toàn cầu “6.1.1.Proportion of population using safely managed drinking water services”&lt;/p&gt;
 			</language>
 </languages>

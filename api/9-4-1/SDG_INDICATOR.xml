@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 9-4-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 9.4.1. Tỷ lệ chi cho khoa học và công nghệ so với tổng sản phẩm trong nước&lt;/p&gt;
 			</language>
 </languages>

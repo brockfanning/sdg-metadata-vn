@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 16-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh tình trạng người dưới 18 tuổi bị xử phạt về bạo lực và tinh thần. Chỉ tiêu phản ánh sự bất bình đẳng trong xã hội, là cơ sở xây dựng các chính sách và pháp luật bảo về những đối tượng yếu thế.&lt;/p&gt;
 			</language>
 </languages>

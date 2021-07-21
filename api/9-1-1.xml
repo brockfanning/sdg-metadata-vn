@@ -4,6 +4,7 @@
 	<message>All metadata fields for indicator 9-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 9: Xây dựng cơ sở hạ tầng có khả năng chống chịu cao, thúc đẩy công nghiệp hóa bao trùm và bền vững, tăng cường đổi mới&lt;/p&gt;&lt;p&gt;Mục tiêu 9.1: Xây dựng hệ thống kết cấu hạ tầng giao thông đồng bộ, chất lượng, đáng tin cậy, có khả năng chống chịu và bền vững, bao gồm cả cơ sở hạ tầng liên vùng và biên giới để hỗ trợ phát triển kinh tế và chất lượng cuộc sống của người dân với mục tiêu tiếp cận công bằng và trong khả năng chi trả cho tất cả mọi người (mục tiêu 9.1 toàn cầu)&lt;/p&gt;&lt;p&gt;Chỉ tiêu 9.1.1. Số lượt hành khách vận chuyển và luân chuyển&lt;/p&gt;&lt;p&gt;9.1.1 Proportion of the rural population who live within 2 km of an all-season road [9.1.1] (SP_ROD_R2KM)&lt;/p&gt;&lt;p&gt;tháng 6/2021&lt;/p&gt;&lt;p&gt;Tổng cục Thống kê&lt;/p&gt;&lt;p&gt;54 Nguyễn Chí Thanh, Đống Đa, Hà Nội&lt;/p&gt;&lt;p&gt;banbientap@gso.gov.vn&lt;/p&gt;&lt;p&gt;a) Số lượt hành khách vận chuyển&lt;/p&gt;
 &lt;p&gt;Là số hành khách thực tế đã vận chuyển trong kỳ, bất kể độ dài quãng đường vận chuyển là bao nhiêu. Đơn vị tính là lượt hành khách.&lt;/p&gt;
 &lt;p&gt;b) Số lượt hành khách luân chuyển&lt;/p&gt;

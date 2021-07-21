@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 10-1-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tốc độ tăng trưởng về thu nhập của hộ là tốc độ tăng hàng năm của mức thu nhập thực tế của hộ bình quân đầu người.&lt;/p&gt;
 			</language>
 </languages>

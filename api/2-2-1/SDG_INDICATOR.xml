@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 2-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 2.2.1. Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng&lt;/p&gt;
 			</language>
 </languages>

@@ -4,6 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 1-2-5, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Đối tượng được chăm sóc, nuôi dưỡng tại cơ sở bảo trợ xã hội, nhà xã hội, gồm:&lt;/p&gt;
 &lt;p&gt;(1) Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn bao gồm:&lt;/p&gt;
 &lt;p&gt;a) Đối tượng trẻ em thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng, gồm:&lt;/p&gt;

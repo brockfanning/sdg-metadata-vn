@@ -4,6 +4,7 @@
 	<message>The UNIT_MEASURE field for indicator 5-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;số bé trai trên 100 bé gái&lt;/p&gt;
 			</language>
 </languages>

@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 2-4-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số liệu có sẵn hàng năm từ năm 2013 đến 2019.&lt;/p&gt;
 &lt;p&gt;- Số liệu có theo phân tổ danh mục mặt hàng lương thực, thực phẩm.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

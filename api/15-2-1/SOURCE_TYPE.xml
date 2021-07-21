@@ -4,6 +4,7 @@
 	<message>The SOURCE_TYPE field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Điều tra kiểm kê rừng;&lt;/p&gt;
 &lt;p&gt;- Chế độ báo cáo thống kê cấp quốc gia&lt;/p&gt;
 			</language>

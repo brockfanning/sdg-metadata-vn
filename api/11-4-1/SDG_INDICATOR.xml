@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 11-4-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 11.4.1. Số lượng và tỷ lệ di sản văn hoá và thiên nhiên thế giới ở Việt Nam được bảo tồn&lt;/p&gt;
 			</language>
 </languages>

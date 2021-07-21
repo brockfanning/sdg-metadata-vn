@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 13-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 13.2.1. Tỷ lệ bộ/ngành và tỉnh/thành phố trực thuộc Trung ương có ban hành Kế hoạch hành động tăng trưởng xanh&lt;/p&gt;
 			</language>
 </languages>

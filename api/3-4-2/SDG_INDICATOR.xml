@@ -4,6 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 3-4-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.4.1 Tỷ lệ bao phủ các can thiệp điều trị cho người nghiện các chất ma túy&lt;/p&gt;
 			</language>
 </languages>

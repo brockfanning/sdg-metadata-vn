@@ -4,6 +4,7 @@
 	<message>The RATIONALE field for indicator 1-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh quy mô đầu vào của các đối tượng tham gia đóng bảo hiểm bao gồm bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp (kể cả bắt buộc và tự nguyện) làm cơ sở để tính tỷ lệ dân số và lao động tham gia thực hiện chế độ chính sách bảo hiểm xã hội, phục vụ việc an sinh xã hội.&lt;/p&gt;
 			</language>
 </languages>

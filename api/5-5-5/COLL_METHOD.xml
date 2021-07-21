@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 5-5-5, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được thu thập qua Tổng điều tra kinh tế. Đây là cuộc tổng điều tra thuộc Chương trình điều tra thống kê quốc gia và được quy định như sau:&lt;/p&gt;
 &lt;p&gt;- Đối tượng, đơn vị điều tra: Các đơn vị sản xuất, kinh doanh, hoạt động sự nghiệp, Đảng, đoàn thể, hiệp hội; chi nhánh, văn phòng đại diện của doanh nghiệp/tổ chức phi chính phủ nước ngoài; cơ sở sản xuất kinh doanh cá thể phi nông nghiệp, thủy sản; cơ sở tôn giáo, tín ngưỡng.&lt;/p&gt;
 &lt;p&gt;- Loại điều tra: Điều tra toàn bộ kết hợp điều tra chọn mẫu&lt;/p&gt;

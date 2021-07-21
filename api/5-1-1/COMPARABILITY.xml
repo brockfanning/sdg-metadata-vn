@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 5-1-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ số giới tính khi sinh” phản ánh các mục tiêu phát triển bền vững của Việt Nam (mục tiêu 5.1). Bộ chỉ tiêu phát triển bền vững toàn cầu không có chỉ tiêu này.&lt;/p&gt;
 			</language>
 </languages>

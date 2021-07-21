@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 4-6-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;&lt;u&gt;- Số liệu có sẵn hàng năm từ năm 2010-2020&lt;/u&gt; &lt;/p&gt;
 &lt;p&gt;- Số liệu có hàng năm cho các phân tổ: giới tính; thành thị/nông thôn; vùng và Tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

@@ -4,6 +4,7 @@
 	<message>The META_LAST_UPDATE field for indicator 5-2-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;tháng 6/2021&lt;/p&gt;
 			</language>
 </languages>

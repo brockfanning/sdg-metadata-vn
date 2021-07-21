@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 16-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Tổng cục Thống kê tổ chức cuộc điều tra chuyên sâu về phụ nữ và trẻ em hoặc tích hợp các modun phụ nữ và trẻ em trong các cuộc điều tra hộ gia đình&lt;/p&gt;
 			</language>
 </languages>

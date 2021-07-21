@@ -4,6 +4,7 @@
 	<message>The COLL_METHOD field for indicator 8-10-2, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số người từ 15 tuổi trở lên có tài khoản thanh toán tại ngân hàng, chi nhánh ngân hàng nước ngoài: Do Ngân hàng Nhà nước tổng hợp từ dữ liệu hành chính&lt;/p&gt;
 &lt;p&gt;- Dân số từ 15 tuổi trở lên: Tổng hợp từ điều tra dân số của Tổng cục Thống kê&lt;/p&gt;
 &lt;p&gt;- Ngân hàng nhà nước tính toán chỉ tiêu từ số liệu về Số người từ 15 tuổi trở lên có tài khoản thanh toán tại ngân hàng, chi nhánh ngân hàng nước ngoài và số liệu về dân số từ 15 tuổi trở lên của Tổng cục Thống kê.&lt;/p&gt;

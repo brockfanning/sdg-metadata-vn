@@ -4,6 +4,7 @@
 	<message>The COMPARABILITY field for indicator 6-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ lệ hộ sử dụng hố xí hợp vệ sinh” tương ứng với chỉ tiêu SDG toàn cầu “6.2.1: Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water”. Tuy nhiên, phạm vi và nội dung của Việt Nam chưa đáp ứng đầy đủ yêu cầu theo chỉ tiêu toàn cầu:&lt;/p&gt;
 &lt;p&gt;- Chỉ tiêu Việt Nam tính cho tỷ lệ hộ gia đình, toàn cầu tính cho tỷ lệ dân số&lt;/p&gt;
 &lt;p&gt;- Chỉ tiêu toàn cầu gồm 2 phần: &lt;/p&gt;

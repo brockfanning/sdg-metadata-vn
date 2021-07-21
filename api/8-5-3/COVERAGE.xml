@@ -4,6 +4,7 @@
 	<message>The COVERAGE field for indicator 8-5-3, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;- Số liệu có sẵn hàng năm từ 2010-2019 đối với số liệu chung và số liệu theo giới tính&lt;/p&gt;
 &lt;p&gt;- Số liệu có sẵn hàng năm từ 2014-2019 đối với số liệu theo nhóm tuổi, thành thị/nông thôn và vùng&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;

@@ -4,6 +4,7 @@
 	<message>The SDG_SERIES_DESCR field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Manufacturing value added as a proportion of GDP [9.2.1] NV_IND_MANF&lt;/p&gt;
 			</language>
 </languages>
