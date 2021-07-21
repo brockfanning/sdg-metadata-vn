@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 4-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The percentage of students who are recognized to complete primary school is an indicator of a school system&apos;s ability to retain students; indirectly reflect the dropout rate. Percentage of accredited students who complete elementary education measures the sustainability of literacy. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ học sinh được công nhận hoàn thành chương trình tiểu học là chỉ tiêu phản ánh khả năng giữ chân học sinh của một hệ thống trường; gián tiếp phản ảnh tỷ lệ bỏ học. Tỷ lệ học sinh được công nhận hoàn thành chương trình tiểu học đánh giá mức độ bền vững của sự biết chữ.&lt;/p&gt;
 			</language>
 </languages>

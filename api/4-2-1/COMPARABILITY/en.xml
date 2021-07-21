@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 4-2-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The indicator “Proportion of children under 5 years of age who are appropriately developed in terms of health, learning and psychosocial well-being” is one of the indicators of Vietnam corresponding to the indicator “4.2.1. Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex”. &lt;/p&gt;
+ &lt;p&gt; Internationally encourages the collection of this indicator through the Children and Women&apos;s Targeted Survey (MICS) supported by UNICEF. However, in Vietnam, it is regulated to collect through the statistical reporting regime of the Ministry of Education and Training and the census of the General Statistics Office. &lt;/p&gt;</data>
 </root>
