@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 4-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Number of students studying at primary level in school year t; the number of students aged 6-10 years old who are in primary school year t: synthesized from form 02-TH-DN, the statistical reporting regime of the Education and Training sector promulgated in accordance with Circular No. 24/ 2018/TT-BGDDT dated September 28, 2018 of the Ministry of Education and Training. Periodically, the Departments of Education and Training of the provinces/cities directly under the Central Government collect information in the form 02-TH-DN and send it to the Ministry of Education and Training. &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; - &lt;/strong&gt; Population aged 6-10 years: Collected through censuses of the General Statistics Office. &lt;/p&gt;
+ &lt;p&gt; - The Ministry of Education and Training compiles data on the number of students studying at primary level in school year t; the number of students aged 6-10 years old who are in primary school in year t and population data between the ages of 6-10 from the General Statistics Office to calculate this indicator. &lt;/p&gt;</data>
 </root>

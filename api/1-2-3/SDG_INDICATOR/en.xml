@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The SDG_INDICATOR field for indicator 1-2-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Indicator 1.2.3. Number of people receiving monthly social support in the community &lt;/p&gt;</data>
 </root>

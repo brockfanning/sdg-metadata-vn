@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 1-2-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Only data for 2019 for certain target groups are Elderly; people with disabilities and children. &lt;/p&gt;
+ &lt;p&gt; There are no complete data for each subgroup. &lt;/p&gt;
+ &lt;p&gt; (Published source: SDG 2020 Country Report, Data from the Ministry of Labour, Invalids and Social Affairs). &lt;/p&gt;</data>
 </root>

@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 4-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Primary school attendance rate is the percentage of students attending primary school to the total population aged 6-10 years old. &lt;/p&gt;
+ &lt;p&gt; - The percentage of students attending primary school at the correct age is the percentage between the number of students aged 6-10 who are attending primary school compared to the total population aged 6-10. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ học sinh đi học chung cấp tiểu học là tỷ lệ phần trăm giữa số học sinh đang học cấp tiểu học so với tổng dân số ở độ tuổi từ 6-10 tuổi.&lt;/p&gt;
 &lt;p&gt;- Tỷ lệ học sinh đi học đúng tuổi cấp tiểu học là tỷ lệ phần trăm giữa số học sinh từ 6-10 tuổi đang học cấp tiểu học so với tổng dân số trong độ tuổi từ 6-10 tuổi.&lt;/p&gt;
 			</language>

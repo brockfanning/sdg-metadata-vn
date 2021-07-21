@@ -4,7 +4,8 @@
 	<message>The CLASS_SYSTEM field for indicator 1-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The list of administrative units of Vietnam 2010 issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date. point of December 31, 2019. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Bảng danh mục các đơn vị hành chính Việt Nam 2010 ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019.&lt;/p&gt;
 			</language>
 </languages>
