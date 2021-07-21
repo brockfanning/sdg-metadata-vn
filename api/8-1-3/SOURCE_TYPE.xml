@@ -4,7 +4,13 @@
 	<message>The SOURCE_TYPE field for indicator 8-1-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator Gross domestic product per capita is calculated from various sources, specifically: &lt;/p&gt;
+ &lt;p&gt; - Gross domestic product: Data source as the data source of indicator 8.1.1; &lt;/p&gt;
+ &lt;p&gt; - Population and housing census; &lt;/p&gt;
+ &lt;p&gt; - Census midterm; &lt;/p&gt;
+ &lt;p&gt; - Population change and family planning survey; &lt;/p&gt;
+ &lt;p&gt; - The annual average VND/USD exchange rate, purchasing power parity rate announced by the General Statistics Office based on the report of the State Bank and the United Nations Statistical Organization. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu Tổng sản phẩm trong nước bình quân đầu người được tính toán từ nhiều nguồn khác nhau, cụ thể:&lt;/p&gt;
 &lt;p&gt;- Tổng sản phẩm trong nước: Nguồn số liệu như nguồn số liệu của chỉ tiêu 8.1.1;&lt;/p&gt;
 &lt;p&gt;- Tổng điều tra dân số và nhà ở;&lt;/p&gt;

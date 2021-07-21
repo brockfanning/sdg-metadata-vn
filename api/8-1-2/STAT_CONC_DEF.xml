@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 8-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Quarterly, 6-monthly, 9-monthly, and yearly gross domestic product growth rate (period) is the percentage increase in gross domestic product (GDP) of this period compared to the same period last year. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tốc độ tăng tổng sản phẩm trong nước quý, 6 tháng, 9 tháng, năm (kỳ) là tỷ lệ phần trăm tăng lên của tổng sản phẩm trong nước (GDP) của kỳ này so với của cùng kỳ năm trước.&lt;/p&gt;
 			</language>
 </languages>
