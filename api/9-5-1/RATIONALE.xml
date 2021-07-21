@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 9-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the level of information technology infrastructure development of the country. It is the basis for making policies to develop information technology infrastructure to each locality, especially mountainous, remote, border and island areas. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh trình độ phát triển hạ tầng công nghệ thông tin của đất nước. Là cơ sở để đưa ra các chính sách phát triển hạ tầng công nghệ thông tin đến từng địa bàn, đặc biệt là miền núi, vùng sâu, vùng xa, biên giới, hải đảo.&lt;/p&gt;
 			</language>
 </languages>

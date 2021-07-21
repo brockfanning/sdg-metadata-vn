@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 8-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Percentage of people aged 5-17 involved in child labor is the percentage of people aged 5-17 years old engaged in child labor out of the total number of people aged 5-17 in the population. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ người từ 5-17 tuổi tham gia lao động trẻ em là phần trăm của số người từ 5-17 tuổi tham gia lao động trẻ em trong tổng số người từ 5-17 tuổi trong dân số. &lt;/p&gt;
 			</language>
 </languages>

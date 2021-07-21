@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 11-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 11.1: By 2030, ensure that all people have access to basic services and affordable, safe and affordable housing; eliminate slums, build new, upgrade and renovate housing areas of poor quality (Global 11.1 target) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 11.1: Đến năm 2030, đảm bảo tất cả mọi người dân được tiếp cận với những dịch vụ cơ bản và dịch vụ nhà ở phù hợp, an toàn, trong khả năng chi trả; xóa bỏ các khu ổ chuột, xây mới, nâng cấp, cải tạo các khu nhà ở không đảm bảo chất lượng (Mục tiêu 11.1 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 10-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Data is available every 2 years from 2010-2018 disaggregated by urban/rural area. &lt;/p&gt;
+ &lt;p&gt; Data on the spending growth rate of the poorest 40% of the population has not been released compared to the national average. &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn 2 năm/lần từ 2010-2018 phân tổ theo thành thị/nông thôn.&lt;/p&gt;
 &lt;p&gt;Chưa công bố số liệu của tốc độ tăng chi tiêu của nhóm 40% dân số nghèo nhất so với mức chung cả nước.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững)&lt;/p&gt;

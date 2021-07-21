@@ -4,7 +4,66 @@
 	<message>The COMPARABILITY field for indicator 11-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator corresponds to the global SDG target “&lt;strong&gt; 11.1.1: &lt;/strong&gt; Proportion of urban population living in slums, informal settlements or inappropriate housing”. &lt;/p&gt;
+ &lt;p&gt; Vietnam does not apply the global concepts of slums, illegal settlements or inadequate housing, but replaces them with the concept of temporary housing including: Lack of access to hygienic water; Lack of access to hygienic latrines; Lack of living space; Lack of housing durability; Lack of guarantee of ownership. &lt;/p&gt;
+ &lt;p&gt; There are some differences between international and Vietnamese indicators as follows: &lt;/p&gt;
+ &lt;table&gt;
+   &lt;tbody&gt;
+     &lt;tr&gt;
+       &lt;td&gt; &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; International Indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Vietnam indicator &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Target calculation range &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Municipality &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Nationwide (with urban/rural division) &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Segmentation &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Location (inner city) &lt;/p&gt;
+         &lt;p&gt; - Income group &lt;/p&gt;
+         &lt;p&gt; - Gender, &lt;/p&gt;
+         &lt;p&gt; - Ethnicity &lt;/p&gt;
+         &lt;p&gt; - Religion &lt;/p&gt;
+         &lt;p&gt; - Migrant status (head of household) &lt;/p&gt;
+         &lt;p&gt; - Age (household member) &lt;/p&gt;
+         &lt;p&gt; - Disability (household member). &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; - Gender; &lt;/p&gt;
+         &lt;p&gt; - Age group; &lt;/p&gt;
+         &lt;p&gt; - People with disabilities; &lt;/p&gt;
+         &lt;p&gt; - Urban/rural. &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+     &lt;tr&gt;
+       &lt;td&gt;
+         &lt;p&gt; &lt;strong&gt; Data source &lt;/strong&gt; &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; National Census and Household Census, including DHS and MICS &lt;/p&gt;
+       &lt;/td&gt;
+       &lt;td&gt;
+         &lt;p&gt; Household Survey (Vietnam Living Standards Survey) &lt;/p&gt;
+       &lt;/td&gt;
+     &lt;/tr&gt;
+   &lt;/tbody&gt;
+ &lt;/table&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng chỉ tiêu SDG toàn cầu “&lt;strong&gt;11.1.1:&lt;/strong&gt; Proportion of urban population living in slums, informal settlements or inadequate housing”. &lt;/p&gt;
 &lt;p&gt;Việt Nam không áp dụng các khái niệm theo toàn cầu về nhà ổ chuột, những khu định cư trái phép hoặc nhà không đầy đủ mà thay thế bằng khái niệm nhà tạm gồm: Thiếu tiếp cận với nguồn nước hợp vệ sinh; Thiếu tiếp cận với hố xí hợp vệ sinh; Thiếu diện tích sinh hoạt; Thiếu độ bền nhà ở; Thiếu bảo đảm về quyền sở hữu.&lt;/p&gt;
 &lt;p&gt;So sánh chỉ tiêu quốc tế và Việt Nam còn có một số khác biệt như sau:&lt;/p&gt;

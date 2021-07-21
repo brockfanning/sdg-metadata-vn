@@ -4,7 +4,13 @@
 	<message>The STAT_CONC_DEF field for indicator 11-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; People living in temporary shelters are people living in households that lack one of the following attributes: &lt;/p&gt;
+ &lt;p&gt; - Lack of access to hygienic water; &lt;/p&gt;
+ &lt;p&gt; - Lack of access to hygienic latrines; &lt;/p&gt;
+ &lt;p&gt; - Lack of living area; &lt;/p&gt;
+ &lt;p&gt; - Lack of housing durability; &lt;/p&gt;
+ &lt;p&gt; - Lack of guarantee of title. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Những người sống trong các nhà tạm là người sống trong hộ gia đình thiếu một trong số các thuộc tính sau: &lt;/p&gt;
 &lt;p&gt;- Thiếu tiếp cận với nguồn nước hợp vệ sinh;&lt;/p&gt;
 &lt;p&gt;- Thiếu tiếp cận với hố xí hợp vệ sinh;&lt;/p&gt;

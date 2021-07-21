@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T21:44:26.569Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T21:45:07.540Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="40c8e907-696e-4c27-a0d9-1a4d24965a21">
+  <mes:MetadataSet structureRef="MDS1" setID="534aa604-7dc4-4adc-ad9c-914fc88fc7cc">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,55 +54,60 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Goal 10: Reduce inequality in society </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 10.1: By 2030, gradually achieve and maintain the income growth rate of the bottom 40% of the population higher than the national average growth rate (Global 10.1 target) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 10.1.2. Growth rate of household expenditure per capita </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> General Statistics Office </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> 54 Nguyen Chi Thanh, Dong Da, Hanoi </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> banbientap@gso.gov.vn </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Household income growth rate is the annual growth rate of real household income per capita. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Not applicable </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Survey of Vietnamese people&#39;s living standards. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> 2 years. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> General Statistics Office </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> General Statistics Office </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator helps to reflect the fairness in the development of common prosperity of a country, helps to consider and propose welfare policies for the disadvantaged group (poor group) in society. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Data is available every 2 years from 2010-2018 disaggregated by urban/rural area. </p>
+ <p> Data on the spending growth rate of the poorest 40% of the population has not been released compared to the national average. </p>
+ <p> (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator corresponds to the global SDG target 10.1.1: Growth rates of household expenditures or income per capita among the bottom 40 per cent of the population and the total population </p>
+ <p> The indicator name of Vietnam is not exactly the same as the name of the global indicator, but the Vietnamese indicator covers more broadly than the global indicator. In which, there is a regulation to classify the poorest 40% of the population, so it is possible to calculate the ratio between the growth rate of the poorest 40% of the population compared with the growth rate of the whole country. guaranteed international comparison. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister </p>
+ <p> - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

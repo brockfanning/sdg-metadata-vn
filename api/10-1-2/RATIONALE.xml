@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 10-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator helps to reflect the fairness in the development of common prosperity of a country, helps to consider and propose welfare policies for the disadvantaged group (poor group) in society. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu giúp phản ánh sự công bằng trong sự phát triển thịnh vượng chung của 1 quốc gia, giúp xem xét, đề ra các chính sách phúc lợi cho nhóm đối tượng yếu thế (nhóm nghèo) trong xã hội.&lt;/p&gt;
 			</language>
 </languages>

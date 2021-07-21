@@ -4,7 +4,8 @@
 	<message>The COMPILING_ORG field for indicator 9-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Ministry of Information and Communications &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Bộ Thông tin và Truyền thông&lt;/p&gt;
 			</language>
 </languages>

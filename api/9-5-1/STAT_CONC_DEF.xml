@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 9-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The percentage of population with mobile coverage is the percentage of the population served in a mobile coverage area relative to the population of the country. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ dân số được phủ sóng di động là phần trăm dân số được phục vụ trong vùng phủ sóng di động so với dân số cả nước.&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 9-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 9.5: By 2030, ensure the development of information technology infrastructure to each location, especially mountainous, remote, border and island areas; ensure 100% of households have access to information and communication systems (Global target 9.c) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 9.5: Đến năm 2030, đảm bảo phát triển hạ tầng công nghệ thông tin đến từng địa bàn, đặc biệt là miền núi, vùng sâu, vùng xa, biên giới, hải đảo; đảm bảo 100% hộ gia đình có khả năng tiếp cận hệ thống thông tin truyền thông (Mục tiêu 9.c toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 10-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 10.1: By 2030, gradually achieve and maintain the income growth rate of the bottom 40% of the population higher than the national average growth rate (Global 10.1 target) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 10.1: Đến năm 2030, dần đạt được và duy trì tốc độ tăng thu nhập của nhóm 40% dân số thu nhập thấp nhất cao hơn tốc độ tăng bình quân quốc gia (Mục tiêu 10.1 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>
