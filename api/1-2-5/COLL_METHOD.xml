@@ -4,7 +4,8 @@
 	<message>The COLL_METHOD field for indicator 1-2-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The Ministry of Labour, Invalids and Social Affairs shall issue a report form and send it to the Departments of Labor, Invalids and Social Affairs of the provinces/cities directly under the Central Government for implementation on an annual basis. A unit under the Ministry of Labour, Invalids and Social Affairs was assigned the task of synthesizing data sent back from the Departments to calculate the target. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Bộ Lao động Thương binh và Xã hội ban hành biểu mẫu báo cáo gửi Sở Lao động, Thương binh và Xã hội các tỉnh/thành phố trực thuộc Trung ương thực hiện theo định kỳ hàng năm. Một đơn vị thuộc Bộ Lao động Thương binh và Xã hội được giao nhiệm vụ tổng hợp số liệu từ các Sở gửi về để tính chỉ tiêu.&lt;/p&gt;
 			</language>
 </languages>

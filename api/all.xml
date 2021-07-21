@@ -99,6 +99,104 @@
 </fields>
 
 						</indicator>
+						<indicator id="1-2-5">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Common Goal 1: End all forms of poverty everywhere &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Goal 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage for the poor and the vulnerable (Global Target 1.3) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 1.2.5. Number of people being concentratedly raised in social protection establishments and social houses &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Labour, Invalids and Social Affairs. &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 12 Ngo Quyen, Hoan Kiem, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; banbientap@molisa.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Subjects cared for and raised at social protection establishments and social houses, including: &lt;/p&gt;
+ &lt;p&gt; (1) Social protection beneficiaries with extremely difficult circumstances include: &lt;/p&gt;
+ &lt;p&gt; a) Children under difficult circumstances who cannot take care of themselves and have no one to receive care and nurture in the community, including: &lt;/p&gt;
+ &lt;p&gt; Children under 16 years of age who do not have a source of nourishment in one of the following cases: &lt;/p&gt;
+ &lt;p&gt; - Abandoned without adoption; &lt;/p&gt;
+ &lt;p&gt; - Orphaned both father and mother; &lt;/p&gt;
+ &lt;p&gt; - Orphaned father or mother and the other missing as prescribed by law; &lt;/p&gt;
+ &lt;p&gt; - Orphaned father or mother and the other who is enjoying the care and nurturing regime at social protection establishments or social houses; &lt;/p&gt;
+ &lt;p&gt; - Orphaned father or mother and the other being while serving a prison sentence in prison or serving a decision on handling of administrative violations at reformatory, compulsory education institution, rehabilitation facility compulsive addiction; &lt;/p&gt;
+ &lt;p&gt; - Both parents are missing as prescribed by law; &lt;/p&gt;
+ &lt;p&gt; - Both parents are enjoying the care and nurturing regime at social protection establishments or social houses; &lt;/p&gt;
+ &lt;p&gt; - Both parents are serving prison sentences in prisons or are serving decisions on handling of administrative violations at reformatories, compulsory education establishments, compulsory detoxification establishments; &lt;/p&gt;
+ &lt;p&gt; - The parent is missing as prescribed by law and the other person is enjoying the care and nurturing regime at a social protection establishment or social house; &lt;/p&gt;
+ &lt;p&gt; - The parent is missing as prescribed by law and the other is serving a prison sentence at a prison or is serving a decision on handling of administrative violations at a reformatory or educational institution compulsory, compulsory detoxification establishments; &lt;/p&gt;
+ &lt;p&gt; - One parent is enjoying the care and nurturing regime at a social protection establishment or social house and the other is serving a prison sentence at a prison or is serving a decision on handling of violations. administrative offenses at reformatory schools, compulsory educational institutions, compulsory detoxification establishments. &lt;/p&gt;
+ &lt;p&gt; HIV-infected children from poor households; HIV-infected people from poor households who are no longer able to work without pension, monthly social insurance allowance, monthly preferential allowance for meritorious people, or other monthly allowance. &lt;/p&gt;
+ &lt;p&gt; b) The elderly are cared for and raised at social protection establishments or social houses in accordance with the law on elderly people; &lt;/p&gt;
+ &lt;p&gt; c) Disabled children and disabled people are cared for and raised at social protection establishments and social houses in accordance with the law on disabled people. &lt;/p&gt;
+ &lt;p&gt; (2) Objects needing urgent protection include: &lt;/p&gt;
+ &lt;p&gt; a) Victims of domestic violence, victims of sexual abuse, victims of trafficking, victims of forced labor; &lt;/p&gt;
+ &lt;p&gt; b) Children and street people begging for food while waiting to be taken back to their places of residence; &lt;/p&gt;
+ &lt;p&gt; c) Other objects in need of urgent protection as decided by the Chairman of the provincial People&apos;s Committee. &lt;/p&gt;
+ &lt;p&gt; (3) Subjects who voluntarily live in social protection establishments and social houses include: &lt;/p&gt;
+ &lt;p&gt; a) The elderly perform under the care delegation contract; &lt;/p&gt;
+ &lt;p&gt; b) Persons not specified in items (1) and (2) have no conditions to live at home and wish to live in social protection establishments or social houses. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; Person &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Statistical reporting regime issued by the Ministry of Labor, Invalids and Social Affairs. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; The Ministry of Labour, Invalids and Social Affairs shall issue a report form and send it to the Departments of Labor, Invalids and Social Affairs of the provinces/cities directly under the Central Government for implementation on an annual basis. A unit under the Ministry of Labour, Invalids and Social Affairs was assigned the task of synthesizing data sent back from the Departments to calculate the target. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Labour, Invalids and Social Affairs. &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Labour, Invalids and Social Affairs. &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the number of people receiving concentrated care and nurturing at social protection establishments and social houses nationwide during the year, on that basis, providing information for management and planning better social support policies, contributing to improving the lives of the beneficiaries. &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Only figures for 2019 are available for people with disabilities; Orphans; Elderly. &lt;/p&gt;
+ &lt;p&gt; There are no complete data for the province/city disaggregation. &lt;/p&gt;
+ &lt;p&gt; (Published source: SDG 2020 Country Report, Data from the Ministry of Labour, Invalids and Social Affairs). &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; Similar to VSDGI 1.2.1, this indicator reflects part of the global SDG target “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable”. &lt;/p&gt;
+ &lt;p&gt; Due to the specificity of Vietnam, there is no clear concept of the term &quot;social protection&quot;. Social protection is close to the concept of social assistance, which is one of the three basic pillars of the welfare system. With the purpose of overcoming risks, social assistance together with social insurance have the function of reducing risks, and proactive labor market policies to prevent risks for people. Therefore, to replace the global indicator 1.3.1, Vietnam uses this indicator along with some related indicators of Vietnam such as: &lt;/p&gt;
+ &lt;p&gt; 1.2.1. Number of people paying social insurance, health insurance and unemployment insurance &lt;/p&gt;
+ &lt;p&gt; 1.2.2. Number of people entitled to social insurance, health insurance and unemployment insurance &lt;/p&gt;
+ &lt;p&gt; 1.2.3. Number of people receiving monthly social support in the community. &lt;/p&gt;
+ &lt;p&gt; 1.2.4. Number of people receiving unexpected social support. &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - https://unstats.un.org/sdgs/metadata/ &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_COMP"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="10-1-2">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Goal 10: Reduce inequality in society &lt;/p&gt;
@@ -2308,54 +2406,6 @@
 
 						</indicator>
 						<indicator id="1-2-2">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="1-2-5">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>

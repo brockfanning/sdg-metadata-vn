@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 1-2-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Goal 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage for the poor and the vulnerable (Global Target 1.3) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 1.2: Triển khai trên toàn quốc các hệ thống và các biện pháp an sinh xã hội thích hợp cho mọi người, bao gồm cả các chính sách sàn an sinh xã hội và đến năm 2030 đạt được diện bao phủ đáng kể cho người nghèo và những người dễ bị tổn thương (Mục tiêu 1.3 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>
