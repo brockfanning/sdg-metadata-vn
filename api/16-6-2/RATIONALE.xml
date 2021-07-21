@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 16-6-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the state budget expenditure compared to the approved state budget expenditure estimate, which is the basis for formulating appropriate plans and policies for state budget revenue and expenditure. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh tình hình chi ngân sách nhà nước so với dự toán chi ngân sách nhà nước đã được phê duyệt, là cơ sở để xây dựng kế hoạch, chính sách phù hợp cho việc thu, chi ngân sách nhà nước.&lt;/p&gt;
 			</language>
 </languages>

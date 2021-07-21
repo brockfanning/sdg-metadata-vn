@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 16-6-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The ratio of state budget expenditure to the approved state budget expenditure estimate is the ratio between the total expenditure of the Government and the approved estimate in a certain period of time. &lt;/p&gt;
+ &lt;p&gt; State budget expenditures according to current regulations include: Expenditure on development investment, expenditure on national reserve, recurrent expenditure, payment of debt and interest, expenditure on aid and other expenditures as prescribed by law. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ chi ngân sách nhà nước so với dự toán chi ngân sách nhà nước đã được phê duyệt là tỷ lệ giữa tổng số chi tiêu của Chính phủ so với dự toán đã được phê duyệt trong khoảng thời gian nhất định. &lt;/p&gt;
 &lt;p&gt;Chi ngân sách Nhà nước theo quy định hiện nay bao gồm: Chi đầu tư phát triển, chi dự trữ quốc gia, chi thường xuyên, chi trả nợ lãi, chi viện trợ, các khoản chi khác theo quy định của pháp luật.&lt;/p&gt;
 			</language>
