@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-21T20:22:37.459Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="85163754-911d-4117-94c5-964462b6d052">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 17: Tăng cường phương thức thực hiện và thúc đẩy đối tác toàn cầu vì sựphát triển bền vững</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 17.5: Khuyến khích và xúc tiến quan hệ đối tác công, công - tư một cách hiệu quả, dựa trên kinh nghiệm và chiến lược nguồn lực của quan hệ đối tác (mục tiêu 17.17 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 17.5.1. Vốn hỗ trợ phát triển chính thức và vốn vay ưu đãi của các nhà tài trợ nước ngoài</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Kế hoạch và Đầu tư.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Vốn hỗ trợ phát triển chính thức (ODA) và vốn vay ưu đãi của các nhà tài trợ nước ngoài là nguồn vốn của các nhà tài trợ nước ngoài cung cấp cho Nhà nước hoặc Chính phủ nước Cộng hòa Xã hội chủ nghĩa Việt Nam để hỗ trợ phát triển, bảo đảm phúc lợi và an sinh xã hội.</p>
+<p>- Vốn ODA và vốn vay ưu đãi của các nhà tài trợ nước ngoài gồm 3 loại sau:</p>
+<p>+ Vốn ODA viện trợ không hoàn lại là loại vốn ODA không phải hoàn trả cho nhà tài trợ nước ngoài;</p>
+<p>+ Vốn vay ODA là khoản vay nước ngoài có thành tố ưu đãi đạt ít nhất 35% đối với khoản vay có điều kiện ràng buộc liên quan đến mua sắm hàng hóa và dịch vụ theo quy định của nhà tài trợ nước ngoài hoặc đạt ít nhất 25% đối với khoản vay không có điều kiện ràng buộc;</p>
+<p>+ Vốn vay ưu đãi là khoản vay nước ngoài có điều kiện ưu đãi hơn so với vay thương mại nhưng thành tố ưu đãi chưa đạt tiêu chuẩn của vay ODA.</p>
+<p>- Vốn ODA và vốn vay ưu đãi của các nhà tài trợ được phân loại theo các tiêu thức sau:</p>
+<p>+ Vốn ODA và vốn vay ưu đãi của các nhà tài trợ ký kết phân theo các nhà tài trợ;</p>
+<p>+ Vốn ODA và vốn vay ưu đãi của các nhà tài trợ ký kết phân theo các ngành, các lĩnh vực ưu tiên sử dụng ODA và vay ưu đãi của các nhà tài trợ;</p>
+<p>+ Vốn ODA và vốn vay ưu đãi của các nhà tài trợ thực hiện phân theo các nhà tài trợ;</p>
+<p>+ Vốn ODA và vốn vay ưu đãi của các nhà tài trợ thực hiện phân theo các ngành, các lĩnh vực ưu tiên sử dụng ODA và vay ưu đãi của các nhà tài trợ.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Triệu đô la Mỹ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+<p>Hệ thống ngành kinh tế Việt Nam năm 2018 ban hành theo Quyết định số 27/2018/QĐ-TTg ngày 06/7/2018 của Thủ tướng Chính phủ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chế độ báo cáo thống kê do Bộ Kế hoạch và Đầu tư ban hành</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p> Quý, năm.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Kế hoạch và Đầu tư.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Kế hoạch và Đầu tư.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Vốn hỗ trợ phát triển chính thức (ODA) là một trong những nguồn vốn quan trọng đối với tăng trưởng kinh tế, phát triển xã hội, bảo vệ và cải thiện môi trường, đặc biệt là xây dựng kết cấu hạ tầng, xoá đói giảm nghèo.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số liệu có hàng năm từ 2011-2019</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Kế hoạch và Đầu tư)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p> Chỉ tiêu này phản ánh các mục tiêuphát triển bền vững của Việt Nam (mục tiêu 17.5). Bộ chỉ tiêu phát triển bền vững toàn cầu không có chỉ tiêu này.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kêphát triển bền vững của Việt Nam;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

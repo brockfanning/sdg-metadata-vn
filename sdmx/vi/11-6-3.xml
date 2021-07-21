@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-21T20:22:06.409Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="36e22f68-99fc-461e-b2e2-49d3dbf899aa">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 11: Phát triển đô thị, nông thôn bền vững, có khả năng chống chịu; đảm bảo môi trường sống và làm việc an toàn; phân bổ hợp lý dân cư và lao động theo vùng </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 11.6: Giảm tác động có hại của môi trường tới con người tại các đô thị, tăng cường quản lý chất lượng không khí, chất thải đô thị và các nguồn chất thải khác (mục tiêu 11.6 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 11.6.3. <strong>Nồng độ các chất trong môi trường không khí</strong></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Tài nguyên và Môi trường</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 10 Tôn Thất Thuyết - Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>portal@monre.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>Nồng độ các chất trong môi trường không khí xung quanh là các thông số kỹ thuật đo đạc, quan trắc được của một số chất tồn tại trong không khí. Các chất đặc trưng cho chất lượng môi trường không khí bao gồm: Tổng bụi lơ lửng (TSP), bụi PM<sub>10</sub>, bụi PM<sub>2,5</sub>, cacbon monoxit (CO), lưu huỳnh đioxit (SO<sub>2</sub>), nitơ oxit (NO<sub>2</sub>), ôzôn (O<sub>3</sub>) và bụi chì (Pb) trong không khí xung quanh.</p>
+<p>- TSP: Là các hạt lơ lửng trong môi trường không khí có đường kính khí động học nhỏ hơn hoặc bằng 100μm. Ở nồng độ cao, TSP có thể gây ra những tác động tới sức khỏe con người như bệnh về đường hô hấp, bụi phổi, lao phổi,...;</p>
+<p>- PM<sub>10</sub>: Là loại bụi có đường kính khí động học nhỏ hơn hoặc bằng 10μm tồn tại trong môi trường không khí xung quanh. Loại bụi này có khả năng xâm nhập sâu vào cơ thể con người thông qua đường hô hấp, gây ra các bệnh có liên quan đến đường hô hấp;</p>
+<p>- PM<sub>2,5</sub>: Là loại bụi có đường kính khí động học nhỏ hơn hoặc bằng 2,5 μm tồn tại trong môi trường không khí xung quanh, có khả năng xâm nhập sâu vào cơ thể con người thông qua đường hô hấp, gây ra các bệnh có liên quan đến đường hô hấp;</p>
+<p>- CO: Là loại khí không màu, không mùi, bắt cháy và có độc tính cao; là sản phẩm chính của sự cháy không hoàn toàn của carbon và các hợp chất chứa carbon. Việc hít thở phải một lượng quá lớn CO sẽ dẫn đến thương tổn do giảm oxy trong máu hay tổn thương hệ thần kinh cũng như có thể gây tử vong;</p>
+<p>- SO<sub>2</sub>: Là loại khí vô cơ, không màu, nặng hơn không khí; là một trong những chất có khả năng gây ô nhiễm môi trường cao, gây mưa axit ăn mòn các công trình xây dựng, phá hoại hệ thực vật, gây hoang mạc hóa. Ở dạng khí, SO<sub>2</sub> vượt ngưỡng cho phép sẽ gây các bệnh viêm phổi, mắt, da,... ở người;</p>
+<p>- NO<sub>2</sub>: Là chất khí không màu, gây hiệu ứng nhà kính, được sinh ra trong quá trình đốt các nhiên liệu hóa thạch; là chất độc, có màu nâu đỏ với mùi khó chịu. NO<sub>2</sub> là chất khó hòa tan, nên nó có thể theo đường hô hấp đi sâu vào phổi gây viêm phổi và làm hủy hoại các tế bào của phế nang;</p>
+<p>- O<sub>3</sub>: Là một dạng thù hình của oxy bao gồm 3 phân tử oxy liên kết; là chất không bền, dễ phân hủy, có khả năng ăn mòn và là chất gây ô nhiễm môi trường, ở nồng độ cao, O<sub>3</sub> có khả năng gây ung thư cho một số loài động vật;</p>
+<p>- Pb: Là các hạt chì tồn tại trong môi trường không khí xung quanh dưới dạng bụi lơ lửng, ở nồng độ cao, nếu bụi chì xâm nhập vào đường hô hấp sẽ gây ngộ độc cho cơ thể con người. Bụi chì xuất hiện trong không khí ở nồng độ cao khi có hoạt động của các thiết bị sử dụng nhiên liệu có pha chì.</p>
+<p>Phương pháp quan trắc các thông số đánh giá chất lượng môi trường không khí được thực hiện theo quy định của Bộ Tài nguyên và Môi trường về quy trình kỹ thuật quan trắc môi trường không khí và theo tiêu chuẩn quốc tế khác.</p>
+<p>Hiện nay, có 2 phương pháp thường được sử dụng để xác định nồng độ các chất ô nhiễm trong không khí là:</p>
+<p>- Phương pháp đo trực tiếp thông số bằng thiết bị quan trắc tự động (cố định/di động/cầm tay) và hiển thị kết quả trực tiếp, liên tục theo thời gian thực.</p>
+<p>Phương pháp này thực hiện việc xác định các thông số: TSP, PM<sub>10</sub>, PM<sub>2,5</sub>, CO, SO<sub>2</sub>, NO<sub>2</sub>, O<sub>3</sub>,... Phương pháp này được đánh giá cao và có xu hướng sử dụng rộng rãi ở nhiều nước trên thế giới do có thể theo dõi được liên tục chất lượng môi trường không khí xung quanh của khu vực quan trắc theo thời gian, phát hiện kịp thời những biến động bất thường của các chất tồn tại trong không khí. Hiện nay, tại Việt Nam, phương pháp này mới chủ yếu được thực hiện tại một số tỉnh, thành phố lớn.</p>
+<p>Nồng độ một số chất trong môi trường không khí được xác định là số liệu tính trung bình 1 giờ (là giá trị trung bình của các giá trị đo được trong khoảng thời gian một giờ) đối với các thông số SO<sub>2</sub>, CO, NO<sub>2</sub>, O<sub>3</sub> và TSP; trung bình 8 giờ (là giá trị trung bình của các giá trị đo được trong khoảng thời gian 8 giờ liên tục) đối với thông số CO và O<sub>3</sub>; trung bình 24 giờ (là giá trị trung bình của các giá trị đo được trong khoảng thời gian 24 giờ liên tục (một ngày đêm) đối với thông số TSP, PM<sub>10</sub>, SO<sub>2</sub>, NO<sub>2</sub> và Pb; trung bình năm (là giá trị trung bình của các giá trị đo được trong khoảng thời gian một năm) đối với các thông số TSP, PM<sub>10</sub>, PM<sub>2,5</sub>, SO<sub>2</sub>, NO<sub>2</sub> và Pb.</p>
+<p>- Phương pháp lấy mẫu hiện trường và đưa về phòng thí nghiệm phân tích, đưa ra kết quả. Đây là phương pháp truyền thống, đã được sử dụng nhiều năm ở Việt Nam; có số lượng điểm quan trắc bao phủ rộng tại nhiều địa phương; là nguồn số liệu chính để đánh giá chất lượng môi trường không khí. Tuy nhiên, do phương pháp này chỉ xác định được nồng độ chất độc hại trong không khí trong một khoảng thời gian nhất định (phụ thuộc số đợt quan trắc trong năm), nên không thể phát hiện kịp thời những diễn biến bất thường về chất lượng môi trường không khí.</p>
+<p>Theo phương pháp này, nồng độ một số chất trong môi trường không khí xung quanh được xác định là số liệu trung bình cộng các đợt quan trắc trong năm của mỗi thông số tại điểm quan trắc.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>mg/m3</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Chế độ báo cáo thống kê do Bộ Tài nguyên và Môi trường ban hành;</p>
+<p>- Dữ liệu quan trắc tại các trạm quan trắc của các Bộ, ngành và địa phương.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="vi"><![CDATA[<p>Biểu 0401.1/BTNMT, chế độ báo cáo thống kê do Bộ Tài nguyên và Môi trường</p>
+<p>Thông tin chi tiết tại đường link: http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong-ke-nganh-tnmt.pdf</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Năm.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Tài nguyên và Môi trường</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Tài nguyên và Môi trường</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu phản ảnh mức độ ô nhiễm không khí gây ra những tác động không tốt đến sức khoẻ con người; trong trường hợp nếu hàm lượng chất độc vượt quá mức độ cho phép. Ngoài ra, chỉ tiêu được sử dụng để phục vụ xây dựng các chính sách và biện pháp kiểm soát ô nhiễm không khí.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số liệu nồng độ PM2,5 có hàng năm (không đầy đủ hoàn toàn) từ 2013-2018 theo trạm/điểm quan trắc</p>
+<p>- Số liệu nồng độ TSP có hàng năm từ 2016-2018 theo trạm/điểm quan trắc</p>
+<p>(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Tài nguyên và Môi trường)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu “<strong>11.6.2:</strong> Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)”.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kêphát triển bền vững của Việt Nam;</p>
+<p>- Thông tư số 20/2018/TT-BTNMT ngày 8/11/2018 quy định chế độ báo cáo thống kê ngành Tài nguyên và Môi trường</p>
+<p>- http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong-ke-nganh-tnmt.pdf</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 3-7-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh chỉ tiêu toàn cầu “3.c.1: Health worker density and distribution”- Mật độ và phân bố nhân viên y tế.&lt;/p&gt;
+&lt;p&gt;Chỉ tiêu toàn cầu phân loại nhân viên y tế theo danh mục nghề nghiệp ISCO-08. Ngoài phạm vi như của Việt Nam - bác sĩ, dược sĩ, điều dưỡng, toàn cầu còn yêu cầu phân theo theo nha sĩ và số liệu tỷ lệ nhân viên y tế theo giới tính. Việt Nam không có phân tổ theo giới tính.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

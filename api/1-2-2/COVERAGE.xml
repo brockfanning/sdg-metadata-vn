@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Số liệu được công bố hàng năm từ 2010-2018.&lt;/p&gt;
+&lt;p&gt;Chưa công bố số liệu chi tiết cho từng phân tổ. &lt;/p&gt;
+&lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê).&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

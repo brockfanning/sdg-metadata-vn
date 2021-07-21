@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 6-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Khảo sát mức sống dân cư Việt Nam thuộc chương trình điều tra thống kê quốc gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016. Đây là cuộc điều tra chọn mẫu, trong đó:&lt;/p&gt;
+&lt;p&gt;- Mục đích điều tra: Thu thập thông tin làm căn cứ đánh giá mức sống, đánh giá tình trạng nghèo đói và phân hóa giàu nghèo, giám sát và đánh giá một số chương trình mục tiêu quốc gia, cung cấp số liệu để tính quyền số chỉ số giá tiêu dùng và phục vụ tính toán Hệ thống tài khoản quốc gia.&lt;/p&gt;
+&lt;p&gt;- Đối tượng, đơn vị điều tra&lt;/p&gt;
+&lt;p&gt;+ Hộ dân cư;&lt;/p&gt;
+&lt;p&gt;+ Các thành viên trong hộ dân cư;&lt;/p&gt;
+&lt;p&gt;+ Các xã có hộ dân cư được khảo sát (chỉ điều tra vào các năm có tận cùng số chẵn).&lt;/p&gt;
+&lt;p&gt;Hộ là một hoặc một nhóm người ăn chung, ở chung trong một chỗ từ 6 tháng trở lên trong 12 tháng qua và có chung quỹ thu chi.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;Nội dung điều tra&lt;/p&gt;
+&lt;p&gt;+ Đối với hộ&lt;/p&gt;
+&lt;p&gt;Thu thập thông tin về: Đặc trưng nhân khẩu học; giáo dục, tình trạng sức khỏe và sử dụng các dịch vụ y tế (chỉ điều tra vào các năm có tận cùng số chẵn); việc làm; thu nhập; chi tiêu (chỉ điều tra vào các năm có tận cùng số chẵn); Tài sản; nhà ở; đồ dùng, điện, nước, công trình vệ sinh (chỉ điều tra vào các năm có tận cùng số chẵn); Tham gia chương trình xóa đói giảm nghèo, tình hình tín dụng (chỉ điều tra vào các năm có tận cùng số chẵn).&lt;/p&gt;
+&lt;p&gt;+ Đối với xã (chỉ điều tra vào các năm có tận cùng số chẵn)&lt;/p&gt;
+&lt;p&gt;Thu thập những thông tin sau: Thông tin chung về dân số và dân tộc cư trú trên địa bàn xã điều tra; kết cấu hạ tầng: điện, đường, trường, trạm, chợ, nguồn nước; tình trạng kinh tế; một số thông tin cơ bản về tình hình kinh tế xã hội.&lt;/p&gt;
+&lt;p&gt;- Phương pháp thu thập thông tin: Cuộc KSMSDC áp dụng phương pháp phỏng vấn trực tiếp. Điều tra viên có trách nhiệm đến gặp trực tiếp chủ hộ và những thành viên trong hộ có liên quan để phỏng vấn và ghi thông tin vào phiếu phỏng vấn hộ. &lt;/p&gt;
+&lt;p&gt;- Để bảo đảm chất lượng thông tin thu thập, điều tra viên không được gửi phiếu để chủ hộ hoặc các thành viên của hộ tự ghi chép hoặc sao chép các thông tin từ các nguồn dữ liệu có sẵn khác vào phiếu phỏng vấn.&lt;/p&gt;
+&lt;p&gt;- Các biện pháp giám sát chất lượng: Do tính chất phức tạp của cuộc khảo sát nên một số biện pháp kỹ thuật được sử dụng nhằm bảo đảm chất lượng số liệu khảo sát gồm:&lt;/p&gt;
+&lt;p&gt;+ Gọi điện thoại đến hộ để kiểm tra điều tra viên có đến hộ và phỏng vấn hộ trong bao lâu.&lt;/p&gt;
+&lt;p&gt;+ Phiếu phỏng vấn được thiết kế với phần lớn mã số đánh sẵn nhằm giảm thời gian đánh mã lại sau khi thu thập số liệu và giảm sai sót.&lt;/p&gt;
+&lt;p&gt;+ Công việc của 3 điều tra viên được 1 đội tưởng và giám sát viên kiểm tra chặt chẽ.&lt;/p&gt;
+&lt;p&gt;+ Phúc tra 10% số hộ khảo sát sau mỗi kỳ khảo sát.&lt;/p&gt;
+&lt;p&gt;+ Phiếu phỏng vấn được thiết kế tương đối chi tiết để tránh khai thác sót thông tin. Phiếu phỏng vấn được thiết kế để điều tra viên có chỗ ghi thông tin ngay vào phiếu, không phải mở sổ ghi chép trung gian. Phiếu phỏng vấn hộ, phần ghi thông tin in cách 3 dòng lại có dòng kẻ đúp để giúp điểu tra viên tránh ghi nhầm dòng.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

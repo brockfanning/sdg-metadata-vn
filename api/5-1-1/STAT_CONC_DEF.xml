@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 5-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ số giới tính khi sinh là số bé trai trên 100 bé gái trong tổng số trẻ sinh ra sống trong kỳ báo cáo (thường là một năm) của một khu vực.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

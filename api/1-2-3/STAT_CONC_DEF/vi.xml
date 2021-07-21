@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 1-2-3, translated into vi</message>
+	<data>&lt;p&gt;Đối tượng hưởng trợ cấp xã hội hàng tháng gồm:&lt;/p&gt;
+&lt;p&gt;(1) Trẻ em dưới 16 tuổi không có nguồn nuôi dưỡng thuộc một trong các trường hợp quy định sau đây:&lt;/p&gt;
+&lt;p&gt;a) Bị bỏ rơi chưa có người nhận làm con nuôi;&lt;/p&gt;
+&lt;p&gt;b) Mồ côi cả cha và mẹ;&lt;/p&gt;
+&lt;p&gt;c) Mồ côi cha hoặc mẹ và người còn lại mất tích theo quy định của pháp luật;&lt;/p&gt;
+&lt;p&gt;d) Mồ côi cha hoặc mẹ và người còn lại đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở bảo trợ xã hội, nhà xã hội;&lt;/p&gt;
+&lt;p&gt;đ) Mồ côi cha hoặc mẹ và người còn lại đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;&lt;/p&gt;
+&lt;p&gt;e) Cả cha và mẹ mất tích theo quy định của pháp luật;&lt;/p&gt;
+&lt;p&gt;f) Cả cha và mẹ đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở bảo trợ xã hội, nhà xã hội;&lt;/p&gt;
+&lt;p&gt;g) Cả cha và mẹ đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;&lt;/p&gt;
+&lt;p&gt;h) Cha hoặc mẹ mất tích theo quy định của pháp luật và người còn lại đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở bảo trợ xã hội, nhà xã hội;&lt;/p&gt;
+&lt;p&gt;i) Cha hoặc mẹ mất tích theo quy định của pháp luật và người còn lại đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc;&lt;/p&gt;
+&lt;p&gt;k) Cha hoặc mẹ đang hưởng chế độ chăm sóc, nuôi dưỡng tại cơ sở bảo trợ xã hội, nhà xã hội và người còn lại đang trong thời gian chấp hành án phạt tù tại trại giam hoặc đang chấp hành quyết định xử lý vi phạm hành chính tại trường giáo dưỡng, cơ sở giáo dục bắt buộc, cơ sở cai nghiện bắt buộc.&lt;/p&gt;
+&lt;p&gt;(2) Người từ 16 tuổi đến 22 tuổi thuộc một trong các trường hợp quy định tại mục (1) mà đang học phổ thông, học nghề, trung học chuyên nghiệp, cao đẳng, đại học văn bằng thứ nhất.&lt;/p&gt;
+&lt;p&gt;(3) Trẻ em bị nhiễm HIV thuộc hộ nghèo; người bị nhiễm HIV thuộc hộ nghèo không còn khả năng lao động mà không có lương hưu, trợ cấp bảo hiểm xã hội hàng tháng, trợ cấp ưu đãi người có công hàng tháng, trợ cấp hàng tháng khác.&lt;/p&gt;
+&lt;p&gt;(4) Người thuộc hộ nghèo không có chồng hoặc không có vợ; có chồng hoặc vợ đã chết; có chồng hoặc vợ mất tích theo quy định của pháp luật và đang nuôi con dưới 16 tuổi hoặc đang nuôi con từ 16 tuổi đến 22 tuổi nhưng người con đó đang học phổ thông, học nghề, trung học chuyên nghiệp, cao đẳng, đại học văn bằng thứ nhất.&lt;/p&gt;
+&lt;p&gt;(5) Người cao tuổi thuộc một trong các trường hợp sau đây:&lt;/p&gt;
+&lt;p&gt;a) Người cao tuổi thuộc hộ nghèo không có người có nghĩa vụ và quyền phụng dưỡng hoặc có người có nghĩa vụ và quyền phụng dưỡng nhưng người nàyđang hưởng chế độ trợ cấp xã hội hàng tháng;&lt;/p&gt;
+&lt;p&gt;b) Người từ đủ 80 tuổi trở lên không thuộc diện quy định tại mục a mà không có lương hưu, trợ cấp bảo hiểm xã hội hàng tháng, trợ cấp xã hội hàng tháng;&lt;/p&gt;
+&lt;p&gt;c) Người cao tuổi thuộc hộ nghèo không có người có nghĩa vụ và quyền phụng dưỡng, không có điều kiện sống ở cộng đồng, đủ điều kiện tiếp nhận vào cơ sở bảo trợ xã hội, nhà xã hội nhưng có người nhận chăm sóc tại cộng đồng.&lt;/p&gt;
+&lt;p&gt;(6) Trẻ em khuyết tật, người khuyết tật thuộc diện hưởng trợ cấp xã hội theo quy định của pháp luật về người khuyết tật.&lt;/p&gt;</data>
+</root>

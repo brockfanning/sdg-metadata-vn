@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 6-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ hồ chứa lớn được kiểm soát, giám sát để bảo đảm duy trì dòng chảy tối thiểu của lưu vực sông là tỷ lệ phần trăm số hồ chứa lớn được kiểm soát, giám sát để bảo đảm duy trì dòng chảy tối thiểu của lưu vực sông so với tổng số hồ chứa lớn.&lt;/p&gt;
+&lt;p&gt;Hồ chứa lớn bao gồm:&lt;/p&gt;
+&lt;p&gt;a) Công trình hồ chứa khai thác nước mặt để phát điện với công suất lắp máy trên 50kW, bao gồm cả công trình thủy lợi kết hợp với thủy điện;&lt;/p&gt;
+&lt;p&gt;b) Công trình hồ chứa khai thác nước mặt có quy mô trên 0,1m&lt;sup&gt;3&lt;/sup&gt;/giây đối với trường hợp cấp nước cho sản xuất nông nghiệp, nuôi trồng thủy sản; trên 100m&lt;sup&gt;3&lt;/sup&gt;/ngày đêm đối với trường hợp cấp nước cho các mục đích khác.&lt;/p&gt;
+&lt;p&gt;Việc kiểm soát, giám sát được thực hiện theo quy định của Bộ Tài nguyên và Môi trường.&lt;/p&gt;
+&lt;p&gt;Dòng chảy tối thiểu là dòng chảy ở mức thấp nhất cần thiết để duy trì dòng sông hoặc đoạn sông nhằm bảo đảm sự phát triển bình thường của hệ sinh thái thủy sinh và bảo đảm mức tối thiểu cho hoạt động khai thác, sử dụng nguồn nước của các đối tượng sử dụng nước.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

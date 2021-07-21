@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 16-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Thông tin chi tiết truy cập tại đường link: https://papi.org.vn/bao-cao/&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

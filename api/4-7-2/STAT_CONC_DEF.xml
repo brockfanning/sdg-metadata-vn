@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 4-7-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ trường có chương trình giáo dục cơ bản về giới tính, phòng chống bạo lực, xâm hại; cung cấp kiến thức về HIV là tỷ lệ phần trăm số trường có chương trình giáo dục cơ bản về giới tính, phòng chống bạo lực, xâm hại; cung cấp kiến thức về HIV trong tổng số trường của cấp học đó.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

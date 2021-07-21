@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 3-7-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;- Tiêm chủng đầy đủ là số trẻ em dưới 1 tuổi được tiêm (uống) đủ liều từng loại vắc xin phòng bệnh theo qui định của Chương trình Tiêm chủng mở rộng tính trên 100 trẻ trong diện tiêm chủng của một vùng, một địa phương.&lt;/p&gt;
+&lt;p&gt;- Cụ thể là các loại vắc xin phòng bệnh trong chương trình Tiêm chủng mở rộng như sau:&lt;/p&gt;
+&lt;p&gt;+ 1 liều vắc xin phòng bệnh Lao (BCG)&lt;/p&gt;
+&lt;p&gt;+ 3 liều vắc xin phòng viêm gan B&lt;/p&gt;
+&lt;p&gt;+ 3 liều vắc xin phối hợp bạch hầu, ho gà, uốn ván, viêm gan b và viêm phổi, viêm màng não mủ do Hib (DPT-VGB-Hib)&lt;/p&gt;
+&lt;p&gt;+ 1 liều tiêm phòng bại liệt (bOPV) hoặc 3 liều uống vắc xin phòng bại liệt (bOPV)&lt;/p&gt;
+&lt;p&gt;+ 1 liều vắc xin phòng sởi.&lt;/p&gt;
+&lt;p&gt;- Các vắc xin này phải được sử dụng đúng độ tuổi, đúng thời điểm và theo đúng cách thức (tiêm, uống)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

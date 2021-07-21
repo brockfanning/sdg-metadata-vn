@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 9-4-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Điều tra nghiên cứu khoa học và phát triển công nghệ.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

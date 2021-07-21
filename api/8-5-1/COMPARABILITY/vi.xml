@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 8-5-1, translated into vi</message>
+	<data>&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 8.5.1: Average hourly earnings of employees, by sex, age, occupation and persons with disabilities&lt;/p&gt;
+&lt;p&gt;Có một số khác biệt giữa chỉ tiêu Việt Nam và chỉ tiêu toàn cầu:&lt;/p&gt;
+&lt;p&gt;+ Toàn cầu tính thu nhập trung bình theo giờ; &lt;/p&gt;
+&lt;p&gt;+ Việt Nam tính thu nhập trung bình theo tháng.&lt;/p&gt;
+&lt;p&gt;Toàn cầu có phân tổ theo người khuyết tật; Việt Nam chưa tính toán được theo phân tổ này.&lt;/p&gt;
+&lt;p&gt;Ngoài ra, sự đa dạng của các nguồn số liệu cũng ảnh hưởng rất lớn đến khả năng so sánh quốc tế, vì mỗi loại nguồn có phạm vi và đặc điểm riêng. Sẽ không hoàn toàn chính xác nếu so sánh, ví dụ, thu nhập hàng giờ từ điều tra lao động cho một quốc gia với thu nhập hàng giờ từ điều tra doanh nghiệp, cơ sở sản xuất kinh doanh cho một quốc gia khác. Việc sử dụng các định nghĩa không chuẩn và sự không đồng nhất của các tiêu chí dẫn đến không bảo đảm so sánh quốc tế.&lt;/p&gt;</data>
+</root>

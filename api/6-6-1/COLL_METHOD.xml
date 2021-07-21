@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 6-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu được tổng hợp từ biểu số 004.N/BCB-TNMT thuộc Chế độ báo cáo thống kê cấp quốc gia&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 4-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;- Số học sinh đang học cấp tiểu học năm học t; số học sinh trong độ tuổi từ 6-10 tuổi đang học tiểu học năm t: Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo &lt;br&gt;ban hành;&lt;/p&gt;
+&lt;p&gt;- Dân số trong độ tuổi từ 6-10 tuổi: Điều tra thống kê.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

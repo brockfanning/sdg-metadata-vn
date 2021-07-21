@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 4-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ học sinh đi học chung cấp tiểu học là tỷ lệ phần trăm giữa số học sinh đang học cấp tiểu học so với tổng dân số ở độ tuổi từ 6-10 tuổi.&lt;/p&gt;
+&lt;p&gt;- Tỷ lệ học sinh đi học đúng tuổi cấp tiểu học là tỷ lệ phần trăm giữa số học sinh từ 6-10 tuổi đang học cấp tiểu học so với tổng dân số trong độ tuổi từ 6-10 tuổi.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

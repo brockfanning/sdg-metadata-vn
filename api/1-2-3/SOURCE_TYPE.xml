@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 1-2-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chế độ báo cáo thống kê do Bộ Lao động, Thương binh và Xã hội ban hành.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

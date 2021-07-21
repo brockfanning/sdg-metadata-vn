@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 11-1-1, translated into vi</message>
+	<data>&lt;p&gt;Chỉ tiêu này tương ứng chỉ tiêu SDG toàn cầu “&lt;strong&gt;11.1.1:&lt;/strong&gt; Proportion of urban population living in slums, informal settlements or inadequate housing”. &lt;/p&gt;
+&lt;p&gt;Việt Nam không áp dụng các khái niệm theo toàn cầu về nhà ổ chuột, những khu định cư trái phép hoặc nhà không đầy đủ mà thay thế bằng khái niệm nhà tạm gồm: Thiếu tiếp cận với nguồn nước hợp vệ sinh; Thiếu tiếp cận với hố xí hợp vệ sinh; Thiếu diện tích sinh hoạt; Thiếu độ bền nhà ở; Thiếu bảo đảm về quyền sở hữu.&lt;/p&gt;
+&lt;p&gt;So sánh chỉ tiêu quốc tế và Việt Nam còn có một số khác biệt như sau:&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu quốc tế&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu Việt Nam&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Phạm vi tính chỉ tiêu&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Đô thị&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Cả nước (Có phân tổ theo thành thị/nông thôn)&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Phân tổ&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Vị trí (nội thị)&lt;/p&gt;
+        &lt;p&gt;- Nhóm thu nhập&lt;/p&gt;
+        &lt;p&gt;- Giới tính, &lt;/p&gt;
+        &lt;p&gt;- Dân tộc &lt;/p&gt;
+        &lt;p&gt;- Tôn giáo&lt;/p&gt;
+        &lt;p&gt;- Tình trạng di cư (chủ gia đình)&lt;/p&gt;
+        &lt;p&gt;- Tuổi (thành viên hộ gia đình)&lt;/p&gt;
+        &lt;p&gt;- Tình trạng khuyết tật (thành viên hộ gia đình).&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Giới tính;&lt;/p&gt;
+        &lt;p&gt;- Nhóm tuổi;&lt;/p&gt;
+        &lt;p&gt;- Người khuyết tật;&lt;/p&gt;
+        &lt;p&gt;- Thành thị/nông thôn.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Nguồn số liệu&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Điều tra dân số và điều tra hộ gia đình quốc gia, bao gồm cả DHS và MICS&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Điều tra hộ gia đình (Khảo sát mức sống dân cư Việt Nam)&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</data>
+</root>

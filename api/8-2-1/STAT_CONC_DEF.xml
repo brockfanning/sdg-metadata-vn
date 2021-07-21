@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 8-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Năng suất lao động xã hội là chỉ tiêu phản ánh hiệu suất làm việc của lao động, thường đo bằng tổng sản phẩm trong nước tính bình quân một lao động trong thời kỳ tham chiếu.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

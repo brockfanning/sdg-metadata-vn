@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 17-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Mức thuế nhập khẩu bình quân là thuế suất bình quân áp dụng đối với hàng hoá nhập khẩu vào Việt Nam theo Danh mục hàng hóa xuất khẩu, nhập khẩu Việt Nam.&lt;/p&gt;
+&lt;p&gt;Mức thuế nhập khẩu bình quân được tính theo phương pháp bình quân gia quyền, sử dụng phương pháp trọng số dựa trên giá trị hàng hóa nhập khẩu.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

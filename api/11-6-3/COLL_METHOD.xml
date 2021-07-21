@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 11-6-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Biểu 0401.1/BTNMT, chế độ báo cáo thống kê do Bộ Tài nguyên và Môi trường&lt;/p&gt;
+&lt;p&gt;Thông tin chi tiết tại đường link: http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong-ke-nganh-tnmt.pdf&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

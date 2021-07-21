@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 4-1-4, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương tiến hành thu thập thông tin các biểu mẫu: 02-TH-ĐN; 03-THCS-ĐN; 02-TH-CN; 03-THCS-CN và gửi về Bộ Giáo dục và Đào tạo để tính toán chỉ tiêu.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

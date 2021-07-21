@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 4-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh 1 phần chỉ tiêu cấp độ toàn cầu “Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex”. So sánh nội dung chỉ tiêu Việt Nam và toàn cầu, nhận thấy có sự khác biệt như sau:&lt;/p&gt;
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu quốc tế&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;&lt;strong&gt;Chỉ tiêu Việt Nam&lt;/strong&gt;&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Kỹ năng&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Biết đọc, viết và biết làm toán&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;Biết đọc, viết&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td rowspan=&quot;2&quot;&gt;
+        &lt;p&gt;Phân tổ&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td colspan=&quot;2&quot;&gt;
+        &lt;p&gt;- Nhóm tuổi&lt;/p&gt;
+        &lt;p&gt;- Giới tính&lt;/p&gt;
+        &lt;p&gt;- Khuyết tật&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Vị trí&lt;/p&gt;
+        &lt;p&gt;- Thu nhập&lt;/p&gt;
+        &lt;p&gt;- Loại kỹ năng&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Nhóm dân tộc (Kinh và các dân tộc khác); &lt;/p&gt;
+        &lt;p&gt;- Thành thị/nông thôn;&lt;/p&gt;
+        &lt;p&gt;- Tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;
+        &lt;p&gt;Nguồn số liệu&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td colspan=&quot;3&quot;&gt;
+        &lt;p&gt;Khảo sát đánh giá kỹ năng của người trưởng thành (ví dụ như PIAAC, STEP, LAMP, RAMAA) và khảo sát khả năng biết đọc biết viết của người trưởng thành ở cấp quốc gia.&lt;/p&gt;
+      &lt;/td&gt;
+      &lt;td&gt;
+        &lt;p&gt;- Tổng điều tra dân số và nhà ở;&lt;/p&gt;
+        &lt;p&gt;- Điều tra dân số và nhà ở giữa kỳ;&lt;/p&gt;
+        &lt;p&gt;- Điều tra biến động dân số và kế hoạch hóa gia đình.&lt;/p&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+			</language>
+</languages>
+</data>
+</root>

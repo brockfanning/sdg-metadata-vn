@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 17-2-1, translated into vi</message>
+	<data>&lt;p&gt;Phương pháp tính&lt;/p&gt;
+&lt;p&gt;Thời điểm thống kê: Là thời điểm cơ quan Hải quan chấp nhận đăng ký tờ khai hải quan.&lt;/p&gt;
+&lt;p&gt;Những thay đổi trên tờ khai hải quan trong quá trình thực hiện thủ tục hải quan sẽ được cập nhật vào hệ thống thông tin hải quan và được điều chỉnh trong các báo cáo thống kê.&lt;/p&gt;
+&lt;p&gt;Trị giá thống kê hàng hóa xuất khẩu: Là trị giá do cơ quan hải quan xây dựng phục vụ cho mục đích thống kê trên cơ sở trị giá khai báo và tuân theo các nguyên tắc sau: &lt;/p&gt;
+&lt;p&gt;- Là giá của hàng hoá tính đến cửa khẩu xuất, không bao gồm phí bảo hiểm quốc tế và phí vận tải quốc tế (trị giá tính theo điều kiện giao hàng FOB hoặc tương đương);&lt;/p&gt;
+&lt;p&gt;- Trong trường hợp trị giá thống kê của hàng hoá không xác định được theo điều kiện giao hàng FOB hoặc tương đương thì căn cứ vào hồ sơ hải quan và các nguồn thông tin khác để quy đổi.&lt;/p&gt;
+&lt;p&gt;Xác định trị giá thống kê trong những trường hợp đặc thù &lt;/p&gt;
+&lt;p&gt;- Trường hợp tờ khai hải quan đăng ký một lần nhưng xuất khẩu nhiều lần thì trị giá thống kê là trị giá thực tế của hàng hóa khi xuất khẩu;&lt;/p&gt;
+&lt;p&gt;- Tiền giấy, tiền kim loại và các giấy tờ có giá chưa phát hành, chưa đưa vào lưu thông: Trị giá thống kê là chi phí để sản xuất ra tiền giấy, tiền kim loại và các giấy tờ có giá (không phải là mệnh giá của tiền giấy, tiền kim loại hay các giấy tờ có giá này);&lt;/p&gt;
+&lt;p&gt;- Phương tiện trung gian dùng để chứa thông tin bao gồm: Băng từ, đĩa từ, CD-ROM, thẻ thông minh và các phương tiện trung gian khác đã hoặc chưa chứa thông tin, trừ loại được sản xuất theo yêu cầu hoặc đơn đặt hàng riêng: Thống kê theo trị giá hải quan toàn bộ của các hàng hóa này (không phải chỉ là trị giá của các phương tiện trung gian chưa có thông tin);&lt;/p&gt;
+&lt;p&gt;- Hàng hóa được phép ghi giá tạm tính khi đăng ký tờ khai hải quan thì trị giá thống kê phải được điều chỉnh khi có giá chính thức trên tờ khai sửa đổi, bổ sung;&lt;/p&gt;
+&lt;p&gt;- Hàng gia công, chế biến, lắp ráp: Tính trị giá toàn bộ hàng hoá nguyên liệu trước khi gia công, chế biến, lắp ráp và toàn bộ giá trị thành phẩm hoàn trả sau gia công, chế biến, lắp ráp;&lt;/p&gt;
+&lt;p&gt;- Các giao dịch không khai trị giá (ví dụ: Hàng đổi hàng, hàng viện trợ nhân đạo,…) thì trị giá của hàng hóa trong thống kê được tính theo nguyên tắc xác định trị giá hải quan;&lt;/p&gt;
+&lt;p&gt;- Điện năng xuất khẩu: Trị giá thống kê là trị giá khai trên tờ khai hải quan;&lt;/p&gt;
+&lt;p&gt;- Hàng hóa theo hợp đồng thuê tài chính: Tính trị giá của hàng hóa trên cơ sở giá bán của hàng hóa tương tự (loại trừ các dịch vụ cung cấp kèm theo hợp đồng cho thuê như chi phí đào tạo, bảo trì, phí tài chính);&lt;/p&gt;
+&lt;p&gt;- Hàng hóa kèm dịch vụ: Trị giá thống kê xác định theo giá FOB hoặc tương đương (đối với hàng xuất khẩu) của hàng hóa và loại trừ các phí dịch vụ;&lt;/p&gt;
+&lt;p&gt;Loại tiền và tỷ giá: Trị giá thống kê hàng hoá xuất khẩu tính bằng Đô la Mỹ (USD). Cơ quan hải quan căn cứ vào quy định hiện hành về tỷ giá tính thuế đối với hàng hóa xuất khẩu để quy đổi các ngoại tệ sử dụng trong thống kê.&lt;/p&gt;
+&lt;p&gt;Đơn vị tính lượng: Sử dụng đơn vị tính quy định trong Danh mục hàng hoá xuất khẩu, nhập khẩu của Việt Nam.&lt;/p&gt;
+&lt;p&gt;Đối với đơn vị tính lượng quy đổi sử dụng trong các mẫu biểu thống kê: Các đơn vị tính lượng khác nhau được quy đổi về đơn vị tính thống nhất trong mẫu biểu căn cứ vào các dữ liệu từ hồ sơ hải quan. &lt;/p&gt;</data>
+</root>

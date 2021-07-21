@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-07-21T20:22:35.973Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="fb92f544-2ee7-41c2-870a-80c056796622">
+    <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>_</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>704</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.4)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="vi"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 17: Tăng cường phương thức thực hiện và thúc đẩy đối tác toàn cầu vì sựphát triển bền vững</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="vi"><![CDATA[<p>Mục tiêu 17.2: Nâng cao chất lượng và giá trị gia tăng trong xuất khẩu. Phấn đấu đạt tốc độ tăng trưởng xuất khẩu trên 10%/năm (mục tiêu 17.11 toàn cầu)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chỉ tiêu 17.2.1. Giá trị xuất khẩu hàng hóa</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="vi"><![CDATA[<p>tháng 6/2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="vi"><![CDATA[<p>Chủ trì: Bộ Tài chính;</p>
+<p>- Phối hợp: Tổng cục Thống kê.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>Số 28 Trần Hưng Đạo - Quận Hoàn Kiếm - Hà Nội</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="vi"><![CDATA[<p>support@mof.gov.vn</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="vi"><![CDATA[<p>a) Khái niệm</p>
+<p> Hàng hóa xuất khẩu gồm toàn bộ hàng hóa có xuất xứ trong nước và hàng hóa nước ngoài tái xuất khẩu, được đưa ra nước ngoài, làm giảm nguồn của cải, vật chất của đất nước. Trị giá xuất khẩu hàng hóa được tính theo điều kiện giao hàng FOB hoặc tương đương, là giá của hàng hóa tính đến cửa khẩu xuất (không gồm phí bảo hiểm quốc tế và phí vận tải quốc tế), được tính cho một thời kỳ nhất định và tính theo một loại tiền thống nhất là Đô la Mỹ. Trong đó:</p>
+<p><strong>-</strong> Hàng hóa có xuất xứ trong nước là hàng hoá được khai thác, sản xuất, chế biến trong nước theo các quy định về xuất xứ hàng hóa của Việt Nam; </p>
+<p><strong>- </strong>Hàng hóa tái xuất khẩu là hàng hóa có xuất xứ nước ngoài mà trước đó đã được nhập khẩu và được thống kê là hàng nhập khẩu, sau đó lại xuất khẩu nguyên trạng hoặc chỉ chế biến giản đơn, bảo quản, đóng gói lại, không làm thay đổi tính chất cơ bản của hàng hóa.</p>
+<p>b) Phạm vi thống kê</p>
+<p> Hàng hóa được tính trong thống kê xuất khẩu gồm:</p>
+<p>(1) Hàng hóa mua/bán theo các hợp đồng thương mại thông thường ký với <br>nước ngoài;</p>
+<p>(2) Hàng hóa thuộc loại hình hàng đổi hàng với nước ngoài, không sử dụng các hình thức thanh toán;</p>
+<p>(3) Hàng hóa thuộc các hợp đồng gia công, lắp ráp ký với nước ngoài, có hoặc không thay đổi quyền sở hữu, bao gồm: Thành phẩm hoàn trả sau gia công, lắp ráp; nguyên liệu/vật tư xuất khẩu để gia công, lắp ráp; hàng hóa làm mẫu phục vụ cho gia công, lắp ráp; máy móc, thiết bị trực tiếp phục vụ gia công, lắp ráp, được thoả thuận trong hợp đồng gia công, lắp ráp; </p>
+<p>(4) Hàng hóa thuộc các giao dịch giữa doanh nghiệp mẹ với doanh nghiệp con, chi nhánh đầu tư trực tiếp ở nước ngoài, hàng hóa giao dịch giữa người mua và người bán có mối quan hệ đặc biệt;</p>
+<p>(5) Hàng hóa tái xuất: Hàng hoá nước ngoài đã nhập khẩu và được thống kê vào nhập khẩu trước đó, sau đó lại xuất khẩu nguyên dạng hoặc chỉ sơ chế, bảo quản, đóng gói lại, không làm thay đổi tính chất cơ bản của hàng hoá, trừ hàng hóa tạm nhập khẩu phải chịu sự kiểm tra, giám sát của cơ quan Hải quan và phải tái xuất theo quy định của pháp luật;</p>
+<p>(6) Hàng hoá xuất khẩu thuộc loại hình vay nợ, viện trợ chính phủ, phi chính phủ, các tổ chức quốc tế và các hình thức viện trợ nhân đạo khác;</p>
+<p>(7) Hàng hóa thuộc hợp đồng thuê/cho thuê tài chính (máy móc, thiết bị, phương tiện vận tải), theo đó người thuê có quyền lợi, trách nhiệm, chịu rủi ro,… liên quan đến hàng hóa. Nếu trong hợp đồng không xác định rõ các nội dung trên thì căn cứ vào thời hạn thuê là 12 tháng trở lên;</p>
+<p>(8) Hàng hóa trả lại trong kinh doanh xuất khẩu (hàng hóa mà trước đó đã được thống kê vào hàng nhập khẩu, sau đó được tái xuất);</p>
+<p>(9) Hàng hóa tạm xuất có thời hạn để sử dụng tạm thời cho mục đích cụ thể nhưng sau đó được chuyển đổi loại hình hải quan để không thực hiện tái nhập. Những hàng hóa đó bao gồm: Hàng hóa hội chợ, triển lãm, giới thiệu sản phẩm; tài liệu hội nghị, hội thảo, nghiên cứu khoa học, giáo dục, thi đấu thể thao, biểu diễn văn hóa, biểu diễn nghệ thuật, khám chữa bệnh, nghiên cứu và phát triển sản phẩm; phương tiện vận tải, công ten nơ và các thiết bị liên quan đến vận tải; các động sản khác;</p>
+<p>(10) Hàng hoá mua/bán, trao đổi qua biên giới, không có hợp đồng thương mại;</p>
+<p>(11) Các hàng hóa đặc thù:</p>
+<p>- Vàng phi tiền tệ: Là vàng ở các dạng bột, thanh, thỏi, miếng, xu, vàng trang sức,… dưới dạng tinh chế, thô hoặc dạng bán sơ chế do các doanh nghiệp, ngân hàng thương mại (trừ ngân hàng, tổ chức khác nhận ủy quyền thực hiện giao dịch của Ngân hàng Nhà nước Việt Nam) xuất khẩu cho mục đích kinh doanh, sản xuất, gia công, chế tác,… theo quy định của pháp luật; </p>
+<p>- Tiền giấy, chứng khoán chưa phát hành, tiền xu không hoặc chưa đưa vào lưu thông; các bộ sưu tập tiền xu hoặc tiền giấy;</p>
+<p>- Phương tiện lưu giữ thông tin, hình ảnh: Băng từ, đĩa từ, CD-ROM, thẻ thông minh,... đã hoặc chưa ghi âm, hình, dữ liệu, trò chơi điện tử, phần mềm,… được sản xuất để dùng chung cho mọi khách hàng hoặc để mua/bán thông thường mà không được đặt hàng theo yêu cầu riêng (trừ các loại được sản xuất theo yêu cầu riêng của khách hàng hoặc bản gốc phim ảnh, tác phẩm nghệ thuật, chương trình truyền hình, chương trình biểu diễn nghệ thuật,…);</p>
+<p>- Hàng hóa gửi hoặc nhận qua đường bưu điện hoặc dịch vụ chuyển phát nhanh;</p>
+<p>- Điện năng xuất khẩu;</p>
+<p>- Hàng hóa xuất khẩu sử dụng phương thức thương mại điện tử: Việc trao đổi thông tin, đặt hàng, ký kết hợp đồng thương mại và thanh toán với nước ngoài được thực hiện qua mạng Internet nhưng hàng hóa được đưa ra khỏi lãnh thổ Việt Nam, thực hiện các thủ tục hải quan thông thường, được tính đến trong thống kê nếu hàng hóa thuộc phạm vi thống kê;</p>
+<p>- Hàng hóa, nhiên liệu bán cho các phương tiện vận tải nước ngoài sử dụng trong hành trình giao thông quốc tế; </p>
+<p>- Dầu thô và khoáng sản được khai thác trong khu vực thềm lục địa, vùng đặc quyền kinh tế của Việt Nam, hải phận quốc tế, vùng chồng lấn được bán với nước ngoài;</p>
+<p>- Thiết bị giàn khoan do doanh nghiệp bán ngoài khơi, không thực hiện tờ khai hải quan;</p>
+<p>- Máy bay, tàu thuyền và phương tiện vận tải khác thuộc các giao dịch không thực hiện tờ khai hải quan;</p>
+<p>- Hàng hóa nhận được gửi đi cho các tổ chức quốc tế (trừ hàng hóa gửi giữa các tổ chức quốc tế);</p>
+<p>- Hàng hóa là tài sản di chuyển, hàng hóa là hành lý của người xuất cảnh phải khai theo quy định;</p>
+<p>- Chất thải và phế liệu có giá trị thương mại.</p>
+<p>- Vệ tinh trong trường hợp có thay đổi quyền sở hữu giữa các tổ chức, cá nhân trong nước với nước ngoài;</p>
+<p> Hàng hóa không tính trong thống kê gồm:</p>
+<p>(1) Hàng hóa xuất khẩu tại chỗ: Hàng hóa do thương nhân Việt Nam ký hợp đồng bán với thương nhân nước ngoài nhưng được giao tại Việt Nam theo chỉ định của thương nhân nước ngoài. </p>
+<p>(2) Hàng hóa do thương nhân Việt Nam mua của nước ngoài và bán thẳng cho nước thứ ba, hàng hóa không về Việt Nam hoặc có về Việt Nam nhưng không làm thủ tục xuất khẩu, nhập khẩu thông thường tại Hải quan Việt Nam.</p>
+<p>(3) Hàng hóa bán tại các cửa hàng miễn thuế (Duty Free Shop).</p>
+<p>(4) Hàng hóa tạm xuất có thời hạn sau đó được tái nhập như: Hàng tham dự triển lãm, hội chợ, giới thiệu sản phẩm; tài liệu hội nghị, hội thảo, nghiên cứu khoa học, giáo dục, thi đấu thể thao, biểu diễn văn hóa, biểu diễn nghệ thuật, khám chữa bệnh, nghiên cứu và phát triển sản phẩm; phương tiện vận tải, công ten nơ và các thiết bị liên quan đến vận tải.</p>
+<p>(5) Hàng hoá chỉ đơn thuần đi qua lãnh thổ Việt Nam với mục đích chuyển tải, quá cảnh.</p>
+<p>(6) Các loại hàng hóa đặc thù gồm:</p>
+<p>- Hàng hoá thuộc hợp đồng cho thuê hoạt động (máy bay, tàu thuyền, máy móc thiết bị): Không có sự chuyển quyền sở hữu đối với hàng hóa sau thời gian cho thuê;</p>
+<p>- Hàng hoá của Chính phủ Việt Nam gửi với cơ quan đại diện ngoại giao, cơ quan đại diện lãnh sự, cơ quan đại diện tại tổ chức quốc tế của Việt Nam ở nước ngoài;</p>
+<p>- Vàng tiền tệ: Vàng thuộc giao dịch của Ngân hàng Nhà nước Việt Nam hoặc các tổ chức được Ngân hàng Nhà nước Việt Nam ủy quyền xuất khẩu cho mục đích cân đối tiền tệ theo qui định của pháp luật;</p>
+<p>- Tiền xu đang lưu hành, tiền giấy, tiền séc và chứng khoán đã phát hành trong khâu lưu thông;</p>
+<p>- Hàng hóa với chức năng là phương tiện rỗng dùng để chứa hàng hóa: <br>Công-ten-nơ, các thùng, chai, lọ và các loại khác theo phương thức quay vòng chỉ nhằm mục đích vận chuyển hàng hóa;</p>
+<p>- Các sản phẩm, nội dung truyền nhận theo phương thức điện tử (phần mềm, các sản phẩm âm thanh, hình ảnh, phim, sách điện tử và loại khác);</p>
+<p>- Phương tiện trung gian dùng để chứa thông tin, hình ảnh, chứa phần mềm được sản xuất theo yêu cầu hoặc đơn đặt hàng riêng;</p>
+<p>- Hàng hóa đưa ra lãnh thổ Việt Nam bất hợp pháp;</p>
+<p>- Hàng hóa hoặc đưa ra khỏi lãnh thổ hải quan của Việt Nam với mục đích sửa chữa hoặc bảo trì nếu hoạt động đó không làm thay đổi xuất xứ của hàng hóa;</p>
+<p>- Hàng hoá xuất khẩu là vũ khí, khí tài nhằm bảo vệ lợi ích, chủ quyền và an ninh quốc gia thuộc các danh mục bí mật của nhà nước;</p>
+<p>- Chất thải, phế liệu không có trị giá thương mại</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Triệu đô la Mỹ</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bảng danh mục các đơn vị hành chính Việt Nam ban hành kèm theo Quyết định số 124/2004/QĐ-TTg ngày 08/7/2004 của Thủ tướng Chính phủ và những thay đổi được Tổng cục Thống kê cập nhật đến thời điểm 31/12/2019)</p>
+<p>Hệ thống ngành kinh tế Việt Nam năm 2018 ban hành theo Quyết định số 27/2018/QĐ-TTg ngày 06/7/2018 của Thủ tướng Chính phủ</p>
+<p>Bảng phân loại tiêu chuẩn ngoại thương</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Hồ sơ hải quan bao gồm: Tờ khai hải quan hoặc các chứng từ thay thế tờ khai hải quan; các chứng từ có liên quan như: Hợp đồng mua bán hàng hóa, hóa đơn thương mại, chứng từ vận tải, giấy chứng nhận xuất xứ hàng hóa và các chứng từ liên quan khác;</p>
+<p>- Các thông tin từ các hệ thống nghiệp vụ hải quan;</p>
+<p>- Báo cáo của các đơn vị thuộc và trực thuộc Tổng cục Hải quan;</p>
+<p>- Các thông tin từ các cơ quan quản lý nhà nước, các hãng vận tải, hiệp hội, doanh nghiệp và các cơ quan, tổ chức nước ngoài.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="vi"><![CDATA[<p> Tháng, quý, năm.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Tài chính</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="vi"><![CDATA[<p>Bộ Tài chính</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="vi"><![CDATA[<p>Là chỉ tiêu phản ánh lượng ngoại tệ mà đất nước thu được từ hàng hóa xuất khẩu do nền kinh tế tạo ra trong một thời kỳ nhất định. Chỉ tiêu này được sử dụng để đánh giá độ mở cửa của nền kinh tế với thị trường thế giới, sức cạnh tranh của nền sản xuất trong nước so với các nước khác, khả năng tiếp cận, thâm nhập thị trường hàng hóa thế giới, đồng thời tạo điều kiện nhập khẩu máy móc thiết bị đổi mới kỹ thuật - công nghệ và nhập khẩu nguyên nhiên vật liệu, hàng hóa cần thiết cho sản xuất trong nước. </p>
+<p>Trong thống kê, giá trị xuất khẩu hàng hóa là chỉ tiêu quan trọng để tính toán các chỉ tiêu trong hệ thống tài khoản quốc gia và cán cân thanh toán quốc tế </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="vi"><![CDATA[<p>Phương pháp tính</p>
+<p>Thời điểm thống kê: Là thời điểm cơ quan Hải quan chấp nhận đăng ký tờ khai hải quan.</p>
+<p>Những thay đổi trên tờ khai hải quan trong quá trình thực hiện thủ tục hải quan sẽ được cập nhật vào hệ thống thông tin hải quan và được điều chỉnh trong các báo cáo thống kê.</p>
+<p>Trị giá thống kê hàng hóa xuất khẩu: Là trị giá do cơ quan hải quan xây dựng phục vụ cho mục đích thống kê trên cơ sở trị giá khai báo và tuân theo các nguyên tắc sau: </p>
+<p>- Là giá của hàng hoá tính đến cửa khẩu xuất, không bao gồm phí bảo hiểm quốc tế và phí vận tải quốc tế (trị giá tính theo điều kiện giao hàng FOB hoặc tương đương);</p>
+<p>- Trong trường hợp trị giá thống kê của hàng hoá không xác định được theo điều kiện giao hàng FOB hoặc tương đương thì căn cứ vào hồ sơ hải quan và các nguồn thông tin khác để quy đổi.</p>
+<p>Xác định trị giá thống kê trong những trường hợp đặc thù </p>
+<p>- Trường hợp tờ khai hải quan đăng ký một lần nhưng xuất khẩu nhiều lần thì trị giá thống kê là trị giá thực tế của hàng hóa khi xuất khẩu;</p>
+<p>- Tiền giấy, tiền kim loại và các giấy tờ có giá chưa phát hành, chưa đưa vào lưu thông: Trị giá thống kê là chi phí để sản xuất ra tiền giấy, tiền kim loại và các giấy tờ có giá (không phải là mệnh giá của tiền giấy, tiền kim loại hay các giấy tờ có giá này);</p>
+<p>- Phương tiện trung gian dùng để chứa thông tin bao gồm: Băng từ, đĩa từ, CD-ROM, thẻ thông minh và các phương tiện trung gian khác đã hoặc chưa chứa thông tin, trừ loại được sản xuất theo yêu cầu hoặc đơn đặt hàng riêng: Thống kê theo trị giá hải quan toàn bộ của các hàng hóa này (không phải chỉ là trị giá của các phương tiện trung gian chưa có thông tin);</p>
+<p>- Hàng hóa được phép ghi giá tạm tính khi đăng ký tờ khai hải quan thì trị giá thống kê phải được điều chỉnh khi có giá chính thức trên tờ khai sửa đổi, bổ sung;</p>
+<p>- Hàng gia công, chế biến, lắp ráp: Tính trị giá toàn bộ hàng hoá nguyên liệu trước khi gia công, chế biến, lắp ráp và toàn bộ giá trị thành phẩm hoàn trả sau gia công, chế biến, lắp ráp;</p>
+<p>- Các giao dịch không khai trị giá (ví dụ: Hàng đổi hàng, hàng viện trợ nhân đạo,…) thì trị giá của hàng hóa trong thống kê được tính theo nguyên tắc xác định trị giá hải quan;</p>
+<p>- Điện năng xuất khẩu: Trị giá thống kê là trị giá khai trên tờ khai hải quan;</p>
+<p>- Hàng hóa theo hợp đồng thuê tài chính: Tính trị giá của hàng hóa trên cơ sở giá bán của hàng hóa tương tự (loại trừ các dịch vụ cung cấp kèm theo hợp đồng cho thuê như chi phí đào tạo, bảo trì, phí tài chính);</p>
+<p>- Hàng hóa kèm dịch vụ: Trị giá thống kê xác định theo giá FOB hoặc tương đương (đối với hàng xuất khẩu) của hàng hóa và loại trừ các phí dịch vụ;</p>
+<p>Loại tiền và tỷ giá: Trị giá thống kê hàng hoá xuất khẩu tính bằng Đô la Mỹ (USD). Cơ quan hải quan căn cứ vào quy định hiện hành về tỷ giá tính thuế đối với hàng hóa xuất khẩu để quy đổi các ngoại tệ sử dụng trong thống kê.</p>
+<p>Đơn vị tính lượng: Sử dụng đơn vị tính quy định trong Danh mục hàng hoá xuất khẩu, nhập khẩu của Việt Nam.</p>
+<p>Đối với đơn vị tính lượng quy đổi sử dụng trong các mẫu biểu thống kê: Các đơn vị tính lượng khác nhau được quy đổi về đơn vị tính thống nhất trong mẫu biểu căn cứ vào các dữ liệu từ hồ sơ hải quan. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Số liệu có hàng năm từ 2014-2019</p>
+<p>- Số liệu có cho các phân tổ: ngành kinh tế; bảng phân loại tiêu chuẩn ngoại thương; khu vực kinh tế; nhóm hàng; khối nước/vùng lãnh thổ</p>
+<p>(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="vi"><![CDATA[<p> Chỉ tiêu này phản ánh các mục tiêu phát triển bền vững của Việt Nam (mục tiêu 17.2). Bộ chỉ tiêu phát triển bền vững toàn cầu không có chỉ tiêu này.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="vi"><![CDATA[<p>- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kêphát triển bền vững của Việt Nam;</p>
+<p>- <a href="https://unstats.un.org/sdgs/metadata/">https://unstats.un.org/sdgs/metadata/</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

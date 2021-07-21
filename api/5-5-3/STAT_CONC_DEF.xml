@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 5-5-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ nữ tham gia các cấp ủy đảng là tỷ lệ phần trăm số phụ nữ giữ các chức vụ trong các cấp uỷ đảng so với tổng số người tham gia các cấp uỷ đảng.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

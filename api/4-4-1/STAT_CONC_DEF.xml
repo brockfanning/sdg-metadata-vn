@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ lao động có việc làm đã qua đào tạo là tỷ lệ phần trăm số lao động có việc làm đã qua đào tạo trong tổng số lao động có việc làm trong nền kinh tế.&lt;/p&gt;
+&lt;p&gt;Số lao động có việc làm đã qua đào tạo bao gồm những người thỏa mãn cả hai điều kiện sau đây:&lt;/p&gt;
+&lt;p&gt;- Đang làm việc trong nền kinh tế;&lt;/p&gt;
+&lt;p&gt;- Đã được đào tạo ở một trường hay một sơ sở đào tạo chuyên môn, kỹ thuật, nghiệp vụ thuộc Hệ thống giáo dục quốc dân từ 03 tháng trở lên và đã tốt nghiệp, đã được cấp bằng/chứng chỉ chứng nhận đã đạt một trình độ chuyên môn, kỹ thuật, nghiệp vụ nhất định, bao gồm: Sơ cấp nghề, trung cấp nghề, cao đẳng nghề, trung cấp chuyên nghiệp, cao đẳng chuyên nghiệp, đại học và trên đại học (thạc sỹ, tiến sỹ, tiến sỹ khoa học).&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

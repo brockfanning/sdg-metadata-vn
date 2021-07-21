@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 16-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt; Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 16.5.1: Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

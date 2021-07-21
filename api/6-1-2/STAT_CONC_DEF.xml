@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 6-1-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ hộ sử dụng nguồn nước hợp vệ sinh là phần trăm số hộ sử dụng nguồn nước hợp vệ sinh trong tổng số hộ. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

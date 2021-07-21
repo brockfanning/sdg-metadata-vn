@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 4-7-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="vi">&lt;p&gt;Tỷ lệ giáo viên đạt chuẩn trình độ đào tạo trở lên là tỷ lệ phần trăm giữa số giáo viên đạt chuẩn trình độ đào tạo trở lên theo cấp học (mầm non, tiểu học, trung học cơ sở và trung học phổ thông) so với tổng số giáo viên của cấp học tương ứng.&lt;/p&gt;
+&lt;p&gt;Giáo viên được đào tạo sư phạm là giáo viên được đào tạo và tốt nghiệp ở một trường sư phạm có trình độ tương ứng theo quy định.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>
