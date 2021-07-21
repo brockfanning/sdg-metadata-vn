@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 8-10-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Current account is a demand deposit account of a customer opened at a bank to use payment services provided by the bank. &lt;/p&gt;
+ &lt;p&gt; Percentage of people aged 15 years and over who have a current account (either on their own or with others) at a bank or foreign bank branch, calculated as the percentage of people aged 15 and over with an account payment at banks, foreign bank branches on the total population aged 15 years and over. &lt;/p&gt;</data>
 </root>

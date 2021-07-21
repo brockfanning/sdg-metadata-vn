@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 8-10-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 8.10: Strengthen the capacity of domestic financial institutions to encourage and expand access to financial, banking and insurance services for all (global 8.10 target) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 8.10: Tăng cường năng lực các thể chế tài chính trong nước nhằm khuyến khích và mở rộng khả năng tiếp cận các dịch vụ tài chính, ngân hàng và bảo hiểm cho mọi người (mục tiêu 8.10 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

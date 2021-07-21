@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 8-10-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Number of people aged 15 years and over with payment accounts at banks, foreign bank branches: Administrative data; &lt;/p&gt;
+ &lt;p&gt; - Population aged 15 years and over: Statistical survey. &lt;/p&gt;</data>
 </root>

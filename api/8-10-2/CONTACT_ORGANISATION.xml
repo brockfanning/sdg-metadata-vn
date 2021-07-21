@@ -4,7 +4,9 @@
 	<message>The CONTACT_ORGANISATION field for indicator 8-10-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Chairman: State Bank of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - Coordination: General Statistics Office. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Chủ trì: Ngân hàng Nhà nước Việt Nam;&lt;/p&gt;
 &lt;p&gt;- Phối hợp: Tổng cục Thống kê.&lt;/p&gt;
 			</language>

@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 8-10-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 8.10.2. Percentage of people aged 15 years and older with payment accounts at banks and foreign bank branches &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 8.10.2. Tỷ lệ người từ 15 tuổi trở lên có tài khoản thanh toán tại ngân hàng, chi nhánh ngân hàng nước ngoài&lt;/p&gt;
 			</language>
 </languages>
