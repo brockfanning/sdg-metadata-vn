@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 8-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 8.2.1. Social labor productivity &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 8.2.1. Năng suất lao động xã hội&lt;/p&gt;
 			</language>
 </languages>

@@ -24813,19 +24813,19 @@
       </field>
       <field id="SDG_GOAL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Objective 8: Ensure sustainable, comprehensive and continuous economic growth; full employment, productivity and decent work for all &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu 8: Đảm bảo tăng trưởng kinh tế bền vững, toàn diện, liên tục; tạo việc làm đầy đủ, năng suất và việc làm tốt cho tất cả mọi người&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_TARGET">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Objective 8.2: Increase labor productivity through accelerating economic restructuring, transforming growth models, upgrading and renovating technology, focusing on high value-added and high-use industries labor (global 8.2 target) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Mục tiêu 8.2: Tăng năng suất lao động thông qua đẩy mạnh chuyển dịch cơ cấu kinh tế, chuyển đổi mô hình tăng trưởng, nâng cấp và đổi mới công nghệ, tập trung vào các ngành tạo giá trị tăng cao và sử dụng nhiều lao động (mục tiêu 8.2 toàn cầu)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="SDG_INDICATOR">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator 8.2.1. Social labor productivity &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu 8.2.1. Năng suất lao động xã hội&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -24837,7 +24837,7 @@
       </field>
       <field id="META_LAST_UPDATE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; June 2021 &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;tháng 6/2021&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -24861,7 +24861,7 @@
       </field>
       <field id="CONTACT_ORGANISATION">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; General Statistics Office &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Tổng cục Thống kê&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -24891,13 +24891,13 @@
       </field>
       <field id="CONTACT_MAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; 54 Nguyen Chi Thanh, Dong Da, Hanoi &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;54 Nguyễn Chí Thanh, Đống Đa, Hà Nội&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CONTACT_EMAIL">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; banbientap@gso.gov.vn. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;banbientap@gso.gov.vn.&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -24909,19 +24909,19 @@
       </field>
       <field id="STAT_CONC_DEF">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Social labor productivity is an indicator reflecting the working efficiency of laborers, usually measured by gross domestic product per worker in the reference period. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Năng suất lao động xã hội là chỉ tiêu phản ánh hiệu suất làm việc của lao động, thường đo bằng tổng sản phẩm trong nước tính bình quân một lao động trong thời kỳ tham chiếu.&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="UNIT_MEASURE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; VND/labor &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;VND/lao động&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="CLASS_SYSTEM">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Not applicable &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Không áp dụng&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -24933,7 +24933,8 @@
       </field>
       <field id="SOURCE_TYPE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Gross domestic product: Data source as the data source of indicator 8.1.1; &lt;/p&gt;
+ &lt;p&gt; - Average total number of employed people: Labor and employment survey. &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Tổng sản phẩm trong nước: Nguồn số liệu như nguồn số liệu của chỉ tiêu 8.1.1; &lt;/p&gt;
 &lt;p&gt;- Tổng số người có việc làm bình quân: Điều tra lao động và việc làm.&lt;/p&gt;</translation>
         </translations>
@@ -24952,19 +24953,19 @@
       </field>
       <field id="REL_CAL_POLICY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; year &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt; năm&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="DATA_SOURCE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; General Statistics Office &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Tổng cục Thống kê&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPILING_ORG">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; General Statistics Office &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Tổng cục Thống kê&lt;/p&gt;</translation>
         </translations>
       </field>
@@ -24994,7 +24995,8 @@
       </field>
       <field id="DATA_COMP">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src="data:image/png;base64,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"&gt; &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Method of computation&lt;/p&gt;
 &lt;p&gt;&lt;img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAhcAAAByCAYAAADgf/OIAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABefSURBVHhe7Z29jhQ5F4Z7vstAK7QCroEAwQQEDOEGBIA2IEIaYgQJIQmIaAOQNiLaIeACgGCDHUTANTAIIcRtzFdPUe9w5uD66Z7qv+n3kdxdZbuOj11V9inb5do6rJgYY4wxxozE/5p/Y4wxxphRsHFhjDHGmFGxcWGMMcaYUbFxYYwxxphRsXFhjDHGmFGxcWGMMcaYUbFxYYwxxphRsXFhjDHGmFGxcWGMMcaYUbFxYYwxxphRsXFhjDHGmFGxcWGMMcaYUbFxYYwxxphRsXFhjDHGmFGxcWGMMcaYURlkXLx69WqytbV15O7duzf5/Plz/R/Bj/Dr1683PosDXYame+HChVrPsSH9aeQSl7I1xhhjThO9xgUN5q1btyYHBweTw8PD2m1vb0/Onz/fxPjJs2fP6nifPn2avH//vvGdPxgWL168aPa6wQAC8jEmyH379u1gufMwbowxxphVoNO4ePr0ad1gYjCcO3eu8Z1Mbt68Odnb2ztqqIFtjA7iYVx8+PChCZkP6CYD5vnz55Pd3d16u4+PHz9O3r171+zNDmmjg0Au5TSUsY0bY4wxZlXoNC4ePnw42dnZOWZYCAyM7I+fuHHjRrM1Phgy6DYLFy9eLOZnWu7cudNs/aBUHsYYY8wm0mpcqFfg6tWr9X8JegwidPXLvX79uvH9ORcDmZqXgIvkeR1yeXiFfQ3JXLlypZ4/ESFcx6pnQWnyjwGAv+KQrmRIzxhWgjB6KTBw2FYPDtuxN0MyGLZhO8aNtIXPa26IMcYYM1cOW9jb26Pf/vDJkyeNTztVQ1vH5R/29/ePjlWYHGGgcFB8heHPvuRlJFPxYXd3t/bb2dmp95FRGSH1NhCuMFD+QGlFmdKhDWRLfyAuTn7ax5EWcAx6iFJ4lGmMMcasI4PeFumDiZzMedCwwOXLlydVI1k/2eNXNdy1f9Vw12Gg3gf49u1b/a8wDal8//69/h8KQzhv3rypt8+ePTtoDgQ9A+iuPEiHBw8eTDUvIsfVPnNTNFyUe1kgh3/58qXeNsYYY9aVVuOCuQkwpLErdfXTuEMpLKPGVcMQTI4ENfTzBCOA4Z0hehpjjDGmn1bjgh4HnuR5xbOt4WUOg2h7A2PoJEee4HnllZ4E/unlWCToaQPDGGOMOTmdwyI80TN8gcsTK+nCf/ToUb3NP0MQcVGtly9f1kMjQ6BRJz69CHJDey3iBMo+eK1WSHdNmLx9+3YdHuXRk5LznSG8L44xxhizUVQNeS9MQiRqdEyAjDARMoZrYmL2Z/Ji3Ed2jiPHBMc2CCMO6TBRMx6Dn/Zx6IqLfooTyXqgWxsqE00Sjcc9fPjw2D5pSV/c9vZ2Z7hkys8YY4xZJ7b4qRqwpULPBfMs4joZoB6BRcy9MMYYY8w4jPK2yEm5du1as3Wcx48f27Awxhhj1oyV6bk4X/hWCfM4hk4INcYYY8xqsBLGhTHGGGNODysxLGKMMcaY04ONC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjzNrx9OnTydbW1uT69euNjwHKBPf58+fGx5jlYOPCGLN2PHjwYHJ4eDi5c+dO42OAMtnf32/2jFkeNi6MMWvJq1evJr/99luzZ8Tjx48n586da/aMWQ42Lowxa8nFixcnly9fbvaWw4ULF+phCAydVeHNmzfNljHLw8aFMWbpqJFuc3luBXMuzp8/v/RG/dOnT5ODg4O59qAwf4IyeP/+feNTRvE8D2U27t27N6iczTBsXBhjlg4NNPMFcHt7e8f8+KcRj/z777/13IJHjx41Psvj2bNnc+tBwWDAiBoCeqis3EBOz7t37+ryW3Zv2GnBxoUxZuk8efKk2foV5g/cvXu32fvRa0HXP40ADcKyey/u37/fbI0PeafB6wMjZHt7u46PcfHhw4cmZBxOe28I5ee5KuNi48IYs3R4+6OLGH7jxo1m60fjy9yLZbIqDdLNmzebreNldFIYLtgEYvmZk2PjwhizVrx+/fpoLgYuQq8G8zc0/wCXG0eewuPxOI4pwfCC4rAde0ni8TihtIkf02ojxo9zT0q0ybt27dqRfw5jH701p0DhWitE4SVI78WLF5O3b98exZO+8XgR9c+9HYRxTDwuDt/EcxYd8Ut0ycvHqtz4pxx0TShNhp74J3/IYFvEPG2KoTUKh2ZUnjx5ckix7u3tNT7GmGng3uEeOjg4aHx+wv21s7PT7B0e7u7uHsXVvYerGos6PMsivsKA7SgvE+MiR/c1cuJxhJE+6UgH3P7+/rHwTI4vPdmW/BgnypMuyM15Qj/QcTG+9qVPLpNMzGvUJZcbMpQGxDiE5XQJizJiGPlkP8qLDJFHHIWB8oFs/pUXlbnS5J9j8Y8yYrjpx8bFyOimNsbMBg1KrPQjpcqdBkD3HQ0B+0INgmTRqMR7NMfPRNkl1EDh1AjJL+oZG6lMKX4sg2nkEQ8XdWY/NtLTlgFxY6Pdpm+WobJXvKxzlDttmUGXPCiFk4bKg31chPiEI6eUJzMcD4uMzDwndxmzydCFXYJu67awDCt60s0veOuEIYU2mORHfHWLC3Wnc2xVjw5+o2Mo077aKv3QpWoYG9/F8fXr12brJ2fOnKn/v337Vv93wbwV9P7nn3/qfcq3Mjgmly5dqvfHgjQoI+ZXlK6Zs2fP1v9MGC7lyQxnocZF13icbla5dRzbQmcqmTiOOATKIpfHvEBHzkNG45ZtY6+rCLqicx+KVxq7pSw8jrpelN6EGDqpkkaFBkb1DG9WPH/+vAn9FeLTGFVP1PW+7h2Miuop95dXZMdCDfKQfFF3VE/gtZ7LBGOg1GAPNZQ4DzLkqEcp33m/FsrbRiXIB4YGeTKzsVDjghtRljUThGJlz01EGDcJJ1Q3vCbYiFVtCHRT7e3t1U87Q6FioCwWAWUXn9oiq7JugAwBnPZLxhr+t27dava6efnyZX1NPXz4sPH5SV/jYlYH6gjqB86jrgnuO+6foT2G1Dn0XlDX4PqMAxkTNHIyMMSXL1/qf3QYoxHSUztwH9K4DiU26vOsT0oGOuhtntgLxMRb6vqhBoJ6geT63iAaAvUaUD6amKoHOcqY8xbbFOoKdOZa09sj8cEPOW1lYBLVSVw41ck7Gv+KY2yAf3XCm70fEJ+4S1J3EHFsjzzFfKF/F4T3xTkpKr/oVM5Rd/zi+Oyi4fwDOqFj15gnehKnC+LE6ynm1awenO94jep6iKjukNP5zf66PuS4J3McubbrQtehnNKKstFZddQff/xx5I/LOpTyg0yF5XjoLD9cSV6OIznb29vH/MlLLF90jmniSsQ0S/pEYlis06I/aaq8cLrHY5zo4v0rYnibvHyOFC+S85PDIYZLtulnacYF6EKPcAGULqZVJ+usfd3QXVAepYt6HlC+WZ823VcdVR5drGvezHzoMiKWBdck1zEN3SaziufGzM5SJ3RqvKtrvgFh6ibHxS5yuizposKVwunCisfKtXVr0T1GOP/qKlP60jGmJeiirxrsI3+OpVuNf7pwq8qj9h/anRaHBiQvEnXAxS7REspDaa4FLGrdAI5TONsxn5LJ+ZMfTuXeR1v8jx8/HpP3/fv3JuQH+A09L2a94doqDY3FOsMsB+5/DTNF8B9zQTCzQBojY6HEp3Q9fco6jT0X+ck0PuGr1yMem3sAYpi6v3I3niCctCGnm7vTcniUqzDlgfSn7bnokxfjolsMzxBX+SIOcaM+XfIIYzsek/UhfpTHdpSX0fH865xE3Tk+n7O2JzrJwkGWR3jOa5SnY5WeOf3Ea1qu63qdN7pm5bhmNxXu1VgWm14e687SjQtQg8aNxnZsbIQuvHhsbIiAYxWODMkUOX5EN3mML6JcUKOWiRWX8oBfbOBKIDuXCZTksZ11RD46ZpSnCPGiPn3ysv6SKX3QO6Y9JL8xX21Ew6F0TiCfh3zO0SNXTrmsiY8+xhhjxmMl1rlgtn7VEEyuXLnS+PyE7nW6rhlCqRqxxrcfhiWqRmTwe9PMaCY+OpCeuumHoGEKqBq2+v8ktMlrG/7QsEWm7/3yaeWVmHbdAGAWOOcbcpe0hkr++++/E8/ALx3PdTGv1weNMcb8YGUW0dL8i9hQ0cDT0FVGUN0oTMu0702zcAppYcRw3JCxeI3j0pCN8erUEHnTvuffZygsct0A4Lzyui7nA2NO+vHP66UYVGO9HoqRkinNBzHGGDMeK2Nc0Jjt7e01ez+JT5ltC560Mc170zTq6q2gYcu9JFEPrQWh3gXQRMGuTx1PM3GwJI8yQq+h7/nrPe3YC4PRhOFCAzutvBLkaZp1A4jPp6HRjfNB+hh+0QBSjwuTMU8Cxgv5pTdEsL/stTyMMebUUzUIC4OxcJKUK411V43N0Xg+/zE+Yfwzlp79GUfXPuEQ40Qn+RF0k3xcHJfPeqA3/yKmHWUgM+a5lG48Vml2yYPohyvJFaUyVPmINnnZP86DwOUyi650blVuOIhlg8vy4naeOxFlKTzvl+KpDCH6l/Q1xhgzG1v8VJXrqYSn5FJvRZu/mR6XsTHGmMzKDIuMDUMBfm96OBgDDPPEIYQ+ND8koyGWVUGTRMmjMcaY+XOqey6YV3CQ3hhgXofmIpiTQ4OdDYydnZ16cqwxxpjN5FQbF8YYY4xZPKd2WMQYY4wxy8E9F8asKfFVaGOMmYV5mQA2LowxxhgzKh4WMcYYY8yobKxxwSupf/31V921HF18jZLtGMbbJ9rOn/ZmhckY988//zy2n13fp8S1qib/i1quWq+jZubxKicylUdjjDGnDIZFNg1WqIwrMmrFzxKs6JhXtNQKmqVVHVlVMq6YyX4+Pq4mGVeMFPgRRytU5uPnQVzJMkN+tdLnmJDmIvJmjDFmsWxczwVPy3fv3j22euTLly/r/7bFnxQeqRr+Y9/kmAbW2dD6G6UvwfIlV+KUvnEyD+gZiWtV0EuhfNHDgB58h6S6XkbtveAccC7cg2GMMaeLjTIuaDD5cFVelpovpVZP0EefZ4/w4bDSl1RpcDmmZBwMgca6enKvt6dZFXMe8LExDAfpw7byfPHixVpXMfbqppwLPkg3i5FmjDFmNdko4wLjoa0ngCdoDI9p0Fda++ZPtHHp0qX6P34WHEPj9u3bzd6v0Ahr3gYup635EXJ9jTa9Bopbgi+TRnn6WisoLVB41ifKjy7C12tLhp0xxpj1ZKOMC4yB33//vdk7jp7IY7c/211P6jzRs5w4nyifZbjgzJkzzdZPGIIp9ZQIPm9ODwO9C/v7+3XacQiDz4kTpp4IelbaDAwafiaiKn5exrtLHmG3bt2q42EsEJ71oUww2HQ8y4LT28N2hE+wT/s5fbM8ZDB6OMsY08ZGGRfMczh79myzdxwMBXo1/v7778ZnUn/4LA4JlGBuxKzzL2IvgOhLjyEMhhJo3POQDIbA48ePm70fQw406NFPYFTQ8DO8IzQsIrrkkW8MK5CxkI0lyo/4AsMof+tFtPmb1YNrhnOOUbhsuOds6BizemzchM4uGI6gkaPhptJq6+XIzDr/gvkcoEqadLuGRIA4VKYMpeQGudRAY6xgkGRKhk1mGnklyAs9GRgygM7R2DDrC71SzMdZNgynYehEI9kYs3w2yrjAAPj69Wuz9yua2MnQBJXWNJMX1a0/dN4GDS69HaSnr7TS+HYNiXAMQxEMP7RVpnH+huhaJ6PPyJhWXoS80KtDHjGIKJu2r6USx6wP3Bt9vWyL4P79+82WMWaV2CjjgomDdNV3wcROPW1PU3kSV8MEfdD7oMZURgnpDe0p+fbtW/3PZMsIwxo04MgX7DO8kZEhxVCF0JAQhgBMI68Ex5EnnizlSmDAcG7McuB8d7k85MA+1860w4Bjo/tolvlO80CL7LXBZOdZJ39HSOOkcqhvkBPvbRhjmIlj8wMI5wi587hmSvkQ6DH0YUig/xjnaVpId15ltBSqCn9jYHGqIVkmDotYZXS8XNX4NiE/qZ7U6wWncDFudsSLIItjIsRR/KoS/cUvbktf5MgPh85dxLiSF2mTl/1JP+/nOHI57+StT08zH7jmdG2BzpngvOzs7DR7P+Jz/ji/0X8ZkL7us1UBneZ5Lc+73CWbMs310RBUh8RrSnBt5Xv/pJAWTvVfiWnqF+m/6Gt7le6rsdgo4wI4gVzkZv5wo5QqqFj+p+lmWkc4P7FizsYFxPMVt6mwl2UU5mtrle7peeoyT9n5fM6aFnVsybiAeejfZ1zANOmi/6LrpKjfMu+rMdk44wK4cLiAzDC4cbmBp7lBqfg5JhsX7KvskddWCZnlwDnJxkWkdD6XwaroUWKVdJmGscq0y7iYB0OMi2lYhnGxytfzrGzk2yJMKmQuQNs4nTkOE06ra+WXlU270ByUqpKpxxHlmFvBZFTKnvkvQ988MavBs2fPjp3POC9JY9Uat8fl+RCalxBd2/g21wjhHMN2HIvuWtwtIzmg+DlNjXdnp7kCOIh5k1zmL4BkcM1rnJ90VAb4EaeLWD45btaxDdLMMqSrjlM+uso0ntuYb1w8ro+YNi7mi7Ihz5oDglN5aV9l2UcsuwjpRRns912n0BceieeG/Or60rnQPnIUTxA/1pPIUtmXyieW30rzw8Ywxpjungue6GKPH093ios/2zg99WVZ+McnQsKivIyefnmKI666inlKjU/GSqfUlaxeNzkgXoxf0jPKlwwR9SEu/6WywXEs/sjjmL78ogtkHUvyo04Zjot5AMmS7ChfegrpDIqvp+kYViKHcyzyQWWJLJU7TvGjH6isdXwJxZd+yJI8dCEs7+MoQ8jnX3FieMxPhviKC/nc5HCVgWB7aPnE8FWn/eo0xmwcuaIVquRzpYYfx0BfJUoFqbiQ42ei7AhyVBkL5LTJynooL2pY+/RuOx6HLl1lg1M6xCWtEqShBiTTJb9UPkK6iVhmMhikG/mXvtFxPGFd6WTIYykvyIhy5RfjZkMG2I+6Z3J4zlvWp+9894VH0JOwqK/yKYbKm7V8VhUvomWM6aVt2KGq+Hpf7xa85h1XwOU17KtXrzZ7v1JVrPVaMHQFx27tqmJttn5CN/KsQ2yzLvZWVfR1ml1lQx661q4RXevvzFr2lDfDWEDXe9eiZ+SD/FRtwjF3knIVGgoA0pg3pc8qzIu+dYKGsOjyWRQ2Lowxg8lrq8DQ9Vk0Z0djxxgMXfN4CKOBq570aoNC49ZwksXdMtMs9tZFqWyGGl58lqBkNEWmLXsWOiMvGE0YL3EORYay04rBGcKG5iPDvAUMRPI2zZytk6AGf4hRt2yWUT6LwsaFMaYXKmqe5lkhVk/4VIzTVIpMRGP1Wz0V9zXgMhbid2yA3oCTLO6WQc6Qxd7IL6g3QB/x6yqbvuX8hVbpjQYUsniqnbXsMSY4jnJv+6aSYDG9/H0k0iY9wnJ5K2woavDbDJiTEo1NfdxxEciAiZMsS2Ude390naq3AuZdPkuhupGMMeZovFeO8d5M1VgdiyOiP2PEHBvjVQ3hL8fKMQZdgrHqGC+S5TMWXSLH03h33M9x5EhfkCf5K35OM+cvhsfjo9xMPJ5jIm1l34XyG0GvKEd65nJgX+Ryi2GReM6kf9Q7h2sbVzo3cb8tTYjxOE7k9Pqu0+3t7c5wruMMfjGOnMjhkilmLZ+2a35V2OKnUtQYY+YKT7ulJ+02/0Wh+Qh52GDZepn1hOuGXqBNb1o9LGKMmTs04HEyp8C/r8t+ntC1z3BDBv9Z5xmsM5wPuuvjEIgxs+CeC2PMQmBcmrH7yO7u7tI/l05Dmg2M8+fPn/gtCbN5qNdCbHLzauPCGGOMMaPiYRFjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxoyKjQtjjDHGjIqNC2OMMcaMio0LY4wxxowK33z1Cp3GGGOMGYnJ5P+nkyJcAA5JUwAAAABJRU5ErkJggg=="&gt;&lt;/p&gt;</translation>
         </translations>
@@ -25049,20 +25051,22 @@
       </field>
       <field id="COVERAGE">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Figures are available annually from 2010-2019 and by economic sub-sector. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2010-2019 và theo phân tổ ngành kinh tế.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Niên giám thống kê của Tổng cục Thống kê)&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="COMPARABILITY">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; Indicator reflects Vietnam's sustainable development goals (target 8.2), not included in the Global Sustainable Development Indicators &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mục tiêu phát triển bền vững của Việt Nam (mục tiêu 8.2), không có trong Bộ chỉ tiêu phát triển bền vững toàn cầu&lt;/p&gt;</translation>
         </translations>
       </field>
       <field id="OTHER_DOC">
         <translations>
-          <translation lang="en"/>
+          <translation lang="en"> &lt;p&gt; - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href="https://unstats.un.org/sdgs/metadata/"&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;</translation>
           <translation lang="vi">&lt;p&gt;- Thông tư số 03/2019/TT-BKHĐT ngày 22/01/2019 quy định Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam;&lt;/p&gt;
 &lt;p&gt;- &lt;a href="https://unstats.un.org/sdgs/metadata/"&gt;https://unstats.un.org/sdgs/metadata/&lt;/a&gt;&lt;/p&gt;</translation>
         </translations>
