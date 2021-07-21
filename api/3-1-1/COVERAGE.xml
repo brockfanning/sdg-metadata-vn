@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 3-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Only data for the 2019 indicator through the Population and Housing Census is available. &lt;/p&gt;
+ &lt;p&gt; No data available for subgroups of this indicator &lt;/p&gt;
+ &lt;p&gt; (Published source: Result of the 2019 Population and Housing Census) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu của chỉ tiêu năm 2019 thông qua Tổng điều tra dân số và nhà ở.&lt;/p&gt;
 &lt;p&gt;Không có số liệu cho các phân tổ của chỉ tiêu này&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Kết quả Tổng điều tra dân số và nhà ở 2019)&lt;/p&gt;

@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 9-2-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator reflects part of the global SDG target 9.2.1: Manufacturing value added as a proportion of GDP and per capita. &lt;/p&gt;
+ &lt;p&gt; The calculation method of the Vietnamese indicator is consistent with the global indicator. However, international comparison is not guaranteed due to the different units of each country. Therefore each country needs to calculate in both local currency and US Dollar to ensure international comparability. &lt;/p&gt;</data>
 </root>

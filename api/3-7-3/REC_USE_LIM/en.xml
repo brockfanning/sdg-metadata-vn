@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The REC_USE_LIM field for indicator 3-7-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - The data needs to be disaggregated to identify healthcare workers in the private sector (avoiding duplication of health workers performing two or more jobs as healthcare professionals do in the healthcare sector). public economy but working in private after hours). &lt;/p&gt;
+ &lt;p&gt; - Difficult to collect data of medical facilities of other branches in the area. &lt;/p&gt;
+ &lt;p&gt; - Some other occupations but employees of medical facilities are still counted as human resources of the health sector. &lt;/p&gt;</data>
 </root>

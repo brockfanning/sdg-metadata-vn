@@ -2,5 +2,11 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 3-7-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; * The Ministry of Health issues a statistical report form to send to health facilities, the Departments of Health of the provinces/cities directly under the Central Government to collect. Periodically, medical facilities and Departments of Health send data back to the Ministry of Health for synthesis. The Department of Organization and Personnel-Ministry of Health is tasked with synthesizing data submitted by the Department. &lt;/p&gt;
+ &lt;p&gt; * Alternatively, it can be collected through the Medical Facility Survey every 5 years, April 1st (conducted in years ending in 0 and 5) &lt;/p&gt;
+ &lt;p&gt; Is a sampling survey in the National Statistical Survey Program, collecting information about the following: &lt;/p&gt;
+ &lt;p&gt; - Number of non-public medical facilities; &lt;/p&gt;
+ &lt;p&gt; - Base type; &lt;/p&gt;
+ &lt;p&gt; - Number of non-public hospital beds; &lt;/p&gt;
+ &lt;p&gt; - Non-public health workforce. &lt;/p&gt;</data>
 </root>

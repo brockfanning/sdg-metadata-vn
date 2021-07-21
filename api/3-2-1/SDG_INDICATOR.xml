@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 3.2.1. Number of new HIV infections detected annually per thousand HIV-uninfected &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.2.1. Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn người không bị nhiễm HIV&lt;/p&gt;
 			</language>
 </languages>

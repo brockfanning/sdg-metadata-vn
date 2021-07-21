@@ -4,7 +4,8 @@
 	<message>The UNIT_MEASURE field for indicator 3-1-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; per 1000 live births &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;trên 1000 trẻ đẻ sống&lt;/p&gt;
 			</language>
 </languages>

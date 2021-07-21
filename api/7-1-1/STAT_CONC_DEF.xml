@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 7-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The percentage of households accessing electricity is the percentage of households accessing electricity out of the total number of households. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ hộ tiếp cận điện là tỷ lệ phần trăm số hộ tiếp cận điện trong tổng số hộ.&lt;/p&gt;
 			</language>
 </languages>

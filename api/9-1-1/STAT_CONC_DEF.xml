@@ -4,7 +4,11 @@
 	<message>The STAT_CONC_DEF field for indicator 9-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; a) Number of passengers transported &lt;/p&gt;
+ &lt;p&gt; Is the actual number of passengers transported during the period, regardless of the length of the journey. The unit of measure is the number of passengers. &lt;/p&gt;
+ &lt;p&gt; b) Number of passengers in transit &lt;/p&gt;
+ &lt;p&gt; is the number of passengers rotated according to both factors: the number of transports and the actual transport distance (distance). Unit is passenger - Kilometer (Hk.Km). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;a) Số lượt hành khách vận chuyển&lt;/p&gt;
 &lt;p&gt;Là số hành khách thực tế đã vận chuyển trong kỳ, bất kể độ dài quãng đường vận chuyển là bao nhiêu. Đơn vị tính là lượt hành khách.&lt;/p&gt;
 &lt;p&gt;b) Số lượt hành khách luân chuyển&lt;/p&gt;

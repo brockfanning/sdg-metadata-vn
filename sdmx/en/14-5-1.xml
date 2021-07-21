@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T22:21:18.836Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T22:37:17.522Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="d6e6a39e-8e8e-412f-bbfd-2053950773ef">
+  <mes:MetadataSet structureRef="MDS1" setID="10745194-6e5c-4e27-b709-c68abb05c657">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,55 +54,58 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Goal 14: Conserve and sustainably use oceans, seas and marine resources for sustainable development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 14.5: By 2030, the area of marine and coastal protected areas will reach 3-5% of the natural area, based on science and in accordance with national and international laws (target 14.5). global) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 14.5.1. Area of marine protected areas </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> No. 2, Ngoc Ha, Ba Dinh, Hanoi </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> trangtin@mard.gov.vn </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Marine protected areas in order to protect ecosystems and marine species of economic and scientific value; contributing to marine economic development, improving the livelihoods of local fishing communities in coastal areas. </p>
+ <p> Area of marine protected areas is the area of sea, islands, archipelagos and coastal areas of marine protected areas to protect marine biodiversity. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> ha </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Administrative data of the Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> year </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator measuring results in the conservation, restoration and sustainable use of marine ecosystems. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Figures available for 2014 and 2019 </p>
+ <p> (Published source: Report on the implementation of sustainable development goals of the Ministry of Agriculture and Rural Development) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The corresponding global SDG indicator “14.5.1: Coverage of protected areas in relation to marine areas”. However, the global indicator that determines the coverage of protected areas in relation to marine areas shows trends over time in percentages, while the Vietnamese indicator only measures the area. marine protected areas </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical standards for sustainable development of Vietnam; </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

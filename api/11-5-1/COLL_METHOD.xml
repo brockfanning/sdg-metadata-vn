@@ -4,7 +4,8 @@
 	<message>The COLL_METHOD field for indicator 11-5-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The Departments of Agriculture and Rural Development of the provinces/cities directly under the Central Government shall report the data according to the form No. 005.H/BCB-NNPTNT and send it to the Ministry of Agriculture and Rural Development. The Ministry of Agriculture and Rural Development summarizes and calculates data on &quot;Number of deaths, missing and injured people due to natural disasters per hundred thousand people&quot; and sends it to the General Statistics Office &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Sở Nông nghiệp và Phát triển nông thôn các tỉnh/thành phố trực thuộc Trung ương báo cáo số liệu theo mẫu biểu số 005.H/BCB-NNPTNT và gửi về Bộ Nông nghiệp và Phát triển nông thôn. Bộ Nông nghiệp và Phát triển nông thôn tổng hợp và tính toán số liệu về “Số người chết, mất tích, bị thương do thiên tai trên một trăm nghìn dân” và gửi về Tổng cục Thống kê&lt;/p&gt;
 			</language>
 </languages>

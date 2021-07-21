@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 12-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Currently, only a few years are available: 2011; 2015; 2016 and 2018 &lt;/p&gt;
+ &lt;p&gt; There are no published data by subgroup Provinces/Cities directly under the Central Government &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Natural Resources and Environment) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Hiện tại, chỉ có số liệu của một số năm: 2011; 2015; 2016 và 2018&lt;/p&gt;
 &lt;p&gt;Chưa có số liệu công bố theo phân tổ Tỉnh/thành phố trực thuộc Trung ương&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Tài nguyên và Môi trường)&lt;/p&gt;

@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 7-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 7.1.1. Percentage of households accessing electricity &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 7.1.1. Tỷ lệ hộ tiếp cận điện&lt;/p&gt;
 			</language>
 </languages>

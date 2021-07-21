@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The SDG_SERIES_DESCR field for indicator 7-2-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Renewable energy share in the total final energy consumption [7.2.1] EG_FEC_RNEW &lt;/p&gt;</data>
 </root>

@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 9-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Investigate individual production and business establishments; &lt;/p&gt;
+ &lt;p&gt; - Investigate transportation and warehousing activities. &lt;/p&gt;</data>
 </root>

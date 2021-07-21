@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 8-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 8.2.3. Contribution of capital, labor, productivity of all factors to the overall growth rate &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 8.2.3. Tỷ trọng đóng góp của các yếu tố vốn, lao động, năng suất các nhân tố tổng hợp vào tốc độ tăng trưởng chung&lt;/p&gt;
 			</language>
 </languages>

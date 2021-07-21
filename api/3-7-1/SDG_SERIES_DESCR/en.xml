@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The SDG_SERIES_DESCR field for indicator 3-7-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Proportion of population with large household expenditures on health (greater than 10%) as a share of total household expenditures or income [3.8.2] SH_XPD_EARN10 &lt;/p&gt;
+ &lt;p&gt; Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditures or income [3.8.2] SH_XPD_EARN25 &lt;/p&gt;</data>
 </root>

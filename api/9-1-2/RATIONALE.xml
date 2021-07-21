@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 9-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the results of cargo transportation business activities of various economic types in a certain period of time, which is the basis for analyzing and evaluating the situation of transportation and circulation of goods in the period, and at the same time serving the management, planning of transportation and rotation of goods &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh kết quả hoạt động kinh doanh vận tải hàng hoá của các loại hình kinh tế trong một thời gian nhất định, là cơ sở phân tích, đánh giá tình hình vận chuyển, luân chuyển hàng hóa trong kỳ, đồng thời phục vụ công tác quản lý, lập kế hoạch vận chuyển, luân chuyển hàng hóa&lt;/p&gt;
 			</language>
 </languages>

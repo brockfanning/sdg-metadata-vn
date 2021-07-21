@@ -4,7 +4,9 @@
 	<message>The RATIONALE field for indicator 3-1-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - This indicator assesses the health system&apos;s ability to provide services and quality of antenatal, intrapartum, postpartum and neonatal care. &lt;/p&gt;
+ &lt;p&gt; - This indicator provides the basis for the design of intervention programs to reduce infant mortality. At the same time, providing a basis for managers to understand the causes and ensure the quality of medical staff and the availability of equipment and supplies. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Chỉ tiêu này đánh giá khả năng cung cấp dịch vụ và chất lượng chăm sóc sức khỏe trước sinh, trong sinh, sau sinh và chăm sóc sơ sinh của hệ thống y tế. &lt;/p&gt;
 &lt;p&gt;- Chỉ tiêu này cung cấp dữ liệu cơ sở cho việc thiết kế các chương trình can thiệp nhằm giảm tử vong ở trẻ sơ sinh. Đồng thời, cung cấp cơ sở cho nhà quản lý tìm hiểu nguyên nhân và đảm bảo chất lượng cán bộ y tế và sự sẵn có của các trang thiết bị và nguồn cung cấp.&lt;/p&gt;
 			</language>

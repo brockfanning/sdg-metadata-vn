@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 3-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Only data for the 2019 indicator through the Population and Housing Census is available. &lt;/p&gt;
+ &lt;p&gt; No data available for subgroups of this indicator &lt;/p&gt;
+ &lt;p&gt; (Published source: Result of the 2019 Population and Housing Census) &lt;/p&gt;</data>
 </root>

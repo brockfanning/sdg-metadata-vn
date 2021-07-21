@@ -2,5 +2,8 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 9-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; a) Number of passengers transported &lt;/p&gt;
+ &lt;p&gt; Is the actual number of passengers transported during the period, regardless of the length of the journey. The unit of measure is the number of passengers. &lt;/p&gt;
+ &lt;p&gt; b) Number of passengers in transit &lt;/p&gt;
+ &lt;p&gt; is the number of passengers rotated according to both factors: the number of transports and the actual transport distance (distance). Unit is passenger - Kilometer (Hk.Km). &lt;/p&gt;</data>
 </root>

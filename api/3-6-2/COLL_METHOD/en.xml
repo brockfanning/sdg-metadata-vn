@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 3-6-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The indicator “birth rate between 10-19 years old” is compiled from data sources of the Population and Housing Census (10-year cycle), the mid-term population and housing census (period of 10-19 years). 5-year period) and extrapolated from the results of the annual population change - family planning sample survey. These Census and Census are all part of the National Statistical Census Program &lt;/p&gt;</data>
 </root>

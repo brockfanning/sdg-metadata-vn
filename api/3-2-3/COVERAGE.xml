@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 3-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Annual figures available from 2012-2019 &lt;/p&gt;
+ &lt;p&gt; There are no detailed data for this indicator. &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Health) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ 2012-2019 &lt;/p&gt;
 &lt;p&gt;Không có số liệu theo từng phân tổ chi tiết cho chỉ tiêu này.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Y tế)&lt;/p&gt;

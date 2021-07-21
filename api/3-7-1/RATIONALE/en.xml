@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The RATIONALE field for indicator 3-7-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator is intended to identify people who have used a significant portion of household expenditure or income on health care. This entry only counts expenses incurred at the time of any type of treatment, from any provider, for any illness or health problem, any reimbursement for individuals to make payments. This entry does not include prepayments for health services; for example, in the form of paying taxes or buying insurance. Such direct payments are unfair in funding the health system. &lt;/p&gt;</data>
 </root>

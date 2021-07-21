@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 3-7-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Goal 3.7: Achieving universal health care coverage, including financial risk protection, access to essential, safe, effective, quality health care services, medicines and vaccines , within affordability for all (Global 3.8 Target) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 3.7: Đạt được bao phủ chăm sóc sức khỏe toàn dân, bao gồm bảo vệ rủi ro tài chính, tiếp cận các dịch vụ chăm sóc sức khỏe, thuốc và vắc xin thiết yếu, an toàn, hiệu quả, chất lượng, trong khả năng chi trả cho tất cả mọi người (Mục tiêu 3.8 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

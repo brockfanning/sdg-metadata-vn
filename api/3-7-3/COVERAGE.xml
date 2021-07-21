@@ -4,7 +4,14 @@
 	<message>The COVERAGE field for indicator 3-7-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; &lt;u&gt; Annual data available from 2013-2019 by region; provinces / cities under central. &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;u&gt; -Data available annually from 2014-2019 by qualification: &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;u&gt; + Doctor; &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;u&gt; + Medical doctor; &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;u&gt; + Nursing; &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;u&gt; + University pharmacist &lt;/u&gt; &lt;/p&gt;
+ &lt;p&gt; &lt;u&gt; (Published source: Health Statistical Yearbook of the Ministry of Health). &lt;/u&gt; &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;&lt;u&gt;Số liệu có sẵn hàng năm từ 2013-2019 theo phân tổ vùng; tỉnh/thành phố trực thuộc Trung ương.&lt;/u&gt;&lt;/p&gt;
 &lt;p&gt;&lt;u&gt;-Số liệu có sẵn hàng năm từ năm 2014-2019 chia theo trình độ chuyên môn: &lt;/u&gt;&lt;/p&gt;
 &lt;p&gt;&lt;u&gt;+ Bác sĩ;&lt;/u&gt;&lt;/p&gt;

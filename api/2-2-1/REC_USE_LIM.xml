@@ -4,7 +4,10 @@
 	<message>The REC_USE_LIM field for indicator 2-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator &lt;strong&gt; &lt;/strong&gt; Proportion of children under 5 years of age undernutrition in Vietnam: &lt;/p&gt;
+ &lt;p&gt; - An additional category of malnutrition that is not globally available is weight-for-age malnutrition; &lt;/p&gt;
+ &lt;p&gt; - Missing a globally regulated category is the percentage of children under 5 years of age who are obese. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu&lt;strong&gt; &lt;/strong&gt;Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng của Việt Nam:&lt;/p&gt;
 &lt;p&gt;- Quy định thêm một loại suy dinh dưỡng không có trong toàn cầu là suy dinh dưỡng cân nặng theo tuổi; &lt;/p&gt;
 &lt;p&gt;- Thiếu một loại toàn cầu quy định là tỷ lệ trẻ em dưới 5 tuổi béo phì.&lt;/p&gt;

@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 3-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Number of women who died from causes related to pregnancy and childbirth (not due to accidental causes such as accidents, suicide,...) that occurred between pregnancy and 42 days on average per one hundred thousand live births during the study period. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số phụ nữ chết do những nguyên nhân liên quan đến mang thai và sinh đẻ (không do những nguyên nhân tình cờ như tai nạn, tự tử,...) đã xảy ra trong thời gian từ khi mang thai cho đến 42 ngày sau đẻ tính bình quân trên một trăm nghìn trẻ em đẻ ra sống trong kỳ nghiên cứu.&lt;/p&gt;
 			</language>
 </languages>

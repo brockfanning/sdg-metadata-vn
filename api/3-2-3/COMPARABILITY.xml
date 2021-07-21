@@ -4,7 +4,9 @@
 	<message>The COMPARABILITY field for indicator 3-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Reflects the global indicator “3.3.3 Malaria incidence per 1,000 population”. &lt;/p&gt;
+ &lt;p&gt; However, Vietnam counts per 100,000 population; globally per 1000 population. Therefore, this indicator does not have a series in the global DSD. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Phản ánh chỉ tiêu toàn cầu “3.3.3 Malaria incidence per 1,000 population”.&lt;/p&gt;
 &lt;p&gt;Tuy nhiên Việt Nam tính trên 100.000 dân số; còn toàn cầu tính trên 1000 dân số. Do đó, chỉ tiêu này không có series trong DSD toàn cầu.&lt;/p&gt;
 			</language>

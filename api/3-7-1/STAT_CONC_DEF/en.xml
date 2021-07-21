@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 3-7-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The proportion of households with large health expenditures relative to total expenditure or total income is the proportion of households whose health expenditure accounts for a large proportion of the total expenditure or income of the household. &lt;/p&gt;
+ &lt;p&gt; There are two thresholds used to determine whether a household&apos;s health expenditure is large, including: Greater than 10% and greater than 25% of the total expenditure or income of the household. &lt;/p&gt;</data>
 </root>

@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 12-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the natural area measured, drawn, and mineral-geological mapping at the scale of 1: 50,000, serving the planning of geological basic survey of minerals, land use planning, planning traffic planning, construction planning, socio-economic development planning of the country. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh diện tích tự nhiên được đo vẽ lập bản đồ địa chất khoáng sản tỷ lệ 1: 50.000 phần đất liền phục vụ cho việc quy hoạch điều tra cơ bản địa chất về khoáng sản, quy hoạch sử dụng đất, quy hoạch giao thông, quy hoạch xây dựng, quy hoạch phát triển kinh tế - xã hội của đất nước.&lt;/p&gt;
 			</language>
 </languages>

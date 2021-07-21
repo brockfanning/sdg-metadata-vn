@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 7-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 7.2: By 2030, significantly increase the share of renewable energy in the country&apos;s total primary energy consumption, specifically reaching 31% by 2020 and 32.3% by 2030 (target target) 7.2 global) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 7.2: Đến năm 2030, tăng đáng kể tỷ lệ năng lượng tái tạo trong tổng tiêu thụ năng lượng sơ cấp của quốc gia, cụ thể đạt 31% vào năm 2020 và đạt 32,3% vào năm 2030 (mục tiêu 7.2 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

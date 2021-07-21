@@ -4,7 +4,9 @@
 	<message>The SOURCE_TYPE field for indicator 9-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Investigate individual production and business establishments; &lt;/p&gt;
+ &lt;p&gt; - Investigate transportation and warehousing activities. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Điều tra cơ sở sản xuất kinh doanh cá thể;&lt;/p&gt;
 &lt;p&gt;- Điều tra hoạt động vận tải, kho bãi.&lt;/p&gt;
 			</language>

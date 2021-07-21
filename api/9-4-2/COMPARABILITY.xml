@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 9-4-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator corresponds to the global sustainable development target 9.5.2: Researchers (in full-time equivalent) per million inhabitants. However, the Vietnamese indicator only specifies the number of people doing scientific research and technological development, but not according to the global standard, the number of full-time scientific research and technological development people is over 1 million. people. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng chỉ tiêu phát triển bền vững toàn cầu 9.5.2: Researchers (in full-time equivalent) per million inhabitants. Tuy nhiên chỉ tiêu Việt Nam mới chỉ quy định số người nghiên cứu khoa học và phát triển công nghệ mà chưa quy định theo chuẩn toàn cầu là tính số người nghiên cứu khoa học và phát triển công nghệ quy đổi toàn thời gian trên 1 triệu dân.&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 3.2: By 2030, end the epidemics of AIDS, tuberculosis, malaria and neglected tropical diseases; prevention of hepatitis, waterborne diseases and other infectious diseases (Global Target 3.3) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 3.2: Đến năm 2030, chấm dứt các bệnh dịch AIDS, lao, sốt rét và các bệnh nhiệt đới bị lãng quên; phòng chống bệnh viêm gan, các dịch bệnh do nguồn nước và các bệnh truyền nhiễm khác (Mục tiêu 3.3 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

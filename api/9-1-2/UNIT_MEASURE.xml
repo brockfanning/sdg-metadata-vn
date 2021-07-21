@@ -4,7 +4,9 @@
 	<message>The UNIT_MEASURE field for indicator 9-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Cargo weight: tons &lt;/p&gt;
+ &lt;p&gt; Cargo volume: tons.km &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Khối lượng hàng hóa vận chuyển: tấn&lt;/p&gt;
 &lt;p&gt;Khối lượng hàng hóa luân chuyển: tấn.km&lt;/p&gt;
 			</language>

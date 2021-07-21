@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 9-4-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 9.4.2. Number of staff in scientific research and technology development &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 9.4.2. Số cán bộ nghiên cứu khoa học và phát triển công nghệ&lt;/p&gt;
 			</language>
 </languages>

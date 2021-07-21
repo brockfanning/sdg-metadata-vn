@@ -4,7 +4,8 @@
 	<message>The SOURCE_TYPE field for indicator 3-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Statistical reporting regime issued by the Ministry of Health (Annual report of health facilities - National Institute of Malaria - Parasitology - Entomology) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chế độ báo cáo thống kê do Bộ Y tế ban hành (Báo cáo định kỳ hàng năm của cơ sở y tế - Viện Sốt rét - Ký sinh trùng - Côn trùng Trung ương)&lt;/p&gt;
 			</language>
 </languages>

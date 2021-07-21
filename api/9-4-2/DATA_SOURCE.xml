@@ -4,7 +4,8 @@
 	<message>The DATA_SOURCE field for indicator 9-4-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Ministry of Science and Technology &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Bộ Khoa học và Công nghệ&lt;/p&gt;
 			</language>
 </languages>

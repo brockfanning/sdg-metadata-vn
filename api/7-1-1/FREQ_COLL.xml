@@ -4,7 +4,8 @@
 	<message>The FREQ_COLL field for indicator 7-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Survey period and time: Year ending in even number 4 survey periods in March, June, September and 12 &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Thời kỳ, thời điểm điều tra: Năm có tận cùng số chẵn điều tra 4 kỳ vào tháng 3, 6, 9 và 12&lt;/p&gt;
 			</language>
 </languages>

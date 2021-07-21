@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; An HIV-infected person is a person found to be infected with human immunodeficiency virus by health authorities. &lt;/p&gt;
+ &lt;p&gt; Number of new HIV infections detected annually per thousand HIV-uninfected people is a measure of a population&apos;s level of new HIV infection, defined as the number of newly discovered HIV infections per thousand uninfected in a population. determined time. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Người nhiễm HIV là người được cơ quan y tế phát hiện bị nhiễm virus gây suy giảm miễn dịch ở người.&lt;/p&gt;
 &lt;p&gt;Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn người không bị nhiễm HIV là số đo mức độ nhiễm mới HIV của người dân, được định nghĩa là số trường hợp mới phát hiện nhiễm HIV trên một nghìn không bị nhiễm trong thời gian xác định.&lt;/p&gt;
 			</language>

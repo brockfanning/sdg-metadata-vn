@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The REC_USE_LIM field for indicator 3-3-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Currently only data is available through the report of the Ministry of Health and reflects the number of deaths at health facilities, thus not fully reflecting the actual situation of death by suicide. &lt;/p&gt;
+ &lt;p&gt; - There should be community investigations into causes of death in general and death from injury in particular (including suicide). &lt;/p&gt;
+ &lt;p&gt; - Need to consult many different data sources: hospital, police, National Traffic Safety Committee... &lt;/p&gt;</data>
 </root>

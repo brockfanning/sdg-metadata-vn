@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The UNIT_MEASURE field for indicator 9-1-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Cargo weight: tons &lt;/p&gt;
+ &lt;p&gt; Cargo volume: tons.km &lt;/p&gt;</data>
 </root>

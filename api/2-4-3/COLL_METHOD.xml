@@ -4,7 +4,17 @@
 	<message>The COLL_METHOD field for indicator 2-4-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; a) Consumer price survey &lt;/p&gt;
+ &lt;p&gt; The Consumer Price Survey is a sampling survey (direct survey) under the National Statistical Survey Program. &lt;/p&gt;
+ &lt;p&gt; - Purpose of investigation: Collect retail prices of consumer goods and services to have data for monthly consumer price index calculation, in order to provide data on the rate of price increase for the Government, ministries , industries used in administration and management, policy research, financial and monetary management. As a basis for calculating a number of general statistical indicators according to comparative prices. &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
+ &lt;p&gt; + Representative consumer goods and services. &lt;/p&gt;
+ &lt;p&gt; + Stalls, stalls, points of sale (specializing in retail); service business establishments; organ; schools; medical examination and treatment establishments with stable business locations, belonging to all economic sectors. &lt;/p&gt;
+ &lt;p&gt; - Content of the investigation &lt;/p&gt;
+ &lt;p&gt; + Investigate retail prices of consumer goods and services; &lt;/p&gt;
+ &lt;p&gt; + Collecting for calculating national statistical indicators code 1101, 1102, 1103. &lt;/p&gt;
+ &lt;p&gt; b) Survey on living standards of Vietnamese population: Same as target 1.1.1 &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;a) Điều tra giá tiêu dùng&lt;/p&gt;
 &lt;p&gt;Điều tra giá tiêu dùng là điều tra chọn mẫu (điều tra trực tiếp) thuộc Chương trình điều tra thống kê quốc gia.&lt;/p&gt;
 &lt;p&gt;- Mục đích điều tra: Thu thập giá bán lẻ hàng hóa, dịch vụ tiêu dùng để có số liệu phục vụ tính chỉ số giá tiêu dùng hàng tháng, nhằm cung cấp số liệu về tỷ lệ tăng giá cho Chính phủ, các bộ, các ngành sử dụng trong công tác điều hành quản lý, nghiên cứu chính sách, quản lý tài chính, tiền tệ. Làm cơ sở tính toán một số chỉ tiêu thống kê tổng hợp theo giá so sánh.&lt;/p&gt;

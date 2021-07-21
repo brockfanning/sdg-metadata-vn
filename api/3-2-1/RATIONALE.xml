@@ -4,7 +4,10 @@
 	<message>The RATIONALE field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Evaluate the effectiveness of HIV/AIDS intervention programs and projects, especially in the management and care of AIDS patients. &lt;/p&gt;
+ &lt;p&gt; - As a basis for propaganda to mobilize the community to participate in HIV/AIDS prevention &lt;/p&gt;
+ &lt;p&gt; - Assessment of the danger level of HIV/AIDS. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Đánh giá hiệu quả của các chương trình hoạt động, dự án can thiệp phòng chống HIV/AIDS đặc biệt trong quản lý và chăm sóc bệnh nhân AIDS.&lt;/p&gt;
 &lt;p&gt;- Làm cơ sở cho việc tuyên truyền vận động cộng đồng tham gia phòng chống HIV/AIDS&lt;/p&gt;
 &lt;p&gt;- Đánh giá mức độ nguy hiểm của HIV/AIDS.&lt;/p&gt;

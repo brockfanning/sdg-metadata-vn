@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 8-2-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Contribution of capital, labor, and total factor productivity (TFP) is measured by the percentage of each factor&apos;s contribution to the overall growth of gross domestic product. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ trọng đóng góp của các yếu tố vốn, lao động, năng suất các nhân tố tổng hợp (TFP) được đo bằng tỷ lệ phần trăm đóng góp của từng yếu tố trong tăng trưởng chung của tổng sản phẩm trong nước.&lt;/p&gt;
 			</language>
 </languages>

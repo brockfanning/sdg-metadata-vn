@@ -4,7 +4,8 @@
 	<message>The SDG_SERIES_DESCR field for indicator 3-1-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Infant mortality rate [3.2.1] SH_DYN_IMRT &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Infant mortality rate [3.2.1] SH_DYN_IMRT&lt;/p&gt;
 			</language>
 </languages>

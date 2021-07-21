@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 3-7-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Health workers are employees currently employed in health care facilities (both public and private, both on payroll and on contract) at the time of reporting for a region. &lt;/p&gt;</data>
 </root>

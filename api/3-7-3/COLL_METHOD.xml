@@ -4,7 +4,14 @@
 	<message>The COLL_METHOD field for indicator 3-7-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; * The Ministry of Health issues a statistical report form to send to health facilities, the Departments of Health of the provinces/cities directly under the Central Government to collect. Periodically, medical facilities and Departments of Health send data back to the Ministry of Health for synthesis. The Department of Organization and Personnel-Ministry of Health is tasked with synthesizing data submitted by the Department. &lt;/p&gt;
+ &lt;p&gt; * Alternatively, it can be collected through the Medical Facility Survey every 5 years, April 1st (conducted in years ending in 0 and 5) &lt;/p&gt;
+ &lt;p&gt; Is a sampling survey in the National Statistical Survey Program, collecting information about the following: &lt;/p&gt;
+ &lt;p&gt; - Number of non-public medical facilities; &lt;/p&gt;
+ &lt;p&gt; - Base type; &lt;/p&gt;
+ &lt;p&gt; - Number of non-public hospital beds; &lt;/p&gt;
+ &lt;p&gt; - Non-public health workforce. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;* Bộ Y tế ban hành biểu mẫu báo cáo thống kê gửi các cơ sở y tế, Sở Y tế các tỉnh/thành phố trực thuộc Trung ương thu thập. Định kỳ, các cơ sở y tế, Sở Y tế gửi lại số liệu cho Bộ Y tế tổng hợp. Vụ Tổ chức cán bộ-Bộ Y tế được giao nhiệm tổng hợp số liệu từ cấp Sở gửi lên.&lt;/p&gt;
 &lt;p&gt;* Ngoài ra, có thể thu thập qua Điều tra cơ sở y tế chu kỳ 5 năm một lần, ngày 01 tháng 4 (tiến hành vào các năm có số tận cùng là 0 và 5)&lt;/p&gt;
 &lt;p&gt;Là cuộc điều tra chọn mẫu trong Chương trình điều tra thống kê quốc gia, thu thập thông tin về các nội dung sau:&lt;/p&gt;

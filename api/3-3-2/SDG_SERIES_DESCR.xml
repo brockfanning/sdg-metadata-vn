@@ -4,7 +4,8 @@
 	<message>The SDG_SERIES_DESCR field for indicator 3-3-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Suicide mortality rate [3.4.2] SH_STA_SCIDE &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt; Suicide mortality rate [3.4.2] SH_STA_SCIDE&lt;/p&gt;
 			</language>
 </languages>

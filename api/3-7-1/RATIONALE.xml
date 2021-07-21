@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 3-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator is intended to identify people who have used a significant portion of household expenditure or income on health care. This entry only counts expenses incurred at the time of any type of treatment, from any provider, for any illness or health problem, any reimbursement for individuals to make payments. This entry does not include prepayments for health services; for example, in the form of paying taxes or buying insurance. Such direct payments are unfair in funding the health system. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này nhằm xác định những người đã sử dụng một phần đáng kể chi tiêu của hộ gia đình hoặc thu nhập cho việc chăm sóc sức khỏe. Chỉ tiêu này chỉ tính các khoản chi phí phát sinh tại thời điểm sử dụng bất kỳ loại điều trị nào, từ bất kỳ nhà cung cấp nào, đối với bất kỳ loại bệnh hoặc vấn đề sức khỏe nào, bất kỳ khoản bồi hoàn nào cho cá nhân thực hiện thanh toán. Chỉ tiêu này không tính các khoản chi trước cho các dịch vụ sức khoẻ; ví dụ, dưới các hình thức đóng thuế hoặc mua bảo hiểm. Các khoản thanh toán trực tiếp như vậy là không công bằng trong việc cung cấp ngân sách cho hệ thống y tế. &lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 9-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 9.2.2. Value added per capita of the processing and manufacturing industry according to purchasing power parity &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 9.2.2. Giá trị tăng thêm bình quân đầu người của công nghiệp chế biến, chế tạo theo sức mua tương đương&lt;/p&gt;
 			</language>
 </languages>

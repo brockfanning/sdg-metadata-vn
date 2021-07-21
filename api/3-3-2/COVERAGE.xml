@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 3-3-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Annual data from 2014-2017, general data and sex disaggregated data &lt;/p&gt;
+ &lt;p&gt; No data by age group and province/city directly under the Central Government &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Health) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu hàng năm từ 2014-2017, số liệu chung và số liệu phân tổ theo giới tính &lt;/p&gt;
 &lt;p&gt;Không có số liệu theo phân tổ nhóm tuổi và tỉnh/thành phố trực thuộc Trung ương&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Y tế)&lt;/p&gt;

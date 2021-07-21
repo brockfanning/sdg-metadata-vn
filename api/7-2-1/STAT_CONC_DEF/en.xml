@@ -2,5 +2,12 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 7-2-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Renewable energy consumption includes energy consumption from: Hydroelectricity, solid biofuels, wind, solar, liquid biofuels, biogas, geothermal, ocean waves and waste. Total final energy consumption calculated from balance sheets and national statistics is total final consumption minus non-energy use. &lt;/p&gt;
+ &lt;p&gt; Specific renewable energy sources: &lt;/p&gt;
+ &lt;p&gt; - Solar energy; &lt;/p&gt;
+ &lt;p&gt; - Hydroelectricity; &lt;/p&gt;
+ &lt;p&gt; - Wind energy; &lt;/p&gt;
+ &lt;p&gt; - Liquid biofuel energy includes biofuel, biodiesel and other liquid biofuel; &lt;/p&gt;
+ &lt;p&gt; - Solid biofuel including firewood, animal waste, vegetable waste, black alcohol, bagasse and charcoal, ...; &lt;/p&gt;
+ &lt;p&gt; - Waste energy includes energy from renewable urban waste. &lt;/p&gt;</data>
 </root>

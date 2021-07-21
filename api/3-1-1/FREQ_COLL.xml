@@ -4,7 +4,8 @@
 	<message>The FREQ_COLL field for indicator 3-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; 10-year cycle, April 1 (conducted on years ending in 9). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chu kỳ 10 năm, ngày 01 tháng 4 (tiến hành vào các năm có số tận cùng là 9).&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,8 @@
 	<message>The SDG_SERIES_DESCR field for indicator 3-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Maternal mortality ratio [3.1.1] SH_STA_MORT &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Maternal mortality ratio [3.1.1] SH_STA_MORT&lt;/p&gt;
 			</language>
 </languages>

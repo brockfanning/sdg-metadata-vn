@@ -4,7 +4,9 @@
 	<message>The RATIONALE field for indicator 3-6-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - The indicator is an important measure to assess maternal health after birth and the reduction in infant mortality. This indicator also provides indirect evidence on the ability to access reproductive health care services of young people, and especially unmarried young people often face many difficulties in accessing health care services. reproductive health. &lt;/p&gt;
+ &lt;p&gt; - Provide basic data for the design of reproductive health education and communication activities and assessment of risks related to reproductive health among 10-19 year old girls. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Chỉ tiêu là thước đo quan trọng đánh giá sức khỏe bà mẹ sau sinh và mức giảm tỷ lệ tử vong ở trẻ sơ sinh. Chỉ tiêu này cũng cung cấp bằng chứng gián tiếp về khả năng tiếp cận dịch vụ chăm sóc sức khỏe sinh sản của thanh niên và đặc biệt là thanh niên chưa lập gia đình thường gặp nhiều khó khăn khi tiếp cận các dịch vụ chăm sóc sức khỏe sinh sản.&lt;/p&gt;
 &lt;p&gt;- Cung cấp dữ liệu cơ sở cho việc thiết kế các hoạt động tuyên truyền giáo dục về sức khỏe sinh sản và đánh giá nguy cơ liên quan đến sức khỏe sinh sản ở nhóm nữ 10-19 tuổi.&lt;/p&gt;
 			</language>

@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 3-2-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Reflects the global indicator “3.3.3 Malaria incidence per 1,000 population”. &lt;/p&gt;
+ &lt;p&gt; However, Vietnam counts per 100,000 population; globally per 1000 population. Therefore, this indicator does not have a series in the global DSD. &lt;/p&gt;</data>
 </root>

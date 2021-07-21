@@ -2,5 +2,8 @@
 <root>
 	<status>success</status>
 	<message>The RATIONALE field for indicator 2-4-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The consumer price index of food and foodstuffs is used for the following main purposes: &lt;/p&gt;
+ &lt;p&gt; - Evaluation of inflation control &lt;/p&gt;
+ &lt;p&gt; - Used in operating, managing and developing production and business development plans. &lt;/p&gt;
+ &lt;p&gt; - Consumer price index is used to exclude the fluctuation (increase/decrease) in consumer prices in the calculation of some statistical indicators at comparative prices. &lt;/p&gt;</data>
 </root>

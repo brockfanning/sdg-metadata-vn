@@ -4,7 +4,10 @@
 	<message>The REC_USE_LIM field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 3.2.1. The number of new HIV infections detected annually per thousand people without HIV is a new indicator specified in Vietnam in the Statistical Indicators for Sustainable Development of Vietnam (calculated per 100,000 uninfected people). ). &lt;/p&gt;
+ &lt;p&gt; Meanwhile, Vietnam&apos;s National Statistical Indicators System has a target code of 1607. Number of currently detected HIV infections per one hundred thousand population (calculated per 100,000 population). &lt;/p&gt;
+ &lt;p&gt; Data on the number of people living with HIV/AIDS in Vietnam (with breakdown by number of new findings) are published annually in the Statistical Yearbook of the General Statistics Office by region and province/city directly under the Central Government. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.2.1. Số ca nhiễm HIV mới được phát hiện hàng năm trên một nghìn người không bị nhiễm HIV là một chỉ tiêu mới được quy định tại Việt Nam trong Bộ chỉ tiêu thống kê phát triển bền vững của Việt Nam (tính trên 100.000 người không bị nhiễm).&lt;/p&gt;
 &lt;p&gt;Trong khi đó, Hệ thống chỉ tiêu thống kê quốc gia của Việt Nam có quy định chỉ tiêu mã số 1607. Số ca hiện nhiễm HIV được phát hiện trên một trăm nghìn dân (tính trên 100.000 dân).&lt;/p&gt;
 &lt;p&gt;Số liệu về số người nhiễm HIV/AIDS của Việt Nam (có phân theo số phát hiện mới) được công bố hàng năm trong Niên Giám thống kê của Tổng cục Thống kê theo vùng và tỉnh/thành phố trực thuộc Trung ương.&lt;/p&gt;

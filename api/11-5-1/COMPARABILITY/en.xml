@@ -2,5 +2,8 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 11-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The corresponding global level indicator “&lt;strong&gt; 1.5.1: &lt;/strong&gt; Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population”. &lt;/p&gt;
+ &lt;p&gt; Vietnam&apos;s data on the number of dead, missing and injured people due to natural disasters ensures international comparison. &lt;/p&gt;
+ &lt;p&gt; Vietnam has not yet implemented and calculated data on the number of people affected by natural disasters because the concept of affected is very wide: &lt;/p&gt;
+ &lt;p&gt; According to global metadata: Directly affected: Number of people injured, sick or other health effects; people who have been evacuated, displaced, resettled or suffered direct damage to their livelihoods, economic, physical, social, cultural and environmental assets. Indirectly affected are those who suffer consequences, in addition to or beyond the direct effects, over time, due to disruption or change in the economy, critical infrastructure, basic services , commercial or work, or social, health and psychological consequences. &lt;/p&gt;</data>
 </root>

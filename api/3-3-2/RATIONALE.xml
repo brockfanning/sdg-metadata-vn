@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 3-3-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Mental disorders occur in all regions and cultures of the world. The most common of these disorders are depression and anxiety, estimated to affect 1 out of 10 people. At worst, depression can lead to suicide. In 2012, there were an estimated 800,000 suicide deaths worldwide. Suicide is the second leading cause of death among young people aged 15-29, after road traffic accidents. Therefore, this is an important indicator to assess the state of mental disorders in modern society. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Rối loạn tâm thần xảy ra ở tất cả các vùng và văn hoá của thế giới. Phổ biến nhất của những rối loạn này là trầm cảm và lo lắng, ước tính trong số 10 người có 1 người ảnh hưởng. Khi tệ nhất, trầm cảm có thể dẫn đến tự tử. Năm 2012, ước tính đã có hơn 800.000 ca tử vong do tự tử trên toàn thế giới. Tự tử là nguyên nhân gây tử vong thứ hai của những người trẻ từ 15-29 tuổi, sau tai nạn giao thông đường bộ. vì vậy đây là chỉ tiêu quan trọng nhằm đánh giá tình trạng rối loạn tâm thần trong xã hội hiện đại.&lt;/p&gt;
 			</language>
 </languages>

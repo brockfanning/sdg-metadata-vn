@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 3-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 3.7.1. Proportion of households with large medical expenses compared to total expenditure or total income &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.7.1. Tỷ lệ hộ có chi phí y tế lớn so với tổng chi tiêu hoặc tổng thu nhập&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,10 @@
 	<message>The REC_USE_LIM field for indicator 3-7-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - The data needs to be disaggregated to identify healthcare workers in the private sector (avoiding duplication of health workers performing two or more jobs as healthcare professionals do in the healthcare sector). public economy but working in private after hours). &lt;/p&gt;
+ &lt;p&gt; - Difficult to collect data of medical facilities of other branches in the area. &lt;/p&gt;
+ &lt;p&gt; - Some other occupations but employees of medical facilities are still counted as human resources of the health sector. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt; - Dữ liệu cần phân tổ để xác định nhân viên y tế trong khu vực tư nhân hay không (tránh việc tính toán trùng lắp các nhân viên y tế thực hiện hai hay nhiều công việc như cán bộ y tế làm trong khu vực y tế công nhưng ngoài giờ lại làm tư).&lt;/p&gt;
 &lt;p&gt;- Khó thu thập số liệu của các cơ sở y tế của các ngành khác trên địa bàn.&lt;/p&gt;
 &lt;p&gt;- Một số ngành nghề khác nhưng là nhân viên thuộc cơ sở y tế vẫn được tính là nhân lực của ngành y tế.&lt;/p&gt;

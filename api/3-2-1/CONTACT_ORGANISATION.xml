@@ -4,7 +4,8 @@
 	<message>The CONTACT_ORGANISATION field for indicator 3-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Ministry of Health &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Bộ Y tế&lt;/p&gt;
 			</language>
 </languages>

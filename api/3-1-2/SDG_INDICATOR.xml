@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 3-1-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 3.1.2. Percentage of births supported by skilled medical staff &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 3.1.2. Tỷ lệ ca sinh được nhân viên y tế có kỹ năng đỡ&lt;/p&gt;
 			</language>
 </languages>

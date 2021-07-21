@@ -4,7 +4,9 @@
 	<message>The UNIT_MEASURE field for indicator 9-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Number of passengers transported: &lt;/p&gt;
+ &lt;p&gt; Number of passengers rotated: turns of people.km &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số lượt hành khách vận chuyển: lượt người&lt;/p&gt;
 &lt;p&gt;Số lượt hành khách luân chuyển: lượt người.km&lt;/p&gt;
 			</language>

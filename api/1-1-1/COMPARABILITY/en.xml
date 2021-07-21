@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 1-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The indicator “Multidimensional poverty rate” of Vietnam corresponds to the indicator “1.2.2. Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions. of international. &lt;/p&gt;
+ &lt;p&gt; Vietnam only calculates and publishes data for the proportion of households, not calculates and publishes according to the multidimensional poverty rate. &lt;/p&gt;
+ &lt;p&gt; Although this indicator is built on the global SDG target 1.2.2. However, as recommended by the UN, the data of this indicator is not intended for cross-country comparison because of differences in poverty dimensions and different thresholds for poverty defined in each country. &lt;/p&gt;</data>
 </root>

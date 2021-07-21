@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 3-2-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Number of new cases of malaria per hundred thousand population is the number of newly discovered malaria parasites per one hundred thousand population in a given year. &lt;/p&gt;</data>
 </root>

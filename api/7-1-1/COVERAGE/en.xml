@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 7-1-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; &lt;u&gt; &lt;/u&gt; Data available every 2 years from 2010-2018 &lt;/p&gt;
+ &lt;p&gt; Full data by subdivisions: urban/rural; region; provinces/cities directly under the Central Government every 2 years from 2010-2018 &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;</data>
 </root>

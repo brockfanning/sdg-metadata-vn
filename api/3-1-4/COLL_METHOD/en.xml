@@ -2,5 +2,8 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 3-1-4, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The General Statistics Office coordinated with the Ministry of Health to conduct a sampling survey to collect information; The Ministry of Justice collects information through the civil status registration system and sends it to the General Statistics Office. The General Statistics Office synthesizes data from two sources and publishes the targets. &lt;/p&gt;
+ &lt;p&gt; * Current data source obtained through the results of the 2014 Child and Women Targeted Survey (MICS): &lt;/p&gt;
+ &lt;p&gt; The Viet Nam MICS Survey 2014 is part of the Global MICS Program, conducted by the General Statistics Office in collaboration with the United Nations Children&apos;s Fund from the end of December 2013 to April 2014. technical and financial support for this investigation. &lt;/p&gt;
+ &lt;p&gt; The sample of the Vietnam MICS 2014 survey is designed to provide reliable estimates of multiple indicators of children and women at the national, urban/rural and six-regional levels. The Vietnam MICS 2014 survey had a sample size of 10018 interviewed households, with 9827 women and 3316 children interviewed. &lt;/p&gt;</data>
 </root>

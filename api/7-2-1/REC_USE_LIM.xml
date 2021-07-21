@@ -4,7 +4,8 @@
 	<message>The REC_USE_LIM field for indicator 7-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Currently, renewable energy mainly comes from hydropower, while non-hydro renewable energy only accounts for a limited proportion of the total final energy consumption. Meanwhile, Vietnam is a country with great potential for developing renewable energy other than hydroelectricity, especially wind power and solar power. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Hiện tại, năng lượng tái tạo chủ yếu xuất phát từ thủy điện, trong khi năng lượng tái tạo không phải thủy điện mới chỉ chiếm tỷ lệ hạn chế trong tổng tiêu thụ năng lượng cuối cùng. Trong khi đó, Việt Nam là nước có tiềm năng lớn về phát triển năng lượng tái tạo không phải thủy điện, đặc biệt là điện gió và điện mặt trời.&lt;/p&gt;
 			</language>
 </languages>

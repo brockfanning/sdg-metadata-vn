@@ -4,7 +4,14 @@
 	<message>The COVERAGE field for indicator 3-1-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Annually available figures from 2010 to 2019 &lt;/p&gt;
+ &lt;p&gt; Data available for 4 subgroups: &lt;/p&gt;
+ &lt;p&gt; + Gender; &lt;/p&gt;
+ &lt;p&gt; + Urban/rural; urban/rural; &lt;/p&gt;
+ &lt;p&gt; + Region; &lt;/p&gt;
+ &lt;p&gt; + Provinces/Cities directly under the Central Government &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn hàng năm từ năm 2010 đến 2019&lt;/p&gt;
 &lt;p&gt;Số liệu có sẵn cho 4 phân tổ: &lt;/p&gt;
 &lt;p&gt;+ Giới tính;&lt;/p&gt;

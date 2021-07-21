@@ -2,5 +2,13 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 2-4-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The consumer price index of food and food groups is a relative indicator (in %) reflecting the trend and level of general price fluctuations over time of food and foodstuffs for daily consumption. of people. &lt;/p&gt;
+ &lt;p&gt; Representative list of goods including staple food and food items, representing consumption of the population in a certain period, used to survey and collect periodic prices, for calculation purposes only. consumer prices. &lt;/p&gt;
+ &lt;p&gt; The weight to calculate the consumer price index is the proportion of expenditure on food and food groups in the total expenditure of the population in the year selected as the base for comparison. This weight is fixed for 5 years. &lt;/p&gt;
+ &lt;p&gt; After every 5-year cycle, the list of representative items and weights are updated to suit the consumer market and spending structure for people&apos;s daily life in the current period. &lt;/p&gt;
+ &lt;p&gt; Calculation method of consumer price index of food and food groups &lt;/p&gt;
+ &lt;p&gt; The consumer price index of food and foodstuffs group is calculated from the results of the consumer price survey of each province/city directly under the Central Government. The consumer price index is calculated using the weighted average method between the price movements of groups of goods with corresponding weights. &lt;/p&gt;
+ &lt;p&gt; The consumer price index of food and foodstuffs of the provinces/cities directly under the Central Government is calculated by the weighted average method between the consumer price index of each food group selected for the survey. with the corresponding weights. &lt;/p&gt;
+ &lt;p&gt; Food and food group consumer price index of 6 economic regions is calculated by the weighted average method between the food and food group price index of each province/city directly under the Central Government in the region and respective number. &lt;/p&gt;
+ &lt;p&gt; The consumer price index of food groups of the whole country is calculated by the weighted average method between the food and food price indexes of economic regions with corresponding weights. &lt;/p&gt;</data>
 </root>

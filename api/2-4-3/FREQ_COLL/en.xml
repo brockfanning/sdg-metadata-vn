@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The FREQ_COLL field for indicator 2-4-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Monthly cycle, 5th, 15th, 25th of every month. &lt;/p&gt;</data>
 </root>

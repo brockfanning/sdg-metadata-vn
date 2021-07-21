@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 3-6-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; &lt;strong&gt; Corresponding international indicator “3.7.2: &lt;/strong&gt; Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group”. The international indicator is disaggregated by: Age, education level, number of children alive, marital status, socioeconomic status, geographical location and others while the Vietnamese indicator is disaggregated by : Education level of the mother; age group (10-14 years old, 15-19 years old); urban/rural and province/city directly under the Central Government &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;&lt;strong&gt;Chỉ tiêu quốc tế tương ứng “3.7.2:&lt;/strong&gt; Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group”. Chỉ tiêu quốc tế phân tổ theo: Tuổi, trình độ học vấn, số con còn sống, tình trạng hôn nhân, tình trạng kinh tế xã hội, vị trí địa lý và các loại khác trong khi chỉ tiêu của Việt Nam phân tổ theo: Trình độ học vấn của người mẹ; nhóm tuổi (10-14 tuổi, 15-19 tuổi); thành thị/nông thôn và tỉnh/thành phố trực thuộc Trung ương&lt;/p&gt;
 			</language>
 </languages>

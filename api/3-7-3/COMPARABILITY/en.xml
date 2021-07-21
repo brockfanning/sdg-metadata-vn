@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 3-7-3, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator reflects the global indicator “3.c.1: Health worker density and distribution”- Density and distribution of healthcare workers. &lt;/p&gt;
+ &lt;p&gt; Global indicator for classification of healthcare workers by occupational category ISCO-08. In addition to the scope of Vietnam - doctors, pharmacists, nurses, the world also requires classification by dentist and data on the percentage of medical staff by sex. Vietnam has no gender disaggregation. &lt;/p&gt;</data>
 </root>

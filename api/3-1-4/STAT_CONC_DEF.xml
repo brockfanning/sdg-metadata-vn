@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 3-1-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Neonatal mortality rate is the average number of live births that die before 28 days after birth, on average per thousand live births in a year. An infant is a child from birth to 28 days of age. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ suất chết sơ sinh là số trẻ đẻ ra sống bị chết trước 28 ngày sau sinh tính bình quân trên một nghìn trẻ đẻ ra sống trong năm. Trẻ sơ sinh là trẻ từ khi sinh ra cho đến 28 ngày tuổi. &lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,11 @@
 	<message>The COMPARABILITY field for indicator 2-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator “Rate of malnourished children under 5 years old” of Vietnam corresponds to 02 international indicators: &lt;/p&gt;
+ &lt;p&gt; - 2.2.1 Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age stunting (height for age &lt;-2 standard deviation from WHO mean)); &lt;/p&gt;
+     &lt;p&gt; - 2.2.2 Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight) (Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng (cân nặng theo chiều cao&gt; + or &lt;-2 standard deviations based on WHO median for child growth standards) &lt;/p&gt;
+           &lt;p&gt; “Rate of undernourished children under 5 years old” is a national statistical indicator thus ensuring comparability with international data/standards. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu “Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng” của Việt Nam tương ứng với 02 chỉ tiêu quốc tế:&lt;/p&gt;
 &lt;p&gt;- 2.2.1 Prevalence of stunting (height for age &lt;-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age (Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng thể thấp còi (chiều cao theo tuổi &lt;-2 sai lệch chuẩn so với chuẩn trung bình của WHO));&lt;/p&gt;
     &lt;p&gt;- 2.2.2 Prevalence of malnutrition (weight for height &gt;+2 or &lt;-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight) (Tỷ lệ trẻ em dưới 5 tuổi suy dinh dưỡng (cân nặng theo chiều cao&gt;+ hoặc &lt;-2 độ lệch chuẩn dựa vào trung vị của WHO về chuẩn tăng trưởng trẻ em)&lt;/p&gt;

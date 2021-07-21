@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 3-1-4, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator reflects the global indicator “3.2.2 Neonatal mortality rate”. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh chỉ tiêu toàn cầu “3.2.2 Neonatal mortality rate” (Tỷ lệ tử vong trẻ sơ sinh).&lt;/p&gt;
 			</language>
 </languages>

@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 12-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Geo-mineral mapping and mapping is geological mapping, discovery and prospecting of mineral and other geological resources; determine the current state of the geological environment and forecast geological hazards. &lt;/p&gt;
+ &lt;p&gt; The ratio of land area mapped in mineral geology at a scale of 1:50,000 land part is a percentage of land area mapped in mineral geology at a scale of 1:50,000 land part over total land area. area of land. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Đo vẽ bản đồ địa chất khoáng sản là lập bản đồ địa chất, phát hiện, dự báo triển vọng tài nguyên khoáng sản và các tài nguyên địa chất khác; xác định hiện trạng môi trường địa chất và dự báo các tai biến địa chất.&lt;/p&gt;
 &lt;p&gt;Tỷ lệ diện tích phần đất liền được lập bản đồ địa chất khoáng sản tỷ lệ 1:50.000 phần đất liền là phần trăm diện tích phần đất liền được lập bản đồ địa chất khoáng sản tỷ lệ 1:50.000 phần đất liền trên tổng diện tích đất liền.&lt;/p&gt;
 			</language>

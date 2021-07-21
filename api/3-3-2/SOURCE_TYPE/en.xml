@@ -2,5 +2,13 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 3-3-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; According to Circular 03: &lt;/p&gt;
+ &lt;p&gt; 6.1. Data source &lt;/p&gt;
+ &lt;p&gt; - Population and housing census; &lt;/p&gt;
+ &lt;p&gt; - Midterm Census of Population and Housing. &lt;/p&gt;
+ &lt;p&gt; 6.2. Collection method: &lt;/p&gt;
+ &lt;p&gt; The norm is collected from the Population and Housing Census (10-year cycle), the mid-term population and housing census (5-year cycle). The Census and Census are both part of the National Statistical Survey Program, so there is a clear survey plan. When conducting an investigation, it is necessary to strictly comply with the provisions of the investigation plan. &lt;/p&gt;
+ &lt;p&gt; * Current data source: &lt;/p&gt;
+ &lt;p&gt; Periodic reports of medical facilities - Department of Health Environment Management, Ministry of Health &lt;/p&gt;
+ &lt;p&gt; Investigate administrative records - Department of Health Environment Management, Ministry of Health &lt;/p&gt;</data>
 </root>

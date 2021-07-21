@@ -4,7 +4,8 @@
 	<message>The SDG_GOAL field for indicator 9-4-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization, enhance innovation &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 9: Xây dựng cơ sở hạ tầng có khả năng chống chịu cao, thúc đẩy công nghiệp hóa bao trùm và bền vững, tăng cường đổi mới&lt;/p&gt;
 			</language>
 </languages>

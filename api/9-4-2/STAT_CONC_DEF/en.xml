@@ -2,5 +2,15 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 9-4-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Scientific research and technology development officer is a person with a college degree or higher who directly participates in and spends at least 10% of their time in scientific research and technology development activities in different regions. the following operation: &lt;/p&gt;
+ &lt;p&gt; - Scientific research organization, scientific research and technology development organization organized in the form of academies, institutes, centers, laboratories, research stations, monitoring stations, testing stations and other forms; &lt;/p&gt;
+ &lt;p&gt; - Higher education institutions organized in accordance with the Law on Higher Education and the Law on Vocational Education; &lt;/p&gt;
+ &lt;p&gt; - Science and technology service organizations organized in the form of centers, offices, laboratories and other forms; &lt;/p&gt;
+ &lt;p&gt; - Other administrative agencies and non-business units; &lt;/p&gt;
+ &lt;p&gt; - Enterprise. &lt;/p&gt;
+ &lt;p&gt; Number of full-time equivalent researchers (FTE) is the number of staff with college degree or higher directly involved in scientific research and technological development. to full-time equivalent based on the use of time spent on research and development during the statistical year. &lt;/p&gt;
+ &lt;p&gt; An FTE is a person who uses all (100%) of his or her time on research and development for 1 year. &lt;/p&gt;
+ &lt;p&gt; Thus, the number of people who spend only part of their time on scientific research and technological development must be converted to the number of people who spend all their time on research and development. &lt;/p&gt;
+ &lt;p&gt; To calculate the number of redemptions, it is necessary to know the number of people who spend part of their time and the percentage of time that each person spends on research and development. If a person spends 30% of his time on research and development and spends the rest of the time on other activities (such as teaching, administrative management at universities; instructing students) that person is only considered. is equivalent to 0.3 FTE. Similarly, if a scientific research and technological development officer is employed full-time but only works for 6 months for a scientific research and technological development unit, this officer is only counted as 0.5 FTE. . &lt;/p&gt;
+ &lt;p&gt; To calculate the number of FTEs, it is necessary to determine the coefficient of time use for scientific research and technological development of each group of people engaged in scientific research and technological development. &lt;/p&gt;</data>
 </root>

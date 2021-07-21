@@ -2,5 +2,11 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 3-1-5, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Annually available figures from 2010 to 2019 &lt;/p&gt;
+ &lt;p&gt; Data available for 4 subgroups: &lt;/p&gt;
+ &lt;p&gt; + Gender; &lt;/p&gt;
+ &lt;p&gt; + Urban/rural; urban/rural; &lt;/p&gt;
+ &lt;p&gt; + Region; &lt;/p&gt;
+ &lt;p&gt; + Provinces/Cities directly under the Central Government &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;</data>
 </root>

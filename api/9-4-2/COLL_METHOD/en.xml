@@ -2,5 +2,10 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 9-4-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This is a comprehensive survey combined with a sampling survey under the National Statistical Survey Program for the purpose of collecting information on scientific research and technology development for assessment and strategic policy formulation. science and technology strategy. &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
+ &lt;p&gt; + Science and technology organizations: Scientific and technological research and development organizations; Higher education institutions include (Universities, universities, institutes, colleges); Scientific and technological service organization. &lt;/p&gt;
+ &lt;p&gt; + S&amp;T administrative and state management agencies, other non-business units engaged in scientific research and technological development. &lt;/p&gt;
+ &lt;p&gt; + Scientific research and technology development organizations under the Vietnam Union of Science and Technology Associations and other professional associations. &lt;/p&gt;
+ &lt;p&gt; + Enterprises engaged in scientific research and technological development. &lt;/p&gt;</data>
 </root>

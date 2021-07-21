@@ -4,7 +4,11 @@
 	<message>The RATIONALE field for indicator 3-1-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Child mortality rate (IMR) is of special importance, because: &lt;/p&gt;
+ &lt;p&gt; - This indicator reflects the provision of health care services and facilities for children, assesses the mortality level of the population with a high mortality rate and has a strong impact on the average life expectancy. from birth. &lt;/p&gt;
+ &lt;p&gt; - Any manifestation of a decrease in mortality has an immediate effect on the IMR and through that it affects the age distribution of the population. &lt;/p&gt;
+ &lt;p&gt; - There is always a close statistical relationship between IMR and fertility, so an increase/decrease in IMR has an impact on the increase/decrease of fertility. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ suất chết của trẻ em dưới 1 tuổi (IMR) có ý nghĩa quan trọng đặc biệt, vì:&lt;/p&gt;
 &lt;p&gt;- Chỉ tiêu này phản ánh tình hình cung cấp các dịch vụ và phương tiện chăm sóc sức khoẻ cho trẻ em, đánh giá mức độ tử vong của nhóm dân số có mức độ chết cao và tác động mạnh đến tuổi thọ bình quân tính từ lúc sinh. &lt;/p&gt;
 &lt;p&gt;- Mọi biểu hiện của sự giảm mức độ chết đều ảnh hưởng ngay đến IMR và thông qua đó nó tác động đến phân bố dân số theo độ tuổi. &lt;/p&gt;

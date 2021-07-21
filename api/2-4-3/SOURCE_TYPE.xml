@@ -4,7 +4,9 @@
 	<message>The SOURCE_TYPE field for indicator 2-4-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Consumer Price Survey (CPI); &lt;/p&gt;
+ &lt;p&gt; - Vietnam&apos;s population living standard survey. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Điều tra giá tiêu dùng (CPI);&lt;/p&gt;
 &lt;p&gt;- Khảo sát mức sống dân cư Việt Nam.&lt;/p&gt;
 			</language>

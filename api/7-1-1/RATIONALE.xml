@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 7-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator reflects the satisfaction of people&apos;s essential living conditions, especially those in remote, isolated and underdeveloped economic areas; is the basis for formulating policies and plans to develop and improve people&apos;s living standards. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mức độ thoả mãn các điều kiện sinh hoạt thiết yếu của người dân, đặc biệt đối với những người dân ở vùng sâu, vùng xa, khu vực kinh tế kém phát triển; là cơ sở đề ra chính sách, kế hoạch phát triển và cải thiện mức sống nhân dân.&lt;/p&gt;
 			</language>
 </languages>

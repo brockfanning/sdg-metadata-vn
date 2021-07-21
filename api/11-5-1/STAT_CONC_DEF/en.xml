@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 11-5-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; A natural disaster is an abnormal natural phenomenon that can cause damage to people, property, the environment, living conditions and socio-economic activities, including: Storms, tropical depressions, cyclones, lightning , heavy rain, flood, flash flood, inundation, landslide caused by rain or flood, land subsidence due to rain or flow, water surge, saline intrusion, heat, drought, damaging cold, hail , hoarfrost, earthquake, tsunami and other natural disasters. &lt;/p&gt;
+ &lt;p&gt; Number of deaths, missing or injured due to natural disasters per 100,000 population is the number of deaths, missing or injured due to natural disasters per 100,000 population in a defined year. &lt;/p&gt;</data>
 </root>

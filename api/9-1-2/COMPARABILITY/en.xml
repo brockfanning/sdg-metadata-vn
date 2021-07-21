@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 9-1-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The indicator “Volume of goods transported and circulated” is one of the indicators corresponding to the global SDG target “9.1.2. Passenger and freight volumes, by mode of transport”. The content of the Vietnamese and global indicators is the same, so the Vietnamese data warrant international comparison. &lt;/p&gt;
+ &lt;p&gt; The scope of the Vietnamese target covers the global target. The global indicator only counts the volume of goods in circulation. Vietnam includes the volume of goods transported and rotated. &lt;/p&gt;</data>
 </root>
