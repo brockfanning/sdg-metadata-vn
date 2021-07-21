@@ -4,7 +4,9 @@
 	<message>The COMPARABILITY field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator reflects part of the global SDG target 9.2.1: Manufacturing value added as a proportion of GDP and per capita. &lt;/p&gt;
+ &lt;p&gt; Vietnam&apos;s data are internationally comparable. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này phản ánh 1 phần chỉ tiêu SDG toàn cầu 9.2.1: Manufacturing value added as a proportion of GDP and per capita.&lt;/p&gt;
 &lt;p&gt;Số liệu của Việt Nam bảo đảm so sánh quốc tế.&lt;/p&gt;
 			</language>

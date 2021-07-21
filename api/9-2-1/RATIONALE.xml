@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 9-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; In Vietnam, the processing and manufacturing industry accounts for a large and increasing proportion. Therefore, this indicator is one of the important indicators to assess the level of industrialization of a country. The proportion of added value of the processing and manufacturing industry in the gross domestic product reflects the role of the processing and manufacturing industry in the economy in particular and national development in general. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tại Việt Nam, công nghiệp chế biến, chế tạo chiếm tỷ trọng lớn và ngày càng tăng. Do đó, chỉ tiêu này là một trong những chỉ tiêu quan trọng đánh giá mức độ công nghiệp hóa của một quốc gia. Tỷ trọng của giá trị tăng thêm ngành công nghiệp chế biến, chế tạo trong tổng sản phẩm trong nước phản ánh vai trò của ngành công nghiệp chế biến, chế tạo trong nền kinh tế nói riêng và sự phát triển quốc gia nói chung.&lt;/p&gt;
 			</language>
 </languages>

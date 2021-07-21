@@ -4,7 +4,25 @@
 	<message>The COLL_METHOD field for indicator 5-5-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicators are collected through the Economic Census. This is a census under the National Statistical Survey Program and is specified as follows: &lt;/p&gt;
+ &lt;p&gt; - Objects, investigation units: Production, business, non-business units, Party, mass organizations, associations; branches, representative offices of foreign enterprises/non-governmental organizations; non-agricultural and aquatic individual production and business establishments; religious and belief establishments. &lt;/p&gt;
+ &lt;p&gt; - Survey type: Comprehensive survey combined with sample survey &lt;/p&gt;
+ &lt;p&gt; - Investigation content: &lt;/p&gt;
+ &lt;p&gt; + Group of information identifying the investigation unit; &lt;/p&gt;
+ &lt;p&gt; + Group of information about labor and income of employees; &lt;/p&gt;
+ &lt;p&gt; + Group information about results, costs of production and business; &lt;/p&gt;
+ &lt;p&gt; + Information technology application group; &lt;/p&gt;
+ &lt;p&gt; + Grouping information by subject to be assessed, depending on actual requirements; &lt;/p&gt;
+ &lt;p&gt; - Information collection method: &lt;/p&gt;
+ &lt;p&gt; + Data mining from administrative records: &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Building a background list from administrative data sources from the Ministry of Finance (General Department of Taxation, State Treasury); Ministry of Planning and Investment (General Statistics Office, Business Registration Management Department) on the investigation unit. &lt;/li&gt;
+   &lt;li&gt; Process, check and map data from the General Department of Taxation, the State Treasury to integrate information into the results of the Census. &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; + Collecting information for enterprises, non-business units and associations: Provide information on the website of the 2021 Economic Census. The enumerator is responsible for providing financial information. account, password for the investigation unit to log into the system and guide the information provider to fill in the information in the electronic questionnaire (web-form) on the website of the Census. &lt;/p&gt;
+ &lt;p&gt; + For individual production and business establishments and religious and belief establishments: The investigator visits each establishment to meet the informant (the establishment owner) to interview and combine observations with the subject of the investigation. check to record all answers on an electronic questionnaire (CAPI) designed on a portable electronic device. &lt;/p&gt;
+ &lt;p&gt; For detailed information about the 2021 Economic Census, please visit the following link: https://tongdieutrakhite2021.gso.gov.vn/so-tay-huong-dan.html &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được thu thập qua Tổng điều tra kinh tế. Đây là cuộc tổng điều tra thuộc Chương trình điều tra thống kê quốc gia và được quy định như sau:&lt;/p&gt;
 &lt;p&gt;- Đối tượng, đơn vị điều tra: Các đơn vị sản xuất, kinh doanh, hoạt động sự nghiệp, Đảng, đoàn thể, hiệp hội; chi nhánh, văn phòng đại diện của doanh nghiệp/tổ chức phi chính phủ nước ngoài; cơ sở sản xuất kinh doanh cá thể phi nông nghiệp, thủy sản; cơ sở tôn giáo, tín ngưỡng.&lt;/p&gt;
 &lt;p&gt;- Loại điều tra: Điều tra toàn bộ kết hợp điều tra chọn mẫu&lt;/p&gt;

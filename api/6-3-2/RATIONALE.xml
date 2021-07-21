@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 6-3-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The indicator aims to assess the level of investment in infrastructure, overcoming environmental pollution caused by wastewater in industrial parks and export processing zones. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu nhằm đánh giá mức độ đầu tư vào cơ sở hạ tầng, khắc phục tình trạng ô nhiễm môi trường do nước thải tại các khu công nghiệp, khu chế xuất.&lt;/p&gt;
 			</language>
 </languages>

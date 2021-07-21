@@ -4,7 +4,9 @@
 	<message>The COMPARABILITY field for indicator 8-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator corresponds to the global SDG target 8.3.1: Proportion of informal employment in total employment, by sector and sex &lt;/p&gt;
+ &lt;p&gt; Content and scope are guaranteed for international comparability. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng với chỉ tiêu SDG toàn cầu 8.3.1: Proportion of informal employment in total employment, by sector and sex&lt;/p&gt;
 &lt;p&gt;Nội dung, phạm vi bảo đảm tính so sánh quốc tế.&lt;/p&gt;
 			</language>
