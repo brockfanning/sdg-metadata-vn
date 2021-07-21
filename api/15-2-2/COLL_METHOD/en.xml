@@ -2,5 +2,13 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 15-2-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Same as target 15.2.1 &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
+ &lt;p&gt; + Forest types. &lt;/p&gt;
+ &lt;p&gt; + Organizations, households and individuals that manage, protect and use forests. &lt;/p&gt;
+ &lt;p&gt; - Inquiry type: Full investigation &lt;/p&gt;
+ &lt;p&gt; - Investigation content: &lt;/p&gt;
+ &lt;p&gt; + Total forest area; &lt;/p&gt;
+ &lt;p&gt; + Forest area structure is classified by forest types and investment capital; &lt;/p&gt;
+ &lt;p&gt; + Forest reserve. &lt;/p&gt;</data>
 </root>

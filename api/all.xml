@@ -959,6 +959,79 @@
 </fields>
 
 						</indicator>
+						<indicator id="12-4-3">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Objective 12: Ensure a sustainable production and consumption model &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 12.4: By 2020, achieve good management of the life cycle of chemicals and waste in accordance with signed international commitments, in order to reduce pollution of the soil, water, air environment and harmful impacts to human health and the environment (target 12.4 globally) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 12.4.3. &lt;strong&gt; Percentage of residual contaminated land treated and improved &lt;/strong&gt; &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 10 Ton That Thuyet - Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; portal@monre.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Residual contaminated land area is an area where one or more residual pollutants are detected in excess of environmental technical regulations, adversely affecting humans, the environment and the ecosystem. &lt;/p&gt;
+ &lt;p&gt; Remaining contaminated soil areas identified in this regulation include areas contaminated by plant protection chemicals, toxic chemicals caused by war; unsanitary landfill has been shut down or closed. &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; Percentage of residual contaminated land areas treated and rehabilitated &lt;/strong&gt; is the percentage between residual contaminated land areas treated and rehabilitated over the total number of contaminated land areas residuals are detected. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Statistical reporting mode issued by the Ministry of Natural Resources and Environment. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; Indicators are compiled from the table No. 0411/BTNMT, statistical reporting regime issued by the Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year. &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; Indicator reflects the treatment situation &lt;strong&gt; contaminated land area &lt;/strong&gt; , which is the basis for assessing environmental protection. &lt;/p&gt;
+									</field>
+									<field id="REC_USE_LIM"> &lt;p&gt; Soil pollution in Vietnam tends to increase due to pollution from plant protection chemicals, fertilizers, industrial and domestic wastes from landfills, which are increasing in area and sources. wastewater has not been thoroughly treated. According to the List of chemical and pesticide stockpiling points causing serious and especially serious environmental pollution, if in 2016 there were 240 pesticide storage points nationwide in 15 provinces and cities. By 2018, this number had reached 335 points. As of the end of 2018, only 23% (77/335) of the inventory had been fully processed. By 2019, the contaminated lands with dioxin residues have been basically treated, specifically at Phu Cat airport (about 1.5 ha) and Da Nang airport (32.4 ha). . &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Figures available for 2010 and 2018 &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator reflects Vietnam&apos;s sustainable development goals (target 12.4). The set of global sustainable development indicators does not have this indicator &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 20/2018/TT-BTNMT dated November 8, 2018 stipulating the reporting regime for statistics of the Natural Resources and Environment sector &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="13-2-1">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Objective 13: Respond promptly and effectively to climate change and natural disasters &lt;/p&gt;
@@ -1018,6 +1091,208 @@
 									<field id="FREQ_COLL"/>
 									<field id="INST_MANDATE"/>
 									<field id="OTHER_METHOD"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="15-2-1">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 15: Protect and sustainably develop forests, conserve biodiversity, develop ecosystem services, combat desertification, prevent degradation and restore land resources &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 15.2: By 2020, fundamentally reduce the conversion of forest land use purposes to other purposes; By 2030, strengthen the implementation of sustainable management of all types of forests, prevent deforestation, restore degraded forests, promote reforestation and regeneration, and increase forest cover to about 44-45% nationwide. country (global 15.2 target) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 15.2.1. Existing forest area &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Forest area (hectares) [15.1.1] AG_LND_FRSTN &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 2, Ngoc Ha, Ba Dinh, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; trangtin@mard.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Forest is an ecosystem consisting of populations of forest plants, forest animals, forest microorganisms, forest soil and other environmental factors, in which the main component is one or several species of woody plants, bamboo, cork, areca tree whose height is determined according to the flora on the soil mountain, rocky mountain, wetland, sandy soil or other typical flora; adjacent area of 0.3 ha or more; shade from 0.1 or more. &lt;/p&gt;
+ &lt;p&gt; Existing forest area is the land area at the time of observation that meets the forest standards. &lt;/p&gt;
+ &lt;p&gt; Existing forest area divided by main use purpose includes special-use forest, protection forest and production forest; divided according to their origin, including natural forests and planted forests. &lt;/p&gt;
+ &lt;p&gt; * Forest area divided by use purpose &lt;/p&gt;
+ &lt;p&gt; a) Production forest area is the area of forest used mainly for the supply of forest products; combined production and business in forestry, agriculture and fishery; eco-tourism, convalescence and entertainment; providing forest environmental services. &lt;/p&gt;
+ &lt;p&gt; b) Area of protection forest is an area of forest used mainly for water source protection, soil protection, erosion control, landslide, flash flood, pipe flood, desertification control, natural disaster prevention, climate regulation, contributing to environmental protection, national defense and security, combining eco-tourism, convalescence and entertainment; provision of forest environmental services; classified according to the degree of weakness include: &lt;/p&gt;
+ &lt;p&gt; - Watershed protection forest; forests to protect water sources of residential communities; border protection forests; &lt;/p&gt;
+ &lt;p&gt; - Protection forest for wind and sand; protection forest to break waves and encroach on the sea. &lt;/p&gt;
+ &lt;p&gt; c) Special-use forest area is a forest area mainly used for the conservation of natural forest ecosystems, genetic resources of forest organisms, scientific research, and preservation of historical - cultural and religious relics. , scenic spots combined with eco-tourism; convalescence and entertainment except for strictly protected subdivisions of special-use forests; providing forest environment services including: &lt;/p&gt;
+ &lt;p&gt; - National park, meeting the following criteria: &lt;/p&gt;
+ &lt;p&gt; + Having at least 01 typical natural ecosystem of a region or country, internationally or having at least 01 species of organisms endemic to Vietnam or having more than 05 species on the List of forest plants and animals endangered, precious and rare forest animals; &lt;/p&gt;
+ &lt;p&gt; + Of special value in science and education; has environmental landscape, unique beauty of nature, has value for eco-tourism, convalescence and entertainment; &lt;/p&gt;
+ &lt;p&gt; + Having a contiguous area of at least 7,000 ha, of which at least 70% of the area is forest ecosystems. &lt;/p&gt;
+ &lt;p&gt; - Nature reserve, meeting the following criteria: &lt;/p&gt;
+ &lt;p&gt; + Having a natural ecosystem of national, international, specific, or representative importance to a natural ecological region; &lt;/p&gt;
+ &lt;p&gt; + Being the natural habitat of at least 05 species on the List of endangered, precious and rare species of forest flora and fauna; &lt;/p&gt;
+ &lt;p&gt; + Having special value in science, education or eco-tourism, convalescence or entertainment; &lt;/p&gt;
+ &lt;p&gt; + At least 5,000 ha of contiguous area, of which at least 90% of the area is forest ecosystems. &lt;/p&gt;
+ &lt;p&gt; - Species - habitat conservation area, meeting the following criteria: &lt;/p&gt;
+ &lt;p&gt; + Being a regular or seasonal natural habitat of at least 01 endemic species or species on the List of endangered, precious and rare species of forest plants and animals; &lt;/p&gt;
+ &lt;p&gt; + Must ensure living, food and reproductive conditions for sustainable conservation of endemic species or species on the List of endangered, precious and rare species of forest plants and animals; &lt;/p&gt;
+ &lt;p&gt; + Of special value in science and education; &lt;/p&gt;
+ &lt;p&gt; + Having an area adjacent to the region meeting the requirements of sustainable conservation of species on the List of endangered, precious and rare forest plants and animals. &lt;/p&gt;
+ &lt;p&gt; - Landscape protection area including forests preserving historical - cultural relics and scenic spots; faith forest; urban environmental protection forests, industrial parks, export processing zones, economic zones, and high-tech zones, meeting the following criteria: &lt;/p&gt;
+ &lt;p&gt; + Forests that preserve historical - cultural relics and scenic spots that meet the following criteria: have environmental landscapes, unique natural beauty; have historical - cultural relics, scenic spots that have been ranked by competent state agencies or have objects on the list of inventory of relics according to the provisions of the law on culture; valuable in science, education, eco-tourism, convalescence and entertainment; &lt;/p&gt;
+ &lt;p&gt; + Faith forest meets the following criteria: Having environmental landscape, unique beauty of nature; the forest is associated with the beliefs, customs and practices of the community living on the forest; &lt;/p&gt;
+ &lt;p&gt; + Forests for environmental protection in urban areas, industrial parks, export processing zones, economic zones, and high-tech zones meeting the following criteria: The forest has the function of protection, protection of the landscape and environment; are planned in association with urban areas, industrial parks, export processing zones, economic zones and high-tech zones. &lt;/p&gt;
+ &lt;p&gt; - Scientific research and experimental forest, meeting the following criteria: &lt;/p&gt;
+ &lt;p&gt; + Having an ecosystem that meets the requirements of scientific research and experimentation of science and technology organizations, training and vocational education with functions and tasks of forestry research and experimentation; &lt;/p&gt;
+ &lt;p&gt; + Having an area suitable to objectives, research requirements, scientific experiments, technology development, and long-term forestry training. &lt;/p&gt;
+ &lt;p&gt; - National Botanical Garden: A forest that stores and collects plant species in Vietnam and the world for research, sightseeing, education, with a number of woody species of 500 or more and an area of more than 500 species. at least 50 hectares. &lt;/p&gt;
+ &lt;p&gt; - National seed forest, meeting the following criteria: &lt;/p&gt;
+ &lt;p&gt; + As a forest of transformed varieties and planted varieties of trees on the list of major forestry plant varieties; &lt;/p&gt;
+ &lt;p&gt; + Meets the requirements of the national standard on seed forests, with an area of at least 30 hectares. &lt;/p&gt;
+ &lt;p&gt; * Forest area divided by origin &lt;/p&gt;
+ &lt;p&gt; a) Natural forest area is the area of forest available in nature or restored by natural regeneration or regeneration with additional planting. &lt;/p&gt;
+ &lt;p&gt; b) Planted forest area is an area of forest newly formed by humans on land without forest; reclamation of natural forests; replanting or regeneration after exploitation of planted forests. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; ha &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Forest inventory survey; &lt;/p&gt;
+ &lt;p&gt; - National level statistical reporting mode &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; a) Forest inventory survey &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
+ &lt;p&gt; + Forest types. &lt;/p&gt;
+ &lt;p&gt; + Organizations, households and individuals that manage, protect and use forests. &lt;/p&gt;
+ &lt;p&gt; - Inquiry type: Full investigation &lt;/p&gt;
+ &lt;p&gt; - Investigation content: &lt;/p&gt;
+ &lt;p&gt; + Total forest area; &lt;/p&gt;
+ &lt;p&gt; + Forest area structure is classified by forest types and investment capital; &lt;/p&gt;
+ &lt;p&gt; + Forest reserve. &lt;/p&gt;
+ &lt;p&gt; b) National statistical reporting regime: Table 001.N/BCB-NNPTNT &lt;/p&gt;
+									</field>
+									<field id="FREQ_COLL"> &lt;p&gt; Period and time of investigation: Cycle of 5 years, January 1st (conducted in years ending in 0 and 5). &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; 5 years &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; Indicator reflecting the current status of forest resources at a given time; is the basis for evaluating the results of planting trees to cause forests, greening bare land and bare hills, and the management and protection of forests and environmental protection, serving the management, planning of policies for forestry development and calculation. other forestry indicators &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Figures available annually from 2010 -2019 (except 2017) &lt;/p&gt;
+ &lt;p&gt; Annual data are available for the ancestral divisions; region and city &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator reflects the global sustainable development target “15.2.1: Progress towards sustainable forest management” &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_COMP"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="15-2-2">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 15: Protect and sustainably develop forests, conserve biodiversity, develop ecosystem services, combat desertification, prevent degradation and restore land resources &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 15.2: By 2020, fundamentally reduce the conversion of forest land use purposes to other purposes; By 2030, strengthen the implementation of sustainable management of all types of forests, prevent deforestation, restore degraded forests, promote reforestation and regeneration, and increase forest cover to about 44-45% nationwide. country (global 15.2 target) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 15.2.2. Forest cover rate &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Forest area as a proportion of total land area [15.1.1] AG_LND_FRST &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 2, Ngoc Ha, Ba Dinh, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; trangtin@mard.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Forest cover ratio is the percentage of forest area to total natural land area over a given geographical area. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Forest inventory survey; &lt;/p&gt;
+ &lt;p&gt; - National level statistical reporting mode &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; Same as target 15.2.1 &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit: &lt;/p&gt;
+ &lt;p&gt; + Forest types. &lt;/p&gt;
+ &lt;p&gt; + Organizations, households and individuals that manage, protect and use forests. &lt;/p&gt;
+ &lt;p&gt; - Inquiry type: Full investigation &lt;/p&gt;
+ &lt;p&gt; - Investigation content: &lt;/p&gt;
+ &lt;p&gt; + Total forest area; &lt;/p&gt;
+ &lt;p&gt; + Forest area structure is classified by forest types and investment capital; &lt;/p&gt;
+ &lt;p&gt; + Forest reserve. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Agriculture and Rural Development &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the level of forest cover at a reporting time. The targets are the basis for the State to formulate and inspect the forestry development plan; direct branches and localities to implement measures to protect and develop existing forest areas, plant new concentrated forests and plant scattered trees. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Figures available annually from 2010 -2019 (except 2017) &lt;/p&gt;
+ &lt;p&gt; Annual data available for city and regional subdivisions &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator corresponds to the global SDG target 15.1.1: Forest area as a proportion of total land area &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
 									<field id="DATA_VALIDATION"/>
 									<field id="ADJUSTMENT"/>
 									<field id="IMPUTATION"/>
@@ -6221,151 +6496,7 @@
 </fields>
 
 						</indicator>
-						<indicator id="12-4-3">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
 						<indicator id="14-5-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="15-2-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="15-2-2">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>

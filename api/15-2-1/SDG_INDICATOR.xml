@@ -4,7 +4,8 @@
 	<message>The SDG_INDICATOR field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator 15.2.1. Existing forest area &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 15.2.1. Diện tích rừng hiện có&lt;/p&gt;
 			</language>
 </languages>

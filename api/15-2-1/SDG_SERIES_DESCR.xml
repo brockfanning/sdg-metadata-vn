@@ -4,7 +4,8 @@
 	<message>The SDG_SERIES_DESCR field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Forest area (hectares) [15.1.1] AG_LND_FRSTN &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt; Forest area (hectares) [15.1.1] AG_LND_FRSTN&lt;/p&gt;
 			</language>
 </languages>
