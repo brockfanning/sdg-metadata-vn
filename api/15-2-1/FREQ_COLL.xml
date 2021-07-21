@@ -4,7 +4,8 @@
 	<message>The FREQ_COLL field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Period and time of investigation: Cycle of 5 years, January 1st (conducted in years ending in 0 and 5). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Thời kỳ, thời điểm điều tra: Chu kỳ 5 năm, ngày 01 tháng 01 (tiến hành vào các năm có số tận cùng là 0 và 5).&lt;/p&gt;
 			</language>
 </languages>

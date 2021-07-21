@@ -4,7 +4,9 @@
 	<message>The RATIONALE field for indicator 1-1-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Multidimensional poverty rate is used to study and assess the situation of poor children according to each child&apos;s development needs, as a basis for formulating policies and strategies to create favorable conditions for children. fully developed both physically and mentally until adulthood. &lt;/p&gt;
+ &lt;p&gt; - Measuring child multidimensional poverty in order to supplement the national multidimensional poverty for beneficiary identification and child policy making in accordance with the Law on Children. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Tỷ lệ trẻ em nghèo đa chiều được sử dụng để nghiên cứu, đánh giá thực trạng về trẻ em nghèo theo từng nhu cầu phát triển của trẻ, là căn cứ xây dựng các chính sách, chiến lược để tạo điều kiện cho trẻ được phát triển toàn diện cả về thể chất, tinh thần cho đến khi trưởng thành.&lt;/p&gt;
 &lt;p&gt;- Đo lường nghèo đa chiều trẻ em nhằm bổ sung vào nghèo đa chiều quốc gia phục vụ cho việc xác định đối tượng thụ hưởng, hoạch định chính sách trẻ em theo Luật Trẻ em.&lt;/p&gt;
 			</language>

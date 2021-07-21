@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 9-4-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Spending on science and technology: The Ministry of Science and Technology synthesizes data from Table 03/KHCN-CP, the mode of statistical reporting of the Science and Technology sector and sends it to the General Statistics Office &lt;/p&gt;
+ &lt;p&gt; - The General Statistics Office calculates the gross domestic product and combines the data &quot;Science and technology spending&quot; to calculate the indicator &quot;The ratio of spending on science and technology to gross domestic product&quot;. &lt;/p&gt;</data>
 </root>

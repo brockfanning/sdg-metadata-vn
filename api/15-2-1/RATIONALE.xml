@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 15-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Indicator reflecting the current status of forest resources at a given time; is the basis for evaluating the results of planting trees to cause forests, greening bare land and bare hills, and the management and protection of forests and environmental protection, serving the management, planning of policies for forestry development and calculation. other forestry indicators &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh thực trạng tài nguyên rừng tại thời điểm nhất định; là cơ sở đánh giá kết quả trồng cây gây rừng, phủ xanh đất trống đồi trọc và công tác quản lý bảo vệ rừng, bảo vệ môi trường, phục vụ cho công tác quản lý, hoạch định chính sách phát triển lâm nghiệp và tính toán các chỉ tiêu lâm nghiệp khác&lt;/p&gt;
 			</language>
 </languages>

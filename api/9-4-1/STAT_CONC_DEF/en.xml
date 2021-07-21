@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 9-4-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Expenditure on science and technology is the total internal expenditure in the territory of Vietnam in a certain period, including expenditures on science and technology (scientific research, research and development activities). experimentation, technology development, technology application, science and technology services, promotion of initiatives and other creative activities for the development of science and technology) in the territory of Vietnam from all sources but excluding expenses for science and technology invested by Vietnamese organizations and individuals outside the Vietnamese territory (referred to as total domestic expenditure on science and technology). &lt;/p&gt;
+ &lt;p&gt; Total domestic expenditure on science and technology is measured by summing up the internal expenditures of the entities performing the expenditure on science and technology activities (internal expenditure of: Scientific research organizations). science and technology development; higher education institutions; science and technology service organizations; administrative agencies and other non-business units; enterprises and the not-for-profit sector). &lt;/p&gt;</data>
 </root>

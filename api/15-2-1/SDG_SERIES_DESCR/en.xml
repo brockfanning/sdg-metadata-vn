@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The SDG_SERIES_DESCR field for indicator 15-2-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; Forest area (hectares) [15.1.1] AG_LND_FRSTN &lt;/p&gt;</data>
 </root>

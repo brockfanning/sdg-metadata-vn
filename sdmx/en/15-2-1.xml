@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T22:19:43.507Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T22:20:35.353Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="f05cb5e8-6e1b-40bd-9301-a541c1f4f90a">
+  <mes:MetadataSet structureRef="MDS1" setID="3d770926-0e27-4a59-92de-14fcfd56b0c9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,64 +54,115 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Goal 15: Protect and sustainably develop forests, conserve biodiversity, develop ecosystem services, combat desertification, prevent degradation and restore land resources </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 15.2: By 2020, fundamentally reduce the conversion of forest land use purposes to other purposes; By 2030, strengthen the implementation of sustainable management of all types of forests, prevent deforestation, restore degraded forests, promote reforestation and regeneration, and increase forest cover to about 44-45% nationwide. country (global 15.2 target) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 15.2.1. Existing forest area </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Forest area (hectares) [15.1.1] AG_LND_FRSTN </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> No. 2, Ngoc Ha, Ba Dinh, Hanoi </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> trangtin@mard.gov.vn </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Forest is an ecosystem consisting of populations of forest plants, forest animals, forest microorganisms, forest soil and other environmental factors, in which the main component is one or several species of woody plants, bamboo, cork, areca tree whose height is determined according to the flora on the soil mountain, rocky mountain, wetland, sandy soil or other typical flora; adjacent area of 0.3 ha or more; shade from 0.1 or more. </p>
+ <p> Existing forest area is the land area at the time of observation that meets the forest standards. </p>
+ <p> Existing forest area divided by main use purpose includes special-use forest, protection forest and production forest; divided according to their origin, including natural forests and planted forests. </p>
+ <p> * Forest area divided by use purpose </p>
+ <p> a) Production forest area is the area of forest used mainly for the supply of forest products; combined production and business in forestry, agriculture and fishery; eco-tourism, convalescence and entertainment; providing forest environmental services. </p>
+ <p> b) Area of protection forest is an area of forest used mainly for water source protection, soil protection, erosion control, landslide, flash flood, pipe flood, desertification control, natural disaster prevention, climate regulation, contributing to environmental protection, national defense and security, combining eco-tourism, convalescence and entertainment; provision of forest environmental services; classified according to the degree of weakness include: </p>
+ <p> - Watershed protection forest; forests to protect water sources of residential communities; border protection forests; </p>
+ <p> - Protection forest for wind and sand; protection forest to break waves and encroach on the sea. </p>
+ <p> c) Special-use forest area is a forest area mainly used for the conservation of natural forest ecosystems, genetic resources of forest organisms, scientific research, and preservation of historical - cultural and religious relics. , scenic spots combined with eco-tourism; convalescence and entertainment except for strictly protected subdivisions of special-use forests; providing forest environment services including: </p>
+ <p> - National park, meeting the following criteria: </p>
+ <p> + Having at least 01 typical natural ecosystem of a region or country, internationally or having at least 01 species of organisms endemic to Vietnam or having more than 05 species on the List of forest plants and animals endangered, precious and rare forest animals; </p>
+ <p> + Of special value in science and education; has environmental landscape, unique beauty of nature, has value for eco-tourism, convalescence and entertainment; </p>
+ <p> + Having a contiguous area of at least 7,000 ha, of which at least 70% of the area is forest ecosystems. </p>
+ <p> - Nature reserve, meeting the following criteria: </p>
+ <p> + Having a natural ecosystem of national, international, specific, or representative importance to a natural ecological region; </p>
+ <p> + Being the natural habitat of at least 05 species on the List of endangered, precious and rare species of forest flora and fauna; </p>
+ <p> + Having special value in science, education or eco-tourism, convalescence or entertainment; </p>
+ <p> + At least 5,000 ha of contiguous area, of which at least 90% of the area is forest ecosystems. </p>
+ <p> - Species - habitat conservation area, meeting the following criteria: </p>
+ <p> + Being a regular or seasonal natural habitat of at least 01 endemic species or species on the List of endangered, precious and rare species of forest plants and animals; </p>
+ <p> + Must ensure living, food and reproductive conditions for sustainable conservation of endemic species or species on the List of endangered, precious and rare species of forest plants and animals; </p>
+ <p> + Of special value in science and education; </p>
+ <p> + Having an area adjacent to the region meeting the requirements of sustainable conservation of species on the List of endangered, precious and rare forest plants and animals. </p>
+ <p> - Landscape protection area including forests preserving historical - cultural relics and scenic spots; faith forest; urban environmental protection forests, industrial parks, export processing zones, economic zones, and high-tech zones, meeting the following criteria: </p>
+ <p> + Forests that preserve historical - cultural relics and scenic spots that meet the following criteria: have environmental landscapes, unique natural beauty; have historical - cultural relics, scenic spots that have been ranked by competent state agencies or have objects on the list of inventory of relics according to the provisions of the law on culture; valuable in science, education, eco-tourism, convalescence and entertainment; </p>
+ <p> + Faith forest meets the following criteria: Having environmental landscape, unique beauty of nature; the forest is associated with the beliefs, customs and practices of the community living on the forest; </p>
+ <p> + Forests for environmental protection in urban areas, industrial parks, export processing zones, economic zones, and high-tech zones meeting the following criteria: The forest has the function of protection, protection of the landscape and environment; are planned in association with urban areas, industrial parks, export processing zones, economic zones and high-tech zones. </p>
+ <p> - Scientific research and experimental forest, meeting the following criteria: </p>
+ <p> + Having an ecosystem that meets the requirements of scientific research and experimentation of science and technology organizations, training and vocational education with functions and tasks of forestry research and experimentation; </p>
+ <p> + Having an area suitable to objectives, research requirements, scientific experiments, technology development, and long-term forestry training. </p>
+ <p> - National Botanical Garden: A forest that stores and collects plant species in Vietnam and the world for research, sightseeing, education, with a number of woody species of 500 or more and an area of more than 500 species. at least 50 hectares. </p>
+ <p> - National seed forest, meeting the following criteria: </p>
+ <p> + As a forest of transformed varieties and planted varieties of trees on the list of major forestry plant varieties; </p>
+ <p> + Meets the requirements of the national standard on seed forests, with an area of at least 30 hectares. </p>
+ <p> * Forest area divided by origin </p>
+ <p> a) Natural forest area is the area of forest available in nature or restored by natural regeneration or regeneration with additional planting. </p>
+ <p> b) Planted forest area is an area of forest newly formed by humans on land without forest; reclamation of natural forests; replanting or regeneration after exploitation of planted forests. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> ha </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Forest inventory survey; </p>
+ <p> - National level statistical reporting mode </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> a) Forest inventory survey </p>
+ <p> - Subject, investigation unit: </p>
+ <p> + Forest types. </p>
+ <p> + Organizations, households and individuals that manage, protect and use forests. </p>
+ <p> - Inquiry type: Full investigation </p>
+ <p> - Investigation content: </p>
+ <p> + Total forest area; </p>
+ <p> + Forest area structure is classified by forest types and investment capital; </p>
+ <p> + Forest reserve. </p>
+ <p> b) National statistical reporting regime: Table 001.N/BCB-NNPTNT </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Period and time of investigation: Cycle of 5 years, January 1st (conducted in years ending in 0 and 5). </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> 5 years </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Agriculture and Rural Development </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator reflecting the current status of forest resources at a given time; is the basis for evaluating the results of planting trees to cause forests, greening bare land and bare hills, and the management and protection of forests and environmental protection, serving the management, planning of policies for forestry development and calculation. other forestry indicators </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Figures available annually from 2010 -2019 (except 2017) </p>
+ <p> Annual data are available for the ancestral divisions; region and city </p>
+ <p> (Published source: Statistical Yearbook of the General Statistics Office) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator reflects the global sustainable development target “15.2.1: Progress towards sustainable forest management” </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime </p>
+ <p> - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister </p>
+ <p> - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

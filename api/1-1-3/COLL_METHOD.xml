@@ -4,7 +4,18 @@
 	<message>The COLL_METHOD field for indicator 1-1-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The Vietnam population living standard survey is part of the national statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016. This is a sampling survey, where: &lt;/p&gt;
+ &lt;p&gt; - Subject, investigation unit &lt;/p&gt;
+ &lt;p&gt; + Residential; &lt;/p&gt;
+ &lt;p&gt; + Household members; &lt;/p&gt;
+ &lt;p&gt; + Communes with surveyed households (only in years ending in even numbers). &lt;/p&gt;
+ &lt;p&gt; &lt;strong&gt; - &lt;/strong&gt; Content of investigation &lt;/p&gt;
+ &lt;p&gt; + For household &lt;/p&gt;
+ &lt;p&gt; Collect information on: Demographic characteristics; education, health status and use of health services (only in years ending in even numbers); job; income; expenditures (only for years ending in even numbers); Asset; House; appliances, electricity, water, sanitary works (only survey in years ending in even numbers); Participating in the poverty reduction program, credit situation (only survey in years ending in even numbers). &lt;/p&gt;
+ &lt;p&gt; + For communes (only in years ending in even numbers) &lt;/p&gt;
+ &lt;p&gt; Collect the following information: General information on population and ethnic groups residing in the surveyed commune; infrastructure: electricity, roads, schools, stations, markets, water sources; economic status; some basic information about the socio-economic situation. &lt;/p&gt;
+ &lt;p&gt; - Information collection method: The KSMSDC applied the direct interview method. The enumerator is responsible for going directly to the head of the household and related household members to interview and record information on the household interview form. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Khảo sát mức sống dân cư Việt Nam thuộc chương trình điều tra thống kê quốc gia ban hành theo Quyết định số 43/2016/QĐ-TTg ngày 17/10/2016. Đây là cuộc điều tra chọn mẫu, trong đó:&lt;/p&gt;
 &lt;p&gt;- Đối tượng, đơn vị điều tra&lt;/p&gt;
 &lt;p&gt;+ Hộ dân cư;&lt;/p&gt;

@@ -4,7 +4,9 @@
 	<message>The SOURCE_TYPE field for indicator 9-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Expenditure on science and technology: Statistical reporting regime promulgated by the Ministry of Science and Technology; investigation of scientific research and technological development; investigate the scientific and technological potential of science and technology organizations; &lt;/p&gt;
+ &lt;p&gt; - Gross domestic product: As the data source of indicator 8.1.1. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Chi cho khoa học và công nghệ: Chế độ báo cáo thống kê do Bộ Khoa học và Công nghệ ban hành; điều tra nghiên cứu khoa học và phát triển công nghệ; điều tra tiềm lực khoa học và công nghệ của các tổ chức khoa học và công nghệ;&lt;/p&gt;
 &lt;p&gt;- Tổng sản phẩm trong nước: Như nguồn số liệu của chỉ tiêu 8.1.1.&lt;/p&gt;
 			</language>

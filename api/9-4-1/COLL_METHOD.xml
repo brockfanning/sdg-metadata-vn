@@ -4,7 +4,9 @@
 	<message>The COLL_METHOD field for indicator 9-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Spending on science and technology: The Ministry of Science and Technology synthesizes data from Table 03/KHCN-CP, the mode of statistical reporting of the Science and Technology sector and sends it to the General Statistics Office &lt;/p&gt;
+ &lt;p&gt; - The General Statistics Office calculates the gross domestic product and combines the data &quot;Science and technology spending&quot; to calculate the indicator &quot;The ratio of spending on science and technology to gross domestic product&quot;. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Chi cho khoa học và công nghệ: Bộ Khoa học và Công nghệ tổng hợp số liệu từ Biểu 03/KHCN-CP, chế độ báo cáo thống kê ngành Khoa học và Công nghệ và gửi Tổng cục Thống kê&lt;/p&gt;
 &lt;p&gt;- Tổng cục Thống kê tính tổng sản phẩm trong nước và kết hợp số liệu “Chi cho khoa học và công nghệ” để tính chỉ tiêu “Tỷ lệ chi cho khoa học và công nghệ so với tổng sản phẩm trong nước”.&lt;/p&gt;
 			</language>

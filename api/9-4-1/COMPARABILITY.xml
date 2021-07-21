@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 9-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator corresponds to the global sustainable development target 9.5.1: Research and development expenditure as a proportion of GDP &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này tương ứng chỉ tiêu phát triển bền vững toàn cầu 9.5.1: Research and development expenditure as a proportion of GDP&lt;/p&gt;
 			</language>
 </languages>

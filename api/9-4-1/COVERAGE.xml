@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 9-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Data is available every 2 years in 2013; 2015 and 2017 breakdown by funding source &lt;/p&gt;
+ &lt;p&gt; (Published source: National report in 2020 on 5-year progress towards implementation of sustainable development goals. Data from Ministry of Science and Technology and General Statistics Office) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Số liệu có 2 năm/lần các năm 2013; 2015 và 2017 phân tổ theo nguồn cấp kinh phí&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Bộ Khoa học Công nghệ và Tổng cục Thống kê)&lt;/p&gt;
 			</language>
