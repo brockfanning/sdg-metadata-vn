@@ -658,6 +658,169 @@
 </fields>
 
 						</indicator>
+						<indicator id="11-6-3">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 11: Sustainable and resilient urban and rural development; ensure a safe living and working environment; reasonable distribution of population and labor by region &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 11.6: Reduce harmful environmental impacts on people in cities, improve air quality management, urban waste and other waste sources (global 11.6 target) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 11.6.3. &lt;strong&gt; Concentrations of substances in the atmosphere &lt;/strong&gt; &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 10 Ton That Thuyet - Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; portal@monre.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Concentrations of substances in the surrounding air are measured and observed technical parameters of some substances existing in the air. Substances typical for air quality include: Total suspended dust (TSP), PM &lt;sub&gt; 10 &lt;/sub&gt; , PM &lt;sub&gt; 2.5 &lt;/sub&gt; , carbon monoxide (CO), sulfur dioxide (SO a00ce030a0a a69841d0a0a a69841d0ce0357fca) ), nitrogen oxide (NO &lt;sub&gt; 2 &lt;/sub&gt; ), ozone (O &lt;sub&gt; 3 &lt;/sub&gt; ) and lead dust (Pb) in the ambient air. &lt;/p&gt;
+ &lt;p&gt; - TSP: Are particles suspended in the air with an aerodynamic diameter less than or equal to 100μm. At high concentrations, TSP can cause effects on human health such as respiratory diseases, lung dust, tuberculosis,...; &lt;/p&gt;
+ &lt;p&gt; - PM &lt;sub&gt; 10 &lt;/sub&gt; : A type of dust with an aerodynamic diameter less than or equal to 10μm existing in the ambient air. This dust has the ability to penetrate deeply into the human body through the respiratory tract, causing diseases related to the respiratory tract; &lt;/p&gt;
+ &lt;p&gt; - PM &lt;sub&gt; 2.5 &lt;/sub&gt; : A type of dust with an aerodynamic diameter less than or equal to 2.5 μm existing in the surrounding air environment, capable of penetrating deeply into the human body through the roadway. respiratory, causing diseases related to the respiratory tract; &lt;/p&gt;
+ &lt;p&gt; - CO: A colorless, odorless, flammable and highly toxic gas; is the main product of incomplete combustion of carbon and carbon-containing compounds. Inhaling excessive amounts of CO can lead to hypoxemia or nervous system damage as well as possibly death; &lt;/p&gt;
+ &lt;p&gt; - SO &lt;sub&gt; 2 &lt;/sub&gt; : An inorganic gas, colorless, heavier than air; is one of the substances with high potential for environmental pollution, causing acid rain to corrode construction works, destroy flora, and cause desertification. In the gaseous form, SO &lt;sub&gt; 2 &lt;/sub&gt; exceeds the allowable threshold and will cause pneumonia, eye, skin,... in humans; &lt;/p&gt;
+ &lt;p&gt; - NO &lt;sub&gt; 2 &lt;/sub&gt; : A colorless gas, causing greenhouse effect, generated during the burning of fossil fuels; It is a poisonous, reddish-brown color with an unpleasant odor. NO &lt;sub&gt; 2 &lt;/sub&gt; is difficult to dissolve, so it can go deep into the lungs by inhalation, causing pneumonia and damaging alveolar cells; &lt;/p&gt;
+ &lt;p&gt; - O &lt;sub&gt; 3 &lt;/sub&gt; : Is an allotropic form of oxygen consisting of 3 oxygen molecules; is an unstable, degradable, corrosive substance and an environmental pollutant, at high concentrations, O &lt;sub&gt; 3 &lt;/sub&gt; has the potential to cause cancer in some animal species; &lt;/p&gt;
+ &lt;p&gt; - Pb: Lead particles that exist in the surrounding air as suspended dust, at high concentrations, if lead dust enters the respiratory tract, it will cause poisoning to the human body. Lead dust appears in the air in high concentrations when equipment using leaded fuel is in operation. &lt;/p&gt;
+ &lt;p&gt; The method of monitoring air quality assessment parameters is carried out in accordance with regulations of the Ministry of Natural Resources and Environment on technical process of air environment monitoring and other international standards. &lt;/p&gt;
+ &lt;p&gt; Currently, there are two commonly used methods to determine the concentration of pollutants in the air: &lt;/p&gt;
+ &lt;p&gt; - A method of directly measuring parameters by automatic monitoring equipment (fixed/mobile/handheld) and displaying direct and continuous results in real time. &lt;/p&gt;
+ This method implemented &lt;p&gt; defining parameters: TSP, PM &lt;sub&gt; 10 &lt;/sub&gt;, PM &lt;sub&gt; 2.5 &lt;/sub&gt;, CO, SO 2 &lt;/sub&gt; &lt;sub&gt;, NO &lt;/sub&gt; &lt;sub&gt; 2, O 3 &lt;/sub&gt; &lt;sub&gt; ... This method It is highly appreciated and tends to be widely used in many countries around the world because it is possible to continuously monitor the ambient air quality of the monitoring area over time, detect changes in time. Abnormalities of substances existing in the air. Currently, in Vietnam, this method is mainly implemented in some big cities and provinces. &lt;/p&gt;
+ &lt;p&gt; Concentrations of some substances in the air environment are determined as 1-hour average (which is the average value of measured values over a one-hour period) for SO parameters &lt;sub&gt; 2 &lt;/sub&gt; , CO, NO &lt;sub&gt; 2 &lt;/sub&gt; , O &lt;sub&gt; 3 &lt;/sub&gt; and TSP; 8-hour average (which is the average value of measured values over a continuous 8-hour period) for CO and O parameters &lt;sub&gt; 3 &lt;/sub&gt; ; 24-hour average (which is the average value of measured values over a continuous 24-hour period (one day and night) for the TSP parameter, PM &lt;sub&gt; 10 &lt;/sub&gt; , SO &lt;sub&gt; 2 &lt;/sub&gt; , NO18ez0 20f Pb; year mean (which is the mean of measured values over a one-year period) for TSP parameters, PM &lt;sub&gt; 10 &lt;/sub&gt; , PM &lt;sub&gt; 2.5 &lt;/sub&gt; , SO a000ce00357840be8 2 &lt;/sub&gt; and Pb. &lt;/p&gt;
+ &lt;p&gt; - Method of taking field samples and bringing them to the laboratory for analysis and results. This is the traditional method, which has been used for many years in Vietnam; has a large number of monitoring points covering many localities; is the main source of data for assessing air quality. However, because this method can only determine the concentration of toxic substances in the air in a certain period of time (depending on the number of monitoring times in the year), it is not possible to detect abnormal changes in the air in a timely manner. air quality. &lt;/p&gt;
+ &lt;p&gt; According to this method, the concentration of some substances in the ambient air is determined as the average data of the year&apos;s observations of each parameter at the monitoring point. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; mg/m3 &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; The list of administrative units in Vietnam issued together with the Prime Minister&apos;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; - Statistical reporting mode issued by the Ministry of Natural Resources and Environment; &lt;/p&gt;
+ &lt;p&gt; - Monitoring data at monitoring stations of ministries, branches and localities. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; Table 0401.1/BTNMT, statistical reporting mode issued by the Ministry of Natural Resources and Environment &lt;/p&gt;
+ &lt;p&gt; More information at the link: http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong -ke-nganh-tnmt.pdf &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year. &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; Indicator reflects the level of air pollution causing adverse effects on human health; in case if the toxic content exceeds the allowable level. In addition, the indicator is used to serve the development of policies and measures to control air pollution. &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; - Annual (not completely complete) PM2.5 concentration data from 2013-2018 according to station/monitoring point &lt;/p&gt;
+ &lt;p&gt; - TSP concentration data are available annually from 2016-2018 by station/monitoring point &lt;/p&gt;
+ &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Natural Resources and Environment) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator corresponds to the global SDG target “&lt;strong&gt; 11.6.2: &lt;/strong&gt; Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted)”. &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - Circular No. 20/2018/TT-BTNMT dated November 8, 2018 stipulating the reporting regime for statistics of the Natural Resources and Environment sector &lt;/p&gt;
+ &lt;p&gt; - http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong-ke-nganh-tnmt. pdf &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_COMP"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
+						<indicator id="11-6-4">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 11: Sustainable and resilient urban and rural development; ensure a safe living and working environment; reasonable distribution of population and labor by region &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 11.6: Reduce harmful environmental impacts on people in cities, improve air quality management, urban waste and other waste sources (global 11.6 target) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 11.6.4. GHG emissions per capita &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; Ministry of Natural Resources and Environment; &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; No. 10 Ton That Thuyet - Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; portal@monre.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Greenhouse gas emissions are gaseous components of the atmosphere, including natural gases and gases produced by human activities, that absorb and emit radiation at specific wavelengths in the spectral range. of thermal infrared radiation emitted from the earth&apos;s surface, atmosphere and by clouds These properties cause the greenhouse effect, only the heat-trapping effect in the lower atmosphere by greenhouse gases that absorb radiation from the ground and emit it back to the ground, making the lower atmosphere layer and the earth&apos;s surface warms. Under the Kyoto Protocol, the emissions causing the greenhouse effect is mainly composed of CO 2 &lt;/sub&gt; &lt;sub&gt;, CH 4 &lt;/sub&gt; &lt;sub&gt;, N &lt;/sub&gt; &lt;sub&gt; 2 O, HFCs, PFCs, SF 6 &lt;/sub&gt; &lt;sub&gt;, NF 3 &lt;/sub&gt; &lt;sub&gt;. &lt;/p&gt;
+ &lt;p&gt; The amount of greenhouse gas emissions calculated as CO emissions &lt;sub&gt; 2 &lt;/sub&gt; , collected nationwide. &lt;/p&gt;
+									</field>
+									<field id="UNIT_MEASURE"> &lt;p&gt; block tons/person &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; National level statistical reporting mode, Statistical reporting mode of the Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; Table No. 007.N/BCB-TNMT, national statistical reporting regime. &lt;/p&gt;
+ &lt;p&gt; More information at the link: http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong -ke-nganh-tnmt.pdf &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; 2 years. &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; Ministry of Natural Resources and Environment &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; The indicator reflects the emission of gases that mainly cause the greenhouse effect, destroy the ozone layer and have a direct impact on climate change. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Annual data from 2010-2018 from the International Energy Organization and the World Bank published in the Country Report 2020 on 5-year progress in implementing the sustainable development goals. &lt;/p&gt;
+ &lt;p&gt; There are no officially published data from the Ministry of Natural Resources and Environment. &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator reflects the sustainable development goals of Vietnam (target 11.6). The set of global sustainable development indicators does not have this indicator &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - Decree No. 60/2018/ND-CP dated April 20, 2018 promulgating the national statistical reporting regime &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - http://dwrm.gov.vn/uploads/laws/file/2017/2018/20-2018-tt-btnmt-quy-dinh-che-do-bao-cao-thong-ke-nganh-tnmt. pdf &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_SERIES_DESCR"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="CLASS_SYSTEM"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="12-2-2">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Objective 12: Ensure a sustainable production and consumption model &lt;/p&gt;
@@ -4095,6 +4258,85 @@
 </fields>
 
 						</indicator>
+						<indicator id="9-2-3">
+								<fields>
+									<field id="SDG_GOAL"> &lt;p&gt; Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization, enhance innovation &lt;/p&gt;
+									</field>
+									<field id="SDG_TARGET"> &lt;p&gt; Target 9.2: By 2030, promote inclusive and sustainable industrialization; upgrading infrastructure and supporting industries towards sustainability, increasing resource efficiency and applying clean and environmentally friendly technologies and production processes; substantial increase in employment rate and gross domestic product of industry (global 9.2 and 9.4 target) &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR"> &lt;p&gt; Indicator 9.2.3. Percentage of employed workers in the processing and manufacturing industry &lt;/p&gt;
+									</field>
+									<field id="SDG_SERIES_DESCR"> &lt;p&gt; Manufacturing employment as a proportion of total employment [9.2.2] SL_TLF_MANF &lt;/p&gt;
+									</field>
+									<field id="META_LAST_UPDATE"> &lt;p&gt; June 2021 &lt;/p&gt;
+									</field>
+									<field id="CONTACT_ORGANISATION"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="CONTACT_MAIL"> &lt;p&gt; 54 Nguyen Chi Thanh, Dong Da, Hanoi &lt;/p&gt;
+									</field>
+									<field id="CONTACT_EMAIL"> &lt;p&gt; banbientap@gso.gov.vn &lt;/p&gt;
+									</field>
+									<field id="STAT_CONC_DEF"> &lt;p&gt; Employment rate in the processing and manufacturing industry is the percentage between the number of employed workers in the processing and manufacturing industry compared to the total number of employed workers. &lt;/p&gt;
+									</field>
+									<field id="CLASS_SYSTEM"> &lt;p&gt; Not applicable &lt;/p&gt;
+									</field>
+									<field id="SOURCE_TYPE"> &lt;p&gt; Labor and employment survey. &lt;/p&gt;
+									</field>
+									<field id="COLL_METHOD"> &lt;p&gt; This is a sampling survey specified in the National Statistical Survey Program. &lt;/p&gt;
+ &lt;p&gt; The Labor and Employment Survey is a sampling survey with a sample size that ensures statistical estimates for the region, Hanoi, and Ho Chi Minh City quarterly and for the province by year. &lt;/p&gt;
+ &lt;p&gt; - Sampling survey using two-stage stratified sampling method: &lt;/p&gt;
+ &lt;p&gt; + Phase 1: The commune determines the number of sample areas; distribution of sample EAs based on the list of master EAs of the 2019 Population and Housing Census in each province in 2 floors for urban and rural areas; select the EAs according to the probability method proportional to the household size of the area. &lt;/p&gt;
+ &lt;p&gt; + Stage 2: Select sample households in each enumeration area. The sample was selected in phase 1 by systematic random method. &lt;/p&gt;
+ &lt;p&gt; - Information collection method: Direct interview method using electronic questionnaire installed on the enumerator&apos;s tablet or smartphone. The enumerator went to each household to ask the information provider and recorded all the answers on the electronic form. &lt;/p&gt;
+ &lt;p&gt; Purpose: Collecting information reflecting the current situation of labor resources and employment in order to serve the requirements of management, effective exploitation and use, and rational development of labor market resources; serving the calculation of labor and employment statistical indicators specified in the national statistical indicator system. &lt;/p&gt;
+									</field>
+									<field id="REL_CAL_POLICY"> &lt;p&gt; Year &lt;/p&gt;
+									</field>
+									<field id="DATA_SOURCE"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="COMPILING_ORG"> &lt;p&gt; General Statistics Office &lt;/p&gt;
+									</field>
+									<field id="RATIONALE"> &lt;p&gt; This indicator reflects the proportion of employed workers in the processing and manufacturing industry in the total number of employees. It measures the ability of the manufacturing industry to absorb excess labor from other agricultural and traditional sectors. &lt;/p&gt;
+									</field>
+									<field id="DATA_COMP"> &lt;p&gt; Method of computation &lt;/p&gt;
+ &lt;p&gt; &lt;img src=&quot;data:image/png;base64,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&quot;&gt; &lt;/p&gt;
+									</field>
+									<field id="COVERAGE"> &lt;p&gt; Annually available figures from 2010-2019 &lt;/p&gt;
+ &lt;p&gt; Full data by sex and age groups have not been published. &lt;/p&gt;
+ &lt;p&gt; (Published source: Statistical Yearbook of the General Statistics Office) &lt;/p&gt;
+									</field>
+									<field id="COMPARABILITY"> &lt;p&gt; This indicator corresponds to the global SDG target 9.2.2: Manufacturing employment as a proportion of total employment. The calculation method of the Vietnamese indicator is consistent with the global one, so Vietnam&apos;s data ensures international comparison. &lt;/p&gt;
+									</field>
+									<field id="OTHER_DOC"> &lt;p&gt; - National statistical survey program issued under Decision No. 43/2016/QD-TTg dated October 17, 2016 of the Prime Minister &lt;/p&gt;
+ &lt;p&gt; - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; &lt;/p&gt;
+ &lt;p&gt; - &lt;a href=&quot;https://unstats.un.org/sdgs/metadata/&quot;&gt; https://unstats.un.org/sdgs/metadata/ &lt;/a&gt; &lt;/p&gt;
+									</field>
+									<field id="SDG_INDICATOR_INFO"/>
+									<field id="SDG_RELATED_INDICATORS"/>
+									<field id="SDG_CUSTODIAN_AGENCIES"/>
+									<field id="CONTACT"/>
+									<field id="CONTACT_NAME"/>
+									<field id="ORGANISATION_UNIT"/>
+									<field id="CONTACT_FUNCT"/>
+									<field id="CONTACT_PHONE"/>
+									<field id="IND_DEF_CON_CLASS"/>
+									<field id="UNIT_MEASURE"/>
+									<field id="SRC_TYPE_COLL_METHOD"/>
+									<field id="FREQ_COLL"/>
+									<field id="INST_MANDATE"/>
+									<field id="OTHER_METHOD"/>
+									<field id="REC_USE_LIM"/>
+									<field id="DATA_VALIDATION"/>
+									<field id="ADJUSTMENT"/>
+									<field id="IMPUTATION"/>
+									<field id="REG_AGG"/>
+									<field id="DOC_METHOD"/>
+									<field id="QUALITY_MGMNT"/>
+									<field id="QUALITY_ASSURE"/>
+									<field id="QUALITY_ASSMNT"/>
+</fields>
+
+						</indicator>
 						<indicator id="9-5-1">
 								<fields>
 									<field id="SDG_GOAL"> &lt;p&gt; Goal 9: Build resilient infrastructure, promote inclusive and sustainable industrialization, enhance innovation &lt;/p&gt;
@@ -4359,102 +4601,6 @@
 
 						</indicator>
 						<indicator id="11-5-1">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="11-6-3">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="11-6-4">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
@@ -6519,54 +6665,6 @@
 
 						</indicator>
 						<indicator id="9-2-2">
-								<fields>
-									<field id="SDG_INDICATOR_INFO"/>
-									<field id="SDG_GOAL"/>
-									<field id="SDG_TARGET"/>
-									<field id="SDG_INDICATOR"/>
-									<field id="SDG_SERIES_DESCR"/>
-									<field id="META_LAST_UPDATE"/>
-									<field id="SDG_RELATED_INDICATORS"/>
-									<field id="SDG_CUSTODIAN_AGENCIES"/>
-									<field id="CONTACT"/>
-									<field id="CONTACT_ORGANISATION"/>
-									<field id="CONTACT_NAME"/>
-									<field id="ORGANISATION_UNIT"/>
-									<field id="CONTACT_FUNCT"/>
-									<field id="CONTACT_PHONE"/>
-									<field id="CONTACT_MAIL"/>
-									<field id="CONTACT_EMAIL"/>
-									<field id="IND_DEF_CON_CLASS"/>
-									<field id="STAT_CONC_DEF"/>
-									<field id="UNIT_MEASURE"/>
-									<field id="CLASS_SYSTEM"/>
-									<field id="SRC_TYPE_COLL_METHOD"/>
-									<field id="SOURCE_TYPE"/>
-									<field id="COLL_METHOD"/>
-									<field id="FREQ_COLL"/>
-									<field id="REL_CAL_POLICY"/>
-									<field id="DATA_SOURCE"/>
-									<field id="COMPILING_ORG"/>
-									<field id="INST_MANDATE"/>
-									<field id="OTHER_METHOD"/>
-									<field id="RATIONALE"/>
-									<field id="REC_USE_LIM"/>
-									<field id="DATA_COMP"/>
-									<field id="DATA_VALIDATION"/>
-									<field id="ADJUSTMENT"/>
-									<field id="IMPUTATION"/>
-									<field id="REG_AGG"/>
-									<field id="DOC_METHOD"/>
-									<field id="QUALITY_MGMNT"/>
-									<field id="QUALITY_ASSURE"/>
-									<field id="QUALITY_ASSMNT"/>
-									<field id="COVERAGE"/>
-									<field id="COMPARABILITY"/>
-									<field id="OTHER_DOC"/>
-</fields>
-
-						</indicator>
-						<indicator id="9-2-3">
 								<fields>
 									<field id="SDG_INDICATOR_INFO"/>
 									<field id="SDG_GOAL"/>
