@@ -4,8 +4,7 @@
 	<message>The COLL_METHOD field for indicator 16-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; For more information, visit the link: https://papi.org.vn/bao-cao/ &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Thông tin chi tiết truy cập tại đường link: https://papi.org.vn/bao-cao/&lt;/p&gt;
 			</language>
 </languages>

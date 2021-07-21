@@ -4,8 +4,7 @@
 	<message>The SDG_SERIES_DESCR field for indicator 16-5-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2] IC_FRM_BRIB &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2] IC_FRM_BRIB&lt;/p&gt;
 			</language>
 </languages>

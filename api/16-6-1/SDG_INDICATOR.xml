@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 16-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 16.6.1. Proportion of the population satisfied with public services in the last time &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 16.6.1. Tỷ lệ dân số hài lòng về dịch vụ công trong lần gần đây nhất&lt;/p&gt;
 			</language>
 </languages>
