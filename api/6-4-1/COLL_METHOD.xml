@@ -4,8 +4,7 @@
 	<message>The COLL_METHOD field for indicator 6-4-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicators are compiled from administrative data of the Ministry of Natural Resources and Environment &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu được tổng hợp từ dữ liệu hành chính của Bộ Tài nguyên và Môi trường&lt;/p&gt;
 			</language>
 </languages>

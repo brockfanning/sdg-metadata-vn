@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 6-3-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 6.3.2. Percentage of industrial parks and export processing zones that have been put into operation with centralized wastewater treatment plants meeting environmental standards &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 6.3.2. Tỷ lệ khu công nghiệp, khu chế xuất đã đi vào hoạt động có nhà máy xử lý nước thải tập trung đạt tiêu chuẩn môi trường&lt;/p&gt;
 			</language>
 </languages>

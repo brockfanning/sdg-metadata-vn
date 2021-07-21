@@ -4,8 +4,7 @@
 	<message>The SDG_TARGET field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Objective 17.2: Improve quality and added value in exports. Striving to achieve export growth rate of over 10%/year (global target 17.11)
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 17.2: Nâng cao chất lượng và giá trị gia tăng trong xuất khẩu. Phấn đấu đạt tốc độ tăng trưởng xuất khẩu trên 10%/năm (mục tiêu 17.11 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

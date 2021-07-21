@@ -4,8 +4,7 @@
 	<message>The CONTACT_MAIL field for indicator 5-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; 54 Nguyen Chi Thanh, Dong Da, Hanoi &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;54 Nguyễn Chí Thanh, Đống Đa, Hà Nội&lt;/p&gt;
 			</language>
 </languages>

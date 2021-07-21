@@ -4,8 +4,7 @@
 	<message>The SDG_TARGET field for indicator 6-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Target 6.2: By 2030, ensure equitable access to adequate facilities and sanitation for all, with special attention to the needs of women, girls, persons with disabilities and vulnerable subjects; stop going to the bathroom outdoors; 100% of households have hygienic latrines (Global target 6.2) &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 6.2: Đến năm 2030, đảm bảo tiếp cận công bằng các công trình và điều kiện vệ sinh phù hợp cho tất cả mọi người, đặc biệt chú ý đến nhu cầu của phụ nữ, trẻ em gái, người khuyết tật và đối tượng dễ bị tổn thương; chấm dứt đi vệ sinh ngoài trời; 100% số hộ gia đình có nhà tiêu hợp vệ sinh (Mục tiêu 6.2 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

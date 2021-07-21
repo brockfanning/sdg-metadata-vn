@@ -4,26 +4,7 @@
 	<message>The DATA_COMP field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Calculation method &lt;/p&gt;
- &lt;p&gt; Statistical time: Is the time when the customs office accepts the registration of the customs declaration. &lt;/p&gt;
- &lt;p&gt; Changes in customs declarations during the implementation of customs procedures will be updated in the customs information system and adjusted in statistical reports. &lt;/p&gt;
- &lt;p&gt; Statistical value of exported goods: The value developed by the customs authority for statistical purposes on the basis of the declared value and following the following principles: &lt;/p&gt;
- &lt;p&gt; - Is the price of the goods up to the checkpoint of export, excluding international insurance and international freight charges (value calculated on FOB delivery terms or equivalent); &lt;/p&gt;
- &lt;p&gt; - In case the statistical value of goods cannot be determined according to FOB or equivalent delivery conditions, the conversion shall be based on the customs dossier and other information sources. &lt;/p&gt;
- &lt;p&gt; Determine statistical value in special cases &lt;/p&gt;
- &lt;p&gt; - In case the customs declaration is registered once but exported many times, the statistical value is the actual value of the goods when exported; &lt;/p&gt;
- &lt;p&gt; - Banknotes, coins and valuable papers not yet issued or put into circulation: Statistical value is the cost of producing banknotes, coins and valuable papers (not is the face value of these banknotes, coins or valuable papers); &lt;/p&gt;
- &lt;p&gt; - Media for information storage includes: Magnetic tapes, magnetic discs, CD-ROMs, smart cards and other media whether or not containing information, other than those manufactured to order or separate orders: Statistics on the full customs value of these goods (not just the value of the uninformed intermediary); &lt;/p&gt;
- &lt;p&gt; - For goods that are allowed to record a provisional price when registering the customs declaration, the statistical value must be adjusted when there is an official price on the amended and supplemented declaration; &lt;/p&gt;
- &lt;p&gt; - Processed, processed and assembled goods: Calculate the value of all raw goods before processing, processing and assembling and the entire value of finished products returned after processing, processing and assembly; &lt;/p&gt;
- &lt;p&gt; - Transactions that do not declare value (for example, barter goods, humanitarian aid goods, etc.), the value of goods in statistics is calculated according to the principles of customs valuation; &lt;/p&gt;
- &lt;p&gt; - Exported electricity: The statistical value is the value declared on the customs declaration; &lt;/p&gt;
- &lt;p&gt; - Goods under a finance lease: Calculate the value of the goods on the basis of the selling price of similar goods (excluding services provided under the lease such as training, maintenance, financial fees); &lt;/p&gt;
- &lt;p&gt; - Goods and services: Statistical value determined at the FOB or equivalent price (for exports) of the goods and excluding service charges; &lt;/p&gt;
- &lt;p&gt; Currency and exchange rate: Statistical value of exported goods in US Dollars (USD). The customs authority shall base itself on the current regulations on taxable exchange rates for exported goods to convert foreign currencies used in statistics. &lt;/p&gt;
- &lt;p&gt; Quantitative unit: Use units specified in the List of exported and imported goods of Vietnam. &lt;/p&gt;
- &lt;p&gt; For the converted quantity unit used in statistical forms: Different units of quantity are converted to the uniform unit in the form based on the data from the customs dossier. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Phương pháp tính&lt;/p&gt;
 &lt;p&gt;Thời điểm thống kê: Là thời điểm cơ quan Hải quan chấp nhận đăng ký tờ khai hải quan.&lt;/p&gt;
 &lt;p&gt;Những thay đổi trên tờ khai hải quan trong quá trình thực hiện thủ tục hải quan sẽ được cập nhật vào hệ thống thông tin hải quan và được điều chỉnh trong các báo cáo thống kê.&lt;/p&gt;

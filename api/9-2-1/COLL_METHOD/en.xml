@@ -2,20 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 9-2-1, translated into en</message>
-	<data> &lt;p&gt; The indicator is integrated and collected through 2 surveys conducted by the General Statistics Office. These are surveys under the National Statistical Survey Program, specifically: &lt;/p&gt;
- &lt;p&gt; * Enterprise investigation &lt;/p&gt;
- &lt;p&gt; - Investigation object, unit: &lt;strong&gt; &lt;/strong&gt; Independent economic accounting corporations, corporations, enterprises/cooperatives are established and are regulated by the Law on Enterprises and the Law on Cooperatives; the grassroots units directly under the enterprise have come into production and business activities. &lt;/p&gt;
- &lt;p&gt; - Survey type: &lt;strong&gt; &lt;/strong&gt; Comprehensive survey combined with sample survey &lt;/p&gt;
- &lt;p&gt; - Investigation content: &lt;/p&gt;
- &lt;p&gt; + Number of businesses; number of employees, capital, revenue, profit, budget payment, investment capital; credit financing; &lt;/p&gt;
- &lt;p&gt; + Assets and specialized economic information; &lt;/p&gt;
- &lt;p&gt; - Period, time of investigation: &lt;strong&gt; &lt;/strong&gt; Annual cycle, March 1st. &lt;/p&gt;
- &lt;p&gt; * Investigate individual production and business establishments &lt;/p&gt;
- &lt;p&gt; - Subjects and units of investigation: Individual business establishments operating in all branches of the national economy (except agriculture, forestry and fisheries). &lt;/p&gt;
- &lt;p&gt; - Type of investigation: Survey of all sample combinations &lt;/p&gt;
- &lt;p&gt; - Investigation content: &lt;/p&gt;
- &lt;p&gt; + Number of establishments and employees of individual production and business establishments; &lt;/p&gt;
- &lt;p&gt; + Production and business results: assets, capital, revenue, budget payment; &lt;/p&gt;
- &lt;p&gt; + Specialized information; &lt;/p&gt;
- &lt;p&gt; - Survey period and time: Annual cycle, October 1st. &lt;/p&gt;</data>
+	<data/>
 </root>

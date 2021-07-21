@@ -2,8 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 17-2-1, translated into en</message>
-	<data> &lt;p&gt; - A customs dossier includes: The customs declaration or documents replacing the customs declaration; relevant documents such as: Goods sale and purchase contract, commercial invoice, transport document, certificate of origin and other relevant documents; &lt;/p&gt;
- &lt;p&gt; - Information from the system of customs operations; &lt;/p&gt;
- &lt;p&gt; - Reports of units under and under the General Department of Customs; &lt;/p&gt;
- &lt;p&gt; - Information from state management agencies, carriers, associations, businesses and foreign agencies and organizations. &lt;/p&gt;</data>
+	<data/>
 </root>

@@ -4,10 +4,7 @@
 	<message>The COVERAGE field for indicator 5-5-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Figures are available on a 5-year cycle: 2011 and 2016 &lt;/p&gt;
- &lt;p&gt; Data for ethnic groups, regions only in 2016 &lt;/p&gt;
- &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from General Statistics Office) &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Số liệu có sẵn theo chu kỳ 5 năm: 2011 và 2016&lt;/p&gt;
 &lt;p&gt;Số liệu cho phân tổ dân tộc, vùng chỉ có năm 2016&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia năm 2020 tiến độ 5 năm thực hiện các mục tiêu phát triển bền vững. Số liệu từ Tổng cục Thống kê)&lt;/p&gt;

@@ -4,8 +4,7 @@
 	<message>The SDG_INDICATOR field for indicator 17-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Indicator 17.2.1. Export value of goods &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu 17.2.1. Giá trị xuất khẩu hàng hóa&lt;/p&gt;
 			</language>
 </languages>

@@ -2,8 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 5-2-1, translated into en</message>
-	<data> &lt;p&gt; - Data every 10 years &lt;/p&gt;
- &lt;p&gt; - The 2019 figures have all the categories: Violent forms; Age group; Nation; Academic level; Violence (physical/sexual/mental); Urban/rural; area &lt;/p&gt;
- &lt;p&gt; - In 2010 only data for violence type and age group are available. &lt;/p&gt;
- &lt;p&gt; (Published source: Results of the national survey on violence against women in Vietnam in 2019). &lt;/p&gt;</data>
+	<data/>
 </root>

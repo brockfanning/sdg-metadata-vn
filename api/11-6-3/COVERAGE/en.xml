@@ -2,7 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 11-6-3, translated into en</message>
-	<data> &lt;p&gt; - Annual (not completely complete) PM2.5 concentration data from 2013-2018 according to station/monitoring point &lt;/p&gt;
- &lt;p&gt; - TSP concentration data are available annually from 2016-2018 by station/monitoring point &lt;/p&gt;
- &lt;p&gt; (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Natural Resources and Environment) &lt;/p&gt;</data>
+	<data/>
 </root>

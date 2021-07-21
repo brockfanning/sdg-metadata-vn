@@ -4,8 +4,7 @@
 	<message>The SDG_GOAL field for indicator 6-2-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Goal 6: Ensure adequate and sustainable management of water resources and sanitation for all &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Mục tiêu 6: Đảm bảo đầy đủ và quản lý bền vững tài nguyên nước và hệ thống vệ sinh cho tất cả mọi người&lt;/p&gt;
 			</language>
 </languages>
