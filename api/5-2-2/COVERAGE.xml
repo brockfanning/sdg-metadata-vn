@@ -4,7 +4,9 @@
 	<message>The COVERAGE field for indicator 5-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Only of the indicator for 2019 by subdivisions: urban/rural; region; age group. &lt;/p&gt;
+ &lt;p&gt; (Published source: Results of the national survey on violence against women in Vietnam in 2019). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ có của chỉ tiêu cho năm 2019 theo các phân tổ: thành thị/nông thôn; vùng; nhóm tuổi.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Kết quả điều tra quốc gia về bạo lực đối với phụ nữ Việt Nam năm 2019).&lt;/p&gt;
 			</language>
