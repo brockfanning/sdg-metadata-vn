@@ -4,7 +4,10 @@
 	<message>The COLL_METHOD field for indicator 4-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Number of 5-year-old children attending kindergarten and preschool in school year t: Departments of Education and Training of provinces/cities under central authority collect information from the form: 01-MN-DN &lt;/p&gt;
+ &lt;p&gt; - Total number of 5-year-old children: Collected through the GSO census &lt;/p&gt;
+ &lt;p&gt; - The Ministry of Education and Training summarizes the number of 5-year-old children attending kindergarten and preschool in school year t and the number of children aged 5 from the General Statistics Office to calculate this indicator. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Số trẻ em 5 tuổi đang học mẫu giáo, mầm non năm học t: Sở Giáo dục và Đào tạo các tỉnh/thành phố trực thuộc Trung ương thu thập thông tin của biểu mẫu: 01-MN-ĐN &lt;/p&gt;
 &lt;p&gt;- Tổng số trẻ em 5 tuổi: Thu thập qua các cuộc điều tra dân số của Tổng cục Thống kê&lt;/p&gt;
 &lt;p&gt;- Bộ Giáo dục và Đào tạo tổng hợp số trẻ em 5 tuổi đang học mẫu giáo, mầm non năm học t và số trẻ em 5 tuổi từ Tổng cục Thống kê để tính toán chỉ tiêu này.&lt;/p&gt;

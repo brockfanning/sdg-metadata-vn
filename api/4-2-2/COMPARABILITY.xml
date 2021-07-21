@@ -4,7 +4,8 @@
 	<message>The COMPARABILITY field for indicator 4-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator“4.2.2. The rate of mobilization of 5-year-old children in kindergarten” reflects the global sustainable development target “4.2.2. Participation rate in organized learning (one year before the official primary entry age), by sex”. The content of international and Vietnamese indicators is quite similar. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này“4.2.2. Tỷ lệ huy động trẻ em 5 tuổi đi học mẫu giáo” phản ánh chỉ tiêu phát triển bền vũng toàn cầu “4.2.2. Participation rate in organized learning (one year before the official primary entry age), by sex”. Nội dung chỉ tiêu quốc tế và Việt Nam khá tương đồng.&lt;/p&gt;
 			</language>
 </languages>

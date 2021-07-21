@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 4-2-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Number of 5-year-old children attending kindergarten and preschool in school year t: Departments of Education and Training of provinces/cities under central authority collect information from the form: 01-MN-DN &lt;/p&gt;
+ &lt;p&gt; - Total number of 5-year-old children: Collected through the GSO census &lt;/p&gt;
+ &lt;p&gt; - The Ministry of Education and Training summarizes the number of 5-year-old children attending kindergarten and preschool in school year t and the number of children aged 5 from the General Statistics Office to calculate this indicator. &lt;/p&gt;</data>
 </root>

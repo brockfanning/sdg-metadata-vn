@@ -4,7 +4,8 @@
 	<message>The STAT_CONC_DEF field for indicator 5-3-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Percentage of women aged 20-24 who were married or cohabiting for the first time before the age of 15, before the age of 18 is the percentage of women aged 20-24 who were married or cohabiting for the first time before the age of 15, before the age of 18 compared to the total number of women aged 20-24. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ phụ nữ từ 20-24 tuổi đã kết hôn hoặc chung sống như vợ chồng lần đầu trước 15 tuổi, trước 18 tuổi là phần trăm số phụ nữ từ 20-24 tuổi đã kết hôn hoặc chung sống như vợ chồng lần đầu trước 15 tuổi, trước 18 tuổi so với tổng số phụ nữ từ 20-24 tuổi.&lt;/p&gt;
 			</language>
 </languages>

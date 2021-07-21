@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T22:01:11.786Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T22:03:10.963Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="7626d69b-a239-4e52-b795-fe4e8beedda6">
+  <mes:MetadataSet structureRef="MDS1" setID="0f0b9f00-c22a-4ea8-b3c7-dab895041a9d">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,61 +54,71 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Goal 4: Ensure quality, equitable, inclusive education and promote lifelong learning opportunities for all </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Target 4.2: By 2030, ensure that all girls and boys have access to development, early childhood care and quality early childhood education to be ready for primary school (Section) pepper 4.2 worldwide) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 4.2.2. Rate of mobilization of 5-year-old children to attend kindergarten </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Education and Training </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> No. 35 Dai Co Viet, Hanoi </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> bogddt@moet.gov.vn </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The rate of enrollment of 5-year-old children in kindergarten is the percentage of 5-year-old children attending kindergarten, preschool and independent kindergarten compared to the total population at the age of 5 years. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> The list of administrative units in Vietnam issued together with the Prime Minister&#39;s Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Number of 5-year-old children attending kindergarten and preschool in school year t: Statistical reporting regime promulgated by the Ministry of Education and Training; </p>
+ <p> - Total number of 5-year-old children: Statistical survey. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Number of 5-year-old children attending kindergarten and preschool in school year t: Departments of Education and Training of provinces/cities under central authority collect information from the form: 01-MN-DN </p>
+ <p> - Total number of 5-year-old children: Collected through the GSO census </p>
+ <p> - The Ministry of Education and Training summarizes the number of 5-year-old children attending kindergarten and preschool in school year t and the number of children aged 5 from the General Statistics Office to calculate this indicator. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Year </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Education and Training </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Education and Training </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator measures a child&#39;s exposure to learning activities held in the year prior to the start of primary school. A high value of the indicator indicates a high level of participation in organized learning just prior to formal entry into primary school. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> Method of computation </p>
+ <p> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAk8AAACSCAYAAABc+C62AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB95SURBVHhe7d1PqBXn+cDxY8Bss7EUJCQhSgnYtYuitgSqki7rQl25KrkJli5EuxBKwI3iovyCWrJylevCLhvUQkhzJQvXLZSiYkWE0G66bRf+znec5/rc15k5M/f8uf++HxjP/H3fd945nnnu+75nzq4XYyNJkiT18kb9KkmSpB4MniRJkgYweJIkSRrA4EmSJGkAgydJkqQBDJ4kSZIGMHiSJEkawOBJkiRpAIMnSZKkAQyeJEmSBqiCp1u3bo127dq1On3yySejx48fV68Z69h+/Pjxes3iUJa++e7fv78q56yR/5B02Ze6lSRJ28cbBASnTp0aPXr0aMTP3DEdOXJktG/fvnqXV65evVrt9/Dhw9H9+/frtfNH4HTjxo16qRsBHmb9k32ke/fu3d7pziN4kyRJG+8NAgICovfff79eNRqdPHlytLy8vBqIgHmCKvYjePruu+/qLfNx5cqV1QDt+vXro6WlpWp+kgcPHozu3btXL60feVOGQLrUU1/+3rIkSdvTG8eOHVsTOAUCqHI968KJEyfqudkjULtw4UK9NMzBgwcbz2eoM2fO1HMvNdWHJEnaed748MMP69nX0eKT0RUV0+3bt+u1r8ZC0VoT44KYsnJcVUxl9x/L0WV4+PDhavxSxvY4NlqGIk9eCXBYH/uQb6QR5czbmrCNViYCOOajBY753BoVadCtyHzeN2vbPq+xWZIkaY4uX778YpJxIEEfVPWKlZWVapljY1tMbENsR+wf21jPcqRXijRjfywtLVXrjh07Vi2TxjjIqubB9tiG5eXlan9EXjnNKEMb0o7yg32ZYl0sM5EXOIZyhKbtOU1JkrT19HpUAQPFGXMU3VaHDh0i6KpaZlg3Dkyq9ePApNqGaD3Cs2fPqtfYFl1+z58/r177oovxzp071fw777zTawwSLTuUPc4hynD+/PlB45LKfWOZsWHRnVm2kqHc/uTJk2pekiRtTW/0uZk3dUURvKBpWymCh+gmY/A1IpCZJ4Icuh/7lFOSJGmSN3gEQFtgwRii0PYNtr6DqGmB4ZEItATxSivVIlFOAyhJkjStN+heYyoHbtPFdPHixWqeV7rI8kMzb968WXXd9UHQwv60AsXUt9UpD9CehMcuhCh7DMg+ffp0tT2nR0tYed4ltk/aR5Ik7SDjQGZ1MHaeGGCdMdA6b4+Bz+V6BkfnZdIu94mJAdRt2MY+5MNA8HwM62KZibIy5XWxT1aWg7K1iTqJQej5uAsXLqxZJq8oL9ORI0c6t0easU6SJG0du/hnfAOfK1qeGOeUnxOFaNFZxNgnSZKkWVjIDwMfPXq0nlvr0qVLBk6SJGlLWVjL076G38pjHFXfAeeSJEmbwUKCJ0mSpO1iId12kiRJ24XBkyRJ0gAGT5IkSQMYPEmSJA1g8CRJkjSAwZMkSdIABk+SJEkDGDxJkiQNYPAkSZI0gMGTJEnSAAZPkiRJAxg8SZIkDWDwJEmSNIDBkyRJ0gAGT5IkSQMYPEmSJA1g8CRJkjSAwZMkbUK3bt0a7dq1a7R///56jaTNwuBJ0lw8fvy4uvkfP368XqMhTp48OXrx4sXo0qVL9RrNQwSpTLxn8cknn1SvUhuDJ0lzcfv27dGjR49Gd+7cqddoqPv379dzmpdvv/22ClKXl5dH+/btq4Ko06dP11ulZrvGb5oX9bwkzQx/xb///vv10mxwY8PKysro0KFD1fx2No86lDQ9W54k9RZdcbmbo6mLgxYT/oqfdfcHf+sROO3du7deszE4v1wP8+jmoTuJOrxy5Uq95hXGQQ3JkzI2pbMIlHWj8u4rrue8u+tIv2kMW/y/mnf+miFaniSpDz4yLl++XC+9eDG+uVfrSseOHate2fbo0aNqflaWlpbquY2ziDJQh9TdtB/THF9et0WJ98dG5D3EPN+vfVA/m+F9rf5seZLUCy0hOH/+fPWKhw8fjsY3nnrpJf6Kv3jxYjU//oypxj514a9t/vLu69y5c/XcxuD8jhw5Ui9Nxv5DW16o6+vXr1dddtThelpuYiB0uHDhwsIH7/P+oPVsMxv6fp0Xrre2DoMnSb28/fbb1Wt5Iy8HhNOllscjnThxop57HTeuGzdu1Ev9bPQYIL79durUqSow6RP0nTlzpp7r7+DBg2vOs6sO28S39Zhw+fJlB+83GPJ+nZf8B4m2BoMnSb1wg6GViRaMrsDh+fPn1faYHjx4UG9Zi5aRw4cPV/O0TkSrCK8xNoTjo8WLdZHmpBYUArzYN48xIVhjHWWP9HO+cUxXUEQLAQEJwQjl7hqnQlp84zDq7Le//e1qHojyMDEfqLNYz0SdZqzrao2i/HFs0365LpmijhFjlHId5rLltPPUVR60pYe4FkxN1za2MXXlE++daHVjIq9cz+X14hrGNiaC1rx/lDWWu/LP+eYp0qB8+fxynTCVaZfXSZvI+ENAknpjfAYfHTFlKysra9YtLy9Xy7w2if1jnAljTyLdPPaE8SA5DcbStI0RoXxMgTSZIq+cfl7HPLrSLsXxcWwT0svliToJlCOnwXaOCVHfsZ15ppxmVqYXx8f+UeaoX8418uO1TD/qLzSl1XZ9EWnm9HL9sj0fz75lfrE96i6/NwLHsI0p0o91kV55PPuVeUU5y3oEZY3tpaiLst4jr7IsZfqxf6BsuZ7ieG0OXglJ6xIf5kz5BlHeXLgBxM25FDecOB6kkW8aiHzy1JZm3KzLCU35sZxv3k35d2Hfthsqyhtu3MBDeRNl/1weUCamwP5teVKepvpr2p802ZbrsiwvaUXeZVlR7l/qSo/zzHkjrhGvHJfPexL2zefO8Tn9puuPOC+mKOvQc510XUH5ms6HMkf+iGPLcrKuLX8tlt12knqh6yF37zB+ZnxjqOZjkC0DhEvvvfde1XW1XtGFNv68WjM15QXyYir3n5chg8f7aKorupLazrfU1eUYoouSgdLjm3G9djLKMb75j7788stqmbwo709+8pNqeainT5/Wc6/EYyiePXs2evLkSTU/L9EFefTo0eo9Mg6O6i3DMcYM8X8kuqu7nkcW3XK8h8bBV732Zdd3E8o37zpRPwZPknrjacxZjIPKH+hff/11PffKNDelGDgd40YmIa+2cVbzQJ2sN3hoU9Yz8titSboCKMbVEIgRLHTd2Nsw5otB/tz0qWuCr/WkEwi+msrLFxQIvPsGjetB0ET5Z5UHAVB8mYDX+OOiCUEW9ch1iMCr1PQ+pk608QyeJPXGh30e1EpAc/fu3dWfs+CbaCznfb744otev89WDpbNlpaWVgeXh3Lgb/jVr35V3bjyDblt32lFK0Of4IG6ygFglO/q1avVK+fHdm7m1HNu5WM5vk4/Cd/u4xrE8fHKoPWo49y61RTsdolWmpim+aZYHEuagVZMAnLqlG++UdZ8/aijXDfTisCf69HU6kcLGMiT7bkeM46/efPmmrrp876I90EOmDmOOsjvY86b/P1m3iYxvsCSNBFjN5gYc8FHR0x5TAdi7EdMLHfJ++3b92q8Ujk2hOXYxlTmm+UxJEyk3VSuvMx5deUP8szH5PE1baIsOb2cT9RnPp+uOs7r2a9JPj7yz/vGtry9nFif65wyl8fmaXxjr7ZneXtbesj7lfVOul3bQ3ntyvMqrzd1mtdxfJSPY5HTYJ592uq8fG/EFOeZzz3OIZc55xV1mY9hysp9tVj+tp0kqTdaXZpaP9rW7xS0ENHNVnbBRWvjNF2bbeaZtrrZbSdJ6oXus6YBy6yf9uGS8aynrSp3PWZ0Wc8juKGu5pW2JrPlSZLUG0EOY2+y5eXl1kHPOwUtT/savhhBXeWnxWt7MHiSJEkawG47SZKkAQyeJGkAumcYb9L0G2ySdga77SRpHXjuDw9ydMCutPMYPEnSOtEK5WBgaeex206SBuKZRnTdLfJnYLYbWu628qMJtLMZPEnSQPykycrKSu+fTNmqyp9CmdXP3JAmPz0ibVUGT5I0AK1Od+7cqcY63bt3b01wsd1wjvzmGi1ETOfOnau3TIdnQvFsqEUi8IvfiZOmZfAkSQPkJ2kz3ungwYP10vZ0/fr11R+63arju2hB48eVpVkxeNKOEn9Bc0OQeFo2LUkxhomJ1okYj8PEtsBNmKdIxzYeVxABRR7DE9ujmyt+eiS2t2kqT/x+WchplY9L6HN8Nml/yh/rmXIrW9OxXXXXJfYvzyenxVSeS86bqQlpHD58uJrn2vmICc0E37aTdpJr1669+Oabb+ol7VT5F+3jl/JjXfyqPuvzxyTbY9/4Ff3y1/lj/7wufvme+bZf5W8qD7+qH7/AD/Yh3cC+Tb/Q33Z8Nmn/OL8oO3XCMWg6Nta11V0p1w/K/Nge+SHSY79YztuZj7xLZdrStAyetOMcOHCgntNOxw03bv7g5puDjbjBl/KNP27m5b7cqPN2lPmVuspTBhOIoCDymHQ+pb77s458cv6Tjm2ruzCpvkiffTLSjzzyvpNEPRk8aVZm0m33l7/8pbPZVJvHj3/84+o68bpTXbt2rZ6TholuJAZRj2/E9drFePr0aT33yt69e6vXZ8+eVa+zRhcX58u3CseBUr12MZrqly7Shw8fOvBbG64xePr1r3+9Ggy1TXnMyE9/+lP+fBidPXu2XtONY8s0EEHYD37wg3pNO27+ffabp6gnyp3F+W3GAOWvf/1rda0+/PDDes3Gy8F33+u/XqT/85//vF565Re/+EW1bYim9zHX/M0336yXtJ1ww+br9SsrK699di0KAUVT4MCTzmeN8UQEKnxebNRT1AlSS4y1inFm8woapUkagyf+g3700UfVfxqm3bt3jw4cOLC6zPzf//73eu+XuAHy7JNJ+ND59NNP66W1WP/NN9+M/vOf/3R+OHGD+tvf/lYvbQwCp88//7xeWut3v/tdVU+UsQysNgMChV/+8pf10sbjusd7i+lf//pXvWW2OG9and56663q+mV/+tOfqrz7ansfE5z+97//rZe0HcUNe9EPyDx//nz1evTo0eoVt2/fHh07dmxuwU1u/enz+T5LtHTxDbk8SJ3leLbW0tJSFczmYLLPc6j6DmKXOo1vGK8ZB0713Evj4GnNOBEG2549e7ZeGo4Bu2TNayjTLMtQojx79uyplxaLfCl/nqLsnFM+r0nnMQvkNySfzTRYmrKsp47Wc+1zPtNcF9575fVfxHXWbOXrF+N1YjnG8+R9xoFEtV8s5/nTp0+vzjPFeJ62ZY4tldvL8oS8X4z/QV7fdXzos3+5T17O6/vUXVZub6qvpv3KMU5lmbrGQMU+5TgqaT0ag6dSGTxNqy14yibd4DcyeAoETJxHLuvQ85gFrs9WvXnnQCS/H7pEvQ8xj+vS9D6WJG1/6x4wTrdFjFFhiu4pxquwTBfJEHRx5fT6yuWIPKMMMXYmxrNEuoxJKY+J8UuTxqvktHKTdijP449//GO95VVZqasoQ5lfTj9Pbd1/bPvf//43+uqrr1b3Iw3SpXuTdTH2qu2adYm6zOmAebblNKlD0ozlqP8u48Cj6i4bB0RVN9ikYzi36C6NPHL+iLrN5WVcXuzHVHa5se+ka494nzDR1VeiPH3OW1I/MUjf7jZtKi9jqG5dLU8kkbvb+Ct8UitI+Rc7r7kVieMnFS1aLOI4jqGcoWyZKlsrmlquJrVklXkwT5rRihHnFSJPXmNbTBzDFNvz/pFenOMkueUp6i6ni/XUMfvHNQL7c1yUiynSjHVRP3G++fhJyvpoE/WUlcdRLsoUclkin9helr1NmS955HRjOepEkrQ9Tb4zj3FTyTeirAwo2vbLyhtr3LzKqevGyzH5JlXe2CZtjxto5MFrvvk2KcsUaUawQ34RxATKUQYUsT9YjnzLumzavwnH5HzLdDC0jqN+yinqdGj99kXZSbtLmRdYztePskU6pJnLivLa5evUhu05j7g++RzJp8xLkrS9TP2cJ7ou6DYqv700xPfff19124zLs2aa1S94N6EbZ3zDrL4ZB7qf/u///q+ab9Kni4tvCZbefffdqn764Ns07EtZQN2Ob9hVWac1tI7pfiTvcv95fRMuRDfqLP3zn/+s51754IMPqtch39rsex0lSdvbTB6SOf7LfvSHP/yhCqDWE/D88Ic/XPjXYHHt2rXRv//979VgpY/yEQ2lpq8vE4T0QZBEXTIehz5+xjH9+c9/rrdOZ2gdE1gSLPQJGmeJgHEez6DiOjfhPIdoGucmSdpZZhI8ResTAdR6gieOoQUgt14xPySoaZJbgigbCEpCtD4RrEwqN/vu2bNnzbOdlpeXq9ef/exnVZDx8ccfVzfp3HpC8MP6PjhfWklyS8+QVieOb6uzoXUc51s+UDIPwp41ykLw2dUCWMp1HYEN6XAdOF/KS5CMPJCbfbj2Q+qX/QloI6CMuuP901aPkqRtaHyDbhXjQvLUNv6GcSV5PEibGCcSU4wXKfMa36iq9U0YUxL7MQ6FvPOxlLEcsxP7lNhvyBgV8os0KSOvuU7K84g6aVqfl6P+8rqYJpUvysF+MR9TVqbfVcchny9T1FcsN9V/07k2Ka9R3+uQj4v3Ty4D6URdhDKvvC3XGefTJZ97HBdlyNv6noskaevZxT/jD/up8Rc+T1feamgxoCtuSGvHvETrRdkKRgsRTwQf0koiSdJWQc8AvUVNv9DAPTB6fcZ/jL92v560fR5m0m03q3ExBA90q81j0HAbBozPuqLjPIZ2cZXPHgp0Dxo4SZK2G+IH7pdt41IJjBh2QzsPU4yvDpO2z804s3WLLp1JXR2bTe7iiS6XzaDs0oxJkqTtjGEQTbEE6/LQD+bzfpO2z8tULU80r43T2HI/hMoAd8rNtJ4B7vNCWaJceZIkabOjt6Vs9WF5vV80olWKL6PlH7JnPr4JPmn7PM2k207SbPGBQ1N21zTvDwdJGoJxzzwSJ4be8MryesdDx8+bNQ1b4dvUk7bP05YNnvLNJW4i641upc2GcXhNrZB5mjQOLgdaTk5OTn2naUSgFOlsxS+S9bFlgyeiWW4gjKznOUtcqM3UBSdttDLYcnJycuozTSt+1aHp1x22iy0bPEU0m/9CN3jSdmG3naStiB4gfiWCezKv0/QIxVim/FkX3XEHDhyYuH2eWoMnnrmw2bvB1vtIgKFI/80336yX1iL//OTqrYbylwP8NgPqNJ57xTzlbLsGlD8/3iIfu1XNottOkhaJz14Cpnj8D68sr/ceyWfc7t27V8c2gecy7tmzp9o2aftcjT+EXxNPSuarg5tZPMWZsuanfC8KX4lcxJOk83XgMQuzOlfqjSl/zXMzyGXifKOOeS3fk9RF0/uUr6pyrCRp8+NzvOkRA+WjB7g/5EcMTdo+L40tT/xy/vhGVS9tTrQsfPbZZ9X8+DxGV65cqeYXid9So67mje5IWl6YMKuImnpbJK7ZpAeg8hfK+D/D6l8u/NYdP2qMgwcPjv7xj39U8+HEiRONAxJ5fAa/K7jVW6Akabvj3kZ3G48YYD5/bnMv4DdW4x7I/SEP0Zm0fV5af56Fmxg3rc06Up4+zhxElMvqJ95sEazME91uvMl5zlYTut94Omx+blh+HxJ4ERDFdpbPnz/fet35D/ib3/xmyz2HTJK0uU0cMJ4HrpZjY7ixxbam8Sisi+1d45LYRlrc7GJ/8iIgimW2Z/ENu5i4gebjI3KN5a4Wj3yOeYo0yDvnX+5fnht55e15MFuJfamnfK45vXxOTLkcTcfGecZy03VpQp5xTFneWM9UnmvOm6l8jwS28VfFV199Vc031Qk/Q0NwldHa9P3331fztEL96Ec/qubj2nQFzPz1QZ6xryRJM0HLUxPGl7A5xpPwmsf3MJ/HlNDnmPsdmY/t8bMjTf2QpMs2pkg/1kV65fFlWdgWecWv5+e8cllKZdrsx3KMK4p6KPOjnxW85v05Pu8b59I0TinyYopzLdNrq8emY/M6RF1EWZvE/rFPWVdsi7qJ9DinvFzWXZuu64Bcjozj2BbniajjKANTlCtjv648JUkaqjN4yjcjbkBx84qbeJZv1Ez5RjdJGQxxfE6/vEmHfOOMG2TTvl037T55UbZcvkCakT/HoTwW5N90Y0euV0TdRnohypnT73Msyxzbptyerzvpl+cd5SAP9ms7ryZd16Gp3tvkPClfpNl0rvl8JEmahXU954mvApai+4RB1EzzFF1FdPGMz6H6quJ6xVif6G6Krzx2DTiLbjmMb/bVK5q6ovDWW2+tdj0NFV2EPBR0HGDUaxej6QFnH3zwQfXK4L71ntM0qA+++hr4Je59+/ZV8+NAqaonSZLmaaqHZDaNJeFGxsRYk3khaProo49mNhD47Nmzo88//7wKUnjNAVGJc2bcDoFM28DnpvXxjbEhCMaiPBs1cJ/gpMmBAweqc5pVABXBd1NgHqgPgqOhg9vffffdek6SpOmtK3ji5kVrz6efflqvedkiwDq2xc0tD27mxheDmWchWkVItylQi5sw5YqByk35czwDlWnBiqnP1xzjKaY5UCIAIKggrwgsSZ8ApCsgmyTOJT8IbBGizPk6cl6cI+dKPXFuuV6p70kDtNnetA8tR12tlrzfyiAyH0NZcqsUyvJJkjS1cbDwGsamsIkpxozEcj4k78d8KR/TtB2kn/dh/Eo+LsbY5OW8jmMijRjbksvLfKTbZBwgrO6bpyhvLh/z5bqcF2mhrK88Bikr9yvPlfTKc8nb89RUT3m5PP8YY5S3c86xHOda7kcZsrL+yu1ZlD/SLlHmqPcSx0T9ltryZv+29CRJWq/W5zztFLQM0aJTdgVFy8giHralV2jlOnXq1OCuuSazTEuSpDB18MQNiq4RxgB1PXNns+I5SB9//PFrN1jOaxFPD98qGA+2e/fuhTxwkmvS9TDNPmaRhiRJTaYaMA4CDOKvrRg4gSdWx2DxPN2+fbveQ+AaL+pJ3eTDmLZJY6faEPj+/ve/N3CSJM3Fju+2k6TS/fv3R4cPH67m/Yjc2h4/frz6OBO+XPL+++9X89I0pm55kqTt5tChQ1XQxDdxN4P9+/dXLeIajmAprqWBk2bF4EmSGtBi8fTp03pp49AKdunSJVvApvTtt9/Wc9L0DJ4kqcX58+fruY2zd+/e0cmTJ+ul2Th+/HjVknXlypV6zfZGILzeMZRSE4MnSdsejxzJXwhpmjJaexgnsxkeVUI56LabpTt37lQtWe+88069ZuPkazDr80SMeSJgLHF955Gntj+DJ0nbHjfQlZWVKmCIJ9LnXxbg5so+IbrJbty4sWb9otEyRLm5wd+6dateOxsEDrNu0RqK8+N6xHV4+PBhvWV2rl69WuVB2gTFGa1R88hT25/Bk6Rtj5/tYRB4G4KlwA324sWL1Tw39I1+bAnlpqVo0vgrgqshAda5c+fquY3z5MmTQYO4m1qPuhD4HjlypMqDIOm7776rt0jTMXiStO1NGrtEC0zcxBljlAOtEydO1HOLxY0/l3tSOXia/hAb/c0zWp1o2aO7rk/Qt94u1Ny6tlHXUtuPwZMkJc+fP18zDufBgwf1lpetUqwjsInHB5RjZggK8vExtXX/xXbSzgECwU0+nu6nJqTLdhBAxTxp0VJTDg4nUIk0Y982cb4xxTlEnmyP9KMeyDf2Z3sbAhla9uiWpNxdY4/Ig0Dr7t27VbqfffbZa3nEcpxniPVMZSti1I802PjNK0k7xqNHj/jO/4vl5eV6zSvjG3m1LbBP7BvbYiKdMq3Yn/VYWlqqltuwnXRx7NixajlwXGyLfPL2Ui5H5JvTANtzGszv27evXlqL4yhTuHz5cpVelCWnn9dFGTg2Hz8Jx5JHG8qa04s88/lxLpFGbOcV7JfzIC2Wh5RRCgZPknaUuKnGTT7jRlrewHOAETfguCEjp8WxORhp2j9rC15Ip7ypk0dXWuU5lcEGImAop6Y0Ob5p3xwstQUuaMq/C2Xv2r9Mb1IZ2J8pYxvHBNIbUkYp2G0nSbWmb1699957q9/Qm4SuKPaNriQGKI9v6K3jixi0zf7RrRTHMZC69Pbbb1evdCuuF+c3DjaIHtZMTeWja24c0Ly2b9fA+2kcPHiwnpuNpm7SeDRD0zZpCIMnSUq+/vrreu4VAqA+CEIuX75c/S4ewdCFCxdG9+7dq7e+jv0jKAHHxY2d8T1NGNC+Xowr6vuNM8q2yKdyM7aMb0XOUlvdtwWzUl8GT5JU45EFBC150PEXX3yx5lEGXWg5otUot9R03agZXB2tTRFAIR4jkAczf/nll6OlpaWJN34GhLe1rJw5c6YK6CJPcK5N+58+fboapJ2/Ccd8PnZWyJ/HQ/R9onu+Ps+ePateKRuteJwf20mP5TwI/+bNm1VwK01t/B9WknYExsDwsRdT03ijGFsUU4wjalqflxlPU66LqW1cDcewLfaLvDC+8a9Joxy/U4p02C+nWZ5jjPuJieU25fmQdozjiqlpn678Qz6mbZ8s5xPy9WSedPL5lGXN23IZmZeG2MU/4zePJGlK0SpTjguiVYQxPXYXSduD3XaSNCOMWWpCd5GBk7R92PIkSTNCy1NTAOXHrLS9GDxJkiQNYLedJEnSAAZPkiRJAxg8SZIkDWDwJEmSNIDBkyRJ0gAGT5IkSQMYPEmSJA1g8CRJkjSAwZMkSdIABk+SJEkDGDxJkiQNYPAkSZI0gMGTJEnSAAZPkiRJAxg8SZIkDWDwJEmSNIDBkyRJ0gAGT5IkSQMYPEmSJA2wazy9eDkrSZKkbqPR/wMKHQw0e4ZNRQAAAABJRU5ErkJggg=="> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Annual target data from 2016-2018 </p>
+ <p> - Gender disaggregated data for 2018 only </p>
+ <p> - No data by province/cities directly under the Central Government. </p>
+ <p> (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Education and Training) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator“4.2.2. The rate of mobilization of 5-year-old children in kindergarten” reflects the global sustainable development target “4.2.2. Participation rate in organized learning (one year before the official primary entry age), by sex”. The content of international and Vietnamese indicators is quite similar. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"/>
+          <com:Text xml:lang="en"><![CDATA[ <p> - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+ <p> - Circular No. 24/2018/TT-BGDĐT dated September 28, 2018 of the Ministry of Education and Training on promulgating the reporting regime for statistics of the Education and Training sector. </p>
+ <p> - National report in 2020 on 5-year progress towards implementation of sustainable development goals. </p>
+ <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

@@ -4,7 +4,9 @@
 	<message>The STAT_CONC_DEF field for indicator 4-7-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Percentage of teachers meeting training standards or higher is the percentage of the number of teachers meeting training standards or higher by grade level (kindergarten, primary, middle and high school) compared to the total number of teachers of the respective grade level. &lt;/p&gt;
+ &lt;p&gt; A trained teacher means a teacher who has been trained and graduated from a pedagogical school with the corresponding qualifications as prescribed. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ giáo viên đạt chuẩn trình độ đào tạo trở lên là tỷ lệ phần trăm giữa số giáo viên đạt chuẩn trình độ đào tạo trở lên theo cấp học (mầm non, tiểu học, trung học cơ sở và trung học phổ thông) so với tổng số giáo viên của cấp học tương ứng.&lt;/p&gt;
 &lt;p&gt;Giáo viên được đào tạo sư phạm là giáo viên được đào tạo và tốt nghiệp ở một trường sư phạm có trình độ tương ứng theo quy định.&lt;/p&gt;
 			</language>

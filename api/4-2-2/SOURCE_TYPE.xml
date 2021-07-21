@@ -4,7 +4,9 @@
 	<message>The SOURCE_TYPE field for indicator 4-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; - Number of 5-year-old children attending kindergarten and preschool in school year t: Statistical reporting regime promulgated by the Ministry of Education and Training; &lt;/p&gt;
+ &lt;p&gt; - Total number of 5-year-old children: Statistical survey. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;- Số trẻ em 5 tuổi đang học mẫu giáo, mầm non năm học t: Chế độ báo cáo thống kê do bộ Giáo dục và Đào tạo ban hành;&lt;/p&gt;
 &lt;p&gt;- Tổng số trẻ em 5 tuổi: Điều tra thống kê.&lt;/p&gt;
 			</language>

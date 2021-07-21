@@ -2,5 +2,7 @@
 <root>
 	<status>success</status>
 	<message>The COVERAGE field for indicator 5-3-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; - Data available for urban/rural subdivision; nation; region; province/city in 2019 &lt;/p&gt;
+ &lt;p&gt; - 2010 and 2014 only have general data; No data available for subtypes &lt;/p&gt;
+ &lt;p&gt; (Published source: MICS census (2011, 2014); Population and housing census 2019) &lt;/p&gt;</data>
 </root>

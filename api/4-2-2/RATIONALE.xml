@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 4-2-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; This indicator measures a child&apos;s exposure to learning activities held in the year prior to the start of primary school. A high value of the indicator indicates a high level of participation in organized learning just prior to formal entry into primary school. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu này đo lường sự tiếp xúc của trẻ với các hoạt động học tập được tổ chức trong năm trước khi bắt đầu tiểu học. Một giá trị cao của chỉ tiêu cho thấy mức độ tham gia cao trong việc học tập có tổ chức ngay trước khi chính thức vào học tiểu học.&lt;/p&gt;
 			</language>
 </languages>
