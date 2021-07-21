@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 8-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 8.6: By 2030, significantly reduce the proportion of young people without work, without school or training. Proactively effectively implement the ILO Global Employment Treaty (Goal 8.6 and Global Goal 8.b) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 8.6: Đến năm 2030, giảm đáng kể tỷ lệ thanh niên không có việc làm, không đi học hoặc đào tạo. Chủ động thực hiện hiệu quả Hiệp ước Việc làm Toàn cầu của ILO (Mục tiêu 8.6 và Mục tiêu 8.b toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

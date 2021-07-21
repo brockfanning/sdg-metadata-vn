@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 5-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; The sex ratio at birth (also known as the sex ratio at birth) reflects the sex balance of the number of new born children in a period (usually a calendar year). Normally, this ratio ranges from 103 to 107 and is stable over time and space. Any change in this ratio that deviates from the normal range reflects an intentional intervention to some extent and affects the natural sex imbalance, threatening population instability. number. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ số giới tính của trẻ em mới sinh (còn gọi là tỷ số giới tính khi sinh) phản ánh sự cân bằng giới tính của số trẻ em mới sinh trong một thời kỳ (thường là một năm lịch). Bình thường, tỷ số này dao động từ 103 đến 107 và ổn định theo thời gian và không gian. Bất kỳ sự thay đổi của tỷ số này chệch khỏi mức dao động bình thường đều phản ánh sự can thiệp có chủýở một mức độ nào đó và làm ảnh hưởng đến sự mất cân bằng giới tính tự nhiên, đe doạ sự mất ổn định dân số.&lt;/p&gt;
 			</language>
 </languages>

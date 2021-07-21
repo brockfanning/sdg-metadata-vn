@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 8-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Proportion of youth without employment, out of school and without training (young people&apos;s NEET ratio) provides a measure of youth out of the education system, untrained and unemployed do, and thus serve as a broader measure of potential youth labor market participants. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ thanh niên không có việc làm, không đi học và không được đào tạo (tỷ lệ NEET của thanh niên) cung cấp một thước đo về thanh niên không tham gia hệ thống giáo dục, không được đào tạo và không có việc làm, và do đó đóng vai trò là thước đo rộng hơn về những người tham gia thị trường lao động thanh niên tiềm năng.&lt;/p&gt;
 			</language>
 </languages>

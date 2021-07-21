@@ -2,5 +2,11 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 8-6-1, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This is a sampling survey specified in the National Statistical Survey Program. &lt;/p&gt;
+ &lt;p&gt; The Labor and Employment Survey is a sampling survey with a sample size that ensures statistical estimates for the region, Hanoi, and Ho Chi Minh City quarterly and for the province by year. &lt;/p&gt;
+ &lt;p&gt; - Sampling survey using two-stage stratified sampling method: &lt;/p&gt;
+ &lt;p&gt; + Phase 1: The commune determines the number of sample areas; distribution of sample EAs based on the list of master EAs of the 2019 Population and Housing Census in each province in 2 floors for urban and rural areas; select the EAs according to the probability method proportional to the household size of the area. &lt;/p&gt;
+ &lt;p&gt; + Stage 2: Select sample households in each enumeration area. The sample was selected in phase 1 by systematic random method. &lt;/p&gt;
+ &lt;p&gt; - Information collection method: Direct interview method using electronic questionnaire installed on the enumerator&apos;s tablet or smartphone. The enumerator went to each household to ask the information provider and recorded all the answers on the electronic form. &lt;/p&gt;
+ &lt;p&gt; Purpose: Collecting information reflecting the current situation of labor resources and employment in order to serve the requirements of management, effective exploitation and use, and rational development of labor market resources; serving the calculation of labor and employment statistical indicators specified in the national statistical indicator system. &lt;/p&gt;</data>
 </root>

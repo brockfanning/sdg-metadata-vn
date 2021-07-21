@@ -4,7 +4,8 @@
 	<message>The SDG_TARGET field for indicator 16-6-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Target 16.6: Build transparent, effective and accountable institutions at all levels (Global Goal 16.6) &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Mục tiêu 16.6: Xây dựng các thể chế minh bạch, hiệu quả và có trách nhiệm giải trình ở tất cả các cấp (Mục tiêu 16.6 toàn cầu)&lt;/p&gt;
 			</language>
 </languages>

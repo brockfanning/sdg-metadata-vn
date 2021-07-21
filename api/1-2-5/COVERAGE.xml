@@ -4,7 +4,10 @@
 	<message>The COVERAGE field for indicator 1-2-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Only figures for 2019 are available for people with disabilities; Orphans; Elderly. &lt;/p&gt;
+ &lt;p&gt; There are no complete data for the province/city disaggregation. &lt;/p&gt;
+ &lt;p&gt; (Published source: SDG 2020 Country Report, Data from the Ministry of Labour, Invalids and Social Affairs). &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Chỉ có số liệu của năm 2019 cho đối tượng là người khuyết tật; trẻ mồ côi; người cao tuổi.&lt;/p&gt;
 &lt;p&gt;Chưa có số liệu đầy đủ cho phân tổ tỉnh/thành phố.&lt;/p&gt;
 &lt;p&gt;(Nguồn công bố: Báo cáo quốc gia SDG 2020. Số liệu từ Bộ Lao động, Thương binh và Xã hội).&lt;/p&gt;

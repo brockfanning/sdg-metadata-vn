@@ -2,5 +2,6 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 16-6-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; The ratio of state budget expenditure to the approved state budget expenditure estimate is the ratio between the total expenditure of the Government and the approved estimate in a certain period of time. &lt;/p&gt;
+ &lt;p&gt; State budget expenditures according to current regulations include: Expenditure on development investment, expenditure on national reserve, recurrent expenditure, payment of debt and interest, expenditure on aid and other expenditures as prescribed by law. &lt;/p&gt;</data>
 </root>

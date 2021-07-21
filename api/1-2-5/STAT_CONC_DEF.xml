@@ -4,7 +4,32 @@
 	<message>The STAT_CONC_DEF field for indicator 1-2-5, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Subjects cared for and raised at social protection establishments and social houses, including: &lt;/p&gt;
+ &lt;p&gt; (1) Social protection beneficiaries with extremely difficult circumstances include: &lt;/p&gt;
+ &lt;p&gt; a) Children under difficult circumstances who cannot take care of themselves and have no one to receive care and nurture in the community, including: &lt;/p&gt;
+ &lt;p&gt; Children under 16 years of age who do not have a source of nourishment in one of the following cases: &lt;/p&gt;
+ &lt;p&gt; - Abandoned without adoption; &lt;/p&gt;
+ &lt;p&gt; - Orphaned both father and mother; &lt;/p&gt;
+ &lt;p&gt; - Orphaned father or mother and the other missing as prescribed by law; &lt;/p&gt;
+ &lt;p&gt; - Orphaned father or mother and the other who is enjoying the care and nurturing regime at social protection establishments or social houses; &lt;/p&gt;
+ &lt;p&gt; - Orphaned father or mother and the other being while serving a prison sentence in prison or serving a decision on handling of administrative violations at reformatory, compulsory education institution, rehabilitation facility compulsive addiction; &lt;/p&gt;
+ &lt;p&gt; - Both parents are missing as prescribed by law; &lt;/p&gt;
+ &lt;p&gt; - Both parents are enjoying the care and nurturing regime at social protection establishments or social houses; &lt;/p&gt;
+ &lt;p&gt; - Both parents are serving prison sentences in prisons or are serving decisions on handling of administrative violations at reformatories, compulsory education establishments, compulsory detoxification establishments; &lt;/p&gt;
+ &lt;p&gt; - The parent is missing as prescribed by law and the other person is enjoying the care and nurturing regime at a social protection establishment or social house; &lt;/p&gt;
+ &lt;p&gt; - The parent is missing as prescribed by law and the other is serving a prison sentence at a prison or is serving a decision on handling of administrative violations at a reformatory or educational institution compulsory, compulsory detoxification establishments; &lt;/p&gt;
+ &lt;p&gt; - One parent is enjoying the care and nurturing regime at a social protection establishment or social house and the other is serving a prison sentence at a prison or is serving a decision on handling of violations. administrative offenses at reformatory schools, compulsory educational institutions, compulsory detoxification establishments. &lt;/p&gt;
+ &lt;p&gt; HIV-infected children from poor households; HIV-infected people from poor households who are no longer able to work without pension, monthly social insurance allowance, monthly preferential allowance for meritorious people, or other monthly allowance. &lt;/p&gt;
+ &lt;p&gt; b) The elderly are cared for and raised at social protection establishments or social houses in accordance with the law on elderly people; &lt;/p&gt;
+ &lt;p&gt; c) Disabled children and disabled people are cared for and raised at social protection establishments and social houses in accordance with the law on disabled people. &lt;/p&gt;
+ &lt;p&gt; (2) Objects needing urgent protection include: &lt;/p&gt;
+ &lt;p&gt; a) Victims of domestic violence, victims of sexual abuse, victims of trafficking, victims of forced labor; &lt;/p&gt;
+ &lt;p&gt; b) Children and street people begging for food while waiting to be taken back to their places of residence; &lt;/p&gt;
+ &lt;p&gt; c) Other objects in need of urgent protection as decided by the Chairman of the provincial People&apos;s Committee. &lt;/p&gt;
+ &lt;p&gt; (3) Subjects who voluntarily live in social protection establishments and social houses include: &lt;/p&gt;
+ &lt;p&gt; a) The elderly perform under the care delegation contract; &lt;/p&gt;
+ &lt;p&gt; b) Persons not specified in items (1) and (2) have no conditions to live at home and wish to live in social protection establishments or social houses. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Đối tượng được chăm sóc, nuôi dưỡng tại cơ sở bảo trợ xã hội, nhà xã hội, gồm:&lt;/p&gt;
 &lt;p&gt;(1) Đối tượng bảo trợ xã hội có hoàn cảnh đặc biệt khó khăn bao gồm:&lt;/p&gt;
 &lt;p&gt;a) Đối tượng trẻ em thuộc diện khó khăn không tự lo được cuộc sống và không có người nhận chăm sóc, nuôi dưỡng tại cộng đồng, gồm:&lt;/p&gt;

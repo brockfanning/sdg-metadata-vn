@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COMPARABILITY field for indicator 8-5-2, translated into en</message>
-	<data/>
+	<data> &lt;p&gt; This indicator corresponds to the global SDG target “8.5.2: Unemployment rate, by sex, age and persons with disabilities”. The content of the Vietnamese and global indicators is the same, so the Vietnamese data warrant international comparison. &lt;/p&gt;</data>
 </root>

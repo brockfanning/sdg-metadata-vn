@@ -4,7 +4,8 @@
 	<message>The RATIONALE field for indicator 8-5-3, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"/>
+			<language lang="en"> &lt;p&gt; Underemployment rate is also a measure to assess the state of underutilized labor supply. It is considered an indicator of the efficiency and effectiveness of an economy. &lt;/p&gt;
+			</language>
 			<language lang="vi">&lt;p&gt;Tỷ lệ thiếu việc làm cũng là một thước đo để đánh giá tình trạng cung lao động không được sử dụng đầy đủ. Nó được coi là một chỉ số đánh giá hiệu quả và hiệu lực của một nền kinh tế.&lt;/p&gt;
 			</language>
 </languages>
