@@ -4,8 +4,7 @@
 	<message>The DATA_SOURCE field for indicator 17-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Ministry of Finance &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Tài chính&lt;/p&gt;
 			</language>
 </languages>

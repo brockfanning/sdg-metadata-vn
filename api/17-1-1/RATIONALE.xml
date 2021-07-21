@@ -4,8 +4,7 @@
 	<message>The RATIONALE field for indicator 17-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; The indicator reflects the average tariff rate that a quantity of foreign goods is brought into the Vietnamese market. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Chỉ tiêu phản ánh mức thuế quan trung bình mà một lượng hàng hóa nước ngoài được đưa vào thị trường Việt Nam.&lt;/p&gt;
 			</language>
 </languages>

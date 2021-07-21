@@ -4,8 +4,7 @@
 	<message>The COMPARABILITY field for indicator 17-1-1, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Corresponding global level indicator “17.10.1: Worldwide weighted tariff-average” &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt; Chỉ tiêu cấp độ toàn cầu tương ứng “17.10.1: Worldwide weighted tariff-average”&lt;/p&gt;
 			</language>
 </languages>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-07-21T21:40:28.778Z</mes:Prepared>
+    <mes:Prepared>2021-07-21T21:40:51.708Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="63ca230a-3618-46a7-84b3-b9fc6c4dd63b">
+  <mes:MetadataSet structureRef="MDS1" setID="49c83b3e-cd87-4dc4-b5f2-0afd755f3bb7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,58 +54,55 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"><![CDATA[ <p> Goal 17: Strengthen implementation and promote global partnerships for sustainable development </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"><![CDATA[ <p> Goal 17.1: Promote a multilateral, open, non-discriminatory, fair and international law-based trading system within the framework of the World Trade Organization, including promoting an end to it Negotiating Doha Development Agenda (global 17.10 target) </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="en"><![CDATA[ <p> Indicator 17.1.1. Average import tax rate </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="en"><![CDATA[ <p> June 2021 </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Finance </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
-          <com:Text xml:lang="en"><![CDATA[ <p> No. 28 Tran Hung Dao - Hoan Kiem District - Hanoi </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="en"><![CDATA[ <p> support@mof.gov.vn </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"><![CDATA[ <p> The average import tax rate is the average tax rate applied to goods imported into Vietnam according to the List of Vietnam&#39;s imports and exports. </p>
- <p> The average import tax rate is calculated by the weighted average method, using the weighted method based on the value of imported goods. </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="en"><![CDATA[ <p> Vietnam product industry system promulgated under Decision No. 43/2018/QD-TTg dated November 1, 2018 of the Prime Minister </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"><![CDATA[ <p> Administrative data of the Ministry of Finance. </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="en"><![CDATA[ <p> 2 years </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Finance </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Finance </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator reflects the average tariff rate that a quantity of foreign goods is brought into the Vietnamese market. </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"><![CDATA[ <p> 2020 framework data only </p>
- <p> (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Finance) </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"><![CDATA[ <p> Corresponding global level indicator “17.10.1: Worldwide weighted tariff-average” </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"><![CDATA[ <p> - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
- <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>]]></com:Text>
+          <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

@@ -4,8 +4,7 @@
 	<message>The COMPILING_ORG field for indicator 5-5-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; Ministry of Home Affairs, Office of the National Assembly, Office of the President, State Audit, Supreme People&apos;s Court, Supreme People&apos;s Procuracy. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Bộ Nội vụ, Văn phòng Quốc hội, Văn phòng Chủ tịch nước, Kiểm toán nhà nước, Tòa án nhân dân tối cao, Viện kiểm sát nhân dân tối cao.&lt;/p&gt;
 			</language>
 </languages>

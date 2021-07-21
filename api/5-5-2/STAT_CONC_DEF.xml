@@ -4,38 +4,7 @@
 	<message>The STAT_CONC_DEF field for indicator 5-5-2, translated into all languages</message>
 	<data>
 		<languages>
-			<language lang="en"> &lt;p&gt; The government system of the State of Vietnam includes: &lt;/p&gt;
- &lt;p&gt; a) State power agencies include &lt;a href=&quot;https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam&quot;&gt; National Assembly &lt;/a&gt; at the central level and &lt;a href=&quot;https://vi.wikipedia.org/wiki/H%E1%BB%99i_%C4%91%E1%BB%93ng_nh%C3%A2n_d%C3%A2n&quot;&gt; People&apos;s Council &lt;/a&gt; directly elected by the people and acting on behalf of the people; &lt;/p&gt;
- &lt;p&gt; b) Administrative organs include &lt;a href=&quot;https://vi.wikipedia.org/wiki/Ch%C3%ADnh_ph%E1%BB%A7_Vi%E1%BB%87t_Nam&quot;&gt; Government &lt;/a&gt; at the central level and &lt;a href=&quot;https://vi.wikipedia.org/wiki/%E1%BB%A6y_ban_nh%C3%A2n_d%C3%A2n&quot;&gt; People&apos;s Committee &lt;/a&gt; elected by the respective authority; &lt;/p&gt;
- &lt;p&gt; c) The adjudicating body consists of &lt;a href=&quot;https://vi.wikipedia.org/wiki/T%C3%B2a_%C3%A1n_Nh%C3%A2n_d%C3%A2n_T%E1%BB%91i_cao_%28Vi%E1%BB%87t_Nam%29&quot;&gt; Supreme People&apos;s Court &lt;/a&gt; , High People&apos;s Court and &lt;a href=&quot;https://vi.wikipedia.org/wiki/T%C3%B2a_%C3%A1n_Nh%C3%A2n_d%C3%A2n_%28Vi%E1%BB%87t_Nam%29&quot;&gt; People&apos;s Court &lt;/a&gt;; &lt;/p&gt;
- &lt;p&gt; d) The Procuracy consists of &lt;a href=&quot;https://vi.wikipedia.org/wiki/Vi%E1%BB%87n_Ki%E1%BB%83m_s%C3%A1t_Nh%C3%A2n_d%C3%A2n_T%E1%BB%91i_cao_%28Vi%E1%BB%87t_Nam%29&quot;&gt; The Supreme People&apos;s Procuracy &lt;/a&gt; , the Senior People&apos;s Procuracy and the local People&apos;s Procuracy at all levels. &lt;/p&gt;
- &lt;p&gt; Government leadership positions include: &lt;/p&gt;
- &lt;p&gt; i) Leadership positions in the National Assembly: Chairman, Vice Chairman of the National Assembly; Chairman, Vice Chairman of the Ethnic Council; Chairmen, Vice-Chairs of Committees of the National Assembly; Chairman, Vice-Chairman of the Office of the National Assembly; Head of the Committee, Deputy Head of the Committee for Delegate Affairs; Head of the Committee, Deputy Head of the Committee of People&apos;s Volunteers; Director, Deputy Director of Legislative Research Institute; Director, Deputy Director and similar. &lt;/p&gt;
- &lt;p&gt; ii) Leadership positions in central government agencies, People&apos;s Committees, People&apos;s Councils at all levels at local level &lt;/p&gt;
- &lt;p&gt; - Central level &lt;/p&gt;
- &lt;p&gt; + Prime Minister, Deputy Prime Minister; &lt;/p&gt;
- &lt;p&gt; + Ministers, heads of ministerial-level agencies; Deputy Minister and equivalent; General Director, Deputy General Director and equivalent; Director, Deputy Director and equivalent; Director, Deputy Director and equivalent. &lt;/p&gt;
- &lt;p&gt; - Province level: &lt;/p&gt;
- &lt;p&gt; + Chairman, Vice Chairman of the Provincial People&apos;s Council; &lt;/p&gt;
- &lt;p&gt; + Chairman, Vice Chairman of the Provincial People&apos;s Committee; Director, Deputy Director of Department and equivalent. &lt;/p&gt;
- &lt;p&gt; - District level: &lt;/p&gt;
- &lt;p&gt; + Chairman, Vice Chairman of the District People&apos;s Council; &lt;/p&gt;
- &lt;p&gt; + Chairman, Vice Chairman of the People&apos;s Committee of the district; Heads, Deputy Heads of specialized departments under the People&apos;s Committee. &lt;/p&gt;
- &lt;p&gt; - Commune level: &lt;/p&gt;
- &lt;p&gt; + Chairman, Vice Chairman of the Commune People&apos;s Council; &lt;/p&gt;
- &lt;p&gt; + Chairman, Vice Chairman of the Commune People&apos;s Committee. &lt;/p&gt;
- &lt;p&gt; iii) Judicial leadership position &lt;/p&gt;
- &lt;p&gt; - Supreme People&apos;s Court: Chief Justice, Deputy Chief Justices, Director, Deputy Director and equivalent; Director, Deputy Director and equivalent. &lt;/p&gt;
- &lt;p&gt; - Superior People&apos;s Court: Chief Justice, Deputy Chief Justices, Chief Justice, Deputy Chief Justices. &lt;/p&gt;
- &lt;p&gt; - People&apos;s Courts of provinces and centrally run cities: Chief Justice, Deputy Chief Justices, Chief Justice, Deputy Chief Justices. &lt;/p&gt;
- &lt;p&gt; - People&apos;s Courts of districts, urban districts, towns, provincial cities and equivalent: Chief Justice, Deputy Chief Justice, Chief Justice, Deputy Chief Justice. &lt;/p&gt;
- &lt;p&gt; iv) Leadership position in the procuracy &lt;/p&gt;
- &lt;p&gt; - The Supreme People&apos;s Procuracy has a director and deputy heads of the Supreme People&apos;s Procuracy; Director, Deputy Director and equivalent; Director, Deputy Director and equivalent. &lt;/p&gt;
- &lt;p&gt; - The Senior People&apos;s Procuracy has the Chief Procurator of the Senior People&apos;s Procuracy, the Deputy Directors of the Senior People&apos;s Procuracy, the Procurator, and the Deputy Directors of the professional institutes. &lt;/p&gt;
- &lt;p&gt; - Provincial-level People&apos;s Procuracy has a director and deputy directors. &lt;/p&gt;
- &lt;p&gt; - The district-level People&apos;s Procuracy has a director and deputy directors. &lt;/p&gt;
- &lt;p&gt; The percentage of women holding government leadership positions is the percentage of women who are government leaders compared to the total number of government leaders. &lt;/p&gt;
-			</language>
+			<language lang="en"/>
 			<language lang="vi">&lt;p&gt;Hệ thống chính quyền của Nhà nước Việt Nam gồm:&lt;/p&gt;
 &lt;p&gt;a) Cơ quan quyền lực nhà nước gồm &lt;a href=&quot;https://vi.wikipedia.org/wiki/Qu%E1%BB%91c_h%E1%BB%99i_Vi%E1%BB%87t_Nam&quot;&gt;Quốc hội&lt;/a&gt; ở cấp Trung ương và &lt;a href=&quot;https://vi.wikipedia.org/wiki/H%E1%BB%99i_%C4%91%E1%BB%93ng_nh%C3%A2n_d%C3%A2n&quot;&gt;Hội đồng nhân dân&lt;/a&gt; các cấp địa phương do nhân dân trực tiếp bầu ra và thay mặt nhân dân thực hiện quyền lực nhà nước;&lt;/p&gt;
 &lt;p&gt;b) Cơ quan hành chính gồm &lt;a href=&quot;https://vi.wikipedia.org/wiki/Ch%C3%ADnh_ph%E1%BB%A7_Vi%E1%BB%87t_Nam&quot;&gt;Chính phủ&lt;/a&gt; ở cấp Trung ương và &lt;a href=&quot;https://vi.wikipedia.org/wiki/%E1%BB%A6y_ban_nh%C3%A2n_d%C3%A2n&quot;&gt;Ủy ban nhân dân&lt;/a&gt; các cấp địa phương do cơ quan quyền lực tương ứng bầu ra;&lt;/p&gt;
