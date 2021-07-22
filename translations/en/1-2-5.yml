@@ -1,0 +1,58 @@
+SDG_GOAL: ' <p> Common Goal 1: End all forms of poverty everywhere </p>'
+SDG_TARGET: >2-
+   <p> Goal 1.2: Nationally implement appropriate social security systems and measures for all, including social protection floor policies, and achieve substantial coverage for the poor and the vulnerable (Global Target 1.3) </p>
+SDG_INDICATOR: >2-
+   <p> Indicator 1.2.5. Number of people being concentratedly raised in social protection establishments and social houses </p>
+META_LAST_UPDATE: " <p> June 2021 </p>"
+CONTACT_ORGANISATION: " <p> Ministry of Labour, Invalids and Social Affairs. </p>"
+CONTACT_MAIL: " <p> 12 Ngo Quyen, Hoan Kiem, Hanoi </p>"
+CONTACT_EMAIL: " <p> banbientap@molisa.gov.vn </p>"
+STAT_CONC_DEF: >2-
+   <p> Subjects cared for and raised at social protection establishments and social houses, including: </p>
+   <p> (1) Social protection beneficiaries with extremely difficult circumstances include: </p>
+   <p> a) Children under difficult circumstances who cannot take care of themselves and have no one to receive care and nurture in the community, including: </p>
+   <p> Children under 16 years of age who do not have a source of nourishment in one of the following cases: </p>
+   <p> - Abandoned without adoption; </p>
+   <p> - Orphaned both father and mother; </p>
+   <p> - Orphaned father or mother and the other missing as prescribed by law; </p>
+   <p> - Orphaned father or mother and the other who is enjoying the care and nurturing regime at social protection establishments or social houses; </p>
+   <p> - Orphaned father or mother and the other being while serving a prison sentence in prison or serving a decision on handling of administrative violations at reformatory, compulsory education institution, rehabilitation facility compulsive addiction; </p>
+   <p> - Both parents are missing as prescribed by law; </p>
+   <p> - Both parents are enjoying the care and nurturing regime at social protection establishments or social houses; </p>
+   <p> - Both parents are serving prison sentences in prisons or are serving decisions on handling of administrative violations at reformatories, compulsory education establishments, compulsory detoxification establishments; </p>
+   <p> - The parent is missing as prescribed by law and the other person is enjoying the care and nurturing regime at a social protection establishment or social house; </p>
+   <p> - The parent is missing as prescribed by law and the other is serving a prison sentence at a prison or is serving a decision on handling of administrative violations at a reformatory or educational institution compulsory, compulsory detoxification establishments; </p>
+   <p> - One parent is enjoying the care and nurturing regime at a social protection establishment or social house and the other is serving a prison sentence at a prison or is serving a decision on handling of violations. administrative offenses at reformatory schools, compulsory educational institutions, compulsory detoxification establishments. </p>
+   <p> HIV-infected children from poor households; HIV-infected people from poor households who are no longer able to work without pension, monthly social insurance allowance, monthly preferential allowance for meritorious people, or other monthly allowance. </p>
+   <p> b) The elderly are cared for and raised at social protection establishments or social houses in accordance with the law on elderly people; </p>
+   <p> c) Disabled children and disabled people are cared for and raised at social protection establishments and social houses in accordance with the law on disabled people. </p>
+   <p> (2) Objects needing urgent protection include: </p>
+   <p> a) Victims of domestic violence, victims of sexual abuse, victims of trafficking, victims of forced labor; </p>
+   <p> b) Children and street people begging for food while waiting to be taken back to their places of residence; </p>
+   <p> c) Other objects in need of urgent protection as decided by the Chairman of the provincial People's Committee. </p>
+   <p> (3) Subjects who voluntarily live in social protection establishments and social houses include: </p>
+   <p> a) The elderly perform under the care delegation contract; </p>
+   <p> b) Persons not specified in items (1) and (2) have no conditions to live at home and wish to live in social protection establishments or social houses. </p>
+UNIT_MEASURE: " <p> Person </p>"
+SOURCE_TYPE: " <p> Statistical reporting regime issued by the Ministry of Labor, Invalids and Social Affairs. </p>"
+COLL_METHOD: >2-
+   <p> The Ministry of Labour, Invalids and Social Affairs shall issue a report form and send it to the Departments of Labor, Invalids and Social Affairs of the provinces/cities directly under the Central Government for implementation on an annual basis. A unit under the Ministry of Labour, Invalids and Social Affairs was assigned the task of synthesizing data sent back from the Departments to calculate the target. </p>
+REL_CAL_POLICY: " <p> Year </p>"
+DATA_SOURCE: " <p> Ministry of Labour, Invalids and Social Affairs. </p>"
+COMPILING_ORG: " <p> Ministry of Labour, Invalids and Social Affairs. </p>"
+RATIONALE: >2-
+   <p> The indicator reflects the number of people receiving concentrated care and nurturing at social protection establishments and social houses nationwide during the year, on that basis, providing information for management and planning better social support policies, contributing to improving the lives of the beneficiaries. </p>
+COVERAGE: >2-
+   <p> Only figures for 2019 are available for people with disabilities; Orphans; Elderly. </p>
+   <p> There are no complete data for the province/city disaggregation. </p>
+   <p> (Published source: SDG 2020 Country Report, Data from the Ministry of Labour, Invalids and Social Affairs). </p>
+COMPARABILITY: >2-
+   <p> Similar to VSDGI 1.2.1, this indicator reflects part of the global SDG target “1.3.1. Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable”. </p>
+   <p> Due to the specificity of Vietnam, there is no clear concept of the term "social protection". Social protection is close to the concept of social assistance, which is one of the three basic pillars of the welfare system. With the purpose of overcoming risks, social assistance together with social insurance have the function of reducing risks, and proactive labor market policies to prevent risks for people. Therefore, to replace the global indicator 1.3.1, Vietnam uses this indicator along with some related indicators of Vietnam such as: </p>
+   <p> 1.2.1. Number of people paying social insurance, health insurance and unemployment insurance </p>
+   <p> 1.2.2. Number of people entitled to social insurance, health insurance and unemployment insurance </p>
+   <p> 1.2.3. Number of people receiving monthly social support in the community. </p>
+   <p> 1.2.4. Number of people receiving unexpected social support. </p>
+OTHER_DOC: >2-
+   <p> - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+   <p> - https://unstats.un.org/sdgs/metadata/ </p>

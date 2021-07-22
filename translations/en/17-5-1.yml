@@ -1,0 +1,37 @@
+SDG_GOAL: >2-
+   <p> Goal 17: Strengthen implementation and promote global partnerships for sustainable development </p>
+SDG_TARGET: >2-
+   <p> Target 17.5: Encourage and promote effective public, public-private partnerships, based on the experience and resource strategy of partnerships (global 17.17 target) </p>
+SDG_INDICATOR: >2-
+   <p> Indicator 17.5.1. Official development assistance and concessional loans from foreign donors </p>
+META_LAST_UPDATE: " <p> June 2021 </p>"
+CONTACT_ORGANISATION: " <p> Ministry of Planning and Investment. </p>"
+STAT_CONC_DEF: >2-
+   <p> Official development assistance (ODA) and concessional loans from foreign donors are capital sources provided by foreign donors to the State or Government of the Socialist Republic of Vietnam. to support development, ensure welfare and social security. </p>
+   <p> - ODA and concessional loans from foreign donors include the following 3 types: </p>
+   <p> + Non-refundable ODA is the type of ODA that is not required to be returned to foreign donors; </p>
+   <p> + ODA loan is a foreign loan with a preferential component of at least 35%, for loans with binding conditions related to the procurement of goods and services as prescribed by foreign donors or achieving at least 25% for loans with no strings attached; </p>
+   <p> + Preferential loans are foreign loans with more preferential conditions than commercial loans, but the concessional component does not meet the standards of ODA loans. </p>
+   <p> - ODA and concessional loans of donors are classified according to the following criteria: </p>
+   <p> + ODA and concessional loans of signing donors by donors; </p>
+   <p> + ODA capital and concessional loans of the signing donors by sectors, priority areas for using ODA and concessional loans of donors; </p>
+   <p> + ODA and concessional loans of donors are divided by donors; </p>
+   <p> + ODA and concessional loans of donors shall be classified according to sectors, priority areas for using ODA and concessional loans of donors. </p>
+UNIT_MEASURE: " <p> million US dollars </p>"
+CLASS_SYSTEM: >2-
+   <p> The list of administrative units in Vietnam issued together with the Prime Minister's Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) </p>
+   <p> Vietnam's economic system in 2018 promulgated under Decision No. 27/2018/QD-TTg dated July 6, 2018 of the Prime Minister </p>
+SOURCE_TYPE: " <p> Statistical reporting mode issued by the Ministry of Planning and Investment </p>"
+REL_CAL_POLICY: " <p> Quarter, year. </p>"
+DATA_SOURCE: " <p> Ministry of Planning and Investment. </p>"
+COMPILING_ORG: " <p> Ministry of Planning and Investment. </p>"
+RATIONALE: >2-
+   <p> Official development assistance (ODA) capital is one of the important sources of capital for economic growth, social development, environmental protection and improvement, especially in infrastructure construction and eradication. poverty alleviation. </p>
+COVERAGE: >2-
+   <p> Annual figures from 2011-2019 </p>
+   <p> (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Planning and Investment) </p>
+COMPARABILITY: >2-
+   <p> This indicator reflects Vietnam's sustainable development goals (target 17.5). The set of global sustainable development indicators does not have this indicator. </p>
+OTHER_DOC: >2-
+   <p> - Circular No. 03/2019/TT-BKHDT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+   <p> - <a href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/ </a> </p>

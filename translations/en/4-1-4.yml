@@ -1,0 +1,32 @@
+SDG_GOAL: >2-
+   <p> Goal 4: Ensure quality, equitable, inclusive education and promote lifelong learning opportunities for all </p>
+SDG_TARGET: >2-
+   <p> Target 4.1: By 2030, ensure that all girls and boys complete free, equitable and quality primary and lower secondary education (Global Goal 4.1) </p>
+SDG_INDICATOR: >2-
+   <p> Indicator 4.1.4. Percentage of students graduating from lower secondary school, percentage of students completing lower secondary level, rate of transition from primary to lower secondary </p>
+META_LAST_UPDATE: " <p> June 2021 </p>"
+CONTACT_ORGANISATION: " <p> Ministry of Education and Training </p>"
+CONTACT_MAIL: " <p> No. 35 Dai Co Viet, Hanoi </p>"
+CONTACT_EMAIL: " <p> bogddt@moet.gov.vn </p>"
+STAT_CONC_DEF: >2-
+   <p> - Middle school graduation rate is the percentage between the number of students graduating in the last grade of a grade compared to the number of students in the final grade that are eligible for graduation. </p>
+   <p> - Middle school completion rate is the percentage between the number of students graduating from middle school in the school year (t + 3) to the number of students in the 6th grade at the beginning of the school year (t). </p>
+   <p> - Primary to lower secondary school transition rate is the percentage of the number of students newly enrolled in grade 6 during the school year (t+1) to the number of students who are recognized to have completed elementary school. school year (t). </p>
+CLASS_SYSTEM: >2-
+   <p> The list of administrative units in Vietnam issued together with the Prime Minister's Decision No. 124/2004/QD-TTg dated July 8, 2004 and the changes updated by the General Statistics Office to date December 31, 2019) </p>
+SOURCE_TYPE: " <p> Statistical reporting mode issued by the Ministry of Education and Training. </p>"
+COLL_METHOD: >2-
+   <p> The Departments of Education and Training of the provinces/cities directly under the Central Government collect information on the forms: 02-TH-DN; 03-High School-DN; 02-TH-CN; 03-THCS-CN and send it to the Ministry of Education and Training to calculate the quota. </p>
+REL_CAL_POLICY: " <p> Year </p>"
+DATA_SOURCE: " <p> Ministry of Education and Training </p>"
+COMPILING_ORG: " <p> Ministry of Education and Training </p>"
+RATIONALE: >2-
+   <p> The indicator reflects the graduation level of lower secondary students, which is the basis for assessing the teaching and learning quality of lower secondary education. </p>
+COVERAGE: >2-
+   <p> Only figures for 2019 </p>
+   <p> (Published source: 2020 national report on 5-year progress towards implementation of sustainable development goals. Data from the Ministry of Education and Training) </p>
+COMPARABILITY: " <p> Indicator “Rate of students graduating from lower secondary school; the rate of students completing lower secondary school, the rate of transition from primary to lower secondary school” is one of Vietnam's indicators to represent the global sustainable development indicator “<strong> 4.1. 1: </strong> Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex” </p>\n <p> However, the indicator does not guarantee global comparability because the content, scope and calculation method of Vietnam are not the same as the global standard. </p>"
+OTHER_DOC: >2-
+   <p> - Circular No. 03/2019/TT-BKHĐT dated January 22, 2019 stipulating the set of statistical indicators for sustainable development of Vietnam; </p>
+   <p> - Circular No. 24/2018/TT-BGDĐT dated September 28, 2018 of the Ministry of Education and Training on promulgating the reporting regime for statistics of the Education and Training sector. </p>
+   <p> - <a href="https://unstats.un.org/sdgs/metadat/"> https://unstats.un.org/sdgs/metadat/ </a> </p>
