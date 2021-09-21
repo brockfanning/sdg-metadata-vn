@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-09-20T01:33:16.742Z</mes:Prepared>
+    <mes:Prepared>2021-09-21T01:31:41.918Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="413b4120-a77c-462f-8dc7-44bbf2d6f9d9">
+  <mes:MetadataSet structureRef="MDS1" setID="6c158dac-4f9f-46aa-bc4f-951075886130">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -144,7 +144,7 @@
       </gen:AttributeSet>
     </gen:Report>
   </mes:MetadataSet>
-  <mes:MetadataSet structureRef="MDS1" setID="e63839ee-ef91-4dbb-8c6d-e282f28f3c72">
+  <mes:MetadataSet structureRef="MDS1" setID="8fe80143-57d6-41ec-aef5-4bd277599689">
     <com:Name xml:lang="vi">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
